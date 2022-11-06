@@ -1,0 +1,1 @@
+- kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会
