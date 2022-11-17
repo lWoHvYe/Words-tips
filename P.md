@@ -1,36 +1,53 @@
-- pace 一步、步幅、步调、步伐、踱步
+- pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏
 - paginate 标页数、标页码、编页码
+- pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - pandemic 流行病、大流行病、(疾病)大流行的、普遍的、全世界的
 - panel 面板、镶板、嵌板、控制板、选定、把...分格、把...上置
+- parachute n.降落伞、保护伞、v.空降、空投
+- paradigm [ˈpærədaɪm] n.模范、范例、范式
+- paradox n.悖论、矛盾的人或事物
+- paragraph n.段落、节、v.将...分段
+- paralyse/paralyze v.使瘫痪
 - partial 部分的、偏爱的、偏袒的、偏微商
 - participate 参加、参与
 - particular 特定的、特别的、细节、详情
 - partition 隔断、分隔、瓜分、使分裂
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
+- passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
 - pathway 路、道、途径、路径
 - patient 有耐心的、能容忍的、病人、患者
+- pattern 图案、模式、范例、模型、样品
+- peer n.同辈人、同行、v.仔细看、端详
 - perceive 感知、认为、察觉到、注意到、意识到
 - percentage 百分比、利润的分成、提成
-- perform 履行、执行、表演、进行、完成、工作、运行
+- perfect a.完美的、正确的、极好的、v.使完善、使完备、n.(动词的)完成时(态)
+- perfectly ad.完全地、非常、十分、圆满地
+- perform v.履行、执行、表演、演出、工作
 - period 时期、一段时间、阶段、时代
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
+- permutation 序列、排列、组合、置换
 - persist 坚持、保持、维持、持续存在
 - perspective 态度、看法、观点、透视的、透镜、望远镜、远景、洞察力
 - pertain 存在、适用
 - phase 阶段、时期
+- philosophy [fəˈlɒsəfi] n.哲学
+- phrase [freɪz] n.短语、v.表达、措辞
 - physical 身体的、自然的、物质的、现实的、物理学的、体检
 - piece 块、片、段、修补、连接
+- pillor n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
 - pitfall 陷阱、诱惑、圈套、困境、危险、隐患
 - pivotal 关键性的、核心的
 - placeholder 占位符
 - plain 朴素、朴实、简朴、清楚的
+- pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge 保证、誓言、抵押、抵押品、典当
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
 - pluggable 可插拔的
 - poem 诗、韵文
+- point 指向、观点、论点、目的、点
 - policy  政策、策略
 - political 政治的、政府的、政权的
 - ponder 思考、琢磨
@@ -47,39 +64,50 @@
 - pour 倾、倾泻、涌出、大雨、浇筑
 - practice 练习、实习、实践
 - prattle 闲扯、唠叨、闲聊
-- precede 在...之前发生、先于、优于、在...之上
+- precede v.先于、优于、在...之上
 - precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
-- predicate 断言、断定、使基于、宣布、宣讲、谓语、述语
+- predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - prepare 准备、筹备
-- prescribe 规定、指定、命令、开处方、给医嘱
-- present 目前的、现在的、现在、礼物、瞄准、提出、授予、显示、表现
-- presentation 提交、陈述、报告、演示
+- prerequisite n.前提、先决条件、a.必要的
+- prescribe v.规定、指定、命令、开处方
+- presence n.在场、出席、存在、出现
+- present a.目前的、现在的、n.现在、存在、v.提出、授予、显示、表现
+- presentation n.提交、演示、陈述、报告、颁发、授予
+- preserve v.保留、保存、保护
 - president 总统、国家主席、会长、院长、银行行长、董事长、总裁
 - pretend 假装、扮作、模拟、自诩、假装的、想象的
 - prevent 防止、阻止、阻碍、阻挠
 - previous 先前的、以前的
 - primary 主要的、最初的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
-- principle 原则、原理、行为准则
+- principal [ˈprɪnsəpl] a.最重要的、主要的、n.主角、当事人
+- principle [ˈprɪnsəpl] n.原则、原理、行为准则
 - priority 优先、优先权、首要的事、最重要的事
 - privacy 隐私
 - probation 试用期、见习期、缓刑期
 - procedure 程序、手续、过程、步骤
-- proceed 继续、进行、前进、继续说、收入、获利
-- process 处理、加工、审批、经过加工的、处理过的
-- profit 利润、收益、红利、赢利、好处
+- proceed v.继续、进行、前进、n.收入、获利
+- process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- profit n.利润、收益、红利、赢利、好处、v.获益、对...有益
+- program n.程序、编码指令、节目、计划、安排、v.编写程序
 - progress 进步、进展、流逝
 - prohibit 禁止、阻止、不允许
+- prominent a.重要的、著名的、杰出的、突出的
+- promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
 - prompt 迅速的、敏捷的、立刻的、准时的、提示、促使、导致
 - proper 适当的、正确的、恰当的、正当的、规矩的、弥撒、书的章节、非常、完完全全地、彻底地
 - properly 正确的、适当的、恰当的、完全、非常
 - property 所有物、财产、性质
 - propagate 传播、宣传、繁殖、增值
 - proposition 提议、建议、命题、主张、向...提议
-- prospect 展望、设想、前景、可能性
+- prospect n.展望、设想、前景、可能性、v.探矿、勘探
 - protect 保护、防护
+- protest n/v.抗议、反对
 - prototype 原型、雏形、蓝本
-- provision 规定、条款、预备、准备、供应
+- provision n.规定、条款、提供、饮食供应、供应品
+- proxy 代理、代理服务器、代理人、代表权
+- pseudo 伪、假的、虚伪的、冒充的、伪君子
+- psychology 心理学、心理状态、心理特征、心理影响
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - purchase 购买、采购
 - pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的

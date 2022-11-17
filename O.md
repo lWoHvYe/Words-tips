@@ -1,3 +1,4 @@
+- obey v.服从、听从、遵守
 - obligate 使负有责任或义务、有义务的、必要的
 - obligor 债务人
 - obsession 痴迷、着魔、困扰、妄想
@@ -7,10 +8,17 @@
 - ongoing 不间断的、持续存在的、前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
+- opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - optimization 优化
 - optimize 优化、使最优化、充分利用
 - optional 可选的、随意的、任意的、选修的、选修科目
 - orchestrate 策划、编排、把..编成管弦乐
+- ordinary a.普通的、平常的、n.普通事、法官
+- orient 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
+- orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
 - outbound 向外的、出港的、离开某地的
+- outstand 突出、外站、离港、停留
+- outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall 全面的、综合的、总体的、全部、总计、大致上、总体上、外套、罩衣
+- overlap 重叠、交叠、重叠时间

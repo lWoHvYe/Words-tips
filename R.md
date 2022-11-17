@@ -4,6 +4,7 @@
 - ransom 赎金、赎回、赎罪
 - ration 定量、合理的量、限量供应、配给 
 - rational 理性的、合理的、理智的、合理的事物、懂道理的人、有理数
+- react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
 - realign 重新排列、对...进行调整、改变观点
 - realm 领域、范围、王国、部门、界
@@ -13,11 +14,12 @@
 - receipt 接收、收到、收入、收据、开收据
 - recession 经济衰退、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
+- recognize 认出
 - recommend 推荐、劝告、建议、托付、使显得吸引人、使受欢迎
 - record 唱片、履历、档案、记录、声明、标明
 - recoup 补偿、收回、弥补
 - recovery 恢复、痊愈、取回
-- recruit 招聘、招募、吸收、征募、新兵、新成员、新学生、动员、组成、组建
+- recruit 招聘、招募、吸收、征募、组建、新人、新兵、新成员、
 - recursive 递归的、循环的
 - redundant 冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
@@ -27,38 +29,46 @@
 - region 地区、区域、行政区、管辖区、层、界、境
 - regress 倒退、回归、退化
 - regret 遗憾、后悔、抱歉、感到后悔、感到抱歉
-- regular 有规律的、定期的
+- regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
 - regulatory 监管、校准器、调节器
 - rehab 康复、修复、修缮、恢复名誉、复职
 - relate 使有联系、联系、讲述、叙述、把...联系起来、讲（故事）
-- relative 相对的、比较的、比较而言的、亲戚、亲属、同类事物
+- relative 相对的、比较的、比较而言的、亲戚、同类事物
+- relay v.转发、中继、n.中继设备
 - relevant 相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
 - remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
-- remark 评论、谈论
+- remark n/v.评论、谈论
+- remarkable a.非凡的、显著的、杰出的
 - remedial 治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
-- remind 提醒、使想起、使记起
+- remind vt.提醒、使想起、使记起
 - render 给予、使成为、递交、表达、粉刷、涂抹
 - rental 租金、出租、租赁、招租
 - repay 归还、偿还、补偿
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
-- represent 代表、表示
+- replenish v.补充、重新装满
+- represent v.代表、表示
+- representation n.表示、表现、描述、代表、抗议
+- require vt.需要、要求、vi.要求、规定
 - requisite 必需品、要素、必需的、必备的、必不可少的
+- rescue v/n 营救、救援、抢救
 - reserve 储备、保留、保护区、内向、矜持、替补人员、保留、预定、预约
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
-- resiliency 跳回、弹性
-- resist 抵制、抵抗、阻挡、忍耐、防腐剂、阻染剂
+- resiliency 弹力、弹性
+- resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
+- resistance n.反对、抵制、抵抗力、阻力、电阻
+- resistant 抵抗的、顽固的、抵抗者、防染剂
 - resolve 决定、决心、解决、做出决定、表决、使分解、使解体
 - respect 尊重、尊敬、关心、遵守、敬意、维护、方面、细节、问候、着眼点、关系、慎重对待、谨慎从事、不违背、不损害
-- respective 分别的、各自的
+- respective a.分别的、各自的
 - restrict 限定、限制、约定、制约、束缚、妨碍
 - resume 简历、摘要、概述、重新开始、继续、恢复
-- retail 零售
+- retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
 - retain 保持、保留、持有、聘请、雇佣
 - retarget 重定向、重构、把...作为新目标
 - retention 保持、维持、保留、阻滞、记忆、记忆力
@@ -67,10 +77,14 @@
 - retrieve 取回、恢复、挽回
 - revalue 再评价、对...重新估价
 - reveal 揭露、泄露、显露、启示、显出、露出、窗侧壁、门侧、窗框
-- revenue 收入、收益、财政收入、税收收入
-- review 回顾、复习、评论、复查、检查、审查、报告、汇报
+- revenue 收入、收益、财政收入、税收收入  income 收入(个人)
+- review n/vt.回顾、复习、评论、评审、审查、报告、汇报
 - revise 修订、修正、改变、复习、校订
 - revolve 旋转、环绕、转动、使循环、反复考虑
+- rise n/v.上升、增加
 - risk  风险
 - romantic 浪漫的、多情的、风流的、空想的、虚构的
 - rotate 旋转、转动、轮换、轮值、交替、辐状的
+- routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
+- run v.跑、运营、起作用、n.跑、行程
+- ruthless a.残忍的、无情的

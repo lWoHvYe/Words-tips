@@ -8,9 +8,11 @@
 - illustrate 说明、表明、给...加插图、举例说明
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
+- immigrate vi.移入、移民  emigrate vi.移居国外、移民
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
+- imperative a.迫切的、急迫的、n.必要的事
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
 - implict 含蓄的、内含的、不直接的、隐示的
@@ -18,11 +20,13 @@
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
 - improper 不合适的、不正确的、不道德的、不合礼仪的
 - improve 提高、改进、改善
+- incentive n.激励、诱因、刺激、a.激励的、鼓励的
 - incidence 发生率、影响范围、关联、接合、入射、入射角
-- incident 事件、事变、事端、严重事件、暴力事件、摩擦、冲突、附带的、入射的、易引起的
+- incident 事件、事变、事端、摩擦、冲突、易引起的
 - inclusion 包含、包括
 - inclusive 包括的、包罗广泛的
 - incorporate 包含、合并、吸收、使混合、具体化了的
+- incredible a.难以置信的、不可思议的
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
@@ -34,38 +38,48 @@
 - indicator 指示信号、标志、迹象、指针、信号灯
 - individual 个人、个别的、独特的
 - induction 就职、催生、电磁感应
-- industry 工业、行业、勤奋、勤劳
+- industry n.工业、行业、勤奋、勤劳
+- inherent a.固有的、内在的
+- inferior a.低劣的、次的、较差的、n.不如别人的、部下、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
-- inflation 通货膨胀、通胀率、充气、膨胀、夸张、自命不凡
+- inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - influence 影响、支配力、支配、左右
 - infrastructure 基础设施、基础建设
 - inheritance 继承、遗传、遗产
 - initial 初始、最初的
 - inject 注射、注入
 - innovation 创新、革新
+- inquire v.询问、打听
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
 - insight 眼光、洞察力、洞悉、领悟
-- insurance 保险、保费、预防措施
+- inspect 检查、视察
+- inspite of 尽管、即使
 - institution 机构、协会、制度、惯例
-- instruct 通知、命令、指导、指示、教导、吩咐
+- instruct v.通知、命令、指导、指示
 - instrument 器械、仪器、器具、乐器、文据、为演奏谱曲、向...递交文书
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
-- intake 吸入、摄入、进气
+- insurance 保险、保险单、保险费、保障措施
+- insure v. 投保、承保
+- intake n.吸入、摄入、进气
 - integrate  整合、合并、成为一体、加入、融入群体、完全的、使整合、使完整
 - integrity 完整、廉正、正直、诚实、保存、健全
-- intelligence 智力、才智、情报
+- intelligible 可理解的、易懂的
+- intelligence n.智力、才智、情报
 - intend 计划、打算、想要、意指、意欲
 - intensive 密集的、彻底地、十分细致的、集约的、加强的、强烈的
-- interact 相互作用、相互影响、交互作用、交互感应、相互、互动、交流、沟通、合作、干扰
+- intent n.目的、意图、a.热切的、专切的
+- interact 相互作用、相互影响、互动、交流、沟通、合作
+- intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
 - interim 临时的、过渡的、过渡期间
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal 内部的、内心的、内脏、本质
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - intersect 横断、横切、相交、交叉
-- interest 兴趣、爱好、利益、好处、使感兴趣、使关注
-- interval 间隔、间歇、休息时间、音程
+- interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
+- interval n.间隔、间歇、休息时间、音程
 - interview 采访、面试、接见、会谈
+- intricacy [ˈɪntrɪkəsi] 错综复杂
 - intricate 错综复杂的
 - introduce 介绍、引进、提出、作为...的开头
 - invalidate 使无效、使作废、证明...错误、使站不住脚
@@ -73,6 +87,9 @@
 - invest 投资、花费、装饰
 - investigate 调查、研究、审查、侦查、做调查
 - investment 投资、投资额、投入、值得买的东西、封锁
+- invocation 祈祷、乞求、调用、启用
 - involve 包含、使参与、牵涉
 - IoT (Internet of Things) 物联网
+- isolate v.隔离、孤立、a.隔离的、孤立的
 - issue 问题、发行、公布
+- item n/ad.项目、条款

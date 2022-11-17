@@ -1,12 +1,15 @@
+- daemon 守护进程
 - deal 处理、协议、大量、许多、交易、待遇、发牌
 - debate 辩论、争论、讨论、仔细考虑、思考、盘算
 - debt 借款、欠款、债务、罪、过失
+- decade 十年、十年期
 - decide 决定、下决心、选定、解决、裁决
-- decision 决定、决策、做决定
-- declare 声明、宣布、表明、断言
+- decision [dɪˈsɪʒn] 决定、决策、做决定
+- declare v.声明、宣布、表明、断言
+- decline n.下降、衰落、v.下降、减少、谢绝、婉拒
 - decode 解码、破译、译解
 - decorate 装饰、点缀、粉刷、授予(某人)勋章、布置
-- dedicate 奉献、献身、为...举行落成典礼
+- dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
 - deduce 推论、推断、演绎
 - default 默认、违约、不履行义务
@@ -14,36 +17,49 @@
 - defer 推迟、拖延、延期、服从、使推迟、使延期
 - define 定义、界定、明确
 - definition 定义、解释、清晰度
+- degree n.度、程度、学位
 - delegate 代表、把...委派、选派
 - deliquency 犯罪、违法行为、不法行为、少年罪犯、过失、罪过
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
 - demand 需要、要求、请求、需求
-- demond 需要、要求、召唤、询问
 - demonstrate 证明、证实、表现、表达、示范、演示、表露、示威游行
+- demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote 标志、预示、象征、表示
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
-- derive 得到、获得、源于、产生、提取
+- derive v.得到、获得、源于、产生、提取、派生
 - describe 叙述、描写、形容、描绘
-- desire 渴望、希望、欲望、愿望
+- descriptor n.描述符
+- desire n/v.ß渴望、希望、欲望、愿望
+- desperate [ˈdespərət] a.绝望的、孤注一掷的、急切的、非常需要、极想
+- despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
 - destination 目的地、终点
 - detect 查明、发现、探测、侦查
 - determine 决定、下决心、准确算出、支配、影响
 - destruction 摧毁、毁灭、破坏
 - devastate 毁灭、破坏、蹂躏、使荒废
+- deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device 装置、设备、方法、策略、手段
-- diagnose 诊断、确诊
+- diagnose v.诊断、确诊
 - diagram 图表、示意图、图解
+- dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - die 死亡、凋零、渴望、盼望、模具、冲模、压模
 - diet 日常饮食、规定饮食、节制饮食
+- dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
 - digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
 - digitize 数字化
 - diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的
+- direct a.径直的、直接的、v.指导、导演
+- direction n.方向、趋势、指点、指示
 - director 导演、主管、主任、董事、理事
-- discipline 训练、训导、纪律、风纪、行为准则、自制力、知识领域、惩罚、处罚、管教、自我控制、严格要求
-- disclosure 公开、泄漏、纰漏
+- dirt n.污垢、泥土、灰尘
+- dirty a.肮脏的、v.弄脏、玷污
+- disaster [dɪˈzɑːstə(r)] 灾难、灾害、不幸
+- discipline [ˈdɪsəplɪn] 训练、训导、纪律、风纪、行为准则、自制力、知识领域、惩罚、处罚、管教、自我控制、严格要求
+- disclosure [dɪsˈkloʊʒər] 公开、泄漏、纰漏
+- discover 发现、发觉、了解到、认识到
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discuss 商量、讨论、详述、论述
 - dispatch 派遣、调度、迅速处理、处决
@@ -51,6 +67,8 @@
 - dispersal 分散、散布、消散、驱散
 - dispute 辩论、争论、纠纷
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
+- distinct 不同的、明显的、清楚的、明白的、确切的
+- distribution 分配、分布、经销、分销
 - disturb 打扰、干扰、使焦虑、使不安
 - diversity 差异、不同、多样性、多样化
 - divide 分、划分、除、分配
@@ -58,16 +76,18 @@
 - document 公文、文件、证件、记录、记载
 - domain 领域、范围、领土、域、域名
 - dome 穹顶、圆屋顶、圆顶状物、加圆屋顶于...上
-- domicile 住所、定居地、所在地
-- denominate 命名、称呼
-- doubt 怀疑、疑虑、未确定
+- domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
+- denominate [dɪˈnɑːmɪneɪt] 命名、称呼
+- doubt [daʊt] 怀疑、疑虑、未确定
 - downstream 下游的、引发的、顺流而下
-- draft 草稿、起草中的、起草、草拟
+- draft [dræft] 草稿、起草中的、起草、草拟
+- dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局
 - drawback 缺点、劣势、不利条件、退税
 - drill 训练、操练、演习、钻、钻头
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
-- durable 耐用的、持久的、长期的、耐用品、耐久品
-- duplicate 重复、复制、复印、完全一样的、副本的、复制品
-- duty 责任、义务、职责、税收
-- dynamic 动态、动力、动力学、动态的、充满活力的、发展变化的
+- durable [ˈdjʊərəbl] 耐用的、持久的、长期的、耐用品、耐久品
+- dupe [djuːp] 诈骗、欺骗
+- duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
+- duty [ˈdjuːti] 责任、义务、职责、税收
+- dynamic [daɪˈnæmɪk] 动态、动力、动力学、动态的、充满活力的、发展变化的

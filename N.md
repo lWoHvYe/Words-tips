@@ -5,7 +5,9 @@
 - negotiate 谈判、协商、交涉、谈判达成、成功越过
 - nest 巢、窝、鸟巢、藏匿处、筑巢、嵌套
 - neuroscience 神经科学
+- nevertheless 然而、不过、尽管如此
 - nomadic 游牧的、流浪的、漂泊的
+- notable a.显著的、著名的、值得注意的、n.名人、显要人物
 - notation 符号、记号、注释
 - notice 注意、预告、告警、通知、注意到、意识到、留意
 - notification 通知、通知单、布告、公布

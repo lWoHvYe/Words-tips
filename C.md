@@ -1,6 +1,10 @@
+- candidate 候选人、申请人、应试者
 - calculate 计算、预测
+- call 呼叫、号召
 - calm 平静的、镇静的、使平静、宁静的状态
+- candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - capability 性能、容量、才能、能力、生产力
+- capacity [kəˈpæsəti] 容量、充其量的、最大限度的
 - capital 首都、资本、财富、大写的、极好的
 - caption 字幕、说明文字
 - capture 俘获、捕获、攻占、赢得、表达、刻画、描述、把...输入计算机
@@ -13,33 +17,41 @@
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
 - cash 现金、资金、兑现支票、现金的
 - cast 铸造、投射、造谣中伤、投、扔、脱、铸件、模子、特性
+- catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
 - caution 警告、告诫、小心、慎重
 - central 中央的、中心的
 - centralize 集中、使集中、成为...的中心、集权控制
+- Centralized 中心化 Decentralized 去中心化
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
-- certain 肯定、确定、确信
+- certain a.肯定、确定、确信、pron.某些
 - certificate 证明书、证明、合格证书、文凭、结业证书、发证书
 - change 改变、交换、替换、换衣服、兑换、找零、更换
 - chapter 章、回、时代、篇章
-- character 性格、角色、特点、特色、文字、字母、符号、刻、印
+- character n.性格、角色、特点、文字、字母、符号
+- characterise 是...的特征、以...为特征、描述
 - characteristic 特征、特点、品质、特有的、典型的、独特的
 - charge 控告、谴责、指责、要价、收费
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
-- circumvent 避免、规避、绕过、陷害
+- chunk 大块、厚块、组块
+- circuit [ˈsɜːkɪt] 巡回、电路、线路 Circuit breaker 断路器
+- circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - civil 公民的、国民的
-- claim 宣称、声明、索赔、索要
+- claim v/n宣称、声明、索赔、索要、所有权
 - clarify 澄清、阐明
 - clarity 清晰、清楚、明确、透明、清晰度
-- classified 机密的、分类的
+- classify v.分类、划分、界定
+- classified a.机密的、分类的、归类的
 - classification 分类、归类
 - clever 聪明的、灵巧的、英俊的、精巧的、精明的、油腔滑调的
-- climate  气候、趋势、状况
+- climate  n.气候、趋势、状况、倾向、形势
 - clipboard 剪切板
 - cluster 群、丛、簇
+- code 密码、电码、代码、编码、道德准则、行为规范、法典、wei...编码、编程序
 - codec 编解码器
+- cognitive 认知的、认识的
 - collaborate 合作、协作、勾结、通敌
 - collapse 崩溃、倒塌、折叠、垮掉、昏倒、突然降价、降价、贬值
 - collateral 抵押品、附属的
@@ -47,19 +59,24 @@
 - combat 战斗、格斗、竞赛、论战、防止、减轻
 - combine 使结合、使化合、兼有、兼作、兼办、结合、联合、合并、联合收割机、联合集团、组合艺术
 - commence 开始、着手、发源、获得学位
-- comment 议论、评论、注释、意见、说明、表达意见
+- comment n.议论、评论、注释、意见、说明、v.表达意见
+- commentary 评论、评注、注释
 - commercial  商业的
 - commit 承诺、保证、犯罪、把...学好记牢
 - communicate 沟通、交流、通讯
 - commodity 商品、有价值的东西
 - compatible 可共用的、兼容的、相容的、和睦相处的
+- compensation n.补偿、赔偿
 - compete 竞争、竞赛、对抗
+- complain v.抱怨、埋怨
 - complaint 抱怨、埋怨
+- complement v.补充、补足、n.补语
 - complementary 互补的、补充的
 - complete 完成、结束、完全的、彻底的
 - complex 复杂的、难懂的、相关联的一组事物、不正常的精神状态、不正常的忧虑
 - compliance 顺从、遵从、服从、承诺、柔软度
 - compliant 顺从的、遵从的、符合的、一致的
+- comply vi.顺从、服从、遵守、遵从、应允、同意
 - component 成分、组成、组成部分、组成的、合成的、构成的
 - compose 组成、构成、作曲、创作、撰写、排、使安定、使镇静
 - composite 混合成的、复合的、合成的、混成的、复合材料、合成物、混合物
@@ -69,7 +86,7 @@
 - concept 观念、概念、观点
 - concern 涉及、影响、关心、关爱
 - concert 音乐会、演唱会、一致、和谐、协商、调解、合订、协同工作
-- conclude 推断、结束、终止、预定、推断出、得出结论
+- conclude 推断、断定、终止、预定、推断出、得出结论
 - conclusion 结论、推论、结果、结尾、结局、签订、达成、缔结
 - concrete 具体的、有形的、实在的、固结成的、混凝土制的、用混凝土覆盖、混凝土
 - condition 条件、状态、状况、健康状况、处境、训练、使习惯于、使适应、养护
@@ -80,53 +97,65 @@
 - confirm 证明、证实、确认、认可
 - confine 限制、限定、监禁、禁闭、界限、范围、边界
 - conjunct 结合的、联合的、连接的
+- consensus n.共识
 - consequence 推论、结果、成果、重要性
 - conservative 保守的、守旧的、保守的人
-- conscious 有意识的、神志清醒的、意识到、注意到、有意的、刻意的、特别感兴趣的
-- consider 考虑、认为、仔细考虑、细想、体谅、顾及、端详
-- consist 包括、由...组成、由...构成
+- conservation n.保护、保存
+- conserve vt.保护、保存、n.果酱、蜜饯
+- conscious [ˈkɑːnʃəs] 有意识的、神志清醒的、意识到、注意到、有意的、刻意的、特别感兴趣的
+- consider [kənˈsɪdər] 考虑、认为、仔细考虑、细想、体谅、顾及、端详
+- consist [kənˈsɪst] 包括、由...组成、由...构成
 - consistent 一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consistency 一致性、连贯性、平滑度
-- constrain 强迫、强制、迫使、约束、限定、限制
+- constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
+- constrain vt.强迫、约束、限制
 - constraint 强制、限制、限定、约束
 - construct 构成、修建、建造、结构、结构体、建筑物
 - consult 咨询、请教、商量、查阅
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
 - contact 联系、接触、触摸、有关系的
+- content 内容、目录、主题、满足、愿意、满足的、满意的、使满足、使满意
+- contest n.比赛、争论、v.争取赢得、争辩
 - context 语境、上下文、背景
 - contingency 可能性、偶然性、意外事故、偶发事件
 - contingent 代表团、视情况而定的
 - continuous 连续的、延绵的、反复的、频繁的
 - contract 合同、契约、签合同
+- contradict v.反驳、驳斥、否认
 - convenient 实用的、便利的、方便的、附近的
 - convention 会议、惯例、习俗、规矩
+- conversation n.会话、交流、交往
 - cooperate 合作、协作、协助、配合
+- cooperation n.合作、协作、配合
 - coordinate 坐标、套装、使协调、使调和、整合、搭配、协调、同等的、配合的、对等的、坐标的
 - corner 角落、拐角、垄断
 - coroutine 协同程序、联立程序
 - corporate 公司的、法人的、社团的、团体的、共同的
 - correspond 顺应、契合、符合、一致、通信
-- council 委员会、理事会、俱乐部、开会、审议、讨论、委员、会议用的、议事用的
+- council [ˈkaʊnsl] 委员会、理事会、俱乐部、开会、审议、讨论、委员、会议用的、议事用的
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
 - counterparty 对手方、合同的一方、合约对方、交易对方
-- couple 对、一对、几个人、几件事物、连接、结合
+- couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合
 - course 课程、航线、奔流
-- covenant 盟约、合约、立约
+- covenant n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - coverage 覆盖、（所包含的）范围、规模、新闻报道
-- credential 资质、文凭、信任状、凭据、提供证明书
-- credit  信用、贷款、学分
+- credential [krəˈdenʃl] 资质、文凭、信任状、凭据、提供证明书
+- credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
+- credit 信用、贷款、学分
 - crisis 危机、危难时刻、紧要关头、转折点
-- criteria 标准、准则
+- criteria(复数) n.标准、准则 criterion（单数）[kraɪˈtɪriən] 标注、准则
 - critical 关键的、批评的、严重的、极重要的
-- criticize 批评、评论、指责、非难
+- criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
 - cryptography 密码学、密码术
 - cross 交叉、穿过、越过、横过、使杂交、反对、反驳、否定、叉字型记号、十字形记号、混合物、愤怒的、生气的
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
 - culprit 罪魁祸首、罪犯、肇事者
 - culture 文化、文明、培养
 - cure 治愈、矫正、解决、消除、治疗、药物、疗程、措施、对策
-- curiosity 好奇心、求知欲、奇物、珍品
+- curiosity [ˌkjʊəriˈɒsəti] 好奇心、求知欲、奇物、珍品
 - currency 货币、通用、流行
-- curriculum 课程、全部课程、课表
+- curriculum [kəˈrɪkjələm] 课程、全部课程、课表
+- curve n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
 - custody 监管、拘留、羁押、抚养权、监护权
 - customer 客户
+- cycle n.周期、循环、v.循环、轮转、骑自行车
