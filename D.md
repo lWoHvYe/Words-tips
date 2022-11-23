@@ -3,6 +3,7 @@
 - debate 辩论、争论、讨论、仔细考虑、思考、盘算
 - debt 借款、欠款、债务、罪、过失
 - decade 十年、十年期
+- decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
 - decide 决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] 决定、决策、做决定
 - declare v.声明、宣布、表明、断言
@@ -15,22 +16,26 @@
 - default 默认、违约、不履行义务
 - defect 缺点、缺陷、瑕疵
 - defer 推迟、拖延、延期、服从、使推迟、使延期
+- deference 尊敬、尊重、遵从
 - define 定义、界定、明确
-- definition 定义、解释、清晰度
+- definition n.定义、解释、清晰度
 - degree n.度、程度、学位
 - delegate 代表、把...委派、选派
 - deliquency 犯罪、违法行为、不法行为、少年罪犯、过失、罪过
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
-- demand 需要、要求、请求、需求
+- demand n/v.需要、要求、请求、需求
+- democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
 - demonstrate 证明、证实、表现、表达、示范、演示、表露、示威游行
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote 标志、预示、象征、表示
+- density n.密集、稠密、密度
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
 - derive v.得到、获得、源于、产生、提取、派生
 - describe 叙述、描写、形容、描绘
 - descriptor n.描述符
+- deserve v.应受、值得
 - desire n/v.ß渴望、希望、欲望、愿望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、急切的、非常需要、极想
 - despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
@@ -50,7 +55,7 @@
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
 - digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
 - digitize 数字化
-- diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的
+- diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - direct a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
 - director 导演、主管、主任、董事、理事
@@ -58,18 +63,25 @@
 - dirty a.肮脏的、v.弄脏、玷污
 - disaster [dɪˈzɑːstə(r)] 灾难、灾害、不幸
 - discipline [ˈdɪsəplɪn] 训练、训导、纪律、风纪、行为准则、自制力、知识领域、惩罚、处罚、管教、自我控制、严格要求
+- disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
 - disclosure [dɪsˈkloʊʒər] 公开、泄漏、纰漏
+- discourse n.论文、演讲、v.讲述、叙述、讨论
 - discover 发现、发觉、了解到、认识到
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discuss 商量、讨论、详述、论述
 - dispatch 派遣、调度、迅速处理、处决
 - dispensation 豁免、宽免、分配、实施、制度
 - dispersal 分散、散布、消散、驱散
+- displace v.移动、移走、取代、置换、替换、排水、撤职
 - dispute 辩论、争论、纠纷
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
+- dissolve v.溶解、解除(婚姻关系)、终止(商业协议)、解散、除去
 - distinct 不同的、明显的、清楚的、明白的、确切的
+- distract v.分散(思想)、转移(注意力)、使分心
+- distraction n.分散注意力、娱乐、消遣
 - distribution 分配、分布、经销、分销
 - disturb 打扰、干扰、使焦虑、使不安
+- diverge v.偏离、分歧
 - diversity 差异、不同、多样性、多样化
 - divide 分、划分、除、分配
 - division 分开、分隔、分配、除（法）
@@ -86,6 +98,7 @@
 - drawback 缺点、劣势、不利条件、退税
 - drill 训练、操练、演习、钻、钻头
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
+- drup n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
 - durable [ˈdjʊərəbl] 耐用的、持久的、长期的、耐用品、耐久品
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品

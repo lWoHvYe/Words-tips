@@ -14,24 +14,31 @@
 - partition 隔断、分隔、瓜分、使分裂
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
+- passive a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语
 - pathway 路、道、途径、路径
 - patient 有耐心的、能容忍的、病人、患者
 - pattern 图案、模式、范例、模型、样品
 - peer n.同辈人、同行、v.仔细看、端详
-- perceive 感知、认为、察觉到、注意到、意识到
+- perceive [pəˈsiːv] v.感知、认为、察觉到、注意到、意识到
+- percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
+- perceptive [pəˈseptɪv] a.感性的、理解力强的、有洞察力的、思维敏捷的
 - perfect a.完美的、正确的、极好的、v.使完善、使完备、n.(动词的)完成时(态)
 - perfectly ad.完全地、非常、十分、圆满地
 - perform v.履行、执行、表演、演出、工作
+- performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
 - period 时期、一段时间、阶段、时代
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
 - permutation 序列、排列、组合、置换
 - persist 坚持、保持、维持、持续存在
-- perspective 态度、看法、观点、透视的、透镜、望远镜、远景、洞察力
+- persistent a.持续的、持久的、坚持不懈的、坚持不渝
+- personality n.特色、性格、个性、气质、气度、名人
+- perspective 态度、看法、观点、透镜、远景、洞察力、透视的
 - pertain 存在、适用
 - phase 阶段、时期
 - philosophy [fəˈlɒsəfi] n.哲学
+- phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - phrase [freɪz] n.短语、v.表达、措辞
 - physical 身体的、自然的、物质的、现实的、物理学的、体检
 - piece 块、片、段、修补、连接
@@ -57,25 +64,29 @@
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion 部分、分享的部分、分担的责任、分配、把...分成若干份
-- position 位置、方位、处境、观点、职位、安装、安置
+- position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、状态、职位、v.安装、安置
 - positive 积极的、肯定的、乐观的、有绝对把握的、阳性的、正数的、优势、优点
 - post 邮递、邮寄、终点、发布、公布、交付
 - potential 潜在的、可能的、可能性、潜力、潜质、电位、电势、电压
 - pour 倾、倾泻、涌出、大雨、浇筑
-- practice 练习、实习、实践
+- practice n.练习、实习、实践
+- praise n/v.称赞、赞扬、表扬
 - prattle 闲扯、唠叨、闲聊
 - precede v.先于、优于、在...之上
 - precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
+- predict v.预言、预测、预报、预告
 - prepare 准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
 - prescribe v.规定、指定、命令、开处方
 - presence n.在场、出席、存在、出现
 - present a.目前的、现在的、n.现在、存在、v.提出、授予、显示、表现
 - presentation n.提交、演示、陈述、报告、颁发、授予
+- preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
 - president 总统、国家主席、会长、院长、银行行长、董事长、总裁
 - pretend 假装、扮作、模拟、自诩、假装的、想象的
+- prevail [prɪˈveɪl] v.流行、盛行、说服、劝说
 - prevent 防止、阻止、阻碍、阻挠
 - previous 先前的、以前的
 - primary 主要的、最初的、基本的
@@ -85,30 +96,40 @@
 - priority 优先、优先权、首要的事、最重要的事
 - privacy 隐私
 - probation 试用期、见习期、缓刑期
-- procedure 程序、手续、过程、步骤
+- procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- profession n.职业、行业、同行、宣称、声明、表白
+- professional a.职业的、专业的、n.专业人士、专家
 - profit n.利润、收益、红利、赢利、好处、v.获益、对...有益
 - program n.程序、编码指令、节目、计划、安排、v.编写程序
-- progress 进步、进展、流逝
+- progress n/v.进步、进展、流逝
+- progressive a.进步的、逐步的、n.进步人士、改革派
 - prohibit 禁止、阻止、不允许
 - prominent a.重要的、著名的、杰出的、突出的
+- promise n/v.允许、许诺
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
 - prompt 迅速的、敏捷的、立刻的、准时的、提示、促使、导致
+- propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
 - proper 适当的、正确的、恰当的、正当的、规矩的、弥撒、书的章节、非常、完完全全地、彻底地
 - properly 正确的、适当的、恰当的、完全、非常
 - property 所有物、财产、性质
 - propagate 传播、宣传、繁殖、增值
 - proposition 提议、建议、命题、主张、向...提议
 - prospect n.展望、设想、前景、可能性、v.探矿、勘探
+- prosper v.繁荣、兴旺、成功、发达
+- prosperity n.兴旺、繁荣、成功、昌盛
 - protect 保护、防护
 - protest n/v.抗议、反对
 - prototype 原型、雏形、蓝本
 - provision n.规定、条款、提供、饮食供应、供应品
+- provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy 代理、代理服务器、代理人、代表权
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychology 心理学、心理状态、心理特征、心理影响
+- publicize v.宣称、推广、宣扬、传播
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
+- punish v.处罚、惩罚、责怪、自责
 - purchase 购买、采购
 - pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除

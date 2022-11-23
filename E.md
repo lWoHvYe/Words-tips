@@ -1,9 +1,11 @@
 - eager [ˈiːɡər] 渴望的、热切的、渴求的
-- earn 赢得、获得、赚得、博得
+- earn v.赢得、获得、赚得、博得
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
 - edition 版本、版次、（报刊或杂志）一份、（广播电视节目）一期
-- effect 效果、影响、使发生、引起、印象、所有物
+- effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
+- efficient a.有效率的、效率高的、有能力的
+- efficiency n.效率、效能、功率、功效、性能
 - effort n.努力、尝试、成就
 - elaborate 复杂的、详尽的、精心制作的、详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
@@ -34,32 +36,41 @@
 - enrichment 丰富、充实、改进、肥沃
 - ensure v. 确保、担保、保证
 - enterprise 企业、事业单位、事业心、进取心
+- entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
+- entertainment n.娱乐节目、娱乐、消遣、招待、款待
 - entire 整个的、全部的、完全的、全体、整体
 - entitle 授权，赋予权利、使享有权利、使符合资格
 - entity 实体、独立存在物、本质
+- entrance n.进入、入口、v.使入迷、使出神
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envy n/v.羡慕、嫉妒
+- ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic 史诗、叙事诗、史诗般的作品、史诗般的、宏大的、壮丽的
-- epidemic 流行病、泛滥、蔓延、流行性的、极为盛行的
+- epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
 - epoch 纪元、时代、时期
 - equality [iˈkwɑːləti] 同等、平等、相等、等式
 - equipment 设备、装备、器材、配件、知识、素养
 - equity [ˈekwəti] 公平、公正、股本、资产净值、普通股、股票的、股市的
-- equivalent 相等的、相当的、等效的、等价的
+- equivalent a.相等的、相当的、等效的、等价的
+- era n.时代、年代
 - erase 抹去、清除、擦掉
 - erasure 擦掉、抹掉、消除、删除
+- erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
 - escalate [ˈeskəleɪt] 逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
-- essential [ɪˈsenʃl] 必要的、本质的、基本的、精华的、必不可少的、必需品、要点、要素、实质
+- essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
 - establish 建立、设立、开办
 - estate 财产、遗产、房地产、不动产
 - estimate 估计、估算、估价、预测、报价
 - ethic 伦理、伦理观、道德体系
+- ethical a.道德的、伦理的
 - evacuation 疏散、撤离、撤退、搬空
-- evaluate 评价、评估
+- evaluate v.估计、评价、评估
+- evaluation n.评价
 - eventual 最后的、最终的、结果的
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] 准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、要求、索取、迫使、强迫、强求
 - exceed v.超过、超越、越过...的界限
+- exceedingly ad.非常、及其、特别 = very
 - excellence 优点、优秀、卓越
 - exchequer n.财政部、国库、金库
 - exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能

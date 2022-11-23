@@ -1,4 +1,5 @@
-- absence 缺席、缺勤、不在、缺乏、心不在焉
+- abide v.遵守、容忍、忍受、等待、停留
+- absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
 - abstain 弃权、戒除、离开、回避
 - abundant 大量的、充裕的、丰盛的
@@ -6,16 +7,18 @@
 - academic 学术的、学业的、纯理论的
 - academy 专科学校、学会、学院、中等学校、私立学校
 - access [ˈækses] 通道、通路、入径、机会、权利、访问、存取、到达、进入、使用
+- accident n.事故、意外、偶然、附属品
 - acclimate 使习惯、使适应
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
 - account 账户、账目、记述、报告、解释、说明、认为是、视为
 - accountability 责任、有责任、有义务
 - accustom v.使习惯、使适应
-- achieve 实现、取得、获得、成功、达到预期的目的、实现预期的结果、如愿以偿
+- achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
 - acknowledge 承认、确认、答谢
 - acquaintance [əˈkweɪntəns] 相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
 - acquisition 获得、得到、购置、收购 
+- active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity n.活动、活跃、行为
 - actual 实际的、真实的、现在的、现行的
 - actuator 致动器、传动、执行机构
@@ -25,7 +28,9 @@
 - adequate 充足的、足够的、合格的、合乎需要的
 - adjust 适应、调整、调节、校正、校准
 - adjustive 调节的、调整的
+- admit v.承认、允许、确认、许可进入
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
+- adult 成人、成人的 adulthood 成年、成年期
 - advance 前进、行进、进步、进展、上涨、提高、促进、推动、预付款、预付、提出、提前、预先的、事先的、先遣队、先头部队
 - advanced (过去式/过去分词) 先进的、高级的、高等的、前进、行进、推动、发展、进步、促进
 - advantage 有利条件、有利因素、优势、优点、有利于、有益于、促进
@@ -33,12 +38,16 @@
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise 宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
 - advisory 顾问的、咨询的、警报
+- aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
+- affect v.影响、侵袭、感动、n.情感、偏差
+- affirm v.公开肯定、断言、证实
 - afford 提供、给予、负担得起、买得起
 - against 反对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
-- agenda 议程、议程表
+- agenda (复数)议程、议程表
 - agent 代理人、代理商、由...代理、代理的
+- agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
 - aggregate 总数的、合计的、合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
@@ -50,7 +59,7 @@
 - alternate 候补、代理人、交替、轮流、交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
 - amber 琥珀、琥珀色
-- amend 修正、修订、改良、修改
+- amend v.修正、修订、改良、修改
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - analogy [əˈnælədʒi] 类比、比喻
@@ -59,7 +68,7 @@
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
 - appendix 附录
-- appear 发表、出现、出场、首次使用
+- appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
 - applicability 适用性、相关性
 - applicable 适当的、可应用的、适用、合适
@@ -68,14 +77,16 @@
 - approach v.接近、靠近、n.方法、建议、要求、着手处理
 - appropriate 适当的、恰当的、挪用、盗用、占用
 - approval 批准、同意；approve 批准、赞成、同意、认可
+- arbitrary a.随意的、任意的、武断的
 - architecture 体系结构、建筑学、结构
 - archive 存档、档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arrange 安排、凑备、布置
 - artifact 人工制品、手工艺品、加工品、石器
+- aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - assemble 集合、组装、装配、收集、聚集、组合
-- assess  评估、评价、评定
+- assess v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
 - asset 资产、财产、有价值的人
 - assign [əˈsaɪn] 分配、选派、指定、派遣、确定、转让
@@ -87,6 +98,7 @@
 - astray 迷路的、堕落、误入歧途的、迷路
 - asymmetric 不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
+- attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest 作证、证明、证实
 - attrition 损耗、消耗
 - augment 加强、增加、扩大、提高

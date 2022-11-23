@@ -3,6 +3,9 @@
 - joint 共同的、联合的、共享的、关节、接合处
 - journal n.杂志、日志、报纸、刊物、期刊
 - journey 旅行、旅程
+- judge n.法官、v.审判、评判
+- jury n.陪审团
 - jurisdiction 管辖权、管辖范围、司法权
 - just ad.只是、正好、a.公正的、合适的、恰当的、n.正直的人
+- justice n.法官、公平、公正
 - justify 证明正当、证明...正确、为...辩护、对...作出解释、整理版面

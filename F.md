@@ -1,8 +1,10 @@
 - fabric 织物、布料、结构
 - facade 外观、正面、表明、外表
 - facilitate 帮助、促进、使容易
-- facility 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
+- facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
+- fact n.事实、真相、证据
 - factual a.事实的、真实的
+- faith n.信任、相信、信念、int.真正
 - fallback 应变计划、退路
 - fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
@@ -15,17 +17,19 @@
 - feeble 虚弱的、无效的、无力的
 - fend v.照顾、照料、防御、保护
 - fetch 取来、拿来
+- fiction n.小说、编造、虚构
 - figure n.数据、人物、身材、v.认为、认定、计算
 - finance 金融、财政、从事金融活动
 - financial 金融的、财务的
 - finite 有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术)
 - fireside 炉边、毫无拘束的
-- firm 商行、坚固的、使坚固
+- firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal n.财政、a.财政的
 - fit 安装、合身、适合、合适的、恰当的、健康的、突发、冲动
 - fitness 健康、健身、适合、合情理
 - fix 修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、解决方法、困境、窘境、定位
+- flagship n.旗舰、王牌
 - flame 火焰、燃烧
 - flammable 易燃的、可燃的
 - flavor 味、香料、给...调味
@@ -37,14 +41,25 @@
 - fluent a.流利的、流畅的
 - focus 集中、聚集、焦点、中心点、源
 - force 武力、暴力、权利、力量、强迫、迫使、强作
+- foreshadow 预示、预兆、先兆
+- forest n.森林、丛林
 - forex 外汇
 - forgery 伪造、伪造品、赝品、伪造罪
-- formidable 可怕的、令人敬畏的、难对付的
-- formual [ˈfɔːmjələ] n.公式、配方
+- form n.表格、形式、外形、v.形成、构成、组织、塑造
+- formal a.正式的、正规的
+- format n.总体安排、设计、版式、样式、v.安排版式、格式化
+- former a.以前的、前者、n.模型、样板、构成者、创造者、pron.前者
+- formidable a.可怕的、令人敬畏的、难对付的
+- formual [ˈfɔːmjələ] n.公式、配方、准则、方案
+- formulate v.制定、规划、构想、确切表达、认真阐述
 - forfeit 丧失、被没收、罚金、没收物
 - fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
+- found v.建立、find的过去式及过去分词
+- foundation n.基础、基金会、粉底霜
 - foundational 基础的、基本的
+- fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame 框架、边框、组织、陷害、设计、给...做边框、制定、拟定
+- framework n.框架、架构、结构、机构、组织
 - franchise 特权、赋予特权、选举权、经销权
 - fraud 作弊、舞弊、骗局、欺诈、骗子、伪劣品、冒牌货
 - freemium 免费增值、收费增值
@@ -54,4 +69,5 @@
 - front 前面、正面、前面的、正面的、面向、领导、代表
 - frontend 前端、前台、前端模块、编辑器前端
 - fund 资金、储备、基金、现款、拨款给
-- fundamental 基本的、基础的、根本的、原始的、主要的、不可再分的、基本规律、根本法则、基本原理、基础
+- fundamental 基本的、基础的、根本的、原始的、基本规律、根本法则、基本原理、基础
+- fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
