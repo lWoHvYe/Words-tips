@@ -12,8 +12,10 @@
 - term n.学期、术语、期限、v.把...称为、把...叫做
 - terminate 终止、停止、结束、解雇、到达终点站、终止的、有限的
 - terminology n.术语
+- ternary a.三元的
 - testify v.证明、证实、作证
 - theft 盗窃、偷窃、赃物
+- theory n.理论、原理、学说、推测
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
 - threshold 门槛、入口、开始、临界值、阈、起始点、开端、起点
@@ -50,6 +52,7 @@
 - transitive 过渡的、转变的、及物的、及物动词
 - transparent 透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
+- trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traversal 遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
 - treasury 国库、金库、财政部、宝藏、宝库、备受宠爱的人、珍视、珍爱、珍重
@@ -59,8 +62,9 @@
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
 - trigger 触发
 - trip 旅行、摔倒、绊倒、错误、过失
-- trust 信任、相信、信赖、信托、希望、期望
+- trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
+- truth n.真相、真理、事实、真实性
 - tune n.曲子、曲调、v.调音、调节
 - turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
 - turn v.(使)转动、翻转、n.转动、转变

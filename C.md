@@ -1,3 +1,4 @@
+- cache n.隐藏物、高速缓冲存储器、v.高速缓存、藏匿、隐匿
 - candidate 候选人、申请人、应试者
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
 - calculate 计算、预测
@@ -11,7 +12,8 @@
 - caption 字幕、说明文字
 - capture 俘获、捕获、攻占、赢得、表达、刻画、描述、把...输入计算机
 - capability 能力、性能
-- carbon 碳、复写纸、碳精电极
+- capacity n.容量、性能、才能、职位、功率、电容、a.充其量的、最大限度的
+- carbon [ˈkɑːbən] n.碳、复写纸、碳精电极、a.碳的
 - cardinality n.基数
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer 职业、生涯
@@ -24,6 +26,7 @@
 - catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
 - cattle n.牛、牲口、畜生
 - caution 警告、告诫、小心、慎重
+- caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
 - central 中央的、中心的
 - centralize 集中、使集中、成为...的中心、集权控制
@@ -31,13 +34,15 @@
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
 - ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套
 - certain a.肯定、确定、确信、pron.某些
+- certainly ad.当然、肯定、确定、无疑
 - certificate 证明书、证明、合格证书、文凭、结业证书、发证书
 - change 改变、交换、替换、换衣服、兑换、找零、更换
 - chapter 章、回、时代、篇章
 - character n.性格、角色、特点、文字、字母、符号
 - characterise 是...的特征、以...为特征、描述
 - characteristic 特征、特点、品质、特有的、典型的、独特的
-- charge 控告、谴责、指责、要价、收费 in charge of 负责、掌管
+- charge 控告、谴责、指责、要价、收费 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
+- charity n.慈善机构、慈善、施舍
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
@@ -46,6 +51,7 @@
 - chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
 - chunk 大块、厚块、组块
 - circuit [ˈsɜːkɪt] 巡回、电路、线路 Circuit breaker 断路器
+- circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
 - citizen n.公民、居民、市民
@@ -62,6 +68,7 @@
 - cluster 群、丛、簇
 - code 密码、电码、代码、编码、道德准则、行为规范、法典、wei...编码、编程序
 - codec 编解码器
+- coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
 - cognitive 认知的、认识的
 - collaborate 合作、协作、勾结、通敌
 - collapse 崩溃、倒塌、折叠、垮掉、昏倒、突然降价、降价、贬值
@@ -84,6 +91,8 @@
 - compatible 可共用的、兼容的、相容的、和睦相处的
 - compensation n.补偿、赔偿
 - compete 竞争、竞赛、对抗
+- compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
+- compile v.编写、编辑、汇编、编译
 - complain v.抱怨、埋怨
 - complaint n.抱怨、埋怨
 - complement v.补充、补足、n.补语
@@ -96,26 +105,30 @@
 - component 成分、组成、组成部分、组成的、合成的、构成的
 - compose 组成、构成、作曲、创作、撰写、排、使安定、使镇静
 - composite 混合成的、复合的、合成的、混成的、复合材料、合成物、混合物
+- compound n.复合物、化合物、a.复合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
 - comprise v.包含、包括、由...组成、由...构成
 - compromise n/v.妥协、折中、互让、让步、和解、达成妥协
 - compute 计算、估算、推断、计算机技术
 - concentrate 集中、专心、浓缩
 - concept 观念、概念、观点
-- concern 涉及、影响、关心、关爱
+- concern v.涉及、影响、参与、使担忧、n.关心、关爱、担心、顾虑
 - concert 音乐会、演唱会、一致、和谐、协商、调解、合订、协同工作
+- concise a.简洁的、简明的、简练的
 - conclude 推断、断定、终止、预定、推断出、得出结论
 - conclusion 结论、推论、结果、结尾、结局、签订、达成、缔结
 - concrete [ˈkɒŋkriːt] a.具体的、有形的、实在的、固结成的、混凝土制的、v.用混凝土浇筑、n.混凝土
+- concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
 - condition 条件、状态、状况、健康状况、处境、训练、使习惯于、使适应、养护
 - conduct n.行为、举止、v.执行、引导、安排
 - conference 会议、讨论
 - confident 自信的、确信的、有把握的、大胆的、过分自信的、知己
-- confidential 保密的、机密的
+- confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
 - confine 限制、限定、监禁、禁闭、界限、范围、边界
 - conform v.符合、遵守、相一致、相吻合
 - congress n.国会、议会、v.开会、集合
 - conjunct 结合的、联合的、连接的
+- conjunction n.连词、连结、结合、联合、结合物
 - consensus [kənˈsensəs] n.一致的意见、共识
 - consent n/v.同意、准许、允许
 - consequence n.推论、结果、成果、重要性
@@ -126,18 +139,21 @@
 - conscious [ˈkɑːnʃəs] 有意识的、神志清醒的、意识到、注意到、有意的、刻意的、特别感兴趣的
 - consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consider [kənˈsɪdər] 考虑、认为、仔细考虑、细想、体谅、顾及、端详
-- considerable a.相当大的、该注意的、应考虑的
-- consist [kənˈsɪst] 包括、由...组成、由...构成
+- considerable a.相当大的、该注意的、应考虑的、重大的、可观的
+- consist [kənˈsɪst] 包括、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
 - consistent 一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consistency 一致性、连贯性、平滑度
+- conspicuous a.明显的、显而易见的、引入注目的
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
 - constrain vt.强迫、约束、限制
 - constraint 强制、限制、限定、约束
-- construct 构成、修建、建造、结构、结构体、建筑物
+- construct 构成、构建、修建、建造、结构、结构体、建筑物
 - consult 咨询、请教、商量、查阅
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
 - consumption n.消耗、消耗量、消费、肺病
-- contact 联系、接触、触摸、有关系的
+- contact n/v.联系、联络、接触、触摸、a.有关系的
+- contemplate v.沉思、考虑、思量、注视、凝视
+- contempt n.轻蔑、轻视、鄙视
 - content 内容、目录、主题、满足、愿意、满足的、满意的、使满足、使满意
 - contest n.比赛、争论、v.争取赢得、争辩
 - context 语境、上下文、背景
@@ -146,9 +162,13 @@
 - continuous 连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
 - contract 合同、契约、签合同
 - contradict v.反驳、驳斥、否认
+- contrast n.对比、对照、差异、对照物、对比度、v.对比、对照、明显的差异、形成对比
+- contribute vt.贡献、捐赠、vi.有助于、有益于   A contribute to B A有益于B   contrubute A to B 把A贡献给B
 - convenient a.实用的、便利的、方便的、附近的
 - convention n.会议、惯例、习俗、规矩
 - conversation n.会话、交流、交往
+- conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
+- convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate 坐标、套装、使协调、使调和、整合、搭配、协调、同等的、配合的、对等的、坐标的

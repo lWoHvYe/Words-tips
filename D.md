@@ -4,6 +4,7 @@
 - debt 借款、欠款、债务、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
+- deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide 决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] 决定、决策、做决定
 - declare v.声明、宣布、表明、断言
@@ -15,12 +16,16 @@
 - deduce 推论、推断、演绎
 - default 默认、违约、不履行义务
 - defect 缺点、缺陷、瑕疵
+- defend v.防御、保护、防卫
+- defendant n.被告、a.被告的、辩护的
 - defer 推迟、拖延、延期、服从、使推迟、使延期
 - deference 尊敬、尊重、遵从
 - define 定义、界定、明确
-- definition n.定义、解释、清晰度
+- definition n.定义、释义、解释、清晰度
+- degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、学位
 - delegate 代表、把...委派、选派
+- delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
 - deliquency 犯罪、违法行为、不法行为、少年罪犯、过失、罪过
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
@@ -40,9 +45,9 @@
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、急切的、非常需要、极想
 - despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
 - destination 目的地、终点
+- destruction 摧毁、毁灭、破坏
 - detect 查明、发现、探测、侦查
 - determine 决定、下决心、准确算出、支配、影响
-- destruction 摧毁、毁灭、破坏
 - devastate 毁灭、破坏、蹂躏、使荒废
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device 装置、设备、方法、策略、手段
@@ -56,13 +61,16 @@
 - digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
 - digitize 数字化
 - diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
+- dimension n.次元、度、维(度)、尺寸
+- dioxide n.二氧化物
 - direct a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
 - director 导演、主管、主任、董事、理事
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
 - disaster [dɪˈzɑːstə(r)] 灾难、灾害、不幸
-- discipline [ˈdɪsəplɪn] 训练、训导、纪律、风纪、行为准则、自制力、知识领域、惩罚、处罚、管教、自我控制、严格要求
+- discern v.看出、理解、识别、辨别
+- discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
 - disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
 - disclosure [dɪsˈkloʊʒər] 公开、泄漏、纰漏
 - discourse n.论文、演讲、v.讲述、叙述、讨论
@@ -93,6 +101,7 @@
 - doubt [daʊt] 怀疑、疑虑、未确定
 - downstream 下游的、引发的、顺流而下
 - draft [dræft] 草稿、起草中的、起草、草拟
+- drama n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局
 - drawback 缺点、劣势、不利条件、退税

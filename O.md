@@ -4,6 +4,8 @@
 - obligor 债务人
 - obsession 痴迷、着魔、困扰、妄想
 - obtain 获得、取得、得到、存在、流行
+- obvious a.明显的、显著的、显而易见的、平淡无奇的
+- occupation n.工作、职业、占有、占领、使用、消遣、业余活动
 - omit 省略、遗漏、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
 - onboard 随车携带的、机上的、舰上的、自主的、（也可做）客户/员工的新入
@@ -11,7 +13,8 @@
 - onward 继续的、向前的
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
-- optimization 优化
+- oppose v.抵制、反对、使相对、使对照
+- optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
 - optional 可选的、随意的、任意的、选修的、选修科目
 - orchestrate 策划、编排、把..编成管弦乐
@@ -19,6 +22,10 @@
 - orient 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
+- originate v.起源、发源、创立、创建、发明
+- orthogonal a.正交的、直角的、垂直的、矩形的
+- otherwise 否则、不然
+- ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
 - outbound 向外的、出港的、离开某地的
 - outcome n.结果、效果、成果、出路
 - outrage n.愤怒、暴行、v.使震怒、激怒
@@ -26,3 +33,6 @@
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall 全面的、综合的、总体的、全部、总计、大致上、总体上、外套、罩衣
 - overlap 重叠、交叠、重叠时间
+- overwhelm v.压倒、淹没、压垮
+- overwhelming a.势不可挡的、压倒性的、无法抗拒的
+- oxygen [ˈɒksɪdʒən] n.氧、氧气

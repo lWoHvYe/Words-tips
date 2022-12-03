@@ -3,11 +3,13 @@
 - raise 提升、举起、增加、抚养、饲养、终止、解除、高地、上升、加薪
 - random a.随机的、无规则的、n.随意、偶然的行动
 - ransom 赎金、赎回、赎罪
+- rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ration 定量、合理的量、限量供应、配给 
 - rational 理性的、合理的、理智的、合理的事物、懂道理的人、有理数
 - react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
 - realign 重新排列、对...进行调整、改变观点
+- reality [riˈæləti] n.事实、现实、实体、实在  virtual reality VR虚拟现实
 - realm 领域、范围、王国、部门、界
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
@@ -39,6 +41,7 @@
 - rehab 康复、修复、修缮、恢复名誉、复职
 - relate 使有联系、联系、讲述、叙述、把...联系起来、讲（故事）
 - relative 相对的、比较的、比较而言的、亲戚、同类事物
+- relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - relevant 相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
@@ -55,14 +58,19 @@
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - rental 租金、出租、租赁、招租
 - repay 归还、偿还、补偿
+- repeat v.重复、复述、背诵、n.重演的事物、重复的事件
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
+- reply n/v.回答、答复
 - represent v.代表、表示
 - representation n.表示、表现、描述、代表、抗议
+- repute n.名誉、名声、v.把...称为、认为
+- reputation n.名誉、名声
 - require vt.需要、要求、vi.要求、规定
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
+- resemble v.像、与...相像、类似于
 - reserve n.储备、保留、保护区、内向、矜持、v.保留、预定、预约
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
@@ -73,13 +81,16 @@
 - resolve 决定、决心、解决、做出决定、表决、使分解、使解体
 - respect 尊重、尊敬、关心、遵守、敬意、维护、方面、细节、问候、着眼点、关系、慎重对待、谨慎从事、不违背、不损害
 - respective a.分别的、各自的
+- responsibility n.责任、义务
+- responsible a.负责的、可信任的、有责任、承担义务
 - restrict 限定、限制、约定、制约、束缚、妨碍
-- resume 简历、摘要、概述、重新开始、继续、恢复
+- resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
 - retain 保持、保留、持有、聘请、雇佣
 - retarget 重定向、重构、把...作为新目标
 - retention 保持、维持、保留、阻滞、记忆、记忆力
 - retire 退休、撤退、后退
+- retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
 - retrieval 检索、取回、挽回
 - retrieve 取回、恢复、挽回
 - revalue 再评价、对...重新估价
@@ -92,9 +103,14 @@
 - rise n/v.上升、增加
 - risk  风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
+- robust a.强健的、强壮的、精力充沛的
+- rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - romantic 浪漫的、多情的、风流的、空想的、虚构的
 - room n.房间、空间、可能性、v.租房、合住
 - rotate 旋转、转动、轮换、轮值、交替、辐状的
+- round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
+- round/around the corner 在附近、即将发生
+- roundabout a.迂回的、拐弯抹角的、n.环形交叉口、环岛
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
 - ruin n/v.破坏、毁灭、糟蹋、破产
 - run v.跑、运营、起作用、n.跑、行程

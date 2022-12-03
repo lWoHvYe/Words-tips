@@ -15,10 +15,12 @@
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
 - passive a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语
+- patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - pathway 路、道、途径、路径
 - patient 有耐心的、能容忍的、病人、患者
 - pattern 图案、模式、范例、模型、样品
 - peer n.同辈人、同行、v.仔细看、端详
+- pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
 - perceive [pəˈsiːv] v.感知、认为、察觉到、注意到、意识到
 - percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
@@ -30,11 +32,13 @@
 - period 时期、一段时间、阶段、时代
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
+- permanent a.永久的、永恒的、长久的、n.烫发
 - permutation 序列、排列、组合、置换
+- persecute v.迫害、残害、骚扰、打扰
 - persist 坚持、保持、维持、持续存在
 - persistent a.持续的、持久的、坚持不懈的、坚持不渝
 - personality n.特色、性格、个性、气质、气度、名人
-- perspective 态度、看法、观点、透镜、远景、洞察力、透视的
+- perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - pertain 存在、适用
 - phase 阶段、时期
 - philosophy [fəˈlɒsəfi] n.哲学
@@ -48,12 +52,15 @@
 - pivotal 关键性的、核心的
 - placeholder 占位符
 - plain 朴素、朴实、简朴、清楚的
+- planet [ˈplænɪt] n.行星、地球
+- plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
-- pledge 保证、誓言、抵押、抵押品、典当
+- pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
-- pluggable 可插拔的
+- pluggable a.可插拔的
 - poem 诗、韵文
+- poetry n.诗、诗歌、诗意
 - point 指向、观点、论点、目的、点
 - policy  政策、策略
 - political 政治的、政府的、政权的
@@ -61,6 +68,7 @@
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、增添数据、输入数据
 - port 港口、口岸、避风港、左舷、端口、移植
+- portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion 部分、分享的部分、分担的责任、分配、把...分成若干份
@@ -70,12 +78,15 @@
 - potential 潜在的、可能的、可能性、潜力、潜质、电位、电势、电压
 - pour 倾、倾泻、涌出、大雨、浇筑
 - practice n.练习、实习、实践
+- prairie [ˈpreəri] n.大草原、大牧场
 - praise n/v.称赞、赞扬、表扬
 - prattle 闲扯、唠叨、闲聊
 - precede v.先于、优于、在...之上
+- precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
+- premature a.过早地、早产的、提前的、草率的
 - prepare 准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
 - prescribe v.规定、指定、命令、开处方
@@ -85,10 +96,12 @@
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
 - president 总统、国家主席、会长、院长、银行行长、董事长、总裁
+- pressure n.压力、压强、气压、v.施加压力、迫使、增压
 - pretend 假装、扮作、模拟、自诩、假装的、想象的
 - prevail [prɪˈveɪl] v.流行、盛行、说服、劝说
 - prevent 防止、阻止、阻碍、阻挠
 - previous 先前的、以前的
+- price n.价格、代价、v.给...定价
 - primary 主要的、最初的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.主角、当事人
@@ -106,31 +119,37 @@
 - progress n/v.进步、进展、流逝
 - progressive a.进步的、逐步的、n.进步人士、改革派
 - prohibit 禁止、阻止、不允许
+- project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - prominent a.重要的、著名的、杰出的、突出的
-- promise n/v.允许、许诺
+- promise n/v.允许、许诺、承诺、保证
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
 - prompt 迅速的、敏捷的、立刻的、准时的、提示、促使、导致
 - propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
+- propagate v.传播、宣传、繁衍、增殖
 - proper 适当的、正确的、恰当的、正当的、规矩的、弥撒、书的章节、非常、完完全全地、彻底地
 - properly 正确的、适当的、恰当的、完全、非常
-- property 所有物、财产、性质
+- property n.所有物、财产、性质
 - propagate 传播、宣传、繁殖、增值
 - proposition 提议、建议、命题、主张、向...提议
+- prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
 - prospect n.展望、设想、前景、可能性、v.探矿、勘探
 - prosper v.繁荣、兴旺、成功、发达
 - prosperity n.兴旺、繁荣、成功、昌盛
 - protect 保护、防护
 - protest n/v.抗议、反对
 - prototype 原型、雏形、蓝本
+- prove v.证明、证实、证明是、结果是
+- provided conj.假如、如果、在...条件下
 - provision n.规定、条款、提供、饮食供应、供应品
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy 代理、代理服务器、代理人、代表权
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychology 心理学、心理状态、心理特征、心理影响
+- puberty n.青春期
 - publicize v.宣称、推广、宣扬、传播
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punish v.处罚、惩罚、责怪、自责
-- purchase 购买、采购
+- purchase n/v.购买、采购
 - pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除
 - purpose 目的、意图、企图

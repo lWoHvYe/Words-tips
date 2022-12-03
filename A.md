@@ -9,9 +9,10 @@
 - access [ˈækses] 通道、通路、入径、机会、权利、访问、存取、到达、进入、使用
 - accident n.事故、意外、偶然、附属品
 - acclimate 使习惯、使适应
+- accomplish v.完成、达到
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
-- account 账户、账目、记述、报告、解释、说明、认为是、视为
+- account 账户、账目、记述、报告、解释、说明、描述、认为是、视为
 - accountability 责任、有责任、有义务
 - accustom v.使习惯、使适应
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
@@ -24,6 +25,7 @@
 - actuator 致动器、传动、执行机构
 - acute 严重的、急性的、灵敏的、敏锐的、锐角的
 - adapt 适应、改编、使适合、改编、改写
+- addict n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - additional 额外的、追加的、附加的、补充
 - adequate 充足的、足够的、合格的、合乎需要的
 - adjust 适应、调整、调节、校正、校准
@@ -38,6 +40,7 @@
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise 宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
 - advisory 顾问的、咨询的、警报
+- advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
 - affect v.影响、侵袭、感动、n.情感、偏差
@@ -52,6 +55,8 @@
 - aggregate 总数的、合计的、合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - agnostic 不可知论者、不可知论的
+- aircraft n.飞机、航空器 
+- airport n.机场、航空站、航空港
 - allegedly 据说
 - align 排列、校准、排整齐、使一致
 - allocate 分配、拨...(给)、划...(归)
@@ -62,18 +67,22 @@
 - amend v.修正、修订、改良、修改
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
+- analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogy [əˈnælədʒi] 类比、比喻
 - analyst [ˈænəlɪst] 分析师、化验员
 - ancient 古代的、古老的、古代人
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
+- apparent a.显然的、貌似的、未必真实的
 - appendix 附录
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
 - applicability 适用性、相关性
-- applicable 适当的、可应用的、适用、合适
+- applicable a.适当的、恰当的、可应用的、适用、合适
+- applicant n.申请人、求职者
+- apply v.申请、应用、运用、适用、适合  apply to 适用于、运用  apply for 申请
 - appoint 任命、委派、安排、约定、确定
-- appreciate 欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
+- appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
 - approach v.接近、靠近、n.方法、建议、要求、着手处理
 - appropriate 适当的、恰当的、挪用、盗用、占用
 - approval 批准、同意；approve 批准、赞成、同意、认可
@@ -93,13 +102,16 @@
 - assist 帮助、援助
 - assistant 助手、助理、助理的、辅助的、副的
 - associate 联合、联想、联系、交往、非正式的、准的、副的、伙伴、同事、合伙人
+- assume v.假定、假设、承担、担任
 - assumption 假定、假设、承担、担任
 - assure 向...保证、使...确信、保证、确保
 - astray 迷路的、堕落、误入歧途的、迷路
 - asymmetric 不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
+- atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest 作证、证明、证实
+- attorney n.律师、代理人
 - attrition 损耗、消耗
 - augment 加强、增加、扩大、提高
 - authentication [ɔːˌθentɪˈkeɪʃn] 认证、证明、鉴定、身份验证
@@ -109,5 +121,6 @@
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available 可获得的、有空的、能找到的
+- averse a.厌恶、不喜欢、不想做、反对做
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的

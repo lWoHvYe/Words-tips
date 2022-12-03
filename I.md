@@ -6,7 +6,7 @@
 - idle 空闲的、无意义的、懒惰的、空转、虚度、挂空档
 - idol 偶像、崇拜物、幽灵、谬论、幻觉
 - illegal 不合法的、非法的、违法的
-- illustrate 说明、表明、给...加插图、举例说明
+- illustrate v.解释、说明、表明、给...加插图、举例说明
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
@@ -18,9 +18,10 @@
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
-- implication n.蕴含、含意、牵涉、牵连
+- implication n.蕴含、含意、牵涉、牵连、影响
 - implict 含蓄的、内含的、不直接的、隐示的
 - imply v.暗示、意味、隐含、说明、意味着
+- impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
 - impressive a.给人印象深刻的
 - improper 不合适的、不正确的、不道德的、不合礼仪的
@@ -48,6 +49,7 @@
 - industry n.工业、行业、勤奋、勤劳
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inherent a.固有的、内在的
+- inherit v.继承、接替、继任
 - inferior a.低劣的、次的、较差的、n.不如别人的、部下、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
@@ -67,13 +69,15 @@
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
 - insight 眼光、洞察力、洞悉、领悟
 - insist v.坚持、强调
-- inspect 检查、视察
+- inspect v.检查、视察
 - inspite of 尽管、即使
+- installment n.分期付款、分期交付、连载
 - instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
 - instantiate v.实例化
 - institution 机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
-- instrument 器械、仪器、器具、乐器、文据、为演奏谱曲、向...递交文书
+- instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
+- instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
 - insurance 保险、保险单、保险费、保障措施
 - insure v. 投保、承保
@@ -93,16 +97,19 @@
 - interim 临时的、过渡的、过渡期间
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal 内部的、内心的、内脏、本质
+- interpersonal a.人际关系的、人际的
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - intersect 横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
 - interval n.间隔、间歇、休息时间、音程
-- interview 采访、面试、接见、会谈
+- interview v/n.采访、面试、接见、会谈
 - intricacy [ˈɪntrɪkəsi] 错综复杂
 - intricate 错综复杂的
 - introduce 介绍、引进、提出、作为...的开头
+- introspect v.反思、内省、自省
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invalidate 使无效、使作废、证明...错误、使站不住脚
+- invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
