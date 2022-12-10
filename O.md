@@ -6,20 +6,23 @@
 - obtain 获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occupation n.工作、职业、占有、占领、使用、消遣、业余活动
+- occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - omit 省略、遗漏、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
 - onboard 随车携带的、机上的、舰上的、自主的、（也可做）客户/员工的新入
 - ongoing 不间断的、持续存在的、前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
+- opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、使相对、使对照
+- oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
 - optional 可选的、随意的、任意的、选修的、选修科目
 - orchestrate 策划、编排、把..编成管弦乐
 - ordinary a.普通的、平常的、n.普通事、法官
-- orient 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
+- orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
 - originate v.起源、发源、创立、创建、发明

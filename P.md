@@ -19,6 +19,7 @@
 - pathway 路、道、途径、路径
 - patient 有耐心的、能容忍的、病人、患者
 - pattern 图案、模式、范例、模型、样品
+- peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - peer n.同辈人、同行、v.仔细看、端详
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
 - perceive [pəˈsiːv] v.感知、认为、察觉到、注意到、意识到
@@ -41,6 +42,7 @@
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - pertain 存在、适用
 - phase 阶段、时期
+- phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philosophy [fəˈlɒsəfi] n.哲学
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - phrase [freɪz] n.短语、v.表达、措辞
@@ -59,6 +61,7 @@
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
 - pluggable a.可插拔的
+- pocket 口袋、金钱、财富
 - poem 诗、韵文
 - poetry n.诗、诗歌、诗意
 - point 指向、观点、论点、目的、点
@@ -72,6 +75,7 @@
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion 部分、分享的部分、分担的责任、分配、把...分成若干份
+- portray v.描绘、描述、描写、刻画、扮演
 - position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、状态、职位、v.安装、安置
 - positive 积极的、肯定的、乐观的、有绝对把握的、阳性的、正数的、优势、优点
 - post 邮递、邮寄、终点、发布、公布、交付
@@ -96,8 +100,10 @@
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
 - president 总统、国家主席、会长、院长、银行行长、董事长、总裁
+- press v.按、压、逼迫、催促、坚持、n.报刊、出版机构、压榨机
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
-- pretend 假装、扮作、模拟、自诩、假装的、想象的
+- presuppose v.预设、假设、以...为前提
+- pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
 - prevail [prɪˈveɪl] v.流行、盛行、说服、劝说
 - prevent 防止、阻止、阻碍、阻挠
 - previous 先前的、以前的
@@ -106,7 +112,9 @@
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
-- priority 优先、优先权、首要的事、最重要的事
+- prior a.先前的、在前的、优先的
+- priority n.优先、优先权、首要的事、最重要的事 a.优先的
+- prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy 隐私
 - probation 试用期、见习期、缓刑期
 - procedure n.程序、手续、过程、步骤
@@ -114,7 +122,8 @@
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - profession n.职业、行业、同行、宣称、声明、表白
 - professional a.职业的、专业的、n.专业人士、专家
-- profit n.利润、收益、红利、赢利、好处、v.获益、对...有益
+- profile n.侧面、轮廓、外形、形象、印象、简介、引入注目、v.扼要介绍、概述
+- profit n.利润、收益、红利、赢利、好处、v.获益、对...有益  net profit 净利润  gross profit 毛利润  profit margin 利润率
 - program n.程序、编码指令、节目、计划、安排、v.编写程序
 - progress n/v.进步、进展、流逝
 - progressive a.进步的、逐步的、n.进步人士、改革派
@@ -130,6 +139,7 @@
 - properly 正确的、适当的、恰当的、完全、非常
 - property n.所有物、财产、性质
 - propagate 传播、宣传、繁殖、增值
+- proportion n.比率、比例、面积、相称、平衡、v.分配、使成比例
 - proposition 提议、建议、命题、主张、向...提议
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
 - prospect n.展望、设想、前景、可能性、v.探矿、勘探

@@ -12,6 +12,9 @@
 - manipulate v.操纵、控制、影响
 - manner 方法、方式、态度、礼仪、规矩
 - manual 手动的、手工的、用手操作的、手册、指南
+- manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
+- margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边
+- marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
 - master n.主人、雇主、v.精通、掌握、控制、a.熟练的
 - material 材料、素材、物质的、重要的、必要的
 - matrix 矩阵、基质、模型、母体
@@ -46,16 +49,17 @@
 - modify 修改、被修饰、改变、减轻、减缓
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
+- monarch [ˈmɒnək] n.君主、帝王
 - monetary a.货币的、金融的、财政的、钱的
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - moral a.道德的、能辨别是非的、n.品行、道德
 - mortgage 抵押贷款、按揭贷款、按揭、抵押（房产）
-- motivate 激励、刺激、促动、激发、诱导
+- motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - mud [mʌd] 泥、泥浆
 - muscle 肌肉、权力、威信、强取
 - mutable [ˈmjuːtəbl] a.可变的、会变的
-- mutate v.变异、突变
+- mutate v.变异、突变、转变、转换
 - multicast 多播、多点传送
 - multiply 乘、相乘、复合地、多样地、多股的、多层的
 - mutex 互斥、互斥对象、互斥锁

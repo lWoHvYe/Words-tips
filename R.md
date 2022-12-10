@@ -1,3 +1,4 @@
+- racial a.种族的
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - raincheck 雨票、延期
 - raise 提升、举起、增加、抚养、饲养、终止、解除、高地、上升、加薪
@@ -16,7 +17,7 @@
 - recap 概括、扼要重述、简要回顾、翻新
 - recent 最近的、近来的、新近的
 - receipt 接收、收到、收入、收据、开收据
-- recession 经济衰退、经济萎缩、不景气、后退、撤回
+- recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
 - recognize 认出
 - recommend 推荐、劝告、建议、托付、使显得吸引人、使受欢迎
@@ -26,7 +27,7 @@
 - recreation n.娱乐、消遣、重建、重现
 - recruit 招聘、招募、吸收、征募、组建、新人、新兵、新成员、
 - recursive 递归的、循环的
-- redundant 冗余的、多余的、被裁减的、被解雇的
+- redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
 - refinance 再融资
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
@@ -45,6 +46,7 @@
 - relay v.转发、中继、n.中继设备
 - relevant 相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
+- relief n.救济、解脱、宽慰、缓和、减轻、救援物资
 - rely v.依靠、依赖、信赖
 - remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
 - remainder 余数、差数、剩余物、廉价出售、剩余的
@@ -83,6 +85,7 @@
 - respective a.分别的、各自的
 - responsibility n.责任、义务
 - responsible a.负责的、可信任的、有责任、承担义务
+- restaurant [ˈrestrɒnt] n.餐厅、餐馆
 - restrict 限定、限制、约定、制约、束缚、妨碍
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的

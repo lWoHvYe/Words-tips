@@ -13,6 +13,7 @@
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
+- verbal a.文字的、言语的、口头的、动词的
 - verbiage 用语、措辞、废话、冗余、晦涩
 - verbose 冗长的、啰嗦的
 - verify v.证明、证实、核实、查证

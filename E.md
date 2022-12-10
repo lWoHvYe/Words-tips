@@ -18,17 +18,20 @@
 - eliminate v.排除、消除、淘汰、消灭
 - embed 把...嵌入、嵌入、派遣
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
-- emerge 出现、浮现
+- emerge v.出现、浮现 emerging v.emerge的现在分词、a.新兴的
 - emergency 紧急情况、突发事件
 - emotion 情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical a.来自实验或经验的、经验主义的
+- empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
 - encapsulate 封装、概括、压缩、简述
 - encode 编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
+- encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
 - encourage 支持、鼓励、促进、激励、劝告、怂恿
 - end 末尾、结束、目的、意图
+- endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
 - energy 活力、精力、能源
 - enforce vt.执行、强制、强制执行
@@ -50,7 +53,8 @@
 - epic 史诗、叙事诗、史诗般的作品、史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
 - epoch 纪元、时代、时期
-- equality [iˈkwɑːləti] 同等、平等、相等、等式
+- equality [iˈkwɑːləti] n.同等、平等、相等、等式
+- equate v.等同、相当于、使相等
 - equipment 设备、装备、器材、配件、知识、素养
 - equity [ˈekwəti] 公平、公正、股本、资产净值、普通股、股票的、股市的
 - equivalent a.相等的、相当的、等效的、等价的
@@ -59,6 +63,7 @@
 - erasure 擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
 - escalate [ˈeskəleɪt] 逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
+- espresso n.浓缩咖啡
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
 - establish 建立、设立、开办
@@ -76,7 +81,7 @@
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
 - excellence 优点、优秀、卓越
-- excess n.超过、过量的、放肆、a.过度的、超额的、额外的、附加的
+- excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchequer n.财政部、国库、金库
 - exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
@@ -103,12 +108,14 @@
 - exploit 开发、剥削、开拓、开采、利用、压榨、功劳、功绩
 - explore 勘查、探测、探索、研究、探讨
 - explosion 爆发、爆炸、炸裂、突增、激增
-- exposure 面临、暴露、曝光、拆穿
-- express 表达、表示、特快的、快速的、明确的、特快列车、快递服务
-- expression 表达、表示、脸色、态度、措辞、表达方式、符号、词句、语句
+- expose v.暴露、揭露、使曝光、使接触、n.陈述、阐述、揭露
+- exposure n.面临、暴露、揭发、曝光、拆穿
+- express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
+- expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
 - extend 扩展、延伸、延长、适用于、涉及、提供
 - extension n.扩大、延伸、延期
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
 - extract [ˈekstrækt , ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物
+- extraordinary a.特别的、非凡的、意想不到的

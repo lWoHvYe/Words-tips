@@ -22,6 +22,8 @@
 - deference 尊敬、尊重、遵从
 - define 定义、界定、明确
 - definition n.定义、释义、解释、清晰度
+- deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
+- deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、学位
 - delegate 代表、把...委派、选派
@@ -37,22 +39,28 @@
 - denote 标志、预示、象征、表示
 - density n.密集、稠密、密度
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
+- depress v.压下、压低、降低、减少、使沮丧、使消沉
 - derive v.得到、获得、源于、产生、提取、派生
 - describe 叙述、描写、形容、描绘
 - descriptor n.描述符
 - deserve v.应受、值得
+- design v.设计、构思、意图、n.设计、图样
+- designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
 - desire n/v.ß渴望、希望、欲望、愿望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、急切的、非常需要、极想
 - despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
 - destination 目的地、终点
 - destruction 摧毁、毁灭、破坏
+- detach v.派遣、分离、拆开、摆脱
 - detect 查明、发现、探测、侦查
 - determine 决定、下决心、准确算出、支配、影响
 - devastate 毁灭、破坏、蹂躏、使荒废
+- develop v.发展、形成、开发、研制、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device 装置、设备、方法、策略、手段
 - diagnose v.诊断、确诊
 - diagram 图表、示意图、图解
+- dialect 方言
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - die 死亡、凋零、渴望、盼望、模具、冲模、压模
 - diet 日常饮食、规定饮食、节制饮食
@@ -76,7 +84,9 @@
 - discourse n.论文、演讲、v.讲述、叙述、讨论
 - discover 发现、发觉、了解到、认识到
 - discretion 慎重、考虑周到、判断力、自行决定的自由
+- discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
+- disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - dispatch 派遣、调度、迅速处理、处决
 - dispensation 豁免、宽免、分配、实施、制度
 - dispersal 分散、散布、消散、驱散
@@ -93,10 +103,12 @@
 - diversity 差异、不同、多样性、多样化
 - divide 分、划分、除、分配
 - division 分开、分隔、分配、除（法）
+- divorce n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
 - domain 领域、范围、领土、域、域名
 - dome 穹顶、圆屋顶、圆顶状物、加圆屋顶于...上
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
+- dominate v.支配、影响、占优势
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - doubt [daʊt] 怀疑、疑虑、未确定
 - downstream 下游的、引发的、顺流而下

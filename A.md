@@ -2,11 +2,11 @@
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
 - abstain 弃权、戒除、离开、回避
-- abundant 大量的、充裕的、丰盛的
+- abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academic 学术的、学业的、纯理论的
 - academy 专科学校、学会、学院、中等学校、私立学校
-- access [ˈækses] 通道、通路、入径、机会、权利、访问、存取、到达、进入、使用
+- access [ˈækses] n.通道、通路、入径、机会、权利、v.访问、存取、到达、进入、使用
 - accident n.事故、意外、偶然、附属品
 - acclimate 使习惯、使适应
 - accomplish v.完成、达到
@@ -49,6 +49,7 @@
 - against 反对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
 - agenda (复数)议程、议程表
+- agency n.代理、机构
 - agent 代理人、代理商、由...代理、代理的
 - agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
@@ -60,11 +61,12 @@
 - allegedly 据说
 - align 排列、校准、排整齐、使一致
 - allocate 分配、拨...(给)、划...(归)
-- alter v. 改变
+- alter v.改变、更改、修改
 - alternate 候补、代理人、交替、轮流、交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
 - amber 琥珀、琥珀色
 - amend v.修正、修订、改良、修改
+- amicable a.友好的、友善的
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
@@ -73,6 +75,8 @@
 - ancient 古代的、古老的、古代人
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
+- anxious a.焦虑的
+- anxiety [æŋˈzaɪəti] n.焦虑、忧虑                                      
 - apparent a.显然的、貌似的、未必真实的
 - appendix 附录
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
@@ -91,6 +95,7 @@
 - archive 存档、档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
+- arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
 - artifact 人工制品、手工艺品、加工品、石器
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
@@ -112,12 +117,14 @@
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest 作证、证明、证实
 - attorney n.律师、代理人
+- attract v.吸引、诱惑、引人注意
 - attrition 损耗、消耗
 - augment 加强、增加、扩大、提高
 - authentication [ɔːˌθentɪˈkeɪʃn] 认证、证明、鉴定、身份验证
 - automate 自动化
 - authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
 - authority [ɔːˈθɒrəti] n.权威、当权、授权、批准
+- auto 汽车、汽车的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available 可获得的、有空的、能找到的

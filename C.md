@@ -1,6 +1,7 @@
 - cache n.隐藏物、高速缓冲存储器、v.高速缓存、藏匿、隐匿
 - candidate 候选人、申请人、应试者
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
+- calcium [ˈkælsiəm] n.钙
 - calculate 计算、预测
 - call 呼叫、号召
 - calm 平静的、镇静的、使平静、宁静的状态
@@ -25,6 +26,7 @@
 - casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工
 - catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
 - cattle n.牛、牲口、畜生
+- cause v.引起、导致、n.原因、动机、理由
 - caution 警告、告诫、小心、慎重
 - caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
@@ -49,13 +51,14 @@
 - choice n.选择、挑选、a.优质的、上等的
 - chose v.选择、挑选、决定、情愿
 - chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
+- chronicle n.编年史、历史、v.按事件发生顺序记述、把...载入编年史
 - chunk 大块、厚块、组块
 - circuit [ˈsɜːkɪt] 巡回、电路、线路 Circuit breaker 断路器
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
 - citizen n.公民、居民、市民
-- civil 公民的、国民的
+- civil a.公民的、国民的、民用的
 - claim v/n宣称、声明、索赔、索要、所有权
 - clarify 澄清、阐明
 - clarity 清晰、清楚、明确、透明、清晰度
@@ -87,7 +90,10 @@
 - commitment n.承诺、许诺、委托、委任、致力、献身、花费、使用
 - communicate 沟通、交流、通讯
 - community n.社区、群落
+- commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - commodity 商品、有价值的东西
+- compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压紧、压实
+- compare n/v.比较、对比
 - compatible 可共用的、兼容的、相容的、和睦相处的
 - compensation n.补偿、赔偿
 - compete 竞争、竞赛、对抗
@@ -106,13 +112,17 @@
 - compose 组成、构成、作曲、创作、撰写、排、使安定、使镇静
 - composite 混合成的、复合的、合成的、混成的、复合材料、合成物、混合物
 - compound n.复合物、化合物、a.复合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
+- compress v.压紧、压缩、精简、浓缩、n.敷布、压布
 - comprise v.包含、包括、由...组成、由...构成
 - compromise n/v.妥协、折中、互让、让步、和解、达成妥协
 - compute 计算、估算、推断、计算机技术
+- concede v.承认、让步、容许
+- conceit n.自负、幻象、思想、观点
 - concentrate 集中、专心、浓缩
 - concept 观念、概念、观点
 - concern v.涉及、影响、参与、使担忧、n.关心、关爱、担心、顾虑
 - concert 音乐会、演唱会、一致、和谐、协商、调解、合订、协同工作
+- concession n.让步、妥协、特许权、优惠价格
 - concise a.简洁的、简明的、简练的
 - conclude 推断、断定、终止、预定、推断出、得出结论
 - conclusion 结论、推论、结果、结尾、结局、签订、达成、缔结
@@ -120,7 +130,7 @@
 - concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
 - condition 条件、状态、状况、健康状况、处境、训练、使习惯于、使适应、养护
 - conduct n.行为、举止、v.执行、引导、安排
-- conference 会议、讨论
+- conference n.会议、讨论、研讨会
 - confident 自信的、确信的、有把握的、大胆的、过分自信的、知己
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
@@ -140,11 +150,14 @@
 - consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consider [kənˈsɪdər] 考虑、认为、仔细考虑、细想、体谅、顾及、端详
 - considerable a.相当大的、该注意的、应考虑的、重大的、可观的
-- consist [kənˈsɪst] 包括、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
+- consist [kənˈsɪst] v.包括、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
 - consistent 一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consistency 一致性、连贯性、平滑度
 - conspicuous a.明显的、显而易见的、引入注目的
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
+- constitute v.组成、构成、制定、设立、指派
+- constitution n.组成、构成、体质、体格、宪法、章程
+- constitutional a.宪法的、符合宪法的、本质的
 - constrain vt.强迫、约束、限制
 - constraint 强制、限制、限定、约束
 - construct 构成、构建、修建、建造、结构、结构体、建筑物
@@ -159,6 +172,7 @@
 - context 语境、上下文、背景
 - contingency 可能性、偶然性、意外事故、偶发事件
 - contingent 代表团、视情况而定的
+- continuation n.继续、连续、持续、续篇、附加物
 - continuous 连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
 - contract 合同、契约、签合同
 - contradict v.反驳、驳斥、否认
@@ -168,10 +182,12 @@
 - convention n.会议、惯例、习俗、规矩
 - conversation n.会话、交流、交往
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
+- convey [kənˈveɪ] v.运送、输送、表达、传播
 - convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate 坐标、套装、使协调、使调和、整合、搭配、协调、同等的、配合的、对等的、坐标的
+- cope v.对付、处理、笼罩、n.斗篷、长袍
 - corner 角落、拐角、垄断
 - coroutine 协同程序、联立程序
 - corporate [ˈkɔːpərət] 公司的、法人的、社团的、团体的、共同的
@@ -185,6 +201,9 @@
 - covenant n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、n.封面、掩护、覆盖物、避难所
 - coverage 覆盖、（所包含的）范围、规模、新闻报道
+- crack v.破裂、开裂、崩溃、瓦解、阻止、打击、n.裂纹、裂缝、爆裂声、噼啪声、重击
+- craft n.工艺、手艺、技巧、技能、船、飞行器、v.精心制作
+- crash n/v.崩溃、碰撞、倒闭、破产、暴跌、a.应急的、速成的
 - credential [krəˈdenʃl] 资质、文凭、信任状、凭据、提供证明书
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit 信用、贷款、学分

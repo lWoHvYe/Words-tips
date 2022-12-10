@@ -7,6 +7,8 @@
 - technology n.技术、科技、工程技术、技术学
 - temporary 短暂的、暂时的、临时工
 - tenancy n.租赁、租期
+- tend v.趋势、趋向、倾向、照料、护理
+- tendency n.趋势、倾向
 - tenor 男高音、大意、要旨、要领
 - tentative 试探性的、试验的、不确定的、尝试、假设、实验
 - term n.学期、术语、期限、v.把...称为、把...叫做
@@ -18,7 +20,9 @@
 - theory n.理论、原理、学说、推测
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
-- threshold 门槛、入口、开始、临界值、阈、起始点、开端、起点
+- thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
+- threat n.威胁、恐吓、构成威胁的人或事物
+- threshold 阈值、门槛、临界值、入口、开始、起始点
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
@@ -46,11 +50,12 @@
 - transaction 交易、业务、事务、办理、处理
 - transcript 成绩单、抄本、誉本、打印本
 - transducer 传感器、变频器
-- transfer 转移、搬迁、调动、改变、传播、转让、换乘、转存、转录
+- transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
 - transform 变换、改变、改观
-- transient 短暂的、临时的、过往的、过往旅客、临时工
+- transient a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
+- transition n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
-- transparent 透明的、清澈的、显而易见的、易识破的
+- transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traversal 遍历、穿越、追踪

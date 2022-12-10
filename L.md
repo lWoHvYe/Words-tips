@@ -29,6 +29,7 @@
 - lineage 世系、家系、血统
 - liquid 液体、液体的、清澈的、流畅的、易变现的
 - lite 清淡的、低盐的、低热量的、精简的
+- literacy n.识字、有文化、读写能力
 - literal 照字面的、原义的、字面意义的、平实的、缺乏想象力的
 - literary a.文学的、文学上的、爱好文学的
 - literature n.文学

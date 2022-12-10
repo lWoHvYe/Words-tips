@@ -1,6 +1,6 @@
 - fabric 织物、布料、结构
 - facade 外观、正面、表明、外表
-- facilitate 帮助、促进、使容易
+- facilitate v.帮助、促进、使容易
 - facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
 - fact n.事实、真相、证据
 - factual a.事实的、真实的
@@ -44,6 +44,7 @@
 - force 武力、暴力、权利、力量、强迫、迫使、强作
 - foreshadow 预示、预兆、先兆
 - forest n.森林、丛林
+- forever ad.永远、长久地、不断地、n.永恒、极长的一段时间
 - forex 外汇
 - forgery 伪造、伪造品、赝品、伪造罪
 - form n.表格、形式、外形、v.形成、构成、组织、塑造

@@ -3,6 +3,7 @@
 - identifier 标识符、识别码
 - identify v.确定、识别、认出、认同、鉴定
 - identity v.确定、识别、认出、认同
+- ideology n.思想、意识形态、空想、空论
 - idle 空闲的、无意义的、懒惰的、空转、虚度、挂空档
 - idol 偶像、崇拜物、幽灵、谬论、幻觉
 - illegal 不合法的、非法的、违法的
@@ -91,6 +92,7 @@
 - intensity n.强烈、紧张、剧烈、强度
 - intensive 密集的、彻底地、十分细致的、集约的、加强的、强烈的
 - intent n.目的、意图、a.热切的、专切的
+- intentional a.故意的、蓄意的
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
@@ -113,9 +115,11 @@
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
-- invest 投资、花费、装饰
+- invest v.投资、花费、装饰
 - investigate 调查、研究、审查、侦查、做调查
 - investment 投资、投资额、投入、值得买的东西、封锁
+- invite v.邀请、招待、n.邀请、请柬
+- invitation n.邀请、请柬、招待
 - invocation 祈祷、乞求、调用、启用
 - involve 包含、使参与、牵涉
 - IoT (Internet of Things) 物联网
