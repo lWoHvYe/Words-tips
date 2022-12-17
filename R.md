@@ -20,6 +20,7 @@
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
 - recognize 认出
+- reconcile v.调和、调停、使和好、使和解
 - recommend 推荐、劝告、建议、托付、使显得吸引人、使受欢迎
 - record 唱片、履历、档案、记录、声明、标明
 - recoup 补偿、收回、弥补
@@ -29,7 +30,8 @@
 - recursive 递归的、循环的
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
-- refinance 再融资
+- refinance v.再筹资金、再融资
+- refine v.精炼、提炼、改进、改善
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain 抑制、避免、克制、节制
 - regard 将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
@@ -74,6 +76,7 @@
 - rescue v/n 营救、救援、抢救
 - resemble v.像、与...相像、类似于
 - reserve n.储备、保留、保护区、内向、矜持、v.保留、预定、预约
+- reside v.住、居住、居住在、定居于
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
 - resiliency 弹力、弹性
@@ -86,7 +89,7 @@
 - responsibility n.责任、义务
 - responsible a.负责的、可信任的、有责任、承担义务
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
-- restrict 限定、限制、约定、制约、束缚、妨碍
+- restrict v.限定、限制、约定、制约、束缚、妨碍
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
 - retain 保持、保留、持有、聘请、雇佣
@@ -96,13 +99,14 @@
 - retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
 - retrieval 检索、取回、挽回
 - retrieve 取回、恢复、挽回
+- retrograde v.逆行、倒退、a.倒退的、退化的、退步的
 - revalue 再评价、对...重新估价
-- reveal 揭露、泄露、显露、启示、显出、露出、窗侧壁、门侧、窗框
+- reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)
 - review n/vt.回顾、复习、评论、评审、审查、报告、汇报
 - revise 修订、修正、改变、复习、校订
-- revolution n.革命、变革、旋转、运行、公
-- revolve 旋转、环绕、转动、使循环、反复考虑
+- revolution n.革命、变革、旋转、运行、公转
+- revolve v.旋转、环绕、转动、使循环、反复考虑
 - rise n/v.上升、增加
 - risk  风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
@@ -117,4 +121,5 @@
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
 - ruin n/v.破坏、毁灭、糟蹋、破产
 - run v.跑、运营、起作用、n.跑、行程
+- rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - ruthless a.残忍的、无情的

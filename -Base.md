@@ -5,6 +5,7 @@ n. 名词
 conj. 连词 conjunction
 prep. 介词 preposition
 aux. 助动词
+modal v.情态动词
 
 
 语法：

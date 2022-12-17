@@ -5,6 +5,7 @@
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
+- telescope n.望远镜
 - temporary 短暂的、暂时的、临时工
 - tenancy n.租赁、租期
 - tend v.趋势、趋向、倾向、照料、护理
@@ -16,6 +17,7 @@
 - terminology n.术语
 - ternary a.三元的
 - testify v.证明、证实、作证
+- theatre n.剧院、剧场、演出、上演
 - theft 盗窃、偷窃、赃物
 - theory n.理论、原理、学说、推测
 - therefor 为此、由于这样、因此
@@ -57,6 +59,7 @@
 - transitive 过渡的、转变的、及物的、及物动词
 - transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
+- transportation n.运输、流放
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traversal 遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的

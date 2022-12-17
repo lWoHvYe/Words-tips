@@ -21,6 +21,7 @@
 - pattern 图案、模式、范例、模型、样品
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - peer n.同辈人、同行、v.仔细看、端详
+- penny n.便士、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
 - perceive [pəˈsiːv] v.感知、认为、察觉到、注意到、意识到
 - percent n.百分比、a.百分之...的、ad.以百分之...地
@@ -38,6 +39,7 @@
 - persecute v.迫害、残害、骚扰、打扰
 - persist 坚持、保持、维持、持续存在
 - persistent a.持续的、持久的、坚持不懈的、坚持不渝
+- persona n.人物角色、伪装、假象、人格面具
 - personality n.特色、性格、个性、气质、气度、名人
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - pertain 存在、适用
@@ -110,13 +112,14 @@
 - price n.价格、代价、v.给...定价
 - primary 主要的、最初的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
-- principal [ˈprɪnsəpl] a.最重要的、主要的、n.主角、当事人
+- principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
 - prior a.先前的、在前的、优先的
 - priority n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy 隐私
 - probation 试用期、见习期、缓刑期
+- probe n.探头、探查、探针、v.探查、探究、盘问、追问
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的

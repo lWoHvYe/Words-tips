@@ -10,7 +10,9 @@
 - nevertheless 然而、不过、尽管如此
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
+- norm n.规范、标准、准则、(劳动)定额
 - notable a.显著的、著名的、值得注意的、n.名人、显要人物
+- notably ad.特别、尤其
 - notation 符号、记号、注释
 - notice 注意、预告、告警、通知、注意到、意识到、留意
 - notification 通知、通知单、布告、公布

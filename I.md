@@ -51,6 +51,8 @@
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inherent a.固有的、内在的
 - inherit v.继承、接替、继任
+- infer v.推论、推理、推断、暗示、意指
+- inference n.推论、推理、推断
 - inferior a.低劣的、次的、较差的、n.不如别人的、部下、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
@@ -59,6 +61,7 @@
 - informal a.非正式的、不拘礼节的、日常的
 - infrastructure 基础设施、基础建设
 - ingress n.进入、进入权、入境权
+- inhabit v.居住于、栖息于
 - inheritance 继承、遗传、遗产
 - initial 初始、最初的
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
@@ -75,6 +78,7 @@
 - installment n.分期付款、分期交付、连载
 - instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
 - instantiate v.实例化
+- instantiation n.实例化
 - institution 机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
 - instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
@@ -105,7 +109,7 @@
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
 - interval n.间隔、间歇、休息时间、音程
 - interview v/n.采访、面试、接见、会谈
-- intricacy [ˈɪntrɪkəsi] 错综复杂
+- intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate 错综复杂的
 - introduce 介绍、引进、提出、作为...的开头
 - introspect v.反思、内省、自省
@@ -121,7 +125,8 @@
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待
 - invocation 祈祷、乞求、调用、启用
-- involve 包含、使参与、牵涉
+- involve v.涉及、包含、牵涉、连累、参加、加入
+- involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue 问题、发行、公布

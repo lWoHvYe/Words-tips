@@ -37,7 +37,9 @@
 - enforce vt.执行、强制、强制执行
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
-- engage 聘用、吸引住、与...交战、从事、聘用、衔接、啮合
+- engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战
+- engaged a.正从事的、已订婚的、占线的
+- engagement n.约会、约定、订婚、契约、雇佣、密切关系  engagement in 参与
 - enrichment 丰富、充实、改进、肥沃
 - ensure v. 确保、担保、保证
 - enterprise 企业、事业单位、事业心、进取心
@@ -56,7 +58,7 @@
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
 - equate v.等同、相当于、使相等
 - equipment 设备、装备、器材、配件、知识、素养
-- equity [ˈekwəti] 公平、公正、股本、资产净值、普通股、股票的、股市的
+- equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
 - equivalent a.相等的、相当的、等效的、等价的
 - era n.时代、年代
 - erase 抹去、清除、擦掉
@@ -75,6 +77,7 @@
 - evaluate v.估计、评价、评估
 - evaluation n.评价
 - eventual 最后的、最终的、结果的
+- evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] 准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、要求、索取、迫使、强迫、强求
@@ -87,6 +90,7 @@
 - exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive 独家、专用的、高级的、独有的、独占的、独家新闻
+- execute v.执行、完成、履行、处决
 - execution [ˌeksɪˈkjuːʃn] 处决、实行、执行、演奏
 - executive 总经理、经理、领导层、行政部门、经理的、决策的、行政的
 - exemplary a.模范的、典范的、惩戒性的

@@ -1,7 +1,9 @@
 - abide v.遵守、容忍、忍受、等待、停留
+- abnormal a.不正常的、反常的、变态的、畸形的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
 - abstain 弃权、戒除、离开、回避
+- abstract n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academic 学术的、学业的、纯理论的
@@ -28,6 +30,7 @@
 - addict n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - additional 额外的、追加的、附加的、补充
 - adequate 充足的、足够的、合格的、合乎需要的
+- adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adjust 适应、调整、调节、校正、校准
 - adjustive 调节的、调整的
 - admit v.承认、允许、确认、许可进入
@@ -39,6 +42,7 @@
 - adverse 不利的、有害的
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise 宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
+- advice n.劝告、忠告、建议、意见
 - advisory 顾问的、咨询的、警报
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
@@ -61,6 +65,7 @@
 - allegedly 据说
 - align 排列、校准、排整齐、使一致
 - allocate 分配、拨...(给)、划...(归)
+- almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alter v.改变、更改、修改
 - alternate 候补、代理人、交替、轮流、交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
@@ -81,6 +86,7 @@
 - appendix 附录
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
+- applause n.掌声、鼓掌、喝彩
 - applicability 适用性、相关性
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
@@ -97,9 +103,11 @@
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
+- array n.数组、阵列、v.布置、排列
 - artifact 人工制品、手工艺品、加工品、石器
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - assemble 集合、组装、装配、收集、聚集、组合
+- assembly n.装配、集会、议会、会议、立法机构
 - assess v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
 - asset 资产、财产、有价值的人
@@ -125,6 +133,7 @@
 - authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
 - authority [ɔːˈθɒrəti] n.权威、当权、授权、批准
 - auto 汽车、汽车的
+- autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available 可获得的、有空的、能找到的

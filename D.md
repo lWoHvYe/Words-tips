@@ -20,7 +20,8 @@
 - defendant n.被告、a.被告的、辩护的
 - defer 推迟、拖延、延期、服从、使推迟、使延期
 - deference 尊敬、尊重、遵从
-- define 定义、界定、明确
+- define v.给...下定义、界定、明确、阐述
+- definite a.肯定的、确定的、明确的、n.肯定的人或事
 - definition n.定义、释义、解释、清晰度
 - deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
@@ -62,6 +63,7 @@
 - diagram 图表、示意图、图解
 - dialect 方言
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
+- dictation n.口述、听写
 - die 死亡、凋零、渴望、盼望、模具、冲模、压模
 - diet 日常饮食、规定饮食、节制饮食
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
@@ -124,4 +126,5 @@
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
 - duty [ˈdjuːti] 责任、义务、职责、税收
+- dwell v.居住、栖身  dwelling n.住宅、住所
 - dynamic [daɪˈnæmɪk] 动态、动力、动力学、动态的、充满活力的、发展变化的

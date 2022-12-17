@@ -5,7 +5,7 @@
 - obsession 痴迷、着魔、困扰、妄想
 - obtain 获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
-- occupation n.工作、职业、占有、占领、使用、消遣、业余活动
+- occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - omit 省略、遗漏、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
@@ -38,4 +38,5 @@
 - overlap 重叠、交叠、重叠时间
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的
+- oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气

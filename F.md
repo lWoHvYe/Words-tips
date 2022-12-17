@@ -4,7 +4,12 @@
 - facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
 - fact n.事实、真相、证据
 - factual a.事实的、真实的
+- fail v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
+- failure n.失败、不及格、失败的人或事、故障、失灵、未做到
+- fair a.公平的、合理的、晴朗的、美丽的、ad.公平地、直接地、n.集市、商品交易会、展销会、v.顺利接合、衔接协调
+- fairly ad.公平地、适当、相当地、完全、简直、竟然
 - faith n.信任、相信、信念、int.真正
+- fall v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
 - fallback 应变计划、退路
 - fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
@@ -17,11 +22,13 @@
 - feeble 虚弱的、无效的、无力的
 - fend v.照顾、照料、防御、保护
 - fetch 取来、拿来
+- fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - fiction n.小说、编造、虚构
 - figure n.数据、人物、身材、v.认为、认定、计算
 - file n.文件、档案、v.把(文件等)归档、提起(诉讼)、提出(申请)、送交(备案)、发送(报道给报社)
 - finance 金融、财政、从事金融活动
 - financial 金融的、财务的
+- fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
 - finite 有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术)
 - fireside 炉边、毫无拘束的
@@ -59,6 +66,7 @@
 - found v.建立、find的过去式及过去分词
 - foundation n.基础、基金会、粉底霜
 - foundational 基础的、基本的
+- fraction n.小部分、少量、片段、分数、小数
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame 框架、边框、组织、陷害、设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织
