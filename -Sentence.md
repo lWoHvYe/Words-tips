@@ -4,3 +4,4 @@
   不符合...的需求
 - Real business scenarios are more complex
   真实的业务场景更复杂
+- Those who cannot remember the past are condemned to repeat it. 那些不记得过去的人，注定要重蹈覆辙。

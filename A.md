@@ -8,14 +8,18 @@
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academic 学术的、学业的、纯理论的
 - academy 专科学校、学会、学院、中等学校、私立学校
+- accelerate [əkˈseləreɪt] v.加快、促进、加速 
 - access [ˈækses] n.通道、通路、入径、机会、权利、v.访问、存取、到达、进入、使用
 - accident n.事故、意外、偶然、附属品
-- acclimate 使习惯、使适应
+- acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
+- acclimate v.使习惯、使适应
 - accomplish v.完成、达到
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
-- account 账户、账目、记述、报告、解释、说明、描述、认为是、视为
-- accountability 责任、有责任、有义务
+- account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内
+- accountable a.负有责任的、可解释的、有说明义务的
+- accountability n.责任、有责任、有义务
+- accurate a.精确的、准确的、正确无误的
 - accustom v.使习惯、使适应
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
 - acknowledge 承认、确认、答谢
@@ -36,7 +40,7 @@
 - admit v.承认、允许、确认、许可进入
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adult 成人、成人的 adulthood 成年、成年期
-- advance 前进、行进、进步、进展、上涨、提高、促进、推动、预付款、预付、提出、提前、预先的、事先的、先遣队、先头部队
+- advance v.前进、行进、进步、进展、上涨、提高、促进、推动、预付款、预付、提出、提前、a.预先的、事先的、n.先遣队、先头部队
 - advanced (过去式/过去分词) 先进的、高级的、高等的、前进、行进、推动、发展、进步、促进
 - advantage 有利条件、有利因素、优势、优点、有利于、有益于、促进
 - adverse 不利的、有害的
@@ -60,15 +64,21 @@
 - aggregate 总数的、合计的、合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - agnostic 不可知论者、不可知论的
+- aid n/v.援助、帮助、救助
 - aircraft n.飞机、航空器 
 - airport n.机场、航空站、航空港
-- allegedly 据说
+- algebra [ˈældʒɪbrə] n.代数学、代数
+- algorithm n.算法、计算程序
 - align 排列、校准、排整齐、使一致
+- allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
+- allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
+- allegedly 据说
 - allocate 分配、拨...(给)、划...(归)
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alter v.改变、更改、修改
 - alternate 候补、代理人、交替、轮流、交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
+- altitude n.海拔
 - amber 琥珀、琥珀色
 - amend v.修正、修订、改良、修改
 - amicable a.友好的、友善的
@@ -78,6 +88,7 @@
 - analogy [əˈnælədʒi] 类比、比喻
 - analyst [ˈænəlɪst] 分析师、化验员
 - ancient 古代的、古老的、古代人
+- angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
 - anxious a.焦虑的
@@ -92,7 +103,9 @@
 - applicant n.申请人、求职者
 - apply v.申请、应用、运用、适用、适合  apply to 适用于、运用  apply for 申请
 - appoint 任命、委派、安排、约定、确定
+- apportion v.分配、分摊、分派
 - appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
+- apprehension n.忧虑、担心、理解、领悟、拘捕
 - approach v.接近、靠近、n.方法、建议、要求、着手处理
 - appropriate 适当的、恰当的、挪用、盗用、占用
 - approval 批准、同意；approve 批准、赞成、同意、认可
@@ -103,12 +116,15 @@
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
-- array n.数组、阵列、v.布置、排列
+- array n.数组、阵列、大批、大量、v.布置、排列
+- articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
+- artificial a.人工的、人造的、人为的、虚假的
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - assemble 集合、组装、装配、收集、聚集、组合
 - assembly n.装配、集会、议会、会议、立法机构
-- assess v.评估、评价、评定、估算
+- assert v.声称、断言、明确肯定、维护、坚持、生效
+- assess [əˈses] v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
 - asset 资产、财产、有价值的人
 - assign [əˈsaɪn] 分配、选派、指定、派遣、确定、转让

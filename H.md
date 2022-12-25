@@ -9,6 +9,7 @@
 - hint 暗示、示意、提示、征兆、迹象
 - histogram 柱状图、直方图
 - historical a.历史的、历史上的
+- hold v.持有、抓住、容纳、保留、持有、n.持、抱、拿、握  take hold 抓住、还可做持续
 - homo 高、同、人属、人类、佃户、侍从
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
 - horrible a.可怕的、糟糕的

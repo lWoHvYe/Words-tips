@@ -9,9 +9,11 @@
 - illegal 不合法的、非法的、违法的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
+- immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
 - immigrate vi.移入、移民  emigrate vi.移居国外、移民
+- immense a.广大的、巨大的、极大的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
@@ -47,6 +49,9 @@
 - individual 个人、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
 - induction 就职、催生、电磁感应
+- industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司
+- industrialist n.工业家、实业家
+- industrialize/industrialise v.工业化
 - industry n.工业、行业、勤奋、勤劳
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inherent a.固有的、内在的
@@ -71,7 +76,7 @@
 - inquire v.询问、打听
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
-- insight 眼光、洞察力、洞悉、领悟
+- insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
 - inspect v.检查、视察
 - inspite of 尽管、即使
@@ -79,7 +84,8 @@
 - instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
 - instantiate v.实例化
 - instantiation n.实例化
-- institution 机构、协会、制度、惯例
+- institute v.建立、制定、开始、着手、n.学院、协会、研究所、机构
+- institution n.机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
 - instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
 - instrumentation 仪器、仪表、手段
@@ -91,7 +97,7 @@
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
 - integrity n.完整、廉正、正直、诚实、保存、健全
 - intelligible 可理解的、易懂的
-- intelligence n.智力、才智、情报
+- intelligence n.智力、才智、情报  artificial intelligence 人工智能
 - intend v.计划、打算、想要、意指、意欲
 - intensity n.强烈、紧张、剧烈、强度
 - intensive 密集的、彻底地、十分细致的、集约的、加强的、强烈的
@@ -114,13 +120,13 @@
 - introduce 介绍、引进、提出、作为...的开头
 - introspect v.反思、内省、自省
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
-- invalidate 使无效、使作废、证明...错误、使站不住脚
+- invalidate v.使无效、使作废、证明...错误、使站不住脚
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
 - invest v.投资、花费、装饰
-- investigate 调查、研究、审查、侦查、做调查
+- investigate v.调查、研究、审查、侦查、做调查
 - investment 投资、投资额、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待

@@ -40,7 +40,9 @@
 - engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、密切关系  engagement in 参与
+- enormous a.巨大的、庞大的、极大的
 - enrichment 丰富、充实、改进、肥沃
+- enroll v.登记、注册、招收、加入
 - ensure v. 确保、担保、保证
 - enterprise 企业、事业单位、事业心、进取心
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
@@ -73,6 +75,7 @@
 - estimate v.估计、估算、估价、n.估计、预测、报价
 - ethic 伦理、伦理观、道德体系
 - ethical a.道德的、伦理的
+- euro 欧元
 - evacuation 疏散、撤离、撤退、搬空
 - evaluate v.估计、评价、评估
 - evaluation n.评价
@@ -87,6 +90,7 @@
 - excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchequer n.财政部、国库、金库
+- exclaim v.呼喊、惊叫、大声说出
 - exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive 独家、专用的、高级的、独有的、独占的、独家新闻

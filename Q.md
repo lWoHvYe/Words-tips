@@ -4,6 +4,7 @@
 - quarter 四分之一、一刻钟、把...四等份、给...提供食宿
 - quarterly 每季的、季度的、按季的
 - questionaire 问卷、调查表
+- quickness n.机智、机敏、敏捷
 - quit 离开、放弃、辞职
 - quiz 提问、咨询、测验、盘问、挖苦、张望
 - quota 定量、定额、配额、限额、指标

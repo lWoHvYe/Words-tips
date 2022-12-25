@@ -1,7 +1,10 @@
 - vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
+- vaccine n.疫苗、菌苗、a.疫苗的、痘苗的
 - valentine 情人
 - valid 有效的    invalid 无效的
-- valuate 评价
+- validate v.验证、证实、使生效、批准、确认
+- valuate v.对...作评估、对...作评价
+- valuation n.估价、估值、评估、评价
 - variable n.变量、可变因素、a.变化的、可变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
@@ -11,6 +14,7 @@
 - vast a.巨大的、庞大的、大量的、n.浩瀚、广大无边的空间
 - vault 墓穴、拱顶、地下室、金库、保险库、跳跃、腾跃
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
+- velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
 - venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机
@@ -18,6 +22,7 @@
 - verbiage 用语、措辞、废话、冗余、晦涩
 - verbose 冗长的、啰嗦的
 - verify v.证明、证实、核实、查证
+- version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
 - very ad.很、非常、a.恰好的、仅仅的、唯独的
 - vet 审查、仔细检查、兽医

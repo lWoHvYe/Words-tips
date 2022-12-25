@@ -18,8 +18,8 @@
 - carbon [ˈkɑːbən] n.碳、复写纸、碳精电极、a.碳的
 - cardinality n.基数
 - carnival 嘉年华、狂欢节、节日、联欢
-- carrer 职业、生涯
-- carry 携带、传输、输送、运载、传播、带来、刊登、进位    carry out 进行、实施、贯彻
+- carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
+- carry 携带、传输、输送、运载、传播、带来、刊登、进位    carry out 进行、实施、贯彻、执行
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
 - cash 现金、资金、兑现支票、现金的
@@ -32,6 +32,7 @@
 - caution 警告、告诫、小心、慎重
 - caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
+- census [ˈsensəs] n.统计、人口普查、人口调查
 - central 中央的、中心的
 - centralize 集中、使集中、成为...的中心、集权控制
 - Centralized 中心化 Decentralized 去中心化
@@ -45,9 +46,10 @@
 - character n.性格、角色、特点、文字、字母、符号
 - characterise 是...的特征、以...为特征、描述
 - characteristic 特征、特点、品质、特有的、典型的、独特的
-- charge 控告、谴责、指责、要价、收费 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
+- charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、控诉、充电 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
 - charity n.慈善机构、慈善、施舍
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
+- chat n/v.聊天、闲聊
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - choice n.选择、挑选、a.优质的、上等的
@@ -55,6 +57,7 @@
 - chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
 - chronicle n.编年史、历史、v.按事件发生顺序记述、把...载入编年史
 - chunk 大块、厚块、组块
+- cinema n.电影、电影院
 - circuit [ˈsɜːkɪt] 巡回、电路、线路 Circuit breaker 断路器
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
@@ -64,6 +67,7 @@
 - claim v/n宣称、声明、索赔、索要、所有权
 - clarify 澄清、阐明
 - clarity 清晰、清楚、明确、透明、清晰度
+- class n.班、班级、课、上课、阶级、等级、种类、v.把...归入某等级、把...看作、a.很好的、优秀的、出色的
 - classify v.分类、划分、界定
 - classified a.机密的、分类的、归类的
 - classification 分类、归类
@@ -71,6 +75,8 @@
 - climate  n.气候、趋势、状况、倾向、形势
 - clipboard 剪切板
 - cluster 群、丛、簇
+- coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
+- coastal a.沿海的、海岸的
 - code 密码、电码、代码、编码、道德准则、行为规范、法典、wei...编码、编程序
 - codec 编解码器
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
@@ -115,6 +121,8 @@
 - composite 混合成的、复合的、合成的、混成的、复合材料、合成物、混合物
 - composition n.作文、作曲、创造、构图、成分、构成、妥协、和解
 - compound n.复合物、化合物、a.复合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
+- comprehension n.理解、理解力、领悟能力
+- comprehensive a.综合的、广泛的、有理解力的、悟性好的、总体担保的、n.综合中学
 - compress v.压紧、压缩、精简、浓缩、n.敷布、压布
 - comprise v.包含、包括、由...组成、由...构成
 - compromise n/v.妥协、折中、互让、让步、和解、达成妥协
@@ -131,6 +139,7 @@
 - conclusion 结论、推论、结果、结尾、结局、签订、达成、缔结
 - concrete [ˈkɒŋkriːt] a.具体的、有形的、实在的、固结成的、混凝土制的、v.用混凝土浇筑、n.混凝土
 - concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
+- condemn [kənˈdem] v.谴责、指责、宣判、宣布、迫使
 - condition 条件、状态、状况、健康状况、处境、训练、使习惯于、使适应、养护
 - conduct n.行为、举止、v.执行、引导、安排
 - conference n.会议、讨论、研讨会
@@ -142,6 +151,7 @@
 - congress n.国会、议会、v.开会、集合
 - conjunct 结合的、联合的、连接的
 - conjunction n.连词、连结、结合、联合、结合物
+- consecutive a.连续的、连贯的、表示结果的
 - consensus [kənˈsensəs] n.一致的意见、共识
 - consent n/v.同意、准许、允许
 - consequence n.推论、结果、成果、重要性
@@ -162,8 +172,8 @@
 - constitute v.组成、构成、制定、设立、指派
 - constitution n.组成、构成、体质、体格、宪法、章程
 - constitutional a.宪法的、符合宪法的、本质的
-- constrain vt.强迫、约束、限制
-- constraint 强制、限制、限定、约束
+- constrain [kənˈstreɪn] vt.强迫、约束、限制
+- constraint n.强制、限制、限定、约束
 - construct 构成、构建、修建、建造、结构、结构体、建筑物
 - consult 咨询、请教、商量、查阅
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
@@ -171,6 +181,7 @@
 - contact n/v.联系、联络、接触、触摸、a.有关系的
 - contemplate v.沉思、考虑、思量、注视、凝视
 - contempt n.轻蔑、轻视、鄙视
+- contend v.竞争、争夺、辩论、争辩、声称、主张、认为
 - content 内容、目录、主题、满足、愿意、满足的、满意的、使满足、使满意
 - contest n.比赛、争论、v.争取赢得、争辩
 - context 语境、上下文、背景
@@ -185,6 +196,7 @@
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
 - convenient a.实用的、便利的、方便的、附近的
 - convention n.会议、惯例、习俗、规矩
+- converge v.会聚、聚集、相交、会和
 - conversation n.会话、交流、交往
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
 - convey [kənˈveɪ] v.运送、输送、表达、传播
@@ -198,11 +210,12 @@
 - coroutine 协同程序、联立程序
 - corporate [ˈkɔːpərət] 公司的、法人的、社团的、团体的、共同的
 - correspond 顺应、契合、符合、一致、通信
+- corruption [kəˈrʌpʃn] n.腐败、贪污、贿赂、受贿
 - council [ˈkaʊnsl] 委员会、理事会、俱乐部、开会、审议、讨论、委员、会议用的、议事用的
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
 - counterparty 对手方、合同的一方、合约对方、交易对方
-- couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合
+- couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对
 - course n.课程、航线、v.奔流、涌动
 - court n.法院、法庭、v.试图取悦、讨好、求爱、求婚、恋爱
 - covenant n.盟约、合约、契约、合同、v.立约、订立契约、订协定
@@ -234,6 +247,7 @@
 - curriculum [kəˈrɪkjələm] 课程、全部课程、课表
 - curve n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
 - custody 监管、拘留、羁押、抚养权、监护权
+- custom n.习惯、惯例、海关、关税、惠顾、光顾、a.定制的、定做的
 - customer 客户
 - cute a.可爱的、机灵的、性感的、矫揉造作的
 - cycle n.周期、循环、v.循环、轮转、骑自行车

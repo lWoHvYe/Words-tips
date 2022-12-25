@@ -4,6 +4,7 @@
 - debt 借款、欠款、债务、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
+- decent a.得体的、相称的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide 决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] 决定、决策、做决定
@@ -26,7 +27,7 @@
 - deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
 - degrade v.降低、贬低、退化、降解、分解
-- degree n.度、程度、学位
+- degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
 - delegate 代表、把...委派、选派
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
 - deliquency 犯罪、违法行为、不法行为、少年罪犯、过失、罪过
@@ -39,10 +40,11 @@
 - denial 拒绝、否定、剥夺、否认
 - denote 标志、预示、象征、表示
 - density n.密集、稠密、密度
+- depict v.描述、描绘、描画、刻画
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
 - depress v.压下、压低、降低、减少、使沮丧、使消沉
 - derive v.得到、获得、源于、产生、提取、派生
-- describe 叙述、描写、形容、描绘
+- describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
 - deserve v.应受、值得
 - design v.设计、构思、意图、n.设计、图样
@@ -55,8 +57,9 @@
 - detach v.派遣、分离、拆开、摆脱
 - detect 查明、发现、探测、侦查
 - determine 决定、下决心、准确算出、支配、影响
+- devaluation n.(货币)贬值
 - devastate 毁灭、破坏、蹂躏、使荒废
-- develop v.发展、形成、开发、研制、患(病)、养成、显现出、详细阐述
+- develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device 装置、设备、方法、策略、手段
 - diagnose v.诊断、确诊
@@ -70,8 +73,10 @@
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
 - digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
 - digitize 数字化
+- dignity n.庄严、端庄、尊严、高贵
 - diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - dimension n.次元、度、维(度)、尺寸
+- diminish v.减少、减弱、降低、贬低、轻视
 - dioxide n.二氧化物
 - direct a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
@@ -97,6 +102,7 @@
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
 - dissolve v.溶解、解除(婚姻关系)、终止(商业协议)、解散、除去
 - distinct 不同的、明显的、清楚的、明白的、确切的
+- distinguish v.区分、辨别、分清、认出、听出、引人注目
 - distract v.分散(思想)、转移(注意力)、使分心
 - distraction n.分散注意力、娱乐、消遣
 - distribution 分配、分布、经销、分销
@@ -107,8 +113,11 @@
 - division 分开、分隔、分配、除（法）
 - divorce n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
+- doctoral a.博士的、博士学位的
+- dollar n.美元
 - domain 领域、范围、领土、域、域名
 - dome 穹顶、圆屋顶、圆顶状物、加圆屋顶于...上
+- domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
 - dominate v.支配、影响、占优势
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
@@ -121,7 +130,8 @@
 - drawback 缺点、劣势、不利条件、退税
 - drill 训练、操练、演习、钻、钻头
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
-- drup n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- drug n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
 - durable [ˈdjʊərəbl] 耐用的、持久的、长期的、耐用品、耐久品
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品

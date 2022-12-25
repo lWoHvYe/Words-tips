@@ -14,14 +14,16 @@
 - realm 领域、范围、王国、部门、界
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
+- rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - recap 概括、扼要重述、简要回顾、翻新
 - recent 最近的、近来的、新近的
 - receipt 接收、收到、收入、收据、开收据
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
+- reckon v.估计、认为、估算、预计、指望、料想
 - recognize 认出
 - reconcile v.调和、调停、使和好、使和解
-- recommend 推荐、劝告、建议、托付、使显得吸引人、使受欢迎
+- recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
 - record 唱片、履历、档案、记录、声明、标明
 - recoup 补偿、收回、弥补
 - recovery 恢复、痊愈、取回
@@ -34,7 +36,9 @@
 - refine v.精炼、提炼、改进、改善
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain 抑制、避免、克制、节制
+- refund n/v.退款、退还
 - regard 将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
+- regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - region 地区、区域、行政区、管辖区、层、界、境
 - regress 倒退、回归、退化
 - regret 遗憾、后悔、抱歉、感到后悔、感到抱歉
@@ -46,6 +50,7 @@
 - relative 相对的、比较的、比较而言的、亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
+- release v.释放、发布、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、泄露
 - relevant 相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
@@ -88,7 +93,9 @@
 - respective a.分别的、各自的
 - responsibility n.责任、义务
 - responsible a.负责的、可信任的、有责任、承担义务
+- rest v.休息、放松、支撑、依靠、n.其余、剩余部分、休息时间、支撑物、安静、安宁 rest on/upon 依赖、依靠、基于 rest with 在于、取决于
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
+- restrain v.制止、阻止、管制、约束
 - restrict v.限定、限制、约定、制约、束缚、妨碍
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的

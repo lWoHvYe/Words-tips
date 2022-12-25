@@ -15,12 +15,13 @@
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
 - opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
-- oppose v.抵制、反对、使相对、使对照
+- oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
 - optional 可选的、随意的、任意的、选修的、选修科目
 - orchestrate 策划、编排、把..编成管弦乐
+- order n.顺序、次序、订单、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
@@ -34,7 +35,7 @@
 - outrage n.愤怒、暴行、v.使震怒、激怒
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
-- overall 全面的、综合的、总体的、全部、总计、大致上、总体上、外套、罩衣
+- overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overlap 重叠、交叠、重叠时间
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的
