@@ -4,6 +4,7 @@
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
 - parachute n.降落伞、保护伞、v.空降、空投
+- parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
 - paradox n.悖论、矛盾的人或事物
 - paragraph n.段落、节、v.将...分段
@@ -13,6 +14,8 @@
 - particular 特定的、特别的、细节、详情
 - partition 隔断、分隔、瓜分、使分裂
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
+- pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
+- passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
 - passive a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
@@ -28,10 +31,11 @@
 - percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
 - perceptive [pəˈseptɪv] a.感性的、理解力强的、有洞察力的、思维敏捷的
-- perfect a.完美的、正确的、极好的、v.使完善、使完备、n.(动词的)完成时(态)
+- perfect a.完美的、正确的、极好的、完善的、v.使完善、使完备、n.(动词的)完成时(态)
 - perfectly ad.完全地、非常、十分、圆满地
 - perform v.履行、执行、表演、演出、工作
 - performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
+- perhaps ad.可能、大概、也许、或许、n.假定、猜想
 - period 时期、一段时间、阶段、时代
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
@@ -65,16 +69,18 @@
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
 - pluggable a.可插拔的
+- plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - pocket 口袋、金钱、财富
 - poem 诗、韵文
 - poetry n.诗、诗歌、诗意
 - point 指向、观点、论点、目的、点
+- polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
 - political 政治的、政府的、政权的
 - pollute v.污染、弄脏
 - ponder 思考、琢磨
 - popular 受欢迎的、流行的、大众的、通俗的
-- populate 居住于、生活于、落户于、迁移、迁居、移民、增添数据、输入数据
+- populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - port 港口、口岸、避风港、左舷、端口、移植
 - portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
@@ -86,7 +92,7 @@
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - post 邮递、邮寄、终点、发布、公布、交付
-- potential 潜在的、可能的、可能性、潜力、潜质、电位、电势、电压
+- potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
 - pour 倾、倾泻、涌出、大雨、浇筑
 - practical a.实践的、实际的、切实可行的、有用的、n.实验课、实践课
 - practicality n.实践性、可行性、实事求是、实际情况
@@ -100,13 +106,16 @@
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
+- pregnant a.怀孕的、孕育着...的、富于想象的
 - premature a.过早地、早产的、提前的、草率的
+- premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
 - prepare 准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
 - prescribe v.规定、指定、命令、开处方
 - prescription n.规定、法规、处方、药方、法定期限、时效、a.凭处方供应的、根据处方配置的  prescription drug 处方药
 - presence n.在场、出席、存在、出现
-- present a.目前的、现在的、n.现在、存在、v.提出、授予、显示、表现
+- present a.目前的、现在的、当前的、出席的、存在的、n.目前、现在、存在、礼物、v.提出、陈述、授予、显露、表现、描述、带来
+- presently ad.目前、现在、不久、马上
 - presentation n.提交、演示、陈述、报告、颁发、授予
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
@@ -117,16 +126,24 @@
 - pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
 - prevail [prɪˈveɪl] v.流行、盛行、说服、劝说
 - prevent 防止、阻止、阻碍、阻挠
-- previous 先前的、以前的
+- previous a.先前的、以前的
+- prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
+- pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - primary 主要的、最初的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
+- prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
 - prior a.先前的、在前的、优先的
 - priority n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy 隐私
+- prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
+- proactivity n.积极性、主动性
+- probability [ˌprɒbəˈbɪləti] n.可能性、几率、概率、可能的结果
+- probable [ˈprɒbəbl] a.可能的、大概的、n.很可能的事、可能入选者
+- probably [ˈprɒbəbli] ad.大概、也许
 - probation 试用期、见习期、缓刑期
 - probe n.探头、探查、探针、v.探查、探究、盘问、追问
 - procedure n.程序、手续、过程、步骤
@@ -143,17 +160,20 @@
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - prominent a.重要的、著名的、杰出的、突出的
 - promise n/v.允许、许诺、承诺、保证
+- promote [prəˈmoʊt] v.促进、推动、提升、晋升、晋级
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
-- prompt 迅速的、敏捷的、立刻的、准时的、提示、促使、导致
+- prompt a.迅速的、敏捷的、立刻的、准时的、v.提示、促使、导致、n.提示、提示符
 - pronounce v.发音、读、宣布、宣称、演讲
 - proof n.证据、证明、证实、检验、标准酒精度、v.给...做防护处理、使防水/防火、a.能抵御的、能防范的、防...的、抗...的
 - propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
 - propagate v.传播、宣传、繁衍、增殖
-- proper 适当的、正确的、恰当的、正当的、规矩的、弥撒、书的章节、非常、完完全全地、彻底地
+- proper a.适当的、正确的、恰当的、正当的、规矩的、ad.非常、完完全全地、彻底地
 - properly 正确的、适当的、恰当的、完全、非常
 - property n.所有物、财产、性质
 - propagate 传播、宣传、繁殖、增值
 - proportion n.比率、比例、面积、相称、平衡、v.分配、使成比例
+- proposal n.提议、建议、求婚、投标
+- propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
 - prospect n.展望、设想、前景、可能性、v.探矿、勘探
@@ -161,6 +181,7 @@
 - prosperity n.兴旺、繁荣、成功、昌盛
 - protect 保护、防护
 - protest n/v.抗议、反对
+- protocol n.协议、礼仪、草案、规程、规约、v.拟
 - prototype 原型、雏形、蓝本
 - prove v.证明、证实、证明是、结果是
 - provided conj.假如、如果、在...条件下

@@ -1,6 +1,6 @@
 - daemon 守护进程
 - deal 处理、协议、大量、许多、交易、待遇、发牌
-- debate 辩论、争论、讨论、仔细考虑、思考、盘算
+- debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt 借款、欠款、债务、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
@@ -12,10 +12,12 @@
 - decline n.下降、衰落、v.下降、减少、谢绝、婉拒
 - decode 解码、破译、译解
 - decorate 装饰、点缀、粉刷、授予(某人)勋章、布置
+- decouple v.分离、隔断、解耦
 - dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
 - deduce 推论、推断、演绎
 - default 默认、违约、不履行义务
+- defeat n/v.战胜、击败、挫败
 - defect 缺点、缺陷、瑕疵
 - defend v.防御、保护、防卫
 - defendant n.被告、a.被告的、辩护的
@@ -29,8 +31,9 @@
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
 - delegate 代表、把...委派、选派
+- deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
-- deliquency 犯罪、违法行为、不法行为、少年罪犯、过失、罪过
+- delinquency 拖欠(债款/贷款)
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
 - demand n/v.需要、要求、请求、需求
@@ -38,11 +41,15 @@
 - demonstrate 证明、证实、表现、表达、示范、演示、表露、示威游行
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
-- denote 标志、预示、象征、表示
+- denote v.标志、预示、象征、表示、代表
 - density n.密集、稠密、密度
 - depict v.描述、描绘、描画、刻画
+- depart v.离开、离去、出发、离职、脱轨
+- departure n.离开、出发、背离、违反、逾越
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
 - depress v.压下、压低、降低、减少、使沮丧、使消沉
+- depute v.委托、将...交给某人、委派...为代表
+- deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
 - derive v.得到、获得、源于、产生、提取、派生
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
@@ -55,6 +62,7 @@
 - destination 目的地、终点
 - destruction 摧毁、毁灭、破坏
 - detach v.派遣、分离、拆开、摆脱
+- detail n.细节、详情、v.详细列举、详细说明、派遣、选派
 - detect 查明、发现、探测、侦查
 - determine 决定、下决心、准确算出、支配、影响
 - devaluation n.(货币)贬值
@@ -66,6 +74,7 @@
 - diagram 图表、示意图、图解
 - dialect 方言
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
+- dictate v.口述、命令、决定、支配、n.命令、规定
 - dictation n.口述、听写
 - die 死亡、凋零、渴望、盼望、模具、冲模、压模
 - diet 日常饮食、规定饮食、节制饮食
@@ -74,9 +83,11 @@
 - digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
-- diligent 勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
+- diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
+- dilution n.稀释
 - dimension n.次元、度、维(度)、尺寸
 - diminish v.减少、减弱、降低、贬低、轻视
+- diode n.二极管
 - dioxide n.二氧化物
 - direct a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
@@ -87,13 +98,17 @@
 - discern v.看出、理解、识别、辨别
 - discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
 - disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
+- disclose v.披露、透露、泄露、揭露
 - disclosure [dɪsˈkloʊʒər] 公开、泄漏、纰漏
-- discourse n.论文、演讲、v.讲述、叙述、讨论
-- discover 发现、发觉、了解到、认识到
+- discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
+- discover v.发现、发觉、撞见、碰见、了解到、认识到
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
+- dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
+- disparage v.贬低、轻视、批评、非难
+- disparate a.完全不同的、迥然不同的、无法比较的
 - dispatch 派遣、调度、迅速处理、处决
 - dispensation 豁免、宽免、分配、实施、制度
 - dispersal 分散、散布、消散、驱散
@@ -105,7 +120,7 @@
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
 - distract v.分散(思想)、转移(注意力)、使分心
 - distraction n.分散注意力、娱乐、消遣
-- distribution 分配、分布、经销、分销
+- distribution 分配、分布、经销、分销、配送
 - disturb 打扰、干扰、使焦虑、使不安
 - diverge v.偏离、分歧
 - diversity 差异、不同、多样性、多样化
@@ -121,9 +136,10 @@
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
 - dominate v.支配、影响、占优势
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
+- double a.双的、两倍的、v.加倍
 - doubt [daʊt] 怀疑、疑虑、未确定
 - downstream 下游的、引发的、顺流而下
-- draft [dræft] 草稿、起草中的、起草、草拟
+- draft [dræft] n.草稿、a.起草中的、v.起草、草拟
 - drama n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局

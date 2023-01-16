@@ -6,13 +6,15 @@
 - ideology n.思想、意识形态、空想、空论
 - idle 空闲的、无意义的、懒惰的、空转、虚度、挂空档
 - idol 偶像、崇拜物、幽灵、谬论、幻觉
-- illegal 不合法的、非法的、违法的
+- illegal a.不合法的、非法的、违法的
+- illiberal a.不自由的、吝啬的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
 - immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
 - immigrate vi.移入、移民  emigrate vi.移居国外、移民
+- imminent z.迫在眉睫的、即将发生的、临近的
 - immense a.广大的、巨大的、极大的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
@@ -30,12 +32,14 @@
 - improper 不合适的、不正确的、不道德的、不合礼仪的
 - improve 提高、改进、改善
 - improvise v.即兴创作、临时拼凑
+- inappropriate a.不合适的、不恰当的、不合时宜的
 - incentive n.激励、诱因、刺激、a.激励的、鼓励的
 - incidence 发生率、影响范围、关联、接合、入射、入射角
 - incident 事件、事变、事端、摩擦、冲突、易引起的
 - inclusion 包含、包括
 - inclusive 包括的、包罗广泛的
-- incorporate 包含、合并、吸收、使混合、具体化了的
+- inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
+- incorporate v.包含、合并、吸收、使混合、a.具体化了的
 - incredible a.难以置信的、不可思议的
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
@@ -58,7 +62,7 @@
 - inherit v.继承、接替、继任
 - infer v.推论、推理、推断、暗示、意指
 - inference n.推论、推理、推断
-- inferior a.低劣的、次的、较差的、n.不如别人的、部下、下属
+- inferior a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - influence 影响、支配力、支配、左右
@@ -70,7 +74,9 @@
 - inheritance 继承、遗传、遗产
 - initial 初始、最初的
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
+- initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
 - inject 注射、注入
+- innocent a.清白的、无辜的、无罪的、无知的
 - innovate v.引入(新事物、思想或方法)、改革、创新
 - innovation 创新、革新
 - inquire v.询问、打听
@@ -84,12 +90,14 @@
 - instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
 - instantiate v.实例化
 - instantiation n.实例化
+- instead ad.相反、代替、反而
 - institute v.建立、制定、开始、着手、n.学院、协会、研究所、机构
 - institution n.机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
 - instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
 - instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
+- insufficient [ˌɪnsəˈfɪʃnt] a.不足的、不充分的
 - insurance 保险、保险单、保险费、保障措施
 - insure v. 投保、承保
 - intake n.吸入、摄入、进气
@@ -97,19 +105,21 @@
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
 - integrity n.完整、廉正、正直、诚实、保存、健全
 - intelligible 可理解的、易懂的
-- intelligence n.智力、才智、情报  artificial intelligence 人工智能
+- intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
 - intend v.计划、打算、想要、意指、意欲
 - intensity n.强烈、紧张、剧烈、强度
-- intensive 密集的、彻底地、十分细致的、集约的、加强的、强烈的
+- intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的
 - intent n.目的、意图、a.热切的、专切的
 - intentional a.故意的、蓄意的
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
-- interim 临时的、过渡的、过渡期间
+- interim [ˈɪntərɪm] a.临时的、过渡的、n.间歇、过渡期间
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal 内部的、内心的、内脏、本质
+- Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
+- interpret v.解释、说明、理解、领会
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - intersect 横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注

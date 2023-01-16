@@ -1,3 +1,4 @@
+- abbreviate v.缩写、缩略
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
@@ -16,7 +17,7 @@
 - accomplish v.完成、达到
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
-- account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内
+- account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
 - accurate a.精确的、准确的、正确无误的
@@ -30,16 +31,19 @@
 - actual 实际的、真实的、现在的、现行的
 - actuator 致动器、传动、执行机构
 - acute 严重的、急性的、灵敏的、敏锐的、锐角的
+- ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - adapt 适应、改编、使适合、改编、改写
 - addict n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - additional 额外的、追加的、附加的、补充
 - adequate 充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
-- adjust 适应、调整、调节、校正、校准
+- adhocracy n.临时委员会、特别委员会
+- adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
 - admit v.承认、允许、确认、许可进入
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
-- adult 成人、成人的 adulthood 成年、成年期
+- adult n.成年人、成人、a.成人的 
+- adulthood 成年、成年期
 - advance v.前进、行进、进步、进展、上涨、提高、促进、推动、预付款、预付、提出、提前、a.预先的、事先的、n.先遣队、先头部队
 - advanced (过去式/过去分词) 先进的、高级的、高等的、前进、行进、推动、发展、进步、促进
 - advantage 有利条件、有利因素、优势、优点、有利于、有益于、促进
@@ -52,42 +56,51 @@
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
 - affect v.影响、侵袭、感动、n.情感、偏差
+- affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
 - afford 提供、给予、负担得起、买得起
+- afterward ad.后来、之后
 - against 反对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
 - agenda (复数)议程、议程表
 - agency n.代理、机构
 - agent 代理人、代理商、由...代理、代理的
+- agile a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
 - aggregate 总数的、合计的、合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - agnostic 不可知论者、不可知论的
 - aid n/v.援助、帮助、救助
-- aircraft n.飞机、航空器 
+- aircraft n.飞机、航空器
+- airline n.航线、航空公司
 - airport n.机场、航空站、航空港
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
-- align 排列、校准、排整齐、使一致
+- align [əˈlaɪn] v.排列、校准、排整齐、使一致
+- alignment n.对齐、较直、队列、结盟
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
 - allocate 分配、拨...(给)、划...(归)
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alter v.改变、更改、修改
-- alternate 候补、代理人、交替、轮流、交替的、轮流的
+- alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
 - altitude n.海拔
 - amber 琥珀、琥珀色
 - amend v.修正、修订、改良、修改
 - amicable a.友好的、友善的
+- amid prep.在...中间、在...之中
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogy [əˈnælədʒi] 类比、比喻
 - analyst [ˈænəlɪst] 分析师、化验员
 - ancient 古代的、古老的、古代人
+- ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
+- anecdotal a.逸事的、趣闻的、传闻的
+- anecdote n.轶事、奇闻、逸事
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
@@ -98,17 +111,20 @@
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
 - applause n.掌声、鼓掌、喝彩
-- applicability 适用性、相关性
+- applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
 - apply v.申请、应用、运用、适用、适合  apply to 适用于、运用  apply for 申请
 - appoint 任命、委派、安排、约定、确定
+- appointment n.任命、约会、职务、职位
 - apportion v.分配、分摊、分派
+- appraisal n.评价、估价、鉴定
 - appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
 - apprehension n.忧虑、担心、理解、领悟、拘捕
-- approach v.接近、靠近、n.方法、建议、要求、着手处理
-- appropriate 适当的、恰当的、挪用、盗用、占用
+- approach v.接近、靠近、探讨、处理、对待、n.方法、路径、建议、要求
+- appropriate a.适当的、恰当的、v.侵吞、挪用、盗用、占用
 - approval 批准、同意；approve 批准、赞成、同意、认可
+- approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
 - arbitrary a.随意的、任意的、武断的
 - architecture 体系结构、建筑学、结构
 - archive 存档、档案文件、档案室
@@ -117,6 +133,8 @@
 - arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
 - array n.数组、阵列、大批、大量、v.布置、排列
+- arthritic a.关节炎的
+- arthritis n.关节炎
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
@@ -127,19 +145,21 @@
 - assess [əˈses] v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
 - asset 资产、财产、有价值的人
-- assign [əˈsaɪn] 分配、选派、指定、派遣、确定、转让
+- assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
+- assignment n.分配、布置、工作、任务
 - assist 帮助、援助
 - assistant 助手、助理、助理的、辅助的、副的
 - associate 联合、联想、联系、交往、非正式的、准的、副的、伙伴、同事、合伙人
 - assume v.假定、假设、承担、担任
 - assumption 假定、假设、承担、担任
+- assurance n.保证、担保、保险
 - assure 向...保证、使...确信、保证、确保
 - astray 迷路的、堕落、误入歧途的、迷路
 - asymmetric 不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
 - atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
-- attest 作证、证明、证实
+- attest v.作证、证明、证实
 - attorney n.律师、代理人
 - attract v.吸引、诱惑、引人注意
 - attrition 损耗、消耗
@@ -153,6 +173,7 @@
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available 可获得的、有空的、能找到的
+- avenue n.大街、大道、途径、渠道、手段
 - averse a.厌恶、不喜欢、不想做、反对做
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的

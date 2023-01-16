@@ -29,14 +29,18 @@
 - via 通过、经由、经过、凭借
 - vice 恶习、不道德行为、缺点、缺陷、瑕疵、副的、代理的、代替的
 - victim 受害者、牺牲品、上当的人、祭品、牺牲
+- victory n.成功、胜利
 - view 看法、看、视野、见解、态度、景色、风景 view as 认为、视为、视作
 - violate 违反、侵犯、亵渎、强奸
 - violation 违反、违章、侵犯
 - virtual [ˈvɜːtʃuəl] 实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的
 - virtue n.美德、德行、良好习惯、优点、长处
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
+- visible a.可见的、明显的、n.现实世界
 - vision n.视力、视野、画面、幻象、v.想象
 - visual a.视力的、视觉的、看得见的、n.画面、图像
+- visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital 至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vocabulary n.词汇量、词汇表
-- vulnerable 脆弱的、易受攻击的、易受伤的
+- vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
+- vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

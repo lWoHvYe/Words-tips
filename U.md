@@ -1,13 +1,21 @@
 - ultimate a.最后的、最终的、最好的、基本的、基础性的、v.极品、精华
 - unanimous a.全体一致的、一致同意的
 - undergraduate n.(尚未获得学士学位的)大学生、大学本科生、a.大学本科的、大学生的
-- underlie v.构成...的基础、作为...的原因  underling a.根本的、潜在的、隐含的
+- underlie v.构成...的基础、作为...的原因  
+- underlying a.根本的、潜在的、隐含的、v. underlie的现在分词
 - underline v.划线、强调
-- underpin 加强、巩固、构成
-- underwrite 认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
+- underpin v.加强、巩固、构成(...的基础)
+- undertake v.承诺、保证、承担、从事、同意、答应
+- underwrite v.认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
+- underwriting n.保险业、v.承担经济责任、承保、承销
+- undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
 - unicast 点播、单播、单点传送
+- uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
+- union n.同盟、联盟、联邦、协会、工会
 - unit 单元、单位、机构
+- unsound a.不健全的、靠不住的、有错误的、腐烂的
+- unsurpassed a.无法超越的、无与伦比的、卓越的
 - up a.向上的、高兴、激动、ad.在上面、向上、起来、起床、prep.向、在、沿着、顺着、v.突然移动、提高...价格、n.效用通路  be up to sb 由某人决定、是某人的职责、取决于某人
 - uplift v.鼓励、激励、振作、上升、升起、n.隆起、提高、振奋、鼓舞
 - upon 在...上面、当...时候
@@ -16,4 +24,4 @@
 - urge n.刺激、冲动、v.催促、敦促、力劝
 - urgent a.紧急的、迫切的
 - utility 公用事业、功用、效用、多用途的、多效用的、多功能的
-- utilize 使用、利用、运用、应用
+- utilize/utilise 使用、利用、运用、应用

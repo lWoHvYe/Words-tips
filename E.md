@@ -2,6 +2,7 @@
 - earn v.赢得、获得、赚得、博得
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
+- edge n.边、边缘、v.给...加边、略微增加/减少
 - edition 版本、版次、（报刊或杂志）一份、（广播电视节目）一期
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
 - efficient a.有效率的、效率高的、有能力的
@@ -13,10 +14,12 @@
 - electric a.电的、用电的、充满刺激的、n.供电
 - electronic 电子的、电子设备的
 - elegant 简明的、简洁的、优美的、文雅的
-- elevate 提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
-- eligible 合格的、有资格的、合格者、合乎条件的人、合意的、合适的、中意的
+- elevate v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
+- embarrass v.窘迫、尴尬、局促不安
 - embed 把...嵌入、嵌入、派遣
+- embody v.象征、体现、包含、包括、使具体化
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
 - emerge v.出现、浮现 emerging v.emerge的现在分词、a.新兴的
 - emergency 紧急情况、突发事件
@@ -54,7 +57,7 @@
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envy n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
-- epic 史诗、叙事诗、史诗般的作品、史诗般的、宏大的、壮丽的
+- epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
 - epoch 纪元、时代、时期
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
@@ -67,6 +70,7 @@
 - erasure 擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
 - escalate [ˈeskəleɪt] 逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
+- escalation n.扩大、增加、升级、价格调整
 - espresso n.浓缩咖啡
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
@@ -82,11 +86,15 @@
 - eventual 最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
+- evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] 准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、要求、索取、迫使、强迫、强求
+- examine v.检查、审查、考察、调查、考试、审问
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
 - excellence 优点、优秀、卓越
+- except v.把...除外、不计、prep.除了、conj.除了、只是
+- exception n.例外、除外、(程序中的)异常
 - excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchequer n.财政部、国库、金库
@@ -102,10 +110,12 @@
 - exercise 运动、锻炼、练习、习题、行使
 - exfiltrate 渗出、渗漏、滤出、流出
 - exhaust [ɪɡˈzɔːst] 排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
+- exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
-- expect 预料、预期、预计、等待、期待、盼望
+- expect v.预料、预期、预计、等待、期待、盼望
+- expectation n.预料、预期、期待、期望值
 - expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
-- expend [ɪkˈspend] 花费、耗尽、用光
+- expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗
 - expense 费用、开销、花销、向...收取费用
 - expensive 昂贵的、花钱多的、豪华的
@@ -115,6 +125,7 @@
 - explict a.明确的、清晰的、直言的、坦率的、不隐晦的
 - exploit 开发、剥削、开拓、开采、利用、压榨、功劳、功绩
 - explore 勘查、探测、探索、研究、探讨
+- explorer n.探险家、探索者、探针
 - explosion 爆发、爆炸、炸裂、突增、激增
 - expose v.暴露、揭露、使曝光、使接触、n.陈述、阐述、揭露
 - exposure n.面临、暴露、揭发、曝光、拆穿
@@ -127,3 +138,4 @@
 - externalize 外化、表达
 - extract [ˈekstrækt , ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物
 - extraordinary a.特别的、非凡的、意想不到的
+- extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的

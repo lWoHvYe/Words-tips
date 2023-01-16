@@ -1,1 +1,3 @@
 - kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会
+- kit n.成套工具、配套元件、全套衣服、v.装备
+- knock v.敲、击、怦怦跳、n.敲击声、敲门声  knock off 下班、收工、使降低、使减少

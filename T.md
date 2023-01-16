@@ -3,8 +3,13 @@
 - tactic n.策略、手段、战术、a.排列的、顺序的
 - tactical 战术的、策略上的、巧妙设计的、有谋略的
 - tail 尾、尾巴、尾部、后部、燕尾服、尾随者、硬币反面、硬币文面、跟踪、尾随、盯梢、限定继承的
-- tailor 裁缝、做裁缝、调整使适应、为...做衣服、剪裁、专门制作、订做
+- tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
+- taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
+- takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
+- taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
+- tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
+- taxpayer n.纳税人
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
 - telescope n.望远镜
@@ -16,16 +21,22 @@
 - tendency n.趋势、倾向
 - tenor 男高音、大意、要旨、要领
 - tentative 试探性的、试验的、不确定的、尝试、假设、实验
+- tenure n.任期、任职、终身职位、占有期、保有权、保有期
 - term n.学期、术语、期限、v.把...称为、把...叫做
 - terminate 终止、停止、结束、解雇、到达终点站、终止的、有限的
 - terminology n.术语
 - ternary a.三元的
+- territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
 - theatre n.剧院、剧场、演出、上演
 - theft 盗窃、偷窃、赃物
+- theme n.题目、主题、题材、议题、主旋律、a.主题...
+- theorem n.(数学)定理、公理、定律、法则
+- theoretical a.理论的、理论上的
 - theory n.理论、原理、学说、推测
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
+- thereof ad.其、它的、由此
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat n.威胁、恐吓、构成威胁的人或事物
 - threshold 阈值、门槛、临界值、入口、开始、起始点
@@ -48,6 +59,9 @@
 - tombstone 墓碑、墓石
 - tone n.语气、语调、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
 - top up 充值
+- topic n.话题、主题、题目
+- topology n.拓扑结构、拓扑学
+- tort n.侵权行为
 - tough a.艰苦的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
 - track 小路、小道、痕迹、踪迹、跟踪、追踪、监看、监测
@@ -56,6 +70,7 @@
 - tragic 悲剧的、悲惨的、可悲的、悲痛的
 - train 火车、列车、队列、行列、培训、训练
 - transaction 交易、业务、事务、办理、处理
+- transcribe v.转录、抄写、改编
 - transcript 成绩单、抄本、誉本、打印本
 - transducer 传感器、变频器
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
@@ -63,11 +78,13 @@
 - transient a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
 - transition n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
+- translate v.翻译、转化、解释
+- translator n.翻译、翻译家、译员
 - transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - transportation n.运输、流放
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
-- traversal 遍历、穿越、追踪
+- traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
 - treasury 国库、金库、财政部、宝藏、宝库、备受宠爱的人、珍视、珍爱、珍重
 - treat 招待、款待、治疗、对待、乐事、乐趣
@@ -76,6 +93,8 @@
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
 - trigger 触发
 - trip 旅行、摔倒、绊倒、错误、过失
+- triple a.三倍的、三方的、v.增至三倍
+- triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性

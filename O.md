@@ -7,21 +7,25 @@
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
-- omit 省略、遗漏、删除
+- omit 省略、遗漏、删除、未能做
+- omission n.省略、遗漏、疏忽、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
 - onboard 随车携带的、机上的、舰上的、自主的、（也可做）客户/员工的新入
-- ongoing 不间断的、持续存在的、前进、发展、行为、举止
+- ongoing a.进行(中)的、不间断的、持续存在的、n.前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
+- operation n.手术、操作、经营、行动、运算、运转
+- opinion n.意见、主张、看法、观点
 - opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
+- option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权、
 - optional 可选的、随意的、任意的、选修的、选修科目
-- orchestrate 策划、编排、把..编成管弦乐
-- order n.顺序、次序、订单、v.命令、订购、点(餐)、组织
+- orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
+- order n.顺序、次序、订单、命令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
@@ -32,10 +36,13 @@
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
 - outbound 向外的、出港的、离开某地的
 - outcome n.结果、效果、成果、出路
+- outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
+- outlook n.见解、前景、观点、景色、景观
 - outrage n.愤怒、暴行、v.使震怒、激怒
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
+- overdraft n.(钱)透支、透支额
 - overlap 重叠、交叠、重叠时间
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的

@@ -4,8 +4,12 @@
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
 - wander n/v.漫步、徘徊、闲逛
 - warden n.管理人、看守人、监护人、学院院长、协会会长
+- ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
+- warehouse n.仓库、货栈、v.把...放入/存入仓库
+- watershed n.流域、分水岭、转折点
 - wealth 财产、财富、丰富、大量
 - weave 编织、编排
+- web n.网、网络、v.在...上织网、用网缠住
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
 - whilst conj/ad.同时、直到、虽然、尽管
 - wholesale n.批发、a.批发的、ad.大量地

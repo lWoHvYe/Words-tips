@@ -5,7 +5,7 @@
 - random a.随机的、无规则的、n.随意、偶然的行动
 - ransom 赎金、赎回、赎罪
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
-- ration 定量、合理的量、限量供应、配给 
+- ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational 理性的、合理的、理智的、合理的事物、懂道理的人、有理数
 - react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
@@ -24,10 +24,12 @@
 - recognize 认出
 - reconcile v.调和、调停、使和好、使和解
 - recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
+- reconciliation n.调解、和解、协调、调停
 - record 唱片、履历、档案、记录、声明、标明
 - recoup 补偿、收回、弥补
 - recovery 恢复、痊愈、取回
-- recreation n.娱乐、消遣、重建、重现
+- recreate v.重建、重现、再创造
+- recreation n.娱乐、消遣
 - recruit 招聘、招募、吸收、征募、组建、新人、新兵、新成员、
 - recursive 递归的、循环的
 - redundant a.冗余的、多余的、被裁减的、被解雇的
@@ -39,6 +41,7 @@
 - refund n/v.退款、退还
 - regard 将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
+- regime n.政权、政体、政治制度
 - region 地区、区域、行政区、管辖区、层、界、境
 - regress 倒退、回归、退化
 - regret 遗憾、后悔、抱歉、感到后悔、感到抱歉
@@ -63,17 +66,20 @@
 - remedial 治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
 - remind vt.提醒、使想起、使记起
+- remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - render 提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - rental 租金、出租、租赁、招租
-- repay 归还、偿还、补偿
+- repay v.归还、偿还、补偿
+- repayment n.偿还、报答、归还借款、偿还债务
 - repeat v.重复、复述、背诵、n.重演的事物、重复的事件
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
 - reply n/v.回答、答复
-- represent v.代表、表示
+- represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、抗议
+- representative n.代表、代理人、议员、a.典型的、有代表性的
 - repute n.名誉、名声、v.把...称为、认为
 - reputation n.名誉、名声
 - require vt.需要、要求、vi.要求、规定
@@ -89,11 +95,13 @@
 - resistance n.反对、抵制、抵抗力、阻力、电阻
 - resistant 抵抗的、顽固的、抵抗者、防染剂
 - resolve 决定、决心、解决、做出决定、表决、使分解、使解体
-- respect 尊重、尊敬、关心、遵守、敬意、维护、方面、细节、问候、着眼点、关系、慎重对待、谨慎从事、不违背、不损害
+- respect n.尊重、尊敬、方面、细节、问候、着眼点、关系、v.尊敬、尊重、重视、遵守
 - respective a.分别的、各自的
+- response n.回答、答复、反应、响应
 - responsibility n.责任、义务
 - responsible a.负责的、可信任的、有责任、承担义务
 - rest v.休息、放松、支撑、依靠、n.其余、剩余部分、休息时间、支撑物、安静、安宁 rest on/upon 依赖、依靠、基于 rest with 在于、取决于
+- restate v.重申、重述
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
 - restrain v.制止、阻止、管制、约束
 - restrict v.限定、限制、约定、制约、束缚、妨碍
@@ -114,6 +122,7 @@
 - revise 修订、修正、改变、复习、校订
 - revolution n.革命、变革、旋转、运行、公转
 - revolve v.旋转、环绕、转动、使循环、反复考虑
+- rigid a.僵硬的、严格的、顽固的、死板的
 - rise n/v.上升、增加
 - risk  风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
@@ -122,11 +131,15 @@
 - romantic 浪漫的、多情的、风流的、空想的、虚构的
 - room n.房间、空间、可能性、v.租房、合住
 - rotate 旋转、转动、轮换、轮值、交替、辐状的
+- rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
+- roughly ad.粗略地、大致、大约
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
 - round/around the corner 在附近、即将发生
 - roundabout a.迂回的、拐弯抹角的、n.环形交叉口、环岛
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
 - ruin n/v.破坏、毁灭、糟蹋、破产
+- rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run v.跑、运营、起作用、n.跑、行程
+- runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - ruthless a.残忍的、无情的

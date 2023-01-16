@@ -5,6 +5,7 @@
 - mainframe 大型机、主机、中央处理机、主计算机
 - maintain 维持、保持、维修、保养、坚持、固执己见
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
+- major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority 大部分、大多数、成年、法定年龄
 - makeup n.组成、构成、化妆品、天性、性格
 - malicious 恶意的、有敌意的、蓄意的、预谋的
@@ -23,13 +24,15 @@
 - mass n.大量、许多、块、堆、a.大批的、数量多的、v.集结、聚集
 - massive a.大量的、大规模的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
-- material 材料、素材、物质的、重要的、必要的
+- material n.材料、素材、a.物质的、重要的、必要的
 - matrix 矩阵、基质、模型、母体
-- mature v.成熟、长成、到期、a.成熟的、成年的、到期的
+- mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
 - may aux./modal 可能、也许、但愿、n.May 五月、山楂花
 - meal n.餐、v.进餐
+- mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
+- means n.方法、手段、方式、means第三人称单数和复数
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
 - mechanical [məˈkænɪkl] a.机动的、机械的、呆板的、n.机械部件、机械物体
 - mechanism n.机制、机能、机理、结构、构造、机械装置
@@ -39,29 +42,38 @@
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
 - mental a.思想的、内心的、心理的、智慧的、n.精神病
-- mention 提到、提及、说起
+- mention v.提到、提及、说起
 - mentor 导师、顾问、指导
+- mercy n.怜悯、仁慈、宽容
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
 - merit n.优点、美德、价值、功绩、绩效、v.应得、值得
 - mess 混乱、困境、肮脏、食堂、弄脏、搞砸
 - metadata 元数据
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
 - metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
+- middleware n.中间件
+- midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
 - might modal-v.may的过去式、可能、可以、n.力量、权势
 - mighty a.强大的、巨大的、非凡的、强有力的、ad.非常、很、极其
 - milestone 重要事件、重要阶段、转折点、里程碑
 - military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
+- mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minor 较小的、少数的、轻微的、次要的
+- minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - misconception 误解、错觉、错误认识
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
+- mitigant a.缓和的、减轻的、n.缓解措施
 - mitigate 使缓和、使减轻、使平息、减轻、缓和
 - mitre 主教法冠、斜接
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
+- modern a.现代的、当代的、近代的、新式的、n.现代人、现代字体
 - modest a.谦虚的、谦逊的、适度的、适中的、些许的
 - modify 修改、被修饰、改变、减轻、减缓
+- module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
+- modularize v.模块化
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
 - monarch [ˈmɒnək] n.君主、帝王
@@ -79,8 +91,10 @@
 - mutable [ˈmjuːtəbl] a.可变的、会变的
 - mutate v.变异、突变、转变、转换
 - multicast 多播、多点传送
+- multilateral a.多方面的、多国的、多边的
 - multiply 乘、相乘、复合地、多样地、多股的、多层的
 - multiplier n.乘数、倍数
 - mutex 互斥、互斥对象、互斥锁
 - mutual a.相互的、彼此的、共同的、共有的
+- MVP - most valuable player 最优秀的选手
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的

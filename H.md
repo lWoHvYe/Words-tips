@@ -1,5 +1,7 @@
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
+- hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的
 - happiness n.幸福、愉快
+- harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽
 - harvest 收割、收获
 - hedge 树篱、保护手段、拐弯抹角、包围、限制
@@ -7,12 +9,14 @@
 - hierarchy 分层、层次、层次体系、等级制度、统治集团
 - highlight v.突出、强调、n.最好的部分、强光部分
 - hint 暗示、示意、提示、征兆、迹象
+- hire v.雇用、聘用、租用、租借、n.租借、租用、租赁、租金、酬金
 - histogram 柱状图、直方图
-- historical a.历史的、历史上的
+- historic/historical a.历史的、历史上的
 - hold v.持有、抓住、容纳、保留、持有、n.持、抱、拿、握  take hold 抓住、还可做持续
 - homo 高、同、人属、人类、佃户、侍从
+- hood n.兜帽、篷、罩、v.罩上、覆盖
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
 - horrible a.可怕的、糟糕的
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
-- humble a.谦卑的、卑微的、v.谦逊、低声下气
+- humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
 - hybrid 混合的、杂种的、杂交、混合物、合成物
