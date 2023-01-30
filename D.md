@@ -42,6 +42,7 @@
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
+- dense a.密集的、稠密的、浓厚的
 - density n.密集、稠密、密度
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨

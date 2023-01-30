@@ -102,6 +102,7 @@
 - anecdotal a.逸事的、趣闻的、传闻的
 - anecdote n.轶事、奇闻、逸事
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
+- animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - annual 年度的、每年的
 - anticipate 预见、预料、先于...行动
 - anxious a.焦虑的
