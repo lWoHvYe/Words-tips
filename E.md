@@ -1,5 +1,6 @@
 - eager [ˈiːɡər] 渴望的、热切的、渴求的
 - earn v.赢得、获得、赚得、博得
+- earth n.地球、陆地、地面
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
 - edge n.边、边缘、v.给...加边、略微增加/减少
@@ -23,9 +24,10 @@
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
 - emerge v.出现、浮现 emerging v.emerge的现在分词、a.新兴的
 - emergency 紧急情况、突发事件
-- emotion 情绪、情感、感情、感动、激动、强烈的感情
+- emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical a.来自实验或经验的、经验主义的
+- empower v.授权、准许
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
 - encapsulate 封装、概括、压缩、简述
@@ -37,12 +39,12 @@
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
 - energy 活力、精力、能源
-- enforce vt.执行、强制、强制执行
+- enforce vt.强制、执行、迫使、强制执行
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
-- engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战
+- engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
 - engaged a.正从事的、已订婚的、占线的
-- engagement n.约会、约定、订婚、契约、雇佣、密切关系  engagement in 参与
+- engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - enormous a.巨大的、庞大的、极大的
 - enrichment 丰富、充实、改进、肥沃
 - enroll v.登记、注册、招收、加入
@@ -51,7 +53,8 @@
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
 - entertainment n.娱乐节目、娱乐、消遣、招待、款待
 - entire 整个的、全部的、完全的、全体、整体
-- entitle 授权，赋予权利、使享有权利、使符合资格
+- entitle v.授权，赋予权利、使享有权利、使符合资格、给...题名
+- entitlement n.权利、资格、津贴
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
@@ -69,18 +72,20 @@
 - erase v.抹去、清除、擦掉
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
-- escalate [ˈeskəleɪt] 逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
+- escalate [ˈeskəleɪt] v.逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
 - escalation n.扩大、增加、升级、价格调整
 - espresso n.浓缩咖啡
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
-- establish 建立、设立、开办
+- establish v.建立、设立、开办、确立
+- establishment n.建立、确立、企业、机构、当权派
 - estate 财产、遗产、房地产、不动产
 - estimate v.估计、估算、估价、n.估计、预测、报价
 - ethic 伦理、伦理观、道德体系
 - ethical a.道德的、伦理的
-- euro 欧元
+- euro [ˈjʊərəʊ] € 欧元
 - evacuation 疏散、撤离、撤退、搬空
+- evade v.规避、躲避、逃避、避开
 - evaluate v.估计、评价、评估
 - evaluation n.评价
 - eventual 最后的、最终的、结果的
@@ -88,7 +93,7 @@
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evolve v.发展、进化、演变
-- exact [ɪɡˈzækt] 准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、要求、索取、迫使、强迫、强求
+- exact [ɪɡˈzækt] a.准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、v,要求、索取、迫使、强迫、强求
 - examine v.检查、审查、考察、调查、考试、审问
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
@@ -112,30 +117,35 @@
 - exhaust [ɪɡˈzɔːst] 排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
+- expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
-- expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗
 - expense 费用、开销、花销、向...收取费用
 - expensive 昂贵的、花钱多的、豪华的
+- experience n.经验、经历、体验、阅历、v.经历、体验、感受
 - experiment 实验、试验、尝试、试用、做实验
 - expert n.专家、a.熟练的、内行的、经验丰富的
 - explain 解释、说明、阐明
 - explict a.明确的、清晰的、直言的、坦率的、不隐晦的
-- exploit 开发、剥削、开拓、开采、利用、压榨、功劳、功绩
+- explode v.爆炸、突然爆发、迸发、突增、激增
+- exploit v.开发、剥削、开拓、开采、利用、压榨、功劳、功绩
 - explore 勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
-- explosion 爆发、爆炸、炸裂、突增、激增
-- expose v.暴露、揭露、使曝光、使接触、n.陈述、阐述、揭露
+- explosion n.爆发、爆炸、炸裂、突增、激增
+- expose v.暴露、揭露、使曝光、使接触、接触、n.陈述、阐述、揭露
 - exposure n.面临、暴露、揭发、曝光、拆穿
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
 - extend 扩展、延伸、延长、适用于、涉及、提供
+- extent n.程度、限度、大小、面积、范围
 - extension n.扩大、延伸、延期
+- extensive a.广阔的、广大的、大量的、广泛的
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
 - extract [ˈekstrækt , ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物
 - extraordinary a.特别的、非凡的、意想不到的
+- extravagant a.奢侈的、过度的、过分的、放肆的
 - extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的

@@ -9,7 +9,9 @@
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
+- taxonomy [tækˈsɒnəmi] n.分类学、分类系统
 - taxpayer n.纳税人
+- teapot n.茶壶
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
 - telescope n.望远镜
@@ -17,29 +19,34 @@
 - tempt v.引诱、诱惑、怂恿
 - temptation n.诱惑、引诱、诱惑物
 - tenancy n.租赁、租期
+- tenant [ˈtenənt] n.房客、租户、佃户、v.租借、租用
 - tend v.趋势、趋向、倾向、照料、护理
 - tendency n.趋势、倾向
 - tenor 男高音、大意、要旨、要领
 - tentative 试探性的、试验的、不确定的、尝试、假设、实验
 - tenure n.任期、任职、终身职位、占有期、保有权、保有期
-- term n.学期、术语、期限、v.把...称为、把...叫做
+- term n.学期、术语、条款、期限、v.把...称为、把...叫做
 - terminate 终止、停止、结束、解雇、到达终点站、终止的、有限的
-- terminology n.术语
+- terminology n.术语、专有名词
+- terminus n.终点
 - ternary a.三元的
+- territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
 - theatre n.剧院、剧场、演出、上演
 - theft 盗窃、偷窃、赃物
 - theme n.题目、主题、题材、议题、主旋律、a.主题...
+- then n.那时、a.当时的、那时的、ad.然后、当时、那时、既然如此
 - theorem n.(数学)定理、公理、定律、法则
 - theoretical a.理论的、理论上的
 - theory n.理论、原理、学说、推测
+- therapeutic [ˌθerəˈpjuːtɪk] a.治疗的、有助治疗的、有疗效的
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
 - thereof ad.其、它的、由此
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat n.威胁、恐吓、构成威胁的人或事物
-- threshold 阈值、门槛、临界值、入口、开始、起始点
+- threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
@@ -50,7 +57,8 @@
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier 层、级、阶层、等级、层层排列、层叠
 - tight 牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、紧身衣
-- tip n.提示、尖端、小费、v.倾斜、轻触、轻碰
+- tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
+- title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
 - toil 辛苦工作、苦干、跋涉
 - tolerate 容许、允许、容忍
@@ -68,7 +76,9 @@
 - trade 贸易、行业、交易、做生意
 - traditional 传统的、惯例的、因袭的、守旧的
 - tragic 悲剧的、悲惨的、可悲的、悲痛的
+- trailer n.拖车、挂车、活动房屋、预告片
 - train 火车、列车、队列、行列、培训、训练
+- trait n.特点、特征、特性
 - transaction 交易、业务、事务、办理、处理
 - transcribe v.转录、抄写、改编
 - transcript 成绩单、抄本、誉本、打印本
@@ -80,18 +90,20 @@
 - transitive 过渡的、转变的、及物的、及物动词
 - translate v.翻译、转化、解释
 - translator n.翻译、翻译家、译员
+- transmit [trænzˈmɪt] v.传输、传送、传播、传染、发射
 - transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - transportation n.运输、流放
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
-- treasury 国库、金库、财政部、宝藏、宝库、备受宠爱的人、珍视、珍爱、珍重
-- treat 招待、款待、治疗、对待、乐事、乐趣
+- treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重
+- treasury n.财政部
+- treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
 - tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend v.趋势、倾向、n、趋向、动态、动向、时尚、时髦
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
-- trigger 触发
+- trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
 - trip 旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、v.增至三倍
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜

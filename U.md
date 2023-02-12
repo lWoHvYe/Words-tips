@@ -1,5 +1,8 @@
 - ultimate a.最后的、最终的、最好的、基本的、基础性的、v.极品、精华
+- umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的
+- uncertain a.不确定的、不明确的、无把握、犹豫、拿不准
+- uncertainty n.不确定性、犹豫、迟疑、无把握
 - undergraduate n.(尚未获得学士学位的)大学生、大学本科生、a.大学本科的、大学生的
 - underlie v.构成...的基础、作为...的原因  
 - underlying a.根本的、潜在的、隐含的、v. underlie的现在分词
@@ -14,10 +17,12 @@
 - unify v.统一、使联合、使一致
 - union n.同盟、联盟、联邦、协会、工会
 - unit 单元、单位、机构
+- universal a.普遍的、通用的
 - unsound a.不健全的、靠不住的、有错误的、腐烂的
 - unsurpassed a.无法超越的、无与伦比的、卓越的
 - up a.向上的、高兴、激动、ad.在上面、向上、起来、起床、prep.向、在、沿着、顺着、v.突然移动、提高...价格、n.效用通路  be up to sb 由某人决定、是某人的职责、取决于某人
 - uplift v.鼓励、激励、振作、上升、升起、n.隆起、提高、振奋、鼓舞
+- upend v.倒立、倒放、颠倒 be upended by ... 反生了颠覆性的变化
 - upon 在...上面、当...时候
 - upside n.好处、好的一面、上边、提高、上涨
 - urban a.城市的、都市的

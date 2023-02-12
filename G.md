@@ -2,23 +2,30 @@
 - gallery 画廊、走廊、长廊
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment n.服装、衣服、v.给...穿衣服
+- gate n.门、大门、阀门
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
-- geneous a.慷慨的、大方的、丰盛的
 - general 全体的、普遍的、一般的
 - generation n.产生、发生、一代人
 - generic 通用的、一般的、普通的、无商标的
+- generous a.慷慨的、大方的、丰盛的
 - genetic [dʒəˈnetɪk] a.遗传的、基因的、基因学的
 - gentle 温和的、文雅的、高尚的、使温和、使驯服、绅士
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
+- giant n.巨人、巨物、a.巨大的、特大的、伟大的
 - gist 主旨、要点、大意
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
 - glnce 一瞥、扫视、匆匆一看、浏览、略过、擦过
+- global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
+- globe n.地球、球体、地球仪
 - glossary 术语汇编、词汇表
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - gold n.金、黄金、金色、a.金色的
 - govern 统治、治理、控制、管理、支配
 - grab 抓住、强夺
+- grace n.优美、优雅
+- graceful a.优美的、优雅的、得体的、有风度的
+- grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
 - granny n.祖母、外祖母
 - grant 授予、承认、准许、拨款
 - granularity 粒度
@@ -33,5 +40,5 @@
 - guarantee n.保证、担保、保证人、保证书、抵押品、v.保证、担保、抵押、确保
 - guarantor n.保证人、担保人
 - guaranty n.保证、担保物、保证书、抵押品、v.保证、抵押、担保
-- guess 猜测、猜想
+- guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针

@@ -20,6 +20,7 @@
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
+- optimistic a.乐观的
 - optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
 - option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权、
@@ -43,8 +44,11 @@
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overdraft n.(钱)透支、透支额
+- overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
 - overlap 重叠、交叠、重叠时间
+- oversight n.疏忽、失察、负责、照管
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气
+- oxytocin/pitocin [ˌɑksəˈtoʊsən] n.催产素

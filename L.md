@@ -1,4 +1,5 @@
 - lable 标签
+- labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
 - lack n/v.缺乏、短缺
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
 - land 土地、陆地、降落、着陆、成功获得、赢得；landing page 登录页面
@@ -11,11 +12,13 @@
 - lawsuit n.诉讼、起诉
 - lay v.放置、a.世俗的、外行的、没有经验的
 - layer 层、层次
+- layout n.布局、布置、设计、安排
 - leak n/v.漏、泄漏、漏洞、漏出
 - leakage n.泄漏、泄漏量
 - lean v.前俯、倾斜、倚靠、a.瘦的、贫瘠的、难以赚钱的、n.瘦肉
 - learn v.学习、习得、得知、认识到
 - lease n.租赁、租约、v.租用、租借、出租
+- least [liːst] little的最高级 a.最小的、最少的
 - leave v.离开、保留、交付、n.休假、假期、准许  leave sth+adj. 让...处于某种状态
 - lecture 演讲、训诫
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
@@ -23,6 +26,7 @@
 - legend 传奇、传说、图例、说明、铭文
 - legislation n.立法、制定法律、法律、法规
 - legitimate a.合法的、合理的、正规的、法定的、n.使合法、正式批准、授权
+- leisure n.空闲、闲暇、悠闲、安逸、a.空闲的、闲暇的
 - lend v.借给、借出、给...增加、增添、给予、提供、n.贷款
 - lenient a.宽大的、宽容的、仁慈的
 - lens n.透镜、镜片、镜头、(眼球的)晶状体
@@ -39,7 +43,8 @@
 - lifespan 寿命、存在期、使用期、有效期
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地
-- lineage 世系、家系、血统
+- lineage [ˈlɪniɪdʒ] n.世系、家系、血统
+- linguistic a.语言的、语言学的
 - linux ['lɪnəks] 
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
 - liquidity n.流动性、流动资金、资产流动性、资产变现能力
@@ -55,9 +60,11 @@
 - logical 必然的、合乎逻辑的、合乎情理的
 - loop 环、环形、回路
 - loose 松的、释放
+- loss n.丧失、损失、亏损 take a loss 亏损
 - loud a.大声的、响亮的、喧闹的
 - loyal 忠诚的、忠实的、忠心的
 - lucrative a.获利多的、赚大钱的、合算的
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵
+- lux 勒克斯(照明单位)
 - luxury [ˈlʌkʃəri] n.奢侈、奢华、奢侈品、a.奢华的

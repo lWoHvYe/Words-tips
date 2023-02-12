@@ -1,5 +1,6 @@
 - fabric 织物、布料、结构
 - facade 外观、正面、表明、外表
+- face v.面临、面对、n.面部、表面 crisis/problem facing sth ...所面临的危机/问题
 - facilitate v.帮助、促进、使容易
 - facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
 - fact n.事实、真相、证据
@@ -11,20 +12,28 @@
 - fair a.公平的、合理的、晴朗的、美丽的、ad.公平地、直接地、n.集市、商品交易会、展销会、v.顺利接合、衔接协调
 - fairly ad.公平地、适当、相当地、完全、简直、竟然
 - faith n.信任、相信、信念、int.真正
+- fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的
 - fall v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
-- fallback 应变计划、退路
+- fallback 应变计划、退路、倒退
 - fame n.声誉、名声、v.使出名、使闻名
+- fancy v.想象、设想、想要、n.设想、想象力、爱好、a.花哨的、精致的、优质的、昂贵的、奢华的
 - fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
+- fantasy n/v.幻想
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fatal 致命的、严重的、毁灭性的
-- fault n.故障、过失、v.发现错误
+- fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、v.发现错误
+- favor n/v.支持、赞成、喜爱、偏爱
+- favorable a.有利的、赞同的、讨人喜欢的、从优
 - feasibility 可行性、可能性、现实性
 - feature 特色、特征、特点、特写
-- federation 联邦、联盟、同盟 federal 联邦的、联邦制的
+- federal 联邦的、联邦制的
+- federation 联邦、联盟、同盟 
 - fee 费用、报酬、付报酬、雇佣、聘请
 - feeble 虚弱的、无效的、无力的
 - feed v.饲养、喂养、满足、n.饲料、肥料
+- female a.女性的、雌性的、n.女人、雌性动/植物
 - fend v.照顾、照料、防御、保护
+- ferry n.渡船、摆渡、v.渡运、摆渡
 - festival n.节日、a.节日的
 - fetch 取来、拿来
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
@@ -37,7 +46,7 @@
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
 - financial a.金融的、财务的
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
-- finite 有限的、限定的
+- finite [ˈfaɪnaɪt] a.有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术)
 - fireside 炉边、毫无拘束的
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
@@ -49,6 +58,8 @@
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
 - flammable 易燃的、可燃的
+- flat a.平的、水平的、单调的、干脆的、断然的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
+- flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
 - flexible a.灵活的、柔韧的、有弹性的
@@ -61,7 +72,8 @@
 - fluent a.流利的、流畅的
 - focus 集中、聚集、焦点、中心点、源
 - folk n.人们、各位、大伙
-- force 武力、暴力、权利、力量、强迫、迫使、强作
+- forbid v.禁止、阻止、阻碍、妨碍
+- force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - foreshadow 预示、预兆、先兆
 - forest n.森林、丛林
 - forever ad.永远、长久地、不断地、n.永恒、极长的一段时间
@@ -75,6 +87,8 @@
 - formual [ˈfɔːmjələ] n.公式、配方、准则、方案
 - formulate v.制定、规划、构想、确切表达、认真阐述
 - forfeit 丧失、被没收、罚金、没收物
+- forth ad.向前、离去
+- forthcoming a.即将到来的、即将发生的、现成
 - fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
 - found v.建立、find的过去式及过去分词
@@ -85,8 +99,9 @@
 - frame 框架、边框、组织、陷害、设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织
 - franchise 特权、赋予特权、选举权、经销权
-- fraud 作弊、舞弊、骗局、欺诈、骗子、伪劣品、冒牌货
+- fraud [frɔːd] n.欺诈、骗子、伪劣品、冒牌货
 - freemium 免费增值、收费增值
+- freeze v.使结冰、冻结  frozen (过去分词) a.冻结的、冰封的、极冷的
 - frequency 频率、频繁、发生率、出现率、重复率
 - frequent a.频繁的、常见的、v.常去、常到
 - fresh a.新鲜的、淡水的、无经验的、n.(一天、一年等的)开始、(河流的)暴涨
@@ -95,6 +110,7 @@
 - front 前面、正面、前面的、正面的、面向、领导、代表
 - frontend 前端、前台、前端模块、编辑器前端
 - fruition n.完成、实现、取得成功
+- frustrate v.挫败、阻挠、使沮丧、使懊恼、a.无效的、无益的
 - fuel n.食物、燃料、刺激物、v.给...提供燃料、加油、刺激
 - fulfil/fulfill v.完成、履行、执行、实现、符合、起...作用
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转

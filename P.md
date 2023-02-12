@@ -7,17 +7,18 @@
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
 - paradox n.悖论、矛盾的人或事物
-- paragraph n.段落、节、v.将...分段
+- paragraph [ˈpærəɡrɑːf] n.段落、节、v.将...分段
 - paralyse/paralyze v.使瘫痪
-- partial 部分的、偏爱的、偏袒的、偏微商
-- participate 参加、参与
+- partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
+- participant n.参加者、参与者
+- participate v.参加、参与
 - particular 特定的、特别的、细节、详情
 - partition 隔断、分隔、瓜分、使分裂
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
 - passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
-- passive a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语
+- passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - pathway 路、道、途径、路径
 - patient a.有耐心的、能容忍的、n.病人、患者
@@ -26,6 +27,7 @@
 - peek n/v.偷看、窥视
 - peer n.同辈人、同行、v.仔细看、端详
 - penal a.惩罚的、刑事的
+- penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty n.刑罚、处罚、害处、不利
 - penny n.便士、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
@@ -38,9 +40,10 @@
 - perform v.履行、执行、表演、演出、工作
 - performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
 - perhaps ad.可能、大概、也许、或许、n.假定、猜想
-- period 时期、一段时间、阶段、时代
+- period n.时期、周期、一段时间、阶段、时代
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
+- peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
 - permanent a.永久的、永恒的、长久的、n.烫发
 - permutation 序列、排列、组合、置换
 - persecute v.迫害、残害、骚扰、打扰
@@ -55,16 +58,19 @@
 - philosophy [fəˈlɒsəfi] n.哲学
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - phrase [freɪz] n.短语、v.表达、措辞
-- physical 身体的、自然的、物质的、现实的、物理学的、体检
+- physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
 - piece 块、片、段、修补、连接
 - pillor n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
+- pipeline n.管道、管线 in the pipeline 在筹备中
 - pitfall 陷阱、诱惑、圈套、困境、危险、隐患
 - pivotal 关键性的、核心的
+- place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
 - plain n.平原、a.朴素的、朴实的、简朴的、清楚的、ad.简直、绝对地
-- planet [ˈplænɪt] n.行星、地球
+- planet [ˈplænɪt] n.行星、地球(尤指环境)
+- plastic n.塑料、信用卡、a.塑料的、可塑的
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
@@ -73,6 +79,7 @@
 - pluggable a.可插拔的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - pocket 口袋、金钱、财富
+- podcast n.播客
 - poem 诗、韵文
 - poetry n.诗、诗歌、诗意
 - point 指向、观点、论点、目的、点
@@ -81,6 +88,7 @@
 - political 政治的、政府的、政权的
 - pollute v.污染、弄脏
 - ponder 思考、琢磨
+- pool n.水塘、共用的资源、v.集中资源
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - port 港口、口岸、避风港、左舷、端口、移植
@@ -89,12 +97,18 @@
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion 部分、分享的部分、分担的责任、分配、把...分成若干份
 - portray v.描绘、描述、描写、刻画、扮演
-- position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、状态、职位、v.安装、安置
-- positive 积极的、肯定的、乐观的、有绝对把握的、阳性的、正数的、优势、优点
+- pose v.造成、提出、陈述、摆姿势、假装、冒充、n.姿势、故作姿态  摆个pose
+- position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置
+- positive a.积极的、肯定的、乐观的、确实的、确信的、正电的、阳性的、正数的、n.正片、优势、优点
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
+- possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
 - post 邮递、邮寄、终点、发布、公布、交付
+- postpone [pəˈspəʊn] v.推迟、延期、延迟
+- postscript n.附言、后记
+- posture [ˈpɒstʃə(r)] n.姿势、态度、看法、立场、v.故作姿态、装模作样
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
+- pound n. £ 英镑、v.砰砰的跳
 - pour 倾、倾泻、涌出、大雨、浇筑
 - practical a.实践的、实际的、切实可行的、有用的、n.实验课、实践课
 - practicality n.实践性、可行性、实事求是、实际情况
@@ -110,6 +124,7 @@
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
 - pregnant a.怀孕的、孕育着...的、富于想象的
 - premature a.过早地、早产的、提前的、草率的
+- premier a.首要的、最先的、最早的、n.总理、首相
 - premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
 - prepare 准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
@@ -121,7 +136,7 @@
 - presentation n.提交、演示、陈述、报告、颁发、授予
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
-- president 总统、国家主席、会长、院长、银行行长、董事长、总裁
+- president n.总统、国家主席、会长、院长、银行行长、董事长、总裁
 - press v.按、压、逼迫、催促、坚持、n.报刊、出版机构、压榨机
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
 - presuppose v.预设、假设、以...为前提
@@ -164,8 +179,12 @@
 - promise n/v.允许、许诺、承诺、保证
 - promote [prəˈmoʊt] v.促进、推动、提升、晋升、晋级
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
-- prompt a.迅速的、敏捷的、立刻的、准时的、v.提示、促使、导致、n.提示、提示符
+- prompt [prɒmpt] a.迅速的、敏捷的、立刻的、准时的、v.提示、促使、导致、n.提示、提示符
+- prone a.有...倾向的、俯卧的、易于遭受的
+- prong n.部分、方面
+- pronoun n.代词
 - pronounce v.发音、读、宣布、宣称、演讲
+- pronounced a.明显的、显著的、(pronounce的过去式和过去分词)
 - proof n.证据、证明、证实、检验、标准酒精度、v.给...做防护处理、使防水/防火、a.能抵御的、能防范的、防...的、抗...的
 - propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
 - propagate v.传播、宣传、繁衍、增殖
@@ -201,6 +220,6 @@
 - purchase n/v.购买、采购
 - pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除
-- purpose 目的、意图、企图
+- purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶

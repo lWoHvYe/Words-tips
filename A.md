@@ -1,6 +1,7 @@
 - abbreviate v.缩写、缩略
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
+- abrupt a.陡峭的、突然的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
 - abstain 弃权、戒除、离开、回避
@@ -9,11 +10,17 @@
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academic 学术的、学业的、纯理论的
 - academy 专科学校、学会、学院、中等学校、私立学校
-- accelerate [əkˈseləreɪt] v.加快、促进、加速 
+- accelerate [əkˈseləreɪt] v.加快、促进、加速
+- accept [əkˈsept] v.接受、承认、同意、认可、相信
+- acceptable a.可接受的、可容许的、差强人意的、认同的、认可的
+- acceptance n.接受、接纳、承认、认可、容许、[金融]承兑
 - access [ˈækses] n.通道、通路、入径、机会、权利、v.访问、存取、到达、进入、使用
+- accessible a.可到达的、可使用的、易接近的、可理解的
+- accessibility n.可达性、可接近性、可访问性
 - accident n.事故、意外、偶然、附属品
 - acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
 - acclimate v.使习惯、使适应
+- accompany v.陪伴、陪同、伴随
 - accomplish v.完成、达到
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
@@ -34,8 +41,10 @@
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - adapt 适应、改编、使适合、改编、改写
 - addict n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
+- addition n.增加、添加、加法、附加 in addition 此外、另外
 - additional 额外的、追加的、附加的、补充
-- adequate 充足的、足够的、合格的、合乎需要的
+- address n.地址、称呼、演讲、演说、v.写地址、致函、称呼、演说、处理、指出
+- adequate a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
@@ -44,14 +53,15 @@
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adult n.成年人、成人、a.成人的 
 - adulthood 成年、成年期
-- advance v.前进、行进、进步、进展、上涨、提高、促进、推动、预付款、预付、提出、提前、a.预先的、事先的、n.先遣队、先头部队
-- advanced (过去式/过去分词) 先进的、高级的、高等的、前进、行进、推动、发展、进步、促进
-- advantage 有利条件、有利因素、优势、优点、有利于、有益于、促进
+- advance v.前进、发展、提出、提前、促进、推动、提高、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
+- advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
+- advantage n.有利条件、有利因素、优势、优点、利益、好处、v.有利于、有益于、促进  take advantage of 利用、欺骗
 - adverse 不利的、有害的
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise 宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
 - advice n.劝告、忠告、建议、意见
-- advisory 顾问的、咨询的、警报
+- advisor n.顾问、咨询
+- advisory a.顾问的、咨询的
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
@@ -65,10 +75,10 @@
 - agenda (复数)议程、议程表
 - agency n.代理、机构
 - agent 代理人、代理商、由...代理、代理的
-- agile a.敏捷的、灵活的、机敏的、轻快的
+- agile [ˈædʒaɪl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
-- aggregate 总数的、合计的、合计、总数
+- aggregate a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - agnostic 不可知论者、不可知论的
 - aid n/v.援助、帮助、救助
@@ -82,8 +92,12 @@
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
-- allocate 分配、拨...(给)、划...(归)
+- allocate v.分配、拨...(给)、划...(归)
+- allow [əˈlaʊ] v.允许、准许、容许、给予
+- allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
+- alone a/ad.单独、独自、孤独、单独的、单独地
+- alphanumeric [ˌælfənjuːˈmerɪk] a.含有字母和数字的、字母和数字并用的
 - alter v.改变、更改、修改
 - alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
 - alternative 替代的、另类的、备选的、可供选择的事物
@@ -97,6 +111,7 @@
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogy [əˈnælədʒi] 类比、比喻
 - analyst [ˈænəlɪst] 分析师、化验员
+- ancestry [ˈænsestri] n.祖先、祖宗
 - ancient 古代的、古老的、古代人
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
 - anecdotal a.逸事的、趣闻的、传闻的
@@ -104,13 +119,15 @@
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - annual 年度的、每年的
-- anticipate 预见、预料、先于...行动
+- anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
+- antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑                                      
 - apparent a.显然的、貌似的、未必真实的
-- appendix 附录
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
+- appendix 附录
+- appetite [ˈæpɪtaɪt] n.食欲、胃口、嗜好、爱好
 - applause n.掌声、鼓掌、喝彩
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
@@ -126,6 +143,7 @@
 - appropriate a.适当的、恰当的、v.侵吞、挪用、盗用、占用
 - approval 批准、同意；approve 批准、赞成、同意、认可
 - approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
+- arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
 - arbitrary a.随意的、任意的、武断的
 - architecture 体系结构、建筑学、结构
 - archive 存档、档案文件、档案室
@@ -149,9 +167,9 @@
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
 - assist 帮助、援助
-- assistant 助手、助理、助理的、辅助的、副的
-- associate 联合、联想、联系、交往、非正式的、准的、副的、伙伴、同事、合伙人
-- assume v.假定、假设、承担、担任
+- assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
+- associate v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
+- assume [əˈsjuːm] v.假定、假设、承担、担任
 - assumption 假定、假设、承担、担任
 - assurance n.保证、担保、保险
 - assure 向...保证、使...确信、保证、确保
@@ -160,20 +178,24 @@
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
 - atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
-- attest v.作证、证明、证实
+- attest v.作证、证明、证实、表明
+- attestation n.证明、证据、证词
 - attorney n.律师、代理人
 - attract v.吸引、诱惑、引人注意
+- attribute n.属性、特征、性质、v.认为...是、把...归于
 - attrition 损耗、消耗
 - augment 加强、增加、扩大、提高
 - authentication [ɔːˌθentɪˈkeɪʃn] 认证、证明、鉴定、身份验证
-- automate 自动化
 - authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
 - authority [ɔːˈθɒrəti] n.权威、当权、授权、批准
 - auto 汽车、汽车的
+- automate v.(使)自动化
+- automation n.自动化
+- automobile n.汽车
 - autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
-- available 可获得的、有空的、能找到的
+- available [əˈveɪləbl] 可获得的、有空的、能找到的
 - avenue n.大街、大道、途径、渠道、手段
 - averse a.厌恶、不喜欢、不想做、反对做
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的

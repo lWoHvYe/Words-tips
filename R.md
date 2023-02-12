@@ -2,7 +2,9 @@
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - raincheck 雨票、延期
 - raise 提升、举起、增加、抚养、饲养、终止、解除、高地、上升、加薪
+- rally v.召集、集合、n.集会
 - random a.随机的、无规则的、n.随意、偶然的行动
+- rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - ransom 赎金、赎回、赎罪
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ration n.定量、定额、合理的量、v.限量供应、配给 
@@ -10,6 +12,7 @@
 - react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
 - realign 重新排列、对...进行调整、改变观点
+- realistic a.现实的、实际的、逼真的
 - reality [riˈæləti] n.事实、现实、实体、实在  virtual reality VR虚拟现实
 - realm 领域、范围、王国、部门、界
 - reap v.取得、收获、收割
@@ -21,35 +24,43 @@
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
 - reckon v.估计、认为、估算、预计、指望、料想
-- recognize 认出
+- recognize/recognise v.认出、认识、承认、认可
 - reconcile v.调和、调停、使和好、使和解
 - recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
 - reconciliation n.调解、和解、协调、调停
 - record 唱片、履历、档案、记录、声明、标明
 - recoup 补偿、收回、弥补
-- recovery 恢复、痊愈、取回
+- recover v.恢复、痊愈、找回、赢回
+- recovery n.恢复、痊愈、取回
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
 - recruit 招聘、招募、吸收、征募、组建、新人、新兵、新成员、
 - recursive 递归的、循环的
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
+- refer v.提到、针对、参考、提及、涉及
 - refinance v.再筹资金、再融资
 - refine v.精炼、提炼、改进、改善
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain 抑制、避免、克制、节制
 - refund n/v.退款、退还
+- refusal n.拒绝、回绝
+- refuse v.拒绝、回绝、推却、n.垃圾、废弃物
 - regard 将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
 - region 地区、区域、行政区、管辖区、层、界、境
 - regress 倒退、回归、退化
-- regret 遗憾、后悔、抱歉、感到后悔、感到抱歉
+- regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
 - regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
 - regulation n.规则、管理、控制、规章、v.规定的、必须使用
 - regulatory 监管、校准器、调节器
 - rehab 康复、修复、修缮、恢复名誉、复职
+- rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
+- rein n.缰绳、控制、主宰、v.控制、驾驭
+- reinforce v.增援、加强、巩固
 - relate 使有联系、联系、讲述、叙述、把...联系起来、讲（故事）
+- relation n.关系、联系、关联
 - relative 相对的、比较的、比较而言的、亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
@@ -86,11 +97,12 @@
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
 - resemble v.像、与...相像、类似于
+- resent v.怨恨、愤恨、厌恶、愤愤不平
 - reserve n.储备、保留、保护区、内向、矜持、v.保留、预定、预约
 - reside v.住、居住、居住在、定居于
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
-- resiliency 弹力、弹性
+- resilience/resiliency [rɪˈzɪliəns] n.弹性、弹力、快速恢复的能力、还原能力
 - resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
 - resistance n.反对、抵制、抵抗力、阻力、电阻
 - resistant 抵抗的、顽固的、抵抗者、防染剂

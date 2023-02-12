@@ -1,11 +1,14 @@
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的
 - happiness n.幸福、愉快
+- hardline a.强硬的、不妥协的
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽
 - harvest 收割、收获
+- headline n.大字标题、新闻摘要
 - hedge 树篱、保护手段、拐弯抹角、包围、限制
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
+- herd n.牧群、人群、v.群集
 - hierarchy 分层、层次、层次体系、等级制度、统治集团
 - highlight v.突出、强调、n.最好的部分、强光部分
 - hint 暗示、示意、提示、征兆、迹象
@@ -16,7 +19,9 @@
 - homo 高、同、人属、人类、佃户、侍从
 - hood n.兜帽、篷、罩、v.罩上、覆盖
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
+- hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
 - hybrid 混合的、杂种的、杂交、混合物、合成物
+- hypothesis [haɪˈpɒθəsɪs] n.假定、假设、假象、假说

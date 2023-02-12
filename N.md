@@ -1,16 +1,24 @@
 - narrow 狭窄的、狭隘的、有限的、勉强的、目光短浅的、限制、限定、变窄、缩小、海峡、狭窄的水道
 - nation n.国家、民族、国民
 - naviagte 驾驶、航行于、导航、航行、找到正确方法
-- negative 消极的、负面的、否定的、负极的、阴性的、否定、拒绝、底片、负片、证伪
+- necessary a.必要的、必然的、强制的、不可避免的
+- necessitate v.使...成为必要、需要
+- necessity n.必要性、必然性、必要、必然、需要、必需品
+- negative a.消极的、负面的、否定的、负极的、阴性的、v.否定、拒绝、n.底片、负片、证伪
+- neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视
+- negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
 - negotiate 谈判、协商、交涉、谈判达成、成功越过
+- nervous [ˈnɜːvəs] a.紧张的、焦虑的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
+- nested a.嵌套的
 - net n.网、网络、净收入、纯利、v.净得、净赚、用网捕获、a.净的、净得的、纯的、网住的、最后的、最终的  net profit 净利润
 - neuroscience 神经科学
 - nevertheless 然而、不过、尽管如此
 - nightmare n.噩梦、梦魇
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
+- nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - norm n.规范、标准、准则、(劳动)定额
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
 - notably ad.特别、尤其
@@ -20,7 +28,10 @@
 - notification 通知、通知单、布告、公布
 - notion n.观念、概念、理念、理解
 - notorious a.臭名昭著的、声名狼藉的、众所周知的
+- nourish [ˈnʌrɪʃ] v.抚养、滋养、养育、培养、助长(情绪、观点等)
 - novel n.(长篇)小说、新法、附律、a.新颖的、与众不同的、珍奇的、异常的
+- novelist n.小说家
+- noxious a.有毒的、有害的
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为
 - numerical 数字的、用数字表示的、数值的

@@ -4,7 +4,10 @@
 - sanction 制裁、惩罚、约束、批准、许可
 - sanitization 消毒、卫生处理、净化、清除
 - satisfy 使满意、满足、使确信、符合、达到、消除、履行
+- saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
+- scalable a.可扩展的
 - scalability n.可扩展性、可伸缩性、可量测性
+- scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
 - scan 扫描、浏览、细看、端详
 - scarce a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
@@ -13,18 +16,20 @@
 - scenario n.方案、设想、场景、脚本
 - scheme n.方案、计划、v.策划、密谋
 - scholar n.学者
+- scientific a.科学的、有系统的
 - scope 范围、边界、眼界、见识、机会、能力、仔细看、彻底检查
-- scratch n.划痕、v.划破、a.无让步的
+- scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
+- script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
 - scrum 扭打、混乱、争夺 Scrum meeting 每日例会
-- scrutinize v.仔细检查、认真审查
-- scrutiny n.仔细检查、认真彻底的审查
+- scrutinize [ˈskruːtənaɪz] v.仔细检查、认真审查
+- scrutiny [ˈskruːtəni] n.监督、细看、仔细检查、认真彻底的审查
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
 - seamless a.无缝的
 - season n.季、季节、时期、v.使适应、调味
 - seasonal a.季节性的、周期性的
 - secondary a.第二的、次要的、辅助的、中等的、n.助手、副手
-- secret n.秘密、奥秘、机密、a.隐秘的、神秘的
+- secret n.秘密、奥秘、机密、a.隐秘的、神秘的、秘密的、机密的
 - section n.部分、部门、部件、v.切开、切断、切片
 - sectional 某群体的、断面的、某阶层的、局部的、部分的
 - secure v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
@@ -40,13 +45,16 @@
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体
 - seminar n.研讨会、研讨课
 - senior 级别高的、资深
-- sense n.感觉、意识、观念、v.感觉到、意识到、理解、领会
-- sensible 明智的、理智的、合乎情理的、意识到、认识到、敏感的
-- sensitive 敏感的、体贴的、敏感的人
+- sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
+- sense n.感觉、意识、观念、v.感觉到、意识到、理解、领会 make sense 讲得通、有意义
+- sensible a.明智的、理智的、合乎情理的、意识到的、认识到的、敏感的
+- sensitive a.敏感的、体贴的、n.敏感的人
 - sentence n.句子、宣判、判刑、v.判决
+- sentiment n.看法、观点、情绪、伤感、哀伤
 - separate 分开、分离、单独的、不相关的
 - sequence 顺序、数列、序列、连续、按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
+- serial a.连续的、连载的
 - serialize 连载、连播
 - series 系列、连续、接连、串联、级数、系列节目
 - serious a.严肃的、严重的、认真的、重要的、危险的
@@ -71,7 +79,9 @@
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、n.转换、改变、轮班、换班
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
-- significant 重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、象征、标志
+- sight n.景象、看见、视力、视野、v.看到、发现
+- significance n.意义、含义、重要性
+- significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
 - significantly 重要的、重大的、明显的、显著的
 - signify v.代表、象征、表示
 - silence 沉默、无声、寂静、失去联系、使安静、压制、安静、静下来
@@ -80,6 +90,7 @@
 - silver n.银、银币、银器、银色、a.银色的、v.镀银
 - simplify 简化、精简
 - simulate 模仿、模拟、仿真、假装、冒充、拟态、模仿的、假装的
+- singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
@@ -88,8 +99,10 @@
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
 - slide 滑落、下跌、滑行、贬值、衰落
 - slight 轻微的、略微的、微小的、细小的、无需重视的、不足为道的、轻蔑、忽视、怠慢、冷落
+- slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
 - sliver n.薄片、小块、v.切薄片
 - slogan n.标语、口号
+- slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
 - slot n.狭槽、窄缝、v.投放、塞进
 - sluggish a.缓慢的、迟缓的
 - smash v.粉碎、打破、n.打碎、ad.轰然
@@ -97,9 +110,12 @@
 - snap v.断裂、折断、呵斥、拍快照、快速传球、a.匆忙的、仓促的
 - snapshot 快照、简介、简要说明、拍快照
 - sneak v.潜行、偷偷溜走、告状、a.突然的、出其不意的
+- snip v.削减、剪去、剪断、n.片段
+- snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - sober a.冷静的、头脑清醒的、v.变得冷静
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
+- society n.社会、社团、学会、协会
 - solar 太阳的、日光的、利用太阳能的、太阳能的、日光浴室
 - sole a.唯一的、仅有的、独占的、n.鞋底、脚底
 - solicitation 诱惑、请求、征求
@@ -109,6 +125,7 @@
 - soul 灵魂、精神
 - sound 声音、健全、合理
 - source n.来源、出处、根源、起源、v.(从...)获得
+- sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - specialize/specialise v.专攻、专门从事、详细说明、列举
@@ -127,12 +144,14 @@
 - spite n.恶意、怨恨、v.欺负、刁难
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
+- sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
 - sporadic 零星的、偶尔发生的、阵发性的
 - spot 点、斑点、污点、地点、认出、认清、发现
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
 - spread v.传播、散布、展开、伸开、n.传播、蔓延、a.广大的、大幅的
 - spreadsheet n.电子表格
 - sprint 冲刺、全速短跑、短跑比赛
+- square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
 - stability 稳定性、稳定、稳固
 - stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
@@ -144,6 +163,7 @@
 - starvation 饥饿、挨饿、饿死、绝食
 - state 状态、状况、国家、州、陈述、说明、国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
+- stationery [ˈsteɪʃənri] n.文具、信纸、信笺
 - statistic 统计的、统计学、统计资料
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steer v.驾驶、指引
@@ -153,6 +173,8 @@
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
 - stockpile n.库存、储备、v.大量储备
+- straight a.直的、连续的、直率的、n.直线
+- straightforward a.直截了当的、坦率的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
 - strength n.力量、体力、毅力、优点、长处
@@ -170,6 +192,7 @@
 - subjective a.主观的、个人的、内省的
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从
+- subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
 - subsequent a.随后的、之后的、后来的
@@ -181,22 +204,25 @@
 - suburb n.郊区、城外
 - successive a.连续的、接连的、相继的
 - succession n.一连串、一系列、继承、继任、继承人、继承权
+- succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
+- suffer v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficent a.足够的、充足的、充分的、n.足量、充足
 - suggest v.建议、暗示、表明、启示
-- suit 适合、合身、西装
+- suit v.适合、合身、n.西装、套装、诉讼
 - suitable 合适、适合
 - summary 概括、总结、概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
 - supervision n.监管
+- supervisor n.监督者、指导者、主管人
 - supervisory a.监督的、管理的、指导的
 - supple 灵活的、柔软的、顺从的、使柔软、使顺从
 - supplemental 补充、增补、添加物、增刊、附录、额外费用、补足的、追加的
 - supplier 供应商、供货商、供应者、供货方
 - support 支持、拥护、资助、赞助、支撑、（一些地方也可做）担保
-- suppose 认为、假定、猜想
+- suppose v.认为、假定、猜想
 - suppress [səˈpres] v.镇压、压制、抑制、止住、忍住
 - surety 保证人、担保人、保证金
 - surf v.冲浪、(互联网上)浏览、n.海浪、浪花
@@ -205,10 +231,12 @@
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
 - survey 调查、测量、勘测、审视、审查、民意调查
 - survive v.幸存、幸免于难
-- susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的
+- susceptibility n.易感性、敏感性、过敏性
+- susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的、易受感动的
 - suspect v.猜测、怀疑、不信任、a.可疑的、不可信的、n.犯罪嫌疑人、嫌疑犯、可疑对象
 - suspend v.暂停、中止、悬挂、延缓
 - suspicion 怀疑、嫌疑、疑心、不放心、少许
+- sustain v.维持、供养、支撑、承受、承担
 - swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
 - swap 交换、互换、掉换、交流、交换物
 - sweep 扫除、打扫、清理、掠过、舞动、挥动
@@ -220,6 +248,6 @@
 - synchronize v.同步、使同步、在时间上一致
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的
 - syndicate 企业联合组织、财团、私人联合会
-- synonym n.同义词
+- synonym [ˈsɪnənɪm] n.同义词
 - syntax 语法、句法、句法规则、语构
 - synthetic a.合成的、n.合成物

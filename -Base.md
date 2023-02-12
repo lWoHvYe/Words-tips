@@ -1,11 +1,15 @@
-v. 动词
+v. 动词 verb
 vt. 及物动词
 vi. 不及物动词
-n. 名词
+n. 名词 noun
+adj. 形容词 adj可以修饰 n, pron
+adv.副词  adv可以修饰 adj, v, adv
 conj. 连词 conjunction
 prep. 介词 preposition
+pron. 代词 pronoun
 aux. 助动词
 modal v.情态动词
+int. 感叹词 interjection
 
 
 语法：

@@ -4,12 +4,13 @@
 - identify v.确定、识别、认出、认同、鉴定
 - identity v.确定、识别、认出、认同
 - ideology n.思想、意识形态、空想、空论
-- idle 空闲的、无意义的、懒惰的、空转、虚度、挂空档
+- idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol 偶像、崇拜物、幽灵、谬论、幻觉
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
+- imagine v.想象、设想、猜测、猜想
 - immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
@@ -36,6 +37,8 @@
 - incentive n.激励、诱因、刺激、a.激励的、鼓励的
 - incidence 发生率、影响范围、关联、接合、入射、入射角
 - incident 事件、事变、事端、摩擦、冲突、易引起的
+- inclination n.倾向、意愿、趋向、趋势
+- incline v.倾向于、有...趋势、倾斜、偏向、赞同、n.斜面、斜坡
 - inclusion 包含、包括
 - inclusive 包括的、包罗广泛的
 - inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
@@ -48,7 +51,7 @@
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
 - independent 独立的
-- indicate 表明、暗示、象征、指示、打行车转向信号
+- indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
 - individual 个人、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
@@ -71,7 +74,8 @@
 - infrastructure 基础设施、基础建设
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
-- inheritance 继承、遗传、遗产
+- inherit v.继承、继任、经遗传获得
+- inheritance n.继承、遗传、遗产
 - initial 初始、最初的
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
 - initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
@@ -81,6 +85,7 @@
 - innovation 创新、革新
 - inquire v.询问、打听
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
+- insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
 - insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
@@ -91,6 +96,7 @@
 - instantiate v.实例化
 - instantiation n.实例化
 - instead ad.相反、代替、反而
+- instinct n.本能、天性、直觉
 - institute v.建立、制定、开始、着手、n.学院、协会、研究所、机构
 - institution n.机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
@@ -103,7 +109,7 @@
 - intake n.吸入、摄入、进气
 - integral a.完整的、必须的、积分的、n.积分、整体
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
-- integrity n.完整、廉正、正直、诚实、保存、健全
+- integrity n.完整、完整性、廉正、正直、诚实、保存、健全
 - intelligible 可理解的、易懂的
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
 - intend v.计划、打算、想要、意指、意欲
@@ -114,13 +120,16 @@
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
+- interject v.打断、插话
 - interim [ˈɪntərɪm] a.临时的、过渡的、n.间歇、过渡期间
+- intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
 - intern 实习生、实习医生、拘留、禁闭、关押
-- internal 内部的、内心的、内脏、本质
+- internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
-- interpret v.解释、说明、理解、领会
+- interpret v.解释、说明、理解、领会、翻译、诠释
 - interpreter 口译译员、解释者、解释程序、演绎的人
+- interrupt v.打断、中断、阻止
 - intersect 横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
 - interval n.间隔、间歇、休息时间、音程
@@ -135,9 +144,9 @@
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
-- invest v.投资、花费、装饰
+- invest v.投资、花费、装饰、授予、给予
 - investigate v.调查、研究、审查、侦查、做调查
-- investment 投资、投资额、投入、值得买的东西、封锁
+- investment n.招商、投资、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待
 - invocation 祈祷、乞求、调用、启用
@@ -146,4 +155,4 @@
 - IoT (Internet of Things) 物联网
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue 问题、发行、公布
-- item n/ad.项目、条款
+- item n/ad.项目、条款、一条、一则
