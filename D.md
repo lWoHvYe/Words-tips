@@ -1,11 +1,12 @@
 - daemon 守护进程
+- dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - deadline n.截止时间、最后期限
 - deal 处理、协议、大量、许多、交易、待遇、发牌
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt 借款、欠款、债务、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
-- decent a.得体的、相称的
+- decent a.体面的、得体的、相称的、正派的、相当不错的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide 决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] 决定、决策、做决定
@@ -53,7 +54,8 @@
 - density n.密集、稠密、密度
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
-- departure n.离开、出发、背离、违反、逾越
+- department n.(政府的)部、局、部门、(大学的)院系
+- departure n.离开、出发、起程、背离、违反、逾越   domestic/international departure/arrival 国内/国际-出发/到达
 - deport v.驱逐、驱逐出境、递解出境
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
 - depress v.压下、压低、降低、减少、使沮丧、使消沉、使萧条、使不景气
@@ -86,6 +88,7 @@
 - device 装置、设备、方法、策略、手段
 - diagnose v.诊断、确诊
 - diagram 图表、示意图、图解
+- dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
 - dialect 方言
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - dictate v.口述、命令、决定、支配、n.命令、规定
@@ -110,13 +113,14 @@
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
 - disaster [dɪˈzɑːstə(r)] 灾难、灾害、不幸
-- discern v.看出、理解、识别、辨别
+- discern v.看出、理解、识别、辨别、分辨出、听出
 - discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
 - disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
 - disclose v.披露、透露、泄露、揭露
 - disclosure [dɪsˈkloʊʒər] n.公开、泄漏、纰漏
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
+- discrepancy n.矛盾、差异、不符合、不一致
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
@@ -164,9 +168,11 @@
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
 - drama n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
+- drastic a.激烈的、猛烈的、极端的、严厉的
 - draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局
 - drawback 缺点、劣势、不利条件、退税
 - drill 训练、操练、演习、钻、钻头
+- drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
 - drug n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
@@ -174,6 +180,6 @@
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
-- duty [ˈdjuːti] 责任、义务、职责、税收
+- duty [ˈdjuːti] n.责任、义务、职责、职务、税
 - dwell v.居住、栖身  dwelling n.住宅、住所
 - dynamic [daɪˈnæmɪk] 动态、动力、动力学、动态的、充满活力的、发展变化的

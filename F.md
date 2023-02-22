@@ -4,7 +4,7 @@
 - facilitate v.帮助、促进、使容易
 - facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
 - fact n.事实、真相、证据
-- factor n.因素、要素、数量、倍数、系数、v.把...要素包括进去、分解质因数
+- factor n.因素、因子、要素、数量、倍数、系数、v.把...要素包括进去、分解质因数
 - factual a.事实的、真实的
 - fade v.褪去、失去光泽、褪色、凋谢、衰老、逐渐消失、n.淡入、淡出、褪色、变暗、a.平淡的、乏味的
 - fail v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
@@ -31,7 +31,7 @@
 - fee 费用、报酬、付报酬、雇佣、聘请
 - feeble 虚弱的、无效的、无力的
 - feed v.饲养、喂养、满足、n.饲料、肥料
-- female a.女性的、雌性的、n.女人、雌性动/植物
+- female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
 - fend v.照顾、照料、防御、保护
 - ferry n.渡船、摆渡、v.渡运、摆渡
 - festival n.节日、a.节日的
@@ -72,6 +72,7 @@
 - fluent a.流利的、流畅的
 - focus 集中、聚集、焦点、中心点、源
 - folk n.人们、各位、大伙
+- footprint n.脚印、足迹、踪迹 memory footprint 内存占用
 - forbid v.禁止、阻止、阻碍、妨碍
 - force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - foreshadow 预示、预兆、先兆
@@ -87,13 +88,15 @@
 - formual [ˈfɔːmjələ] n.公式、配方、准则、方案
 - formulate v.制定、规划、构想、确切表达、认真阐述
 - forfeit 丧失、被没收、罚金、没收物
+- fort n.堡垒、要塞
 - forth ad.向前、离去
 - forthcoming a.即将到来的、即将发生的、现成
 - fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
 - found v.建立、find的过去式及过去分词
-- foundation n.基础、基金会、粉底霜
+- foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
 - foundational 基础的、基本的
+- fractal n.分形、不规则图形
 - fraction n.小部分、少量、片段、分数、小数
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame 框架、边框、组织、陷害、设计、给...做边框、制定、拟定
@@ -115,6 +118,6 @@
 - fulfil/fulfill v.完成、履行、执行、实现、符合、起...作用
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给
-- fundamental 基本的、基础的、根本的、原始的、基本规律、根本法则、基本原理、基础
+- fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础
 - fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
 - future n.将来、未来、前景、前途、期货、a.将来的、未来的

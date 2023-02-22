@@ -5,6 +5,7 @@
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽
 - harvest 收割、收获
+- hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - headline n.大字标题、新闻摘要
 - hedge 树篱、保护手段、拐弯抹角、包围、限制
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
@@ -19,6 +20,7 @@
 - homo 高、同、人属、人类、佃户、侍从
 - hood n.兜帽、篷、罩、v.罩上、覆盖
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
+- horizontal [ˌhɒrɪˈzɒntl] a.水平的、横的、n.水平面、水平线、横线
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿

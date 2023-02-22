@@ -1,15 +1,18 @@
 - machine [məˈʃiːn] n.机械、v.制造、加工成型
 - macro 宏、宏指令、巨大的、极厚的、特别突出的、大量使用的
 - magazine n.杂志、期刊、弹药库
+- magical a.神奇的、有魔力的
 - magnify v.放大、增强、夸大、扩大
 - mainframe 大型机、主机、中央处理机、主计算机
 - maintain 维持、保持、维修、保养、坚持、固执己见
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority n.大部分、大多数、成年、法定年龄
+- make v.做、制造、生产、使得、n.牌子、型号、性格、生产
 - makeup n.组成、构成、化妆品、天性、性格
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
+- malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
 - mandate n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
 - mandatory 强制的、法定的、义务的、受托者
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
@@ -21,11 +24,13 @@
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边
 - marital a.婚姻的、夫妻的
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
+- masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
 - mass n.大量、许多、块、堆、一群、群众、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
 - massive a.大量的、大规模的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
-- material n.材料、素材、a.物质的、重要的、必要的
+- material n.材料、素材、a.实际的、物质的、重要的、必要的
+- materialize v.实现、具现化、实质化
 - matrix 矩阵、基质、模型、母体
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
@@ -38,6 +43,7 @@
 - mechanical [məˈkænɪkl] a.机动的、机械的、呆板的、n.机械部件、机械物体
 - mechanism n.机制、机能、机理、结构、构造、机械装置
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
+- medical a.医学的、医疗的、疾病的、伤病的
 - mega a.巨大的、宏大的 = huge = great
 - memo 备忘录
 - memorial a.纪念的、悼念的、n.纪念碑、纪念品
@@ -46,11 +52,15 @@
 - mental a.思想的、内心的、心理的、智慧的、n.精神病
 - mention v.提到、提及、说起
 - mentor 导师、顾问、指导
+- merchandise v.销售、买卖、n.商品、货物
+- merchant n.商人
 - mercy n.怜悯、仁慈、宽容
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
 - merit n.优点、美德、价值、功绩、绩效、v.应得、值得
 - mess 混乱、困境、肮脏、食堂、弄脏、搞砸
+- metabolism n.新陈代谢
 - metadata 元数据
+- metal n.金属、v.用金属做、a.金属制的
 - metaphor [ˈmetəfə(r)] n.隐喻、暗喻、象征
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
 - metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
@@ -76,13 +86,17 @@
 - mobile a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
+- model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
+- moderate a.中等的、适度的、温和的、稳健的、v.缓和、使适中、主持
 - modern a.现代的、当代的、近代的、新式的、n.现代人、现代字体
-- modest a.谦虚的、谦逊的、适度的、适中的、些许的
-- modify 修改、被修饰、改变、减轻、减缓
+- modest a.谦虚的、谦逊的、适度的、适中的、些许的、朴素的、普通的
+- modify v.修改、修饰、改变
 - module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
+- momentum [məˈmentəm] n.动力、势头、动量
+- monadic a.一元的、单体的
 - monarch [ˈmɒnək] n.君主、帝王
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
@@ -95,7 +109,8 @@
 - motive n.动机、原因、目的、促使、a.动机的、运动的
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - mud [mʌd] 泥、泥浆
-- muscle 肌肉、权力、威信、强取
+- muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
+- muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的
 - mutable [ˈmjuːtəbl] a.可变的、会变的
 - mutate v.变异、突变、转变、转换
 - multicast 多播、多点传送
@@ -105,5 +120,5 @@
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - mutex 互斥、互斥对象、互斥锁
 - mutual a.相互的、彼此的、共同的、共有的
-- MVP - most valuable player 最优秀的选手
+- MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的

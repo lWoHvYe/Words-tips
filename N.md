@@ -9,6 +9,7 @@
 - negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
 - negotiate 谈判、协商、交涉、谈判达成、成功越过
+- neighborhood n.邻里、街区、城区
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
 - nested a.嵌套的
@@ -20,6 +21,7 @@
 - nomadic 游牧的、流浪的、漂泊的
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - norm n.规范、标准、准则、(劳动)定额
+- normal a.正常的、正规的、标准的、n.标准、正常、常态、法线
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
 - notably ad.特别、尤其
 - notation 符号、记号、注释

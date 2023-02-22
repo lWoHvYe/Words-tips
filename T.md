@@ -7,13 +7,17 @@
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
+- tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
 - taxonomy [tækˈsɒnəmi] n.分类学、分类系统
 - taxpayer n.纳税人
 - teapot n.茶壶
+- tear v.撕裂、扯破、拉伤、n.破洞、裂口、眼泪💧、泪水
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
+- teenage a.十几岁的、青少年的
+- telemetry n.遥测、遥感勘测
 - telescope n.望远镜
 - temporary 短暂的、暂时的、临时工
 - tempt v.引诱、诱惑、怂恿
@@ -46,7 +50,9 @@
 - thereof ad.其、它的、由此
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat n.威胁、恐吓、构成威胁的人或事物
+- threaten v.危及、有...危险、对...构成威胁
 - threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
+- thrift n.节约、节俭
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
@@ -55,7 +61,7 @@
 - tick 打上钩、记号、对号、信用、滴答声
 - tickler 棘手的问题
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
-- tier 层、级、阶层、等级、层层排列、层叠
+- tier n.层、级、阶层、等级、v.层层排列、层叠
 - tight 牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、紧身衣
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
@@ -71,15 +77,17 @@
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
 - tough a.艰苦的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
+- tout v.标榜、吹捧、吹嘘
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
 - track 小路、小道、痕迹、踪迹、跟踪、追踪、监看、监测
-- trade 贸易、行业、交易、做生意
+- trade n.贸易、行业、交易、生意、v.做买卖、做生意
 - traditional 传统的、惯例的、因袭的、守旧的
-- tragic 悲剧的、悲惨的、可悲的、悲痛的
+- tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
+- trail v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
 - train 火车、列车、队列、行列、培训、训练
 - trait n.特点、特征、特性
-- transaction 交易、业务、事务、办理、处理
+- transaction n.交易、业务、事务、办理、处理
 - transcribe v.转录、抄写、改编
 - transcript 成绩单、抄本、誉本、打印本
 - transducer 传感器、变频器
@@ -101,18 +109,19 @@
 - treasury n.财政部
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
 - tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
-- trend v.趋势、倾向、n、趋向、动态、动向、时尚、时髦
+- trend n、趋向、动态、动向、时尚、时髦
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
+- Trie n.单词查找树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
 - trip 旅行、摔倒、绊倒、错误、过失
-- triple a.三倍的、三方的、v.增至三倍
+- triple a.三倍的、三方的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
 - tune n.曲子、曲调、v.调音、调节
 - turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
-- turn v.(使)转动、翻转、n.转动、转变
-- turnover 翻滚、逆向、转向、营业额、成交量、人员流动率、货物周转率、证券交易额、周转
+- turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是 
+- turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
 - tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - typical a.典型的、有代表性的

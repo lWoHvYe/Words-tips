@@ -1,19 +1,23 @@
 - obey v.服从、听从、遵守
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
-- obligate 使负有责任或义务、有义务的、必要的
+- obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
 - obligor 债务人
 - obsession 痴迷、着魔、困扰、妄想
 - obtain 获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
+- officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
+- official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
 - omit 省略、遗漏、删除、未能做
-- omission n.省略、遗漏、疏忽、删除
+- omission [əˈmɪʃn] n.省略、遗漏、疏忽、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
 - onboard 随车携带的、机上的、舰上的、自主的、（也可做）客户/员工的新入
 - ongoing a.进行(中)的、不间断的、持续存在的、n.前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
+- operand n.操作数
+- operate v.操作、运营、运作、控制、运转
 - operation n.手术、操作、经营、行动、运算、运转
 - opinion n.意见、主张、看法、观点
 - opportune a.恰好的、适时的、适当的、恰当的
@@ -44,9 +48,13 @@
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overdraft n.(钱)透支、透支额
+- overdue a.过期的、延误的、迟到的、早该发生的、早应完成的
 - overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
 - overlap 重叠、交叠、重叠时间
+- overlay v.覆盖、镀金、n.覆盖物、图层
+- oversee v.监督、监视、俯瞰
 - oversight n.疏忽、失察、负责、照管
+- overturn v.颠覆、使垮台、推翻、撤销(判决)
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的
 - oxide n.氧化物

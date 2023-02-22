@@ -13,6 +13,7 @@
 - vary v.改变、变化、相异、不同
 - vast a.巨大的、庞大的、大量的、n.浩瀚、广大无边的空间
 - vault 墓穴、拱顶、地下室、金库、保险库、跳跃、腾跃
+- vector n.矢量、向量
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
@@ -24,16 +25,18 @@
 - verify v.证明、证实、核实、查证
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
+- vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的
 - vet 审查、仔细检查、兽医
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
-- vice 恶习、不道德行为、缺点、缺陷、瑕疵、副的、代理的、代替的
+- viable a.切实可行的、可实施的、能独立生存的
+- vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的
 - victim 受害者、牺牲品、上当的人、祭品、牺牲
 - victory n.成功、胜利
-- view 看法、看、视野、见解、态度、景色、风景 view as 认为、视为、视作
+- view n.看法、视野、见解、态度、景色、风景、v.看待 view as 认为、视为、视作
 - vintage a.酿造的、优质的、上等的、最好的
-- violate v.违反、侵犯、亵渎、强奸
+- violate [ˈvaɪəleɪt] v.违反、侵犯、亵渎
 - violation n.违反、违章、侵犯
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
@@ -47,5 +50,6 @@
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital 至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vocabulary n.词汇量、词汇表
+- volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

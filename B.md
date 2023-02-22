@@ -2,12 +2,13 @@
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward 落后的、向后的、反向的、倒退的、进步缓慢的、向后、倒
 - backload v.(签订协议后)增加费用
+- bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
 - ban n.禁令、v.禁止、取缔
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
-- bargin 减价品、便宜货、议价、交易
+- bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
 - battery 电池、蓄电池、一组、一套
@@ -15,7 +16,7 @@
 - bearer 持票人、持有者、送信人、传授者、传播者
 - beast n.野兽
 - beastliness n.兽性
-- behalf 利益、代表  on behalf of 代表
+- behalf n.利益、代表  on behalf of 代表
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
 - benefit n.利益、好处、成效、福利、奖金、补助、v.使受益、得益于、得利于
@@ -25,8 +26,9 @@
 - between [bɪˈtwiːn] prep.在...中间、介于...之间 between jobs 工作之间、待业中、暂时失业中
 - beyond 超过、超出、那一边、在远处
 - bias 偏向、偏见、偏心、使偏向、斜的
+- bid [bɪd] n/v.投标、出价
 - bilateral a.两侧的、双边的、双方的、双向的
-- bill 账单、提案、法案
+- bill n.账单、提案、法案
 - bind 绑定、捆绑、缠绕、结合、约束、凝结、装订、窘境
 - biochemical 生物化学的、生化的
 - biography n.传记
@@ -34,6 +36,7 @@
 - blame n/v.责备、责怪、指责
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
+- blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
 - bless 祝福、赞美
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
@@ -63,7 +66,7 @@
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - broad a.宽阔的、广阔的、概括的、明显的
 - broaden 扩大、拓宽、增长
-- broker 经纪人、中间人、代理人、安排、协商
+- broker n.经纪人、中间人、代理人、v.安排、协商
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器
 - brutal a.残酷的、残暴的、野蛮的

@@ -3,6 +3,7 @@
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
+- paper n.纸张、资料、文件、文献、论文、报纸、试卷
 - parachute n.降落伞、保护伞、v.空降、空投
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
@@ -22,9 +23,10 @@
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - pathway 路、道、途径、路径
 - patient a.有耐心的、能容忍的、n.病人、患者
-- pattern 图案、模式、范例、模型、样品
+- pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - peek n/v.偷看、窥视
+- peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
 - peer n.同辈人、同行、v.仔细看、端详
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
@@ -37,7 +39,7 @@
 - perceptive [pəˈseptɪv] a.感性的、理解力强的、有洞察力的、思维敏捷的
 - perfect a.完美的、正确的、极好的、完善的、v.使完善、使完备、n.(动词的)完成时(态)
 - perfectly ad.完全地、非常、十分、圆满地
-- perform v.履行、执行、表演、演出、工作
+- perform v.履行、执行、表演、演出、工作、表现
 - performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
 - perhaps ad.可能、大概、也许、或许、n.假定、猜想
 - period n.时期、周期、一段时间、阶段、时代
@@ -50,15 +52,23 @@
 - persist 坚持、保持、维持、持续存在
 - persistent a.持续的、持久的、坚持不懈的、坚持不渝
 - persona n.人物角色、伪装、假象、人格面具
-- personality n.特色、性格、个性、气质、气度、名人
+- personal a.个人的、私人的、个性的、人际的
+- personality n.特色、性格、人格、个性、人物、气质、气度
+- personnel n.人员、员工、职员、人事部门
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - pertain 存在、适用
+- pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - phase 阶段、时期
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
+- philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
 - philosophy [fəˈlɒsəfi] n.哲学
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - phrase [freɪz] n.短语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
+- physician n.医生、内科医生
+- physicist n.物理学家
+- physics n.物理
+- physiology n.生理学
 - piece 块、片、段、修补、连接
 - pillor n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
@@ -71,6 +81,7 @@
 - plain n.平原、a.朴素的、朴实的、简朴的、清楚的、ad.简直、绝对地
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
 - plastic n.塑料、信用卡、a.塑料的、可塑的
+- platinum n.铂、白金
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
@@ -87,10 +98,13 @@
 - policy  政策、策略
 - political 政治的、政府的、政权的
 - pollute v.污染、弄脏
+- polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
+- pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
 - pool n.水塘、共用的资源、v.集中资源
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
+- population n.人口
 - port 港口、口岸、避风港、左舷、端口、移植
 - portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
@@ -110,6 +124,7 @@
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
 - pound n. £ 英镑、v.砰砰的跳
 - pour 倾、倾泻、涌出、大雨、浇筑
+- power n.能力、权力、力量、有影响力的大国、幂、乘方、v.驱动、推动、运转
 - practical a.实践的、实际的、切实可行的、有用的、n.实验课、实践课
 - practicality n.实践性、可行性、实事求是、实际情况
 - practice n.练习、实习、实践、惯例、惯常做法、v.练习、实习
@@ -136,24 +151,26 @@
 - presentation n.提交、演示、陈述、报告、颁发、授予
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
+- preside v.主持、指挥、担任主席
 - president n.总统、国家主席、会长、院长、银行行长、董事长、总裁
 - press v.按、压、逼迫、催促、坚持、n.报刊、出版机构、压榨机
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
 - presuppose v.预设、假设、以...为前提
 - pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
-- prevail [prɪˈveɪl] v.流行、盛行、说服、劝说
+- prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败
+- prevalent a.流行的、盛行的、普遍存在的
 - prevent 防止、阻止、阻碍、阻挠
 - previous a.先前的、以前的
 - prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
-- primary 主要的、最初的、基本的
+- primary a.主要的、最初的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
-- prior a.先前的、在前的、优先的
-- priority n.优先、优先权、首要的事、最重要的事 a.优先的
+- prior [ˈpraɪə(r)] a.先前的、在前的、优先的
+- priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy 隐私
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
@@ -170,7 +187,7 @@
 - professional a.职业的、专业的、n.专业人士、专家
 - profile n.侧面、轮廓、外形、形象、印象、简介、引入注目、v.扼要介绍、概述
 - profit n.利润、收益、红利、赢利、好处、v.获益、对...有益  net profit 净利润  gross profit 毛利润  profit margin 利润率
-- program n.程序、编码指令、节目、计划、安排、v.编写程序
+- program(me) [ˈprəʊɡræm] n.程序、编码指令、计划、安排、课程、纲领、节目单、v.编写程序、制定计划
 - progress n/v.进步、进展、流逝
 - progressive a.进步的、逐步的、n.进步人士、改革派
 - prohibit 禁止、阻止、不允许
@@ -223,3 +240,4 @@
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶
+- puzzle [ˈpʌzl] n.困惑、难题、v.迷惑、使困惑

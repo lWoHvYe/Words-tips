@@ -1,6 +1,8 @@
 - abbreviate v.缩写、缩略
+- abdicate [ˈæbdɪkeɪt] v.放弃、退位
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
+- abroad n.国外、海外、ad.到国外、在国外
 - abrupt a.陡峭的、突然的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
@@ -17,6 +19,7 @@
 - access [ˈækses] n.通道、通路、入径、机会、权利、v.访问、存取、到达、进入、使用
 - accessible a.可到达的、可使用的、易接近的、可理解的
 - accessibility n.可达性、可接近性、可访问性
+- accidental a.意外的、偶然的、附属的
 - accident n.事故、意外、偶然、附属品
 - acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
 - acclimate v.使习惯、使适应
@@ -32,7 +35,8 @@
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
 - acknowledge 承认、确认、答谢
 - acquaintance [əˈkweɪntəns] 相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
-- acquisition 获得、得到、购置、收购 
+- acquisition 获得、得到、购置、收购
+- across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
 - active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity n.活动、活跃、行为
 - actual 实际的、真实的、现在的、现行的
@@ -49,6 +53,8 @@
 - adhocracy n.临时委员会、特别委员会
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
+- admire v.倾佩、欣赏、赞赏、仰慕
+- admission n.承认、准许进入、加入权、进入权、招生
 - admit v.承认、允许、确认、许可进入
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adult n.成年人、成人、a.成人的 
@@ -103,14 +109,18 @@
 - alternative 替代的、另类的、备选的、可供选择的事物
 - altitude n.海拔
 - amber 琥珀、琥珀色
+- ambition n.雄心、抱负、夙愿
+- ambitious [æmˈbɪʃəs] a.有雄心的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
 - amicable a.友好的、友善的
 - amid prep.在...中间、在...之中
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
+- amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogy [əˈnælədʒi] 类比、比喻
-- analyst [ˈænəlɪst] 分析师、化验员
+- analysis [əˈnæləsɪs] n.分析、分析结果
+- analyst [ˈænəlɪst] n.分析师、化验员
 - ancestry [ˈænsestri] n.祖先、祖宗
 - ancient 古代的、古老的、古代人
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
@@ -123,7 +133,10 @@
 - antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑                                      
+- apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
+- apartment n.公寓
 - apparent a.显然的、貌似的、未必真实的
+- appeal n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
 - appendix 附录
@@ -149,16 +162,19 @@
 - archive 存档、档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
+- arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
 - arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
 - array n.数组、阵列、大批、大量、v.布置、排列
+- arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
 - arthritic a.关节炎的
 - arthritis n.关节炎
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
-- assemble 集合、组装、装配、收集、聚集、组合
+- assemble v.集合、组装、装配、收集、聚集、组合
+- assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构
 - assert v.声称、断言、明确肯定、维护、坚持、生效
 - assess [əˈses] v.评估、评价、评定、估算
@@ -176,6 +192,8 @@
 - astray 迷路的、堕落、误入歧途的、迷路
 - asymmetric 不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
+- athlete [ˈæθliːt] n.运动员
+- athletic a.运动的、健壮的
 - atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest v.作证、证明、证实、表明
@@ -187,7 +205,7 @@
 - augment 加强、增加、扩大、提高
 - authentication [ɔːˌθentɪˈkeɪʃn] 认证、证明、鉴定、身份验证
 - authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
-- authority [ɔːˈθɒrəti] n.权威、当权、授权、批准
+- authority [ɔːˈθɒrəti] n.权威、当权、当局、授权、批准
 - auto 汽车、汽车的
 - automate v.(使)自动化
 - automation n.自动化

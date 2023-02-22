@@ -7,6 +7,8 @@
 - lapse 失效、衰退、衰弱、结束、背弃、失足、过失、疏忽
 - last a.最后的、最终的、末尾的、最近的、v.持续、延续、持久、够用   
 - lasting a.持久的、耐久的、v.持续、继续、继续存在、持续起作用
+- latch n.门闩、锁
+- latent a.潜在的、潜伏的、隐藏的、休眠的
 - latency 延迟、潜伏、潜在因素
 - launch v.开始从事、上市、发行、n.发射、下水
 - lawsuit n.诉讼、起诉
@@ -45,6 +47,7 @@
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - linguistic a.语言的、语言学的
+- linkage n.联系、连锁、联动
 - linux ['lɪnəks] 
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
 - liquidity n.流动性、流动资金、资产流动性、资产变现能力
@@ -55,6 +58,7 @@
 - literary a.文学的、文学上的、爱好文学的
 - literature n.文学
 - loan 贷款、借出
+- local a.地方的、当地的、局部的
 - locate v.定位
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
 - logical 必然的、合乎逻辑的、合乎情理的

@@ -1,14 +1,16 @@
 - racial a.种族的
+- radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - raincheck 雨票、延期
-- raise 提升、举起、增加、抚养、饲养、终止、解除、高地、上升、加薪
+- raise [reɪz] v.提升、举起、提出、提及、增加、筹募、抚养、饲养、终止、解除、n.上升、加薪
 - rally v.召集、集合、n.集会
 - random a.随机的、无规则的、n.随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - ransom 赎金、赎回、赎罪
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ration n.定量、定额、合理的量、v.限量供应、配给 
-- rational 理性的、合理的、理智的、合理的事物、懂道理的人、有理数
+- rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
+- rationale n.根本原因，基本原理
 - react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
 - realign 重新排列、对...进行调整、改变观点
@@ -19,7 +21,7 @@
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - recap 概括、扼要重述、简要回顾、翻新
-- recent 最近的、近来的、新近的
+- recent a.最近的、近来的、新近的
 - receipt 接收、收到、收入、收据、开收据
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
@@ -28,7 +30,7 @@
 - reconcile v.调和、调停、使和好、使和解
 - recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
 - reconciliation n.调解、和解、协调、调停
-- record 唱片、履历、档案、记录、声明、标明
+- record n.唱片、履历、档案、v.记录、声明、标明
 - recoup 补偿、收回、弥补
 - recover v.恢复、痊愈、找回、赢回
 - recovery n.恢复、痊愈、取回
@@ -65,7 +67,7 @@
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、泄露
-- relevant 相关的、有价值的、有意义的
+- relevant a.相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
 - rely v.依靠、依赖、信赖
@@ -78,8 +80,11 @@
 - remediation 补救、矫正、修复
 - remind vt.提醒、使想起、使记起
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
+- remold v.重塑、改造
 - render 提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
+- renew v.更新、重新开始、重申、使恢复
+- renewable a.可再生的、n.可再生资源
 - rental 租金、出租、租赁、招租
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
@@ -107,16 +112,20 @@
 - resistance n.反对、抵制、抵抗力、阻力、电阻
 - resistant 抵抗的、顽固的、抵抗者、防染剂
 - resolve 决定、决心、解决、做出决定、表决、使分解、使解体
+- resort [rɪˈzɔːt] n.求助、凭借、诉诸、度假胜地、v.求助、凭借、诉诸  resort to 诉诸于...、以...方式
 - respect n.尊重、尊敬、方面、细节、问候、着眼点、关系、v.尊敬、尊重、重视、遵守
 - respective a.分别的、各自的
+- respond v.回应、响应、作出反应
 - response n.回答、答复、反应、响应
-- responsibility n.责任、义务
+- responsible a.应负责的、有责任的、有责任心的、责任重大的
+- responsibility n.责任、义务、职责、任务
 - responsible a.负责的、可信任的、有责任、承担义务
 - rest v.休息、放松、支撑、依靠、n.其余、剩余部分、休息时间、支撑物、安静、安宁 rest on/upon 依赖、依靠、基于 rest with 在于、取决于
 - restate v.重申、重述
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
 - restrain v.制止、阻止、管制、约束
 - restrict v.限定、限制、约定、制约、束缚、妨碍
+- result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
 - retain 保持、保留、持有、聘请、雇佣
@@ -127,13 +136,16 @@
 - retrieval 检索、取回、挽回
 - retrieve 取回、恢复、挽回
 - retrograde v.逆行、倒退、a.倒退的、退化的、退步的
+- return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
 - reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)
 - review n/vt.回顾、复习、评论、评审、审查、报告、汇报
-- revise 修订、修正、改变、复习、校订
+- revise v.修订、修正、改变、复习、校订
+- revision n.修订、修改、校对、复习、温习
 - revolution n.革命、变革、旋转、运行、公转
 - revolve v.旋转、环绕、转动、使循环、反复考虑
+- rid v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - rigid a.僵硬的、严格的、顽固的、死板的
 - rise n/v.上升、增加
 - risk  风险

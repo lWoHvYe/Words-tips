@@ -20,12 +20,13 @@
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
+- impedance n.阻抗
 - imperative a.迫切的、急迫的、n.必要的事
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
 - implication n.蕴含、含意、牵涉、牵连、影响
-- implict 含蓄的、内含的、不直接的、隐示的
+- implict a.含蓄的、内含的、不直接的、隐示的
 - imply v.暗示、意味、隐含、说明、意味着
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
@@ -34,7 +35,8 @@
 - improve 提高、改进、改善
 - improvise v.即兴创作、临时拼凑
 - inappropriate a.不合适的、不恰当的、不合时宜的
-- incentive n.激励、诱因、刺激、a.激励的、鼓励的
+- incentive n.激励、诱因、刺激、动机、a.激励的、鼓励的
+- inception n.开端、创始
 - incidence 发生率、影响范围、关联、接合、入射、入射角
 - incident 事件、事变、事端、摩擦、冲突、易引起的
 - inclination n.倾向、意愿、趋向、趋势
@@ -47,13 +49,13 @@
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
-- indeed 甚至、的确、确实、真正地、真的
+- indeed ad.甚至、的确、确实、真正地、真的
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
 - independent 独立的
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
-- individual 个人、个别的、独特的
+- individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
 - induction 就职、催生、电磁感应
 - industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司
@@ -61,6 +63,7 @@
 - industrialize/industrialise v.工业化
 - industry n.工业、行业、勤奋、勤劳
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
+- inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
 - inherent a.固有的、内在的
 - inherit v.继承、接替、继任
 - infer v.推论、推理、推断、暗示、意指
@@ -80,7 +83,7 @@
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
 - initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
 - inject 注射、注入
-- innocent a.清白的、无辜的、无罪的、无知的
+- innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
 - innovate v.引入(新事物、思想或方法)、改革、创新
 - innovation 创新、革新
 - inquire v.询问、打听
@@ -90,6 +93,7 @@
 - insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
 - inspect v.检查、视察
+- inspire v.鼓励、激励、启迪
 - inspite of 尽管、即使
 - installment n.分期付款、分期交付、连载
 - instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
@@ -100,6 +104,7 @@
 - institute v.建立、制定、开始、着手、n.学院、协会、研究所、机构
 - institution n.机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
+- instruction n.用法说明、操作指南、指示、命令、指令
 - instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
 - instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
@@ -112,6 +117,7 @@
 - integrity n.完整、完整性、廉正、正直、诚实、保存、健全
 - intelligible 可理解的、易懂的
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
+- intellisense n.智能感知、智能感应
 - intend v.计划、打算、想要、意指、意欲
 - intensity n.强烈、紧张、剧烈、强度
 - intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的
@@ -127,16 +133,19 @@
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
-- interpret v.解释、说明、理解、领会、翻译、诠释
+- interpret [ɪnˈtɜːprət] v.解释、说明、理解、领会、翻译、诠释
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - interrupt v.打断、中断、阻止
 - intersect 横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
+- interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
 - interview v/n.采访、面试、接见、会谈
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate 错综复杂的
-- introduce 介绍、引进、提出、作为...的开头
+- introduce v.介绍、引进、提出、采用、作为...的开头
+- introduction n.介绍、引进、推行、引言、序言、导论
+- introductory a.引导的、介绍的、入门的、初步的
 - introspect v.反思、内省、自省
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invalidate v.使无效、使作废、证明...错误、使站不住脚

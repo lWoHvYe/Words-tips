@@ -3,13 +3,19 @@
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment n.服装、衣服、v.给...穿衣服
 - gate n.门、大门、阀门
+- gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
-- general 全体的、普遍的、一般的
-- generation n.产生、发生、一代人
+- gender n.性别、性
+- gene [dʒiːn] n.基因、遗传因子
+- general a.全体的、普遍的、一般的、n.将军、上将
+- generation n.产生、发生、一代、一代人
 - generic 通用的、一般的、普通的、无商标的
-- generous a.慷慨的、大方的、丰盛的
+- generous a.慷慨的、大方的、丰盛的、大量的
 - genetic [dʒəˈnetɪk] a.遗传的、基因的、基因学的
-- gentle 温和的、文雅的、高尚的、使温和、使驯服、绅士
+- genius [ˈdʒiːniəs] n.天才、天赋、创造能力、才能、本领
+- genome [ˈdʒiːnəʊm] n.基因组、染色体组
+- gentle a.温和的、文雅的、高尚的、v.使温和、使驯服、n.绅士
+- genuine [ˈdʒenjuɪn] a.真正的、真诚的、坦率的
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - giant n.巨人、巨物、a.巨大的、特大的、伟大的
@@ -25,7 +31,9 @@
 - grab 抓住、强夺
 - grace n.优美、优雅
 - graceful a.优美的、优雅的、得体的、有风度的
+- graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、n.大学毕业生
 - grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
+- grammar n.语法、语法书 grammar/primary school 小学
 - granny n.祖母、外祖母
 - grant 授予、承认、准许、拨款
 - granularity 粒度
@@ -35,10 +43,13 @@
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
+- grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groom 使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得
+- ground n.地面、地基、基础
 - guarantee n.保证、担保、保证人、保证书、抵押品、v.保证、担保、抵押、确保
 - guarantor n.保证人、担保人
 - guaranty n.保证、担保物、保证书、抵押品、v.保证、抵押、担保
 - guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针
+- gym/gymnasium [dʒɪmˈneɪziəm] n.体育馆、健身房

@@ -3,8 +3,10 @@
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
 - sanitization 消毒、卫生处理、净化、清除
-- satisfy 使满意、满足、使确信、符合、达到、消除、履行
+- satisfaction n.满意、满足、清偿、赔偿
+- satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
+- sauce n.酱汁、调味汁、无礼的话或举动
 - scalable a.可扩展的
 - scalability n.可扩展性、可伸缩性、可量测性
 - scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
@@ -13,11 +15,13 @@
 - scarce a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity n.稀缺、稀少、缺乏、不足、萧条
+- scatter v.散开、分散、驱散、n.散落
 - scenario n.方案、设想、场景、脚本
 - scheme n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scientific a.科学的、有系统的
-- scope 范围、边界、眼界、见识、机会、能力、仔细看、彻底检查
+- scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
+- scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
@@ -30,8 +34,10 @@
 - seasonal a.季节性的、周期性的
 - secondary a.第二的、次要的、辅助的、中等的、n.助手、副手
 - secret n.秘密、奥秘、机密、a.隐秘的、神秘的、秘密的、机密的
+- secretary n.秘书、干事、书记员
 - section n.部分、部门、部件、v.切开、切断、切片
 - sectional 某群体的、断面的、某阶层的、局部的、部分的
+- sector n.部门、领域、行业
 - secure v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
 - security n.安全、担保、保护措施、保证、抵押品、股票、证券、a.安全的、保密的
 - securitization 证券化
@@ -44,7 +50,7 @@
 - semiannual 每半年的、半年的
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体
 - seminar n.研讨会、研讨课
-- senior 级别高的、资深
+- senior a.级别高的、资深的
 - sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
 - sense n.感觉、意识、观念、v.感觉到、意识到、理解、领会 make sense 讲得通、有意义
 - sensible a.明智的、理智的、合乎情理的、意识到的、认识到的、敏感的
@@ -52,7 +58,7 @@
 - sentence n.句子、宣判、判刑、v.判决
 - sentiment n.看法、观点、情绪、伤感、哀伤
 - separate 分开、分离、单独的、不相关的
-- sequence 顺序、数列、序列、连续、按顺序排列、测定序列
+- sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
 - serial a.连续的、连载的
 - serialize 连载、连播
@@ -77,7 +83,9 @@
 - share v.共有、分享、共享、n.股份
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
 - shield 盾、护罩、保护、掩护、屏蔽
-- shift v.转换、转移、发生变动、n.转换、改变、轮班、换班
+- shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
+- shirk [ʃɜːk] v.逃避、偷懒
+- shortage n.不足、缺少、短缺
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sight n.景象、看见、视力、视野、v.看到、发现
 - significance n.意义、含义、重要性
@@ -88,12 +96,14 @@
 - silicon 硅
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
 - silver n.银、银币、银器、银色、a.银色的、v.镀银
-- simplify 简化、精简
+- simplify v.简化、精简
 - simulate 模仿、模拟、仿真、假装、冒充、拟态、模仿的、假装的
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
+- sketch n.素描、草图、简报、v.速写、草拟、简述
+- ski n.滑雪板、v.滑雪、a.滑雪的
 - slash n.斜线、斜杠、劈、砍、v.大幅削减、大大降低
 - sleuth 足迹、警犬、侦探
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
@@ -128,8 +138,10 @@
 - sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
+- spatial a.空间的
 - specialize/specialise v.专攻、专门从事、详细说明、列举
 - specialist n.专家、a.专业的、专家的
+- species n.物种、种类
 - specific 特定的、独特的、具体的、明确的、特性、细节、特效药
 - specification 规格、规范、明细单、说明书
 - specify 具体说明、明确规定、详述、详列
@@ -148,12 +160,16 @@
 - sporadic 零星的、偶尔发生的、阵发性的
 - spot 点、斑点、污点、地点、认出、认清、发现
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
-- spread v.传播、散布、展开、伸开、n.传播、蔓延、a.广大的、大幅的
+- spread v.传播、散布、展开、伸开、n.传播、蔓延、差额、差幅、a.广大的、大幅的 spreading (在金融方面可做)利息差
 - spreadsheet n.电子表格
 - sprint 冲刺、全速短跑、短跑比赛
+- spurious a.虚假的、伪造的、欺骗性的
+- squad n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
 - stability 稳定性、稳定、稳固
+- stadium [ˈsteɪdiəm] n.(露天)体育场、运动场
+- staff n.员工、v.在...工作、任职于
 - stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
@@ -163,13 +179,17 @@
 - starvation 饥饿、挨饿、饿死、绝食
 - state 状态、状况、国家、州、陈述、说明、国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
+- static a.静止的、静态的、n.静电
 - stationery [ˈsteɪʃənri] n.文具、信纸、信笺
 - statistic 统计的、统计学、统计资料
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steer v.驾驶、指引
+- steroid n.类固醇
 - stick 粘贴、张贴、插入、刺入、容忍、放置、条状物、操作杆
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
-- stimulate v.促进、激发、激励、刺激、使兴奋
+- stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
+- stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
+- stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素 
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
 - stockpile n.库存、储备、v.大量储备
@@ -177,6 +197,7 @@
 - straightforward a.直截了当的、坦率的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
+- stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
 - strength n.力量、体力、毅力、优点、长处
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
 - strict a.精确的、绝对的、严格的、严谨的
@@ -187,17 +208,19 @@
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
 - structrue 结构、构造、建筑物、体系、构成、安排、排列
 - struggle v.努力、奋斗、争取、抗争、n.努力、斗争、打斗、难事
+- stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进
 - stupid 愚蠢的、迟钝的、笨蛋
 - subject n.主题、题材、学科、科目、研究、实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从
+- substance n.物质、实质、主旨、要点、基本内容
 - subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
 - subsequent a.随后的、之后的、后来的
 - subset 分组、小组、子集
-- subsidary 辅助的、附属的
+- subsidary a.辅助的、附属的
 - substantial 大量的、价值巨大的、重大的、结实的、本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
 - subtract 减、减去、扣除
@@ -243,6 +266,8 @@
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swim v.游泳、游动、旋转、眩晕、n.游泳
 - swine n.猪、讨厌的人、令人不愉快的事、难处理的东西
+- symbol n.象征、符号、代号、记号、v.用符号代表
+- symbolic a.象征的、象征性的
 - symmetric 对称的、均衡的
 - symptom n.症状、征兆
 - synchronize v.同步、使同步、在时间上一致

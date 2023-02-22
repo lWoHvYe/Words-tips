@@ -1,6 +1,7 @@
 - eager [ˈiːɡər] 渴望的、热切的、渴求的
 - earn v.赢得、获得、赚得、博得
 - earth n.地球、陆地、地面
+- ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
 - edge n.边、边缘、v.给...加边、略微增加/减少
@@ -16,8 +17,10 @@
 - electronic 电子的、电子设备的
 - elegant 简明的、简洁的、优美的、文雅的
 - elevate v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
+- elite [eɪˈliːt] n.精英、上层集团、a.精英的、精锐的
 - embarrass v.窘迫、尴尬、局促不安
 - embed 把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
@@ -31,6 +34,7 @@
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
 - encapsulate 封装、概括、压缩、简述
+- enclose v.随函附上、把...装入信封、附入、围住、把...围起来
 - encode 编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
@@ -40,6 +44,7 @@
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
 - energy 活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
+- engender v.产生、引起
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
 - engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
@@ -57,6 +62,7 @@
 - entitlement n.权利、资格、津贴
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
+- entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envy n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
@@ -93,7 +99,7 @@
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evolve v.发展、进化、演变
-- exact [ɪɡˈzækt] a.准确的、精确到、严谨的、严格的、一丝不苟的、精密的、严密的、v,要求、索取、迫使、强迫、强求
+- exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - examine v.检查、审查、考察、调查、考试、审问
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
@@ -103,13 +109,14 @@
 - excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchequer n.财政部、国库、金库
+- excite [ɪkˈsaɪt] v.激发、刺激、使兴奋、使激动
 - exclaim v.呼喊、惊叫、大声说出
 - exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive 独家、专用的、高级的、独有的、独占的、独家新闻
-- execute v.执行、完成、履行、处决
-- execution [ˌeksɪˈkjuːʃn] 处决、实行、执行、演奏
-- executive 总经理、经理、领导层、行政部门、经理的、决策的、行政的
+- execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
+- execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
+- executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
 - exemplary a.模范的、典范的、惩戒性的
 - exempt 免除、豁免
 - exercise 运动、锻炼、练习、习题、行使
@@ -117,6 +124,7 @@
 - exhaust [ɪɡˈzɔːst] 排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
+- exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
 - expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
@@ -128,12 +136,16 @@
 - experiment 实验、试验、尝试、试用、做实验
 - expert n.专家、a.熟练的、内行的、经验丰富的
 - explain 解释、说明、阐明
+- explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述
 - explict a.明确的、清晰的、直言的、坦率的、不隐晦的
 - explode v.爆炸、突然爆发、迸发、突增、激增
 - exploit v.开发、剥削、开拓、开采、利用、压榨、功劳、功绩
 - explore 勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
 - explosion n.爆发、爆炸、炸裂、突增、激增
+- exponent [ɪkˈspəʊnənt] n.指数、幂、拥护者、倡导者、a.说明的、讲解的
+- exponential [ˌekspəˈnenʃl] a.指数的、幂的、越来越快的
+- export n/v.出口、输出
 - expose v.暴露、揭露、使曝光、使接触、接触、n.陈述、阐述、揭露
 - exposure n.面临、暴露、揭发、曝光、拆穿
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
