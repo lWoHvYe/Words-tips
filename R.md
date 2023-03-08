@@ -7,6 +7,7 @@
 - random a.随机的、无规则的、n.随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - ransom 赎金、赎回、赎罪
+- rare a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
@@ -25,6 +26,7 @@
 - receipt 接收、收到、收入、收据、开收据
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe 配方、食谱、处方、秘诀
+- recite v.背诵
 - reckon v.估计、认为、估算、预计、指望、料想
 - recognize/recognise v.认出、认识、承认、认可
 - reconcile v.调和、调停、使和好、使和解
@@ -36,15 +38,16 @@
 - recovery n.恢复、痊愈、取回
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
-- recruit 招聘、招募、吸收、征募、组建、新人、新兵、新成员、
+- recruit v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
 - recursive 递归的、循环的
+- redeem v.兑换、偿还、赎回
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
 - refer v.提到、针对、参考、提及、涉及
 - refinance v.再筹资金、再融资
 - refine v.精炼、提炼、改进、改善
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
-- refrain 抑制、避免、克制、节制
+- refrain v.抑制、避免、克制、节制
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝
 - refuse v.拒绝、回绝、推却、n.垃圾、废弃物
@@ -52,6 +55,7 @@
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
 - region 地区、区域、行政区、管辖区、层、界、境
+- register v.登记、注册、n.登记薄、注册表、寄存器
 - regress 倒退、回归、退化
 - regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
 - regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
@@ -63,12 +67,13 @@
 - reinforce v.增援、加强、巩固
 - relate 使有联系、联系、讲述、叙述、把...联系起来、讲（故事）
 - relation n.关系、联系、关联
-- relative 相对的、比较的、比较而言的、亲戚、同类事物
+- relative a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、泄露
 - relevant a.相关的、有价值的、有意义的
 - reliable 可靠的、可信赖的、真实可信的、可靠的人
+- relic n.遗物、遗迹、废墟
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
 - rely v.依靠、依赖、信赖
 - remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
@@ -78,10 +83,12 @@
 - remarkable a.非凡的、显著的、杰出的
 - remedial 治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
+- remedy n.救济、治疗、补偿、公差、v.纠正、改正、改进
 - remind vt.提醒、使想起、使记起
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remold v.重塑、改造
-- render 提供、给予、使成为、使得、递交、表达、粉刷、涂抹
+- renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴
+- render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - renew v.更新、重新开始、重申、使恢复
 - renewable a.可再生的、n.可再生资源
@@ -123,12 +130,13 @@
 - rest v.休息、放松、支撑、依靠、n.其余、剩余部分、休息时间、支撑物、安静、安宁 rest on/upon 依赖、依靠、基于 rest with 在于、取决于
 - restate v.重申、重述
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
+- restore v.修复、归还、恢复
 - restrain v.制止、阻止、管制、约束
 - restrict v.限定、限制、约定、制约、束缚、妨碍
 - result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
-- retain 保持、保留、持有、聘请、雇佣
+- retain v.保持、保留、持有、聘请、雇佣
 - retarget 重定向、重构、把...作为新目标
 - retention 保持、维持、保留、阻滞、记忆、记忆力
 - retire 退休、撤退、后退
@@ -140,17 +148,21 @@
 - revalue 再评价、对...重新估价
 - reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)
+- reversal n.颠倒、彻底转变、反转、转换、交换
+- reverse v.颠倒、反转、扭转、逆转、a.反面的、相反的、背面的、n.相反的情况、背部、后部
 - review n/vt.回顾、复习、评论、评审、审查、报告、汇报
 - revise v.修订、修正、改变、复习、校订
 - revision n.修订、修改、校对、复习、温习
+- revoke v.撤销、取消、废除、使无效
 - revolution n.革命、变革、旋转、运行、公转
 - revolve v.旋转、环绕、转动、使循环、反复考虑
+- reward n.奖励、回报、报酬、v.奖励、奖赏、给予报酬
 - rid v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - rigid a.僵硬的、严格的、顽固的、死板的
 - rise n/v.上升、增加
-- risk  风险
+- risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
-- robust a.强健的、强壮的、精力充沛的
+- robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - romantic 浪漫的、多情的、风流的、空想的、虚构的
 - room n.房间、空间、可能性、v.租房、合住

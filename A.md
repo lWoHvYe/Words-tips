@@ -33,8 +33,9 @@
 - accurate a.精确的、准确的、正确无误的
 - accustom v.使习惯、使适应
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
-- acknowledge 承认、确认、答谢
+- acknowledge v.承认、确认、答谢
 - acquaintance [əˈkweɪntəns] 相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
+- acquire v.获得、得到
 - acquisition 获得、得到、购置、收购
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
 - active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
@@ -59,12 +60,13 @@
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adult n.成年人、成人、a.成人的 
 - adulthood 成年、成年期
-- advance v.前进、发展、提出、提前、促进、推动、提高、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
+- advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
 - advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
 - advantage n.有利条件、有利因素、优势、优点、利益、好处、v.有利于、有益于、促进  take advantage of 利用、欺骗
-- adverse 不利的、有害的
+- adverse a.不利的、有害的、不友好的、敌对的
+- adversity n.困境、逆境
 - advertent 注意、引起注意、提到、广告、宣传
-- advertise 宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
+- advertise v.宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
 - advice n.劝告、忠告、建议、意见
 - advisor n.顾问、咨询
 - advisory a.顾问的、咨询的
@@ -78,9 +80,9 @@
 - afterward ad.后来、之后
 - against 反对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
-- agenda (复数)议程、议程表
+- agenda n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
-- agent 代理人、代理商、由...代理、代理的
+- agent n.代理人、代理商、媒介、工具、原动力、动因、v.由...代理、a.代理的
 - agile [ˈædʒaɪl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
@@ -91,6 +93,7 @@
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
+- albeit conj.虽然、即使
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
@@ -109,6 +112,7 @@
 - alternative 替代的、另类的、备选的、可供选择的事物
 - altitude n.海拔
 - amber 琥珀、琥珀色
+- ambiguity [ˌæmbɪˈɡjuːəti] n.含糊、模棱两可、歧义
 - ambition n.雄心、抱负、夙愿
 - ambitious [æmˈbɪʃəs] a.有雄心的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
@@ -128,14 +132,17 @@
 - anecdote n.轶事、奇闻、逸事
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
+- anniversary n.周年纪念日
+- announce v.宣布、宣告、通知、声明
 - annual 年度的、每年的
+- anonymous a.匿名的
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑                                      
 - apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
 - apartment n.公寓
-- apparent a.显然的、貌似的、未必真实的
+- apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
 - appeal n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
@@ -146,7 +153,7 @@
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
 - apply v.申请、应用、运用、适用、适合  apply to 适用于、运用  apply for 申请
-- appoint 任命、委派、安排、约定、确定
+- appoint v.任命、委派、安排、约定、确定
 - appointment n.任命、约会、职务、职位
 - apportion v.分配、分摊、分派
 - appraisal n.评价、估价、鉴定
@@ -163,6 +170,7 @@
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
+- arity n.(参数)数量、元数
 - arouse v.引起、唤起、激起、激发
 - arrange 安排、凑备、布置
 - array n.数组、阵列、大批、大量、v.布置、排列
@@ -173,20 +181,21 @@
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
+- aspire v.渴望
 - assemble v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构
 - assert v.声称、断言、明确肯定、维护、坚持、生效
 - assess [əˈses] v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
-- asset 资产、财产、有价值的人
+- asset n.资产、财产、优点、有利条件
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
-- assist 帮助、援助
+- assist v.帮助、援助
 - assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
-- associate v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
+- associate [əˈsoʊsieɪt]/[əˈsoʊsiət] v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
 - assume [əˈsjuːm] v.假定、假设、承担、担任
-- assumption 假定、假设、承担、担任
+- assumption n.假定、假设、承担、担任
 - assurance n.保证、担保、保险
 - assure 向...保证、使...确信、保证、确保
 - astray 迷路的、堕落、误入歧途的、迷路
@@ -213,8 +222,9 @@
 - autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
-- available [əˈveɪləbl] 可获得的、有空的、能找到的
+- available [əˈveɪləbl] a.可利用的、可获得的、有空的、能找到的
 - avenue n.大街、大道、途径、渠道、手段
-- averse a.厌恶、不喜欢、不想做、反对做
+- averse a.讨厌、厌恶、不喜欢、不想做、反对做
+- avert v.防止、避免、转移、避开
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的

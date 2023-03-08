@@ -1,23 +1,30 @@
 - ultimate a.最后的、最终的、最好的、基本的、基础性的、v.极品、精华
+- ultraviolet [ˌʌltrəˈvaɪələt] n.紫外线、紫外光、a.紫外线的  ultra- 超出、以外
 - umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的
 - uncertain a.不确定的、不明确的、无把握、犹豫、拿不准
 - uncertainty n.不确定性、犹豫、迟疑、无把握
+- uncharted a.未知的、人迹罕至的
+- undergo v.遭受、经历、忍受
 - undergraduate n.(尚未获得学士学位的)大学生、大学本科生、a.大学本科的、大学生的
+- underground a.地下的、秘密的、ad.在地下、隐匿地、n.地铁
 - underlie v.构成...的基础、作为...的原因  
 - underlying a.根本的、潜在的、隐含的、v. underlie的现在分词
 - underline v.划线、强调
 - underpin v.加强、巩固、构成(...的基础)
+- understanding n.理解、理解力、a.善解人意的、通情达理的
 - undertake v.承诺、保证、承担、从事、同意、答应
 - underwrite v.认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
 - underwriting n.保险业、v.承担经济责任、承保、承销
 - undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
 - unicast 点播、单播、单点传送
+- unification n.统一、联合、一致
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
 - union n.同盟、联盟、联邦、协会、工会
 - unit 单元、单位、机构
 - universal a.普遍的、通用的
+- universe n.宇宙、领域
 - unleash v.发泄、解除...的束缚
 - unsound a.不健全的、靠不住的、有错误的、腐烂的
 - unsurpassed a.无法超越的、无与伦比的、卓越的
@@ -25,9 +32,11 @@
 - uplift v.鼓励、激励、振作、上升、升起、n.隆起、提高、振奋、鼓舞
 - upend v.倒立、倒放、颠倒 be upended by ... 反生了颠覆性的变化
 - upon 在...上面、当...时候
+- upset v.打翻、扰乱、使...心烦意乱、n.混乱、困扰、麻烦、a.难过、沮丧、不高兴
 - upside n.好处、好的一面、上边、提高、上涨
 - urban a.城市的、都市的
 - urge n.刺激、冲动、v.催促、敦促、力劝
 - urgent a.紧急的、迫切的
 - utility 公用事业、功用、效用、多用途的、多效用的、多功能的
 - utilize/utilise 使用、利用、运用、应用
+- utmost n.极限、最大可能、a.极度的、极大的

@@ -19,6 +19,7 @@
 - behalf n.利益、代表  on behalf of 代表
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
+- benefactor n.施主、赞助者
 - benefit n.利益、好处、成效、福利、奖金、补助、v.使受益、得益于、得利于
 - bequest 遗赠、遗产、遗赠物
 - bespeak v.证明、预定、展现、显示
@@ -29,11 +30,13 @@
 - bid [bɪd] n/v.投标、出价
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
-- bind 绑定、捆绑、缠绕、结合、约束、凝结、装订、窘境
+- billion n.十亿
+- bind v.绑定、捆绑、缠绕、结合、约束、凝结、装订、n.窘境
 - biochemical 生物化学的、生化的
 - biography n.传记
 - biology 生物学
-- blame n/v.责备、责怪、指责
+- bitwise n.位运算
+- blame n/v.责备、责怪、指责、n.责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
@@ -43,7 +46,7 @@
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、变模糊
 - blurry a.模糊的
-- board n.板、甲板、董事会、v.上船、让乘客登机
+- board n.板、甲板、委员会、董事会、v.上船、让乘客登机
 - boilerplate n.样板
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bond n.纽带、联系、债券、保释金、v.使结合、与...紧密联系
@@ -57,9 +60,12 @@
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、一定会、很可能会 bind的过去式和过去分词
 - boundary 边界、界限、分界线
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
-- branch n.分支、v.分开、分叉
-- breach 违背、违反、破坏、破裂、辜负、中断
-- breast [brest] 乳房、乳腺、胸脯、胸部、升高、攀登、登上...的顶部
+- branch [brɑːntʃ] n.分支、v.分开、分叉
+- brand n.品牌、商标、烙印
+- breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
+- break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
+- breakfast n.早餐、v.吃早餐
+- breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
 - breathe 呼吸、活着、生存
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
 - brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要
@@ -77,6 +83,7 @@
 - bulkhead n.舱壁、隔板、资源隔离
 - bump 碰撞、突然的；bump up 突然增加、提高
 - burden n.负担、包袱、责任、义务、v.使担负...
+- burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
 - burst [bɜːrst] 爆裂、胀开、爆满

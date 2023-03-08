@@ -2,8 +2,11 @@
 - labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
 - lack n/v.缺乏、短缺
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
-- land 土地、陆地、降落、着陆、成功获得、赢得；landing page 登录页面
-- landscape n.风景、景观、地形、地貌
+- land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
+- landlady n.女房东、女店主
+- landlord n.房东、地主、店主
+- landmark n.地标、里程碑
+- landscape n.风景、景观、地形、地貌、政治或社会形势
 - lapse 失效、衰退、衰弱、结束、背弃、失足、过失、疏忽
 - last a.最后的、最终的、末尾的、最近的、v.持续、延续、持久、够用   
 - lasting a.持久的、耐久的、v.持续、继续、继续存在、持续起作用
@@ -30,11 +33,13 @@
 - legitimate a.合法的、合理的、正规的、法定的、n.使合法、正式批准、授权
 - leisure n.空闲、闲暇、悠闲、安逸、a.空闲的、闲暇的
 - lend v.借给、借出、给...增加、增添、给予、提供、n.贷款
+- length n.长、长度 at length 最后、终于、充分地、详尽地
 - lenient a.宽大的、宽容的、仁慈的
 - lens n.透镜、镜片、镜头、(眼球的)晶状体
+- letter n.信、函、字母
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
 - lever n.操纵杆、杠杆、v.撬动
-- leverage 影响力、杠杆作用、举债经营、借贷收购     leverage...to... 利用...来...
+- leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购     leverage...to... 利用...来...
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
 - liability n.责任、债务、负债、欠债
 - liable 有责任的、有义务的、有...倾向的
@@ -44,7 +49,7 @@
 - lien n.留置权、扣押权
 - lifespan 寿命、存在期、使用期、有效期
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
-- light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地
+- light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地  过去式及过去分词：lit
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - linguistic a.语言的、语言学的
 - linkage n.联系、连锁、联动

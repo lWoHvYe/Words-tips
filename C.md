@@ -40,6 +40,7 @@
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
 - caution 警告、告诫、小心、慎重
+- cautious a.小心的、谨慎的
 - caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
@@ -56,6 +57,7 @@
 - certainty n.确信、确定性、确定的事、必然的事
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
 - certify v.证明、证实、颁发证书
+- challenge n/v.挑战、质疑
 - champion n.冠军、得胜者、拥护者、勇士、v.捍卫、声援
 - chance n.机会、机遇、时机、可能性、偶然、运气、v.偶然发生、冒险、碰巧、a.意外的、偶然的、碰巧的
 - change 改变、交换、替换、换衣服、兑换、找零、更换
@@ -66,6 +68,7 @@
 - characteristic 特征、特点、品质、特有的、典型的、独特的
 - charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、控诉、充电 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
 - charity n.慈善机构、慈善、施舍
+- chart n.图表、v.记录、跟踪、绘制地图
 - chase v.追求、追赶、追捕、努力获得、争取得到、n.追赶、追捕、打猎、猎物
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
@@ -83,6 +86,7 @@
 - cinema n.电影、电影院
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
 - circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器
+- circular [ˈsɜːkjələ(r)] a.圆环的、环形的
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
@@ -114,6 +118,7 @@
 - codec 编解码器
 - codify v.编撰、把...编成法典
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
+- coexistence n.共存、共处 co existence(存在、生存)
 - cognitive 认知的、认识的
 - cohesive a.有结合力的、紧密结合的、结成一个整体的
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
@@ -217,7 +222,7 @@
 - conservation n.保护、保存
 - conserve vt.保护、保存、n.果酱、蜜饯
 - conscience n.良知、良心
-- conscious [ˈkɑːnʃəs] 有意识的、神志清醒的、意识到、注意到、有意的、刻意的、特别感兴趣的
+- conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
 - consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consider [kənˈsɪdər] 考虑、认为、仔细考虑、细想、体谅、顾及、端详
 - considerable a.相当大的、该注意的、应考虑的、重大的、可观的
@@ -245,6 +250,7 @@
 - content n.内容、目录、主题、n/v.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意
 - contest n.比赛、争论、v.争取赢得、争辩
 - context n.语境、上下文、背景
+- continent [ˈkɑːntɪnənt] n.大陆、陆地、洲
 - contingency 可能性、偶然性、意外事故、偶发事件
 - contingent 代表团、视情况而定的
 - continuation n.继续、连续、持续、续篇、附加物
@@ -262,14 +268,16 @@
 - convenient a.实用的、便利的、方便的、附近的
 - convention n.会议、惯例、习俗、规矩
 - converge v.会聚、聚集、相交、会和
-- conversation n.会话、交流、交往
+- conversation n.会话、交流、交谈
+- converse v.谈话、交谈、a.相反的、颠倒的
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
+- convert v.转变、转换、兑换
 - convey [kənˈveɪ] v.运送、输送、表达、传播
 - convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate 坐标、套装、使协调、使调和、整合、搭配、协调、同等的、配合的、对等的、坐标的
-- cope v.对付、处理、笼罩、n.斗篷、长袍
+- cope v.对付、处理、n.斗篷、长袍
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
 - corner 角落、拐角、垄断
 - coroutine 协同程序、联立程序
@@ -301,9 +309,10 @@
 - creep v.爬行、匍匐、不知不觉地产生
 - crew [kruː] n.船员、乘务员
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、转折点
-- criteria(复数) n.标准、准则 criterion（单数）[kraɪˈtɪriən] 标注、准则
+- criteria (criterion 复数) n.标准、准则 
+- criterion [kraɪˈtɪriən] n.标注、准则
 - critic n.批评家、评论家
-- critical a.关键的、批评的、严重的、极重要的
+- critical a.关键的、批评的、批判的、严重的、紧要的、极重要的
 - criticism [ˈkrɪtɪsɪzəm] n.批评、批判、评论文章、评论
 - criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的

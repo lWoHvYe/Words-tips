@@ -5,10 +5,15 @@
 - obsession 痴迷、着魔、困扰、妄想
 - obtain 获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
+- occasion n.场合、时机、v.造成、导致
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
+- ocean n.海洋
+- odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
+- offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
+- offset v.抵消、弥补、补偿、n.抵消、补偿、平版印刷、a.胶印的
 - omit 省略、遗漏、删除、未能做
 - omission [əˈmɪʃn] n.省略、遗漏、疏忽、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
@@ -24,6 +29,7 @@
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
+- optimal a.最佳的、最优的
 - optimistic a.乐观的
 - optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize 优化、使最优化、充分利用
@@ -39,11 +45,13 @@
 - orthogonal a.正交的、直角的、垂直的、矩形的
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
+- outage n.(电力的)断供期、停电
 - outbound 向外的、出港的、离开某地的
 - outcome n.结果、效果、成果、出路
 - outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
 - outlook n.见解、前景、观点、景色、景观
 - outrage n.愤怒、暴行、v.使震怒、激怒
+- outset n.开始、开端
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
@@ -52,6 +60,7 @@
 - overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
 - overlap 重叠、交叠、重叠时间
 - overlay v.覆盖、镀金、n.覆盖物、图层
+- overload v.使过载、使超载运行、使超负荷、n.过多、过量、超负荷
 - oversee v.监督、监视、俯瞰
 - oversight n.疏忽、失察、负责、照管
 - overturn v.颠覆、使垮台、推翻、撤销(判决)

@@ -1,15 +1,17 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
 - gallery 画廊、走廊、长廊
+- gap n.缺口、间隙、分歧、隔阂、空白
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment n.服装、衣服、v.给...穿衣服
 - gate n.门、大门、阀门
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶
+- gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
 - gender n.性别、性
 - gene [dʒiːn] n.基因、遗传因子
-- general a.全体的、普遍的、一般的、n.将军、上将
+- general [ˈdʒenrəl] a.全体的、普遍的、一般的、n.将军、上将
 - generation n.产生、发生、一代、一代人
-- generic 通用的、一般的、普通的、无商标的
+- generic a.通用的、一般的、普通的、无商标的、n.泛型
 - generous a.慷慨的、大方的、丰盛的、大量的
 - genetic [dʒəˈnetɪk] a.遗传的、基因的、基因学的
 - genius [ˈdʒiːniəs] n.天才、天赋、创造能力、才能、本领
@@ -18,10 +20,11 @@
 - genuine [ˈdʒenjuɪn] a.真正的、真诚的、坦率的
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
-- giant n.巨人、巨物、a.巨大的、特大的、伟大的
+- giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
 - gist 主旨、要点、大意
+- glad a.高兴的、乐意的
+- glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
-- glnce 一瞥、扫视、匆匆一看、浏览、略过、擦过
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
 - globe n.地球、球体、地球仪
 - glossary 术语汇编、词汇表
@@ -31,11 +34,12 @@
 - grab 抓住、强夺
 - grace n.优美、优雅
 - graceful a.优美的、优雅的、得体的、有风度的
+- gradual a.逐渐的、逐步的、平缓的
 - graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、n.大学毕业生
 - grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
 - grammar n.语法、语法书 grammar/primary school 小学
 - granny n.祖母、外祖母
-- grant 授予、承认、准许、拨款
+- grant [ɡrɑːnt] v.授予、承认、准许、n.拨款 take for granted 认为...理所当然
 - granularity 粒度
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
@@ -43,6 +47,7 @@
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
+- grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groom 使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得

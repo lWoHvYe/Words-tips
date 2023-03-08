@@ -1,3 +1,4 @@
+- iconic [aɪˈkɒnɪk] a.标志性的、图标的、符号的
 - ideal a.完美的、理想的、不切实际的、理想、n.看似完美的思想、完美的人
 - idempotent 幂等、等幂、幂等的
 - identifier 标识符、识别码
@@ -5,7 +6,7 @@
 - identity v.确定、识别、认出、认同
 - ideology n.思想、意识形态、空想、空论
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
-- idol 偶像、崇拜物、幽灵、谬论、幻觉
+- idol n.偶像、崇拜物、幽灵、谬论、幻觉
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
@@ -16,6 +17,7 @@
 - immersive (计算机系统或图像)沉浸式虚拟现实的
 - immigrate vi.移入、移民  emigrate vi.移居国外、移民
 - imminent z.迫在眉睫的、即将发生的、临近的
+- immediate a.立即的、直接的、目前的、当前的、迫切的
 - immense a.广大的、巨大的、极大的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
@@ -34,7 +36,10 @@
 - improper 不合适的、不正确的、不道德的、不合礼仪的
 - improve 提高、改进、改善
 - improvise v.即兴创作、临时拼凑
+- impulse [ˈɪmpʌls] n.推动、驱使、心血来潮、冲动、脉冲
 - inappropriate a.不合适的、不恰当的、不合时宜的
+- incarnate a.人体化的、拟人化的、v.将(概念等)具体化、使人格化
+- incarnation n.化身、典型体现
 - incentive n.激励、诱因、刺激、动机、a.激励的、鼓励的
 - inception n.开端、创始
 - incidence 发生率、影响范围、关联、接合、入射、入射角
@@ -53,6 +58,7 @@
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
 - independent 独立的
+- index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
@@ -70,20 +76,23 @@
 - inference n.推论、推理、推断
 - inferior a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
+- inflate [ɪnˈfleɪt] v.使充气、膨胀、鼓吹、涨价
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - influence 影响、支配力、支配、左右
 - inform v.知会、通知、使活跃、使充满、告发、检举
 - informal a.非正式的、不拘礼节的、日常的
-- infrastructure 基础设施、基础建设
+- infrared n.红外线、a.红外线的 infra- 下、低
+- infrastructure n.基础设施、基础建设
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
 - inherit v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
-- initial 初始、最初的
+- initial [ɪˈnɪʃl] a.初始、最初的、开始的
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
 - initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
 - inject 注射、注入
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
+- innocuous a.无恶意的、无害的
 - innovate v.引入(新事物、思想或方法)、改革、创新
 - innovation 创新、革新
 - inquire v.询问、打听
@@ -115,6 +124,7 @@
 - integral a.完整的、必须的、积分的、n.积分、整体
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
 - integrity n.完整、完整性、廉正、正直、诚实、保存、健全
+- intellectual a.智力的、有才智的、n.知识分子
 - intelligible 可理解的、易懂的
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
 - intellisense n.智能感知、智能感应
@@ -126,8 +136,9 @@
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
-- interject v.打断、插话
 - interim [ˈɪntərɪm] a.临时的、过渡的、n.间歇、过渡期间
+- interject v.打断、插话
+- interlace v.使交错、使交织
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
@@ -148,11 +159,13 @@
 - introductory a.引导的、介绍的、入门的、初步的
 - introspect v.反思、内省、自省
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
+- invade v.入侵、侵略
 - invalidate v.使无效、使作废、证明...错误、使站不住脚
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
+- invert v.颠倒、倒转、倒置
 - invest v.投资、花费、装饰、授予、给予
 - investigate v.调查、研究、审查、侦查、做调查
 - investment n.招商、投资、投入、值得买的东西、封锁

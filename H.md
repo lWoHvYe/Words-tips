@@ -1,12 +1,19 @@
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的
+- hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予
+- handful n.一把(的量)
+- handicap [ˈhændikæp] n.障碍、缺陷、残疾、不利条件、v.阻碍、妨碍
+- handle n.柄、把手、v.处理、对待、操纵、触、摸
+- handsome [ˈhænsəm] a.英俊的、漂亮的、慷慨的、大方的、数量大的
+- handy a.方便的、便利的、易使用的
 - happiness n.幸福、愉快
 - hardline a.强硬的、不妥协的
 - harmonize v.协调、和谐、使相一致
-- harmony n.和谐、融洽
+- harmony n.和谐、融洽、协调、和声
 - harvest 收割、收获
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - headline n.大字标题、新闻摘要
+- headquarter n.总部
 - hedge 树篱、保护手段、拐弯抹角、包围、限制
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
@@ -16,6 +23,8 @@
 - hire v.雇用、聘用、租用、租借、n.租借、租用、租赁、租金、酬金
 - histogram 柱状图、直方图
 - historic/historical a.历史的、历史上的
+- hitherto [ˌhɪðərˈtuː] ad.迄(qi)今、至今、到目前为止
+- hobby n.爱好
 - hold v.持有、抓住、容纳、保留、持有、n.持、抱、拿、握  take hold 抓住、还可做持续
 - homo 高、同、人属、人类、佃户、侍从
 - hood n.兜帽、篷、罩、v.罩上、覆盖
@@ -26,4 +35,5 @@
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
 - hybrid 混合的、杂种的、杂交、混合物、合成物
+- hypocritical [ˌhɪpəˈkrɪtɪkl] a.伪善的、虚伪的
 - hypothesis [haɪˈpɒθəsɪs] n.假定、假设、假象、假说

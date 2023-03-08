@@ -13,7 +13,7 @@
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - participant n.参加者、参与者
 - participate v.参加、参与
-- particular 特定的、特别的、细节、详情
+- particular a.特定的、特别的、n.细节、详情
 - partition 隔断、分隔、瓜分、使分裂
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
@@ -22,6 +22,7 @@
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - pathway 路、道、途径、路径
+- patience n.忍耐、耐心、耐性
 - patient a.有耐心的、能容忍的、n.病人、患者
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
@@ -57,6 +58,7 @@
 - personnel n.人员、员工、职员、人事部门
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - pertain 存在、适用
+- peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - phase 阶段、时期
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
@@ -70,7 +72,8 @@
 - physics n.物理
 - physiology n.生理学
 - piece 块、片、段、修补、连接
-- pillor n.支柱、v.成为...的栋梁
+- pill n.药片、药丸、v.起球、结绒
+- pillar n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
 - pipeline n.管道、管线 in the pipeline 在筹备中
@@ -80,11 +83,13 @@
 - placeholder 占位符
 - plain n.平原、a.朴素的、朴实的、简朴的、清楚的、ad.简直、绝对地
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
+- plant n.植物、工厂、设备、v.种植、放置、安放
 - plastic n.塑料、信用卡、a.塑料的、可塑的
 - platinum n.铂、白金
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
+- plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
 - pluggable a.可插拔的
@@ -99,6 +104,7 @@
 - political 政治的、政府的、政权的
 - pollute v.污染、弄脏
 - polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
+- polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
 - pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
 - pool n.水塘、共用的资源、v.集中资源
@@ -118,6 +124,7 @@
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
 - post 邮递、邮寄、终点、发布、公布、交付
+- postgraduate n.研究生
 - postpone [pəˈspəʊn] v.推迟、延期、延迟
 - postscript n.附言、后记
 - posture [ˈpɒstʃə(r)] n.姿势、态度、看法、立场、v.故作姿态、装模作样
@@ -136,7 +143,9 @@
 - precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
+- preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
+- preference n.偏爱、爱好
 - pregnant a.怀孕的、孕育着...的、富于想象的
 - premature a.过早地、早产的、提前的、草率的
 - premier a.首要的、最先的、最早的、n.总理、首相
@@ -157,9 +166,10 @@
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
 - presuppose v.预设、假设、以...为前提
 - pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
-- prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败
+- pretty a.漂亮的、精致的
+- prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败、占优势
 - prevalent a.流行的、盛行的、普遍存在的
-- prevent 防止、阻止、阻碍、阻挠
+- prevent v.防止、阻止、阻碍、阻挠
 - previous a.先前的、以前的
 - prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
@@ -172,19 +182,21 @@
 - prior [ˈpraɪə(r)] a.先前的、在前的、优先的
 - priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
-- privacy 隐私
+- privacy n.隐私
+- privilege n.特权、v.给予特权
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
 - proactivity n.积极性、主动性
 - probability [ˌprɒbəˈbɪləti] n.可能性、几率、概率、可能的结果
 - probable [ˈprɒbəbl] a.可能的、大概的、n.很可能的事、可能入选者
 - probably [ˈprɒbəbli] ad.大概、也许
 - probation 试用期、见习期、缓刑期
-- probe n.探头、探查、探针、v.探查、探究、盘问、追问
+- probe n.探索、探究、探头、探针、探测器、v.探查、探测、探究、盘问、追问
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - profession n.职业、行业、同行、宣称、声明、表白
 - professional a.职业的、专业的、n.专业人士、专家
+- proficient [prəˈfɪʃnt] a.精通的、熟练的
 - profile n.侧面、轮廓、外形、形象、印象、简介、引入注目、v.扼要介绍、概述
 - profit n.利润、收益、红利、赢利、好处、v.获益、对...有益  net profit 净利润  gross profit 毛利润  profit margin 利润率
 - program(me) [ˈprəʊɡræm] n.程序、编码指令、计划、安排、课程、纲领、节目单、v.编写程序、制定计划
@@ -207,7 +219,7 @@
 - propagate v.传播、宣传、繁衍、增殖
 - proper a.适当的、正确的、恰当的、正当的、规矩的、ad.非常、完完全全地、彻底地
 - properly 正确的、适当的、恰当的、完全、非常
-- property n.所有物、财产、性质
+- property [ˈprɒpəti] n.财产、资产、所有物、性质、特性、属性
 - propagate 传播、宣传、繁殖、增值
 - proportion n.比率、比例、面积、相称、平衡、v.分配、使成比例
 - proposal n.提议、建议、求婚、投标
@@ -217,10 +229,12 @@
 - prospect n.展望、设想、前景、可能性、v.探矿、勘探
 - prosper v.繁荣、兴旺、成功、发达
 - prosperity n.兴旺、繁荣、成功、昌盛
-- protect 保护、防护
+- protect v.保护、防护、实行贸易保护 protect...from... 保护...免受...
+- protein [ˈprəʊtiːn] n.蛋白质
 - protest n/v.抗议、反对
 - protocol n.协议、礼仪、草案、规程、规约、v.拟
 - prototype 原型、雏形、蓝本
+- proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是
 - provided conj.假如、如果、在...条件下
 - provision n.规定、条款、提供、饮食供应、供应品
@@ -237,6 +251,7 @@
 - purchase n/v.购买、采购
 - pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除
+- purple n.紫色、a.紫色的、华丽的
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶

@@ -3,7 +3,7 @@
 - magazine n.杂志、期刊、弹药库
 - magical a.神奇的、有魔力的
 - magnify v.放大、增强、夸大、扩大
-- mainframe 大型机、主机、中央处理机、主计算机
+- mainframe n.大型机、主机、中央处理机、主计算机
 - maintain 维持、保持、维修、保养、坚持、固执己见
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
@@ -13,7 +13,8 @@
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
-- mandate n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
+- manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
+- mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
 - mandatory 强制的、法定的、义务的、受托者
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
@@ -26,19 +27,21 @@
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
-- mass n.大量、许多、块、堆、一群、群众、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
-- massive a.大量的、大规模的、十分危急的、结实的
+- mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
+- massive a.大量的、大规模的、严重的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
 - material n.材料、素材、a.实际的、物质的、重要的、必要的
 - materialize v.实现、具现化、实质化
+- maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
 - may aux./modal 可能、也许、但愿、n.May 五月、山楂花
+- meadow n.草地、牧场
 - meal n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
-- means n.方法、手段、方式、means第三人称单数和复数
+- means n.手段、方法、方式、途径、mean第三人称单数和复数
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
 - mechanical [məˈkænɪkl] a.机动的、机械的、呆板的、n.机械部件、机械物体
 - mechanism n.机制、机能、机理、结构、构造、机械装置
@@ -68,8 +71,11 @@
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
 - might modal-v.may的过去式、可能、可以、n.力量、权势
 - mighty a.强大的、巨大的、非凡的、强有力的、ad.非常、很、极其
+- migratory a.迁移的、迁徙的
 - milestone 重要事件、重要阶段、转折点、里程碑
 - military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
+- millennium [mɪˈleniəm] n.一千年、千年期
+- million n.百万
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
@@ -77,6 +83,7 @@
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - misconception 误解、错觉、错误认识
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
+- mist n.薄雾、水汽、液体喷雾
 - misuse n/v.滥用、误用
 - mitigant a.缓和的、减轻的、n.缓解措施
 - mitigate 使缓和、使减轻、使平息、减轻、缓和
@@ -96,6 +103,7 @@
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
 - momentum [məˈmentəm] n.动力、势头、动量
+- monad n.单子（不可分割的实体）
 - monadic a.一元的、单体的
 - monarch [ˈmɒnək] n.君主、帝王
 - Mondo (Italian 意大利语)蒙多、世界、问答
@@ -106,8 +114,10 @@
 - moral a.道德的、能辨别是非的、n.品行、道德
 - mortgage 抵押贷款、按揭贷款、按揭、抵押（房产）
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
+- motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、运动的
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
+- movement n.运动、转动、迁移
 - mud [mʌd] 泥、泥浆
 - muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
 - muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的

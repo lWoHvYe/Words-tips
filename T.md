@@ -34,6 +34,7 @@
 - terminology n.术语、专有名词
 - terminus n.终点
 - ternary a.三元的
+- terrible a.糟糕的、可怕的
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
@@ -48,6 +49,10 @@
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
 - thereof ad.其、它的、由此
+- thesis [ˈθiːsɪs] n.论文、毕业论文、学位论文
+- thin a.薄的、瘦的、细的、v.变薄、变瘦、变稀少
+- thorn [θɔːn] n.刺、荆棘
+- thorny [ˈθɔːni] a.棘手的、麻烦的
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat n.威胁、恐吓、构成威胁的人或事物
 - threaten v.危及、有...危险、对...构成威胁
@@ -58,7 +63,8 @@
 - through 凭借、通过、穿过、自始至终
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
 - thrust 刺、冲、逼迫
-- tick 打上钩、记号、对号、信用、滴答声
+- tick v.打上钩、n.记号、对号、信用、滴答声
+- tickle v.挠痒、愉快、逗乐、使高兴、使满足
 - tickler 棘手的问题
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier n.层、级、阶层、等级、v.层层排列、层叠
@@ -66,6 +72,7 @@
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
+- toggle v.转换、切换
 - toil 辛苦工作、苦干、跋涉
 - tolerate 容许、允许、容忍
 - toll n.伤亡人数、通行费、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税
@@ -81,7 +88,7 @@
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
 - track 小路、小道、痕迹、踪迹、跟踪、追踪、监看、监测
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意
-- traditional 传统的、惯例的、因袭的、守旧的
+- traditional a.传统的、惯例的、因袭的、守旧的
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
@@ -124,4 +131,6 @@
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是 
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
 - tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
+- twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
+- tweet [twiːt] n.(推特上的消息)推文
 - typical a.典型的、有代表性的

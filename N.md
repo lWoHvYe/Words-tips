@@ -1,6 +1,11 @@
+- narrate v.讲、讲述、叙述
+- narrative n.故事、叙述、描述、a.叙述的、叙事体的
 - narrow 狭窄的、狭隘的、有限的、勉强的、目光短浅的、限制、限定、变窄、缩小、海峡、狭窄的水道
+- nasal [ˈneɪzl] n.鼻腔、鼻音、a.鼻的、鼻音的
 - nation n.国家、民族、国民
+- nature n.自然、天性、本性
 - naviagte 驾驶、航行于、导航、航行、找到正确方法
+- neat [niːt] a.整洁的、整齐的、灵巧的
 - necessary a.必要的、必然的、强制的、不可避免的
 - necessitate v.使...成为必要、需要
 - necessity n.必要性、必然性、必要、必然、需要、必需品
@@ -17,8 +22,10 @@
 - neuroscience 神经科学
 - nevertheless 然而、不过、尽管如此
 - nightmare n.噩梦、梦魇
+- nimble a.灵活的、敏捷的
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
+- nonetheless [ˌnʌnðəˈles] a.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、n.标准、正常、常态、法线
@@ -37,5 +44,6 @@
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为
 - numerical 数字的、用数字表示的、数值的
+- numerous [ˈnjuːmərəs] a.很多的、许多的、众多的
 - nut n.螺帽、螺母、坚果
 - nuts a.疯狂、执着、迷恋、狂热

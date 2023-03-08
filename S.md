@@ -22,6 +22,7 @@
 - scientific a.科学的、有系统的
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
+- scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
@@ -82,6 +83,7 @@
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、n.股份
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
+- sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
 - shirk [ʃɜːk] v.逃避、偷懒
@@ -97,9 +99,11 @@
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
 - silver n.银、银币、银器、银色、a.银色的、v.镀银
 - simplify v.简化、精简
-- simulate 模仿、模拟、仿真、假装、冒充、拟态、模仿的、假装的
+- simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
+- simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
+- site n.地点、位置、网站、站点、v.使坐落在...
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
 - sketch n.素描、草图、简报、v.速写、草拟、简述
@@ -131,11 +135,13 @@
 - solicitation 诱惑、请求、征求
 - solid 固体、固态、立体图形、固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的
 - solidary n.团结
+- sombre/somber a.忧郁的、昏暗的、阴沉的
 - sort n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
 - sound 声音、健全、合理
 - source n.来源、出处、根源、起源、v.(从...)获得
 - sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
+- spaghetti n.意大利面条
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - spatial a.空间的
@@ -145,6 +151,7 @@
 - specific 特定的、独特的、具体的、明确的、特性、细节、特效药
 - specification 规格、规范、明细单、说明书
 - specify 具体说明、明确规定、详述、详列
+- spectacle n.壮观的景象、壮观的场面、光景、景象
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
@@ -159,6 +166,7 @@
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
 - sporadic 零星的、偶尔发生的、阵发性的
 - spot 点、斑点、污点、地点、认出、认清、发现
+- spouse [spaʊs] n.配偶
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
 - spread v.传播、散布、展开、伸开、n.传播、蔓延、差额、差幅、a.广大的、大幅的 spreading (在金融方面可做)利息差
 - spreadsheet n.电子表格
@@ -175,15 +183,16 @@
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stand 站立、直立、位于、容忍、经受、立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
 - standalone 独立的、单独的、脱机
-- staple 主食、装订、主要的、基本的、重要的
+- staple n.主食、主要产品、订书钉、v.装订、a.主要的、基本的、重要的
 - starvation 饥饿、挨饿、饿死、绝食
-- state 状态、状况、国家、州、陈述、说明、国家的、国务的
+- state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
 - static a.静止的、静态的、n.静电
 - stationery [ˈsteɪʃənri] n.文具、信纸、信笺
 - statistic 统计的、统计学、统计资料
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steer v.驾驶、指引
+- stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - steroid n.类固醇
 - stick 粘贴、张贴、插入、刺入、容忍、放置、条状物、操作杆
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
@@ -193,6 +202,7 @@
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
 - stockpile n.库存、储备、v.大量储备
+- store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的
 - strategic 战略的、战略性的、至关重要的
@@ -202,6 +212,7 @@
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
+- string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
 - strip n.带、v.剥去、除去、剥夺、跳闸
 - stripe n.条纹、线条
 - strive 努力、力争、力求
@@ -225,7 +236,10 @@
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
 - subtract 减、减去、扣除
 - suburb n.郊区、城外
-- successive a.连续的、接连的、相继的
+- succeed v.成功、继承
+- success n.成功
+- successful a.成功的
+- successive a.连续的、接连的、相继的  successive governments 历届政府
 - succession n.一连串、一系列、继承、继任、继承人、继承权
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
 - suffer v.受苦、受难、遭受、忍受
@@ -238,6 +252,7 @@
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
+- supervise v.监督、管理、指导
 - supervision n.监管
 - supervisor n.监督者、指导者、主管人
 - supervisory a.监督的、管理的、指导的
@@ -252,7 +267,8 @@
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surpass v.超过、胜过、超越、优于
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
-- survey 调查、测量、勘测、审视、审查、民意调查
+- surveillance [sɜːrˈveɪləns] n.监控、监视
+- survey n.调查、测量、勘测、审查、概述、v.民意调查、测量、勘测、概述
 - survive v.幸存、幸免于难
 - susceptibility n.易感性、敏感性、过敏性
 - susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的、易受感动的
@@ -260,9 +276,10 @@
 - suspend v.暂停、中止、悬挂、延缓
 - suspicion 怀疑、嫌疑、疑心、不放心、少许
 - sustain v.维持、供养、支撑、承受、承担
+- sustainable a.可持续的
 - swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
 - swap 交换、互换、掉换、交流、交换物
-- sweep 扫除、打扫、清理、掠过、舞动、挥动
+- sweep v.扫除、打扫、清理、掠过、舞动、挥动
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swim v.游泳、游动、旋转、眩晕、n.游泳
 - swine n.猪、讨厌的人、令人不愉快的事、难处理的东西

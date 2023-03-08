@@ -1,6 +1,7 @@
 - eager [ˈiːɡər] 渴望的、热切的、渴求的
 - earn v.赢得、获得、赚得、博得
 - earth n.地球、陆地、地面
+- ease n.容易、舒适、安逸、v.缓解、减轻
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -8,7 +9,7 @@
 - edition 版本、版次、（报刊或杂志）一份、（广播电视节目）一期
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
 - efficient a.有效率的、效率高的、有能力的
-- efficiency n.效率、效能、功率、功效、性能
+- efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
 - effort n.工作、努力、尝试、成就
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
@@ -22,11 +23,12 @@
 - eliminate v.排除、消除、淘汰、消灭
 - elite [eɪˈliːt] n.精英、上层集团、a.精英的、精锐的
 - embarrass v.窘迫、尴尬、局促不安
-- embed 把...嵌入、嵌入、派遣
+- embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
 - emerge v.出现、浮现 emerging v.emerge的现在分词、a.新兴的
 - emergency 紧急情况、突发事件
+- emigrant n.移民、移居外国的人
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical a.来自实验或经验的、经验主义的
@@ -38,10 +40,12 @@
 - encode 编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
-- encourage 支持、鼓励、促进、激励、劝告、怂恿
+- encourage v.支持、鼓励、促进、激励、劝告、怂恿
 - end 末尾、结束、目的、意图
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
+- endue v.授予、赋予
+- endure v.忍受、忍耐、持续、持久
 - energy 活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
 - engender v.产生、引起
@@ -54,6 +58,7 @@
 - enrichment 丰富、充实、改进、肥沃
 - enroll v.登记、注册、招收、加入
 - ensure v. 确保、担保、保证
+- entail v.涉及、需要、牵涉、使必要、限定继承
 - enterprise 企业、事业单位、事业心、进取心
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
 - entertainment n.娱乐节目、娱乐、消遣、招待、款待
@@ -62,6 +67,7 @@
 - entitlement n.权利、资格、津贴
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
+- entrant n.参加者、新成员
 - entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envy n/v.羡慕、嫉妒
@@ -103,6 +109,7 @@
 - examine v.检查、审查、考察、调查、考试、审问
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
+- excel v.优于、擅长、胜过
 - excellence 优点、优秀、卓越
 - except v.把...除外、不计、prep.除了、conj.除了、只是
 - exception n.例外、除外、(程序中的)异常
@@ -124,18 +131,19 @@
 - exhaust [ɪɡˈzɔːst] 排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
+- exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
 - expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗
-- expense 费用、开销、花销、向...收取费用
-- expensive 昂贵的、花钱多的、豪华的
+- expense v.费用、开销、花销、向...收取费用
+- expensive a.昂贵的、花钱多的、豪华的
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
 - experiment 实验、试验、尝试、试用、做实验
 - expert n.专家、a.熟练的、内行的、经验丰富的
-- explain 解释、说明、阐明
+- explain v.解释、说明、阐明
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述
 - explict a.明确的、清晰的、直言的、坦率的、不隐晦的
 - explode v.爆炸、突然爆发、迸发、突增、激增
@@ -147,7 +155,7 @@
 - exponential [ˌekspəˈnenʃl] a.指数的、幂的、越来越快的
 - export n/v.出口、输出
 - expose v.暴露、揭露、使曝光、使接触、接触、n.陈述、阐述、揭露
-- exposure n.面临、暴露、揭发、曝光、拆穿
+- exposure n.面临、暴露、揭发、曝光、拆穿、解除
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的

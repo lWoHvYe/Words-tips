@@ -31,12 +31,15 @@
 - definition n.定义、释义、解释、清晰度
 - deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
+- degradation n.恶化、堕落、毁坏
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
+- deify [ˈdeɪɪfaɪ] v.神化
 - delay n/v.延迟、推迟、延期
-- delegate 代表、把...委派、选派
+- delegate v.代表、把...委派、选派、n.代表
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
+- delineate [dɪˈlɪnieɪt] v.勾画、描述
 - delinquency 拖欠(债款/贷款)
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
@@ -74,18 +77,20 @@
 - despair n/v.绝望、失望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的
 - despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
-- destination 目的地、终点
+- destination n.目的地、终点
+- destiny [ˈdestəni] n.命运
 - destruct v.破坏、毁坏
 - destruction n.摧毁、毁灭、破坏
 - detach v.派遣、分离、拆开、摆脱
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
-- detect 查明、发现、探测、侦查
+- detect v.查明、发现、探测、侦查
 - determine v.确定、决定、下决心、准确算出、支配、影响
 - devaluation n.(货币)贬值
 - devastate 毁灭、破坏、蹂躏、使荒废
 - develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
-- device 装置、设备、方法、策略、手段
+- device n.装置、设备、方法、策略、手段
+- devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - diagnose v.诊断、确诊
 - diagram 图表、示意图、图解
 - dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
@@ -97,7 +102,7 @@
 - diet 日常饮食、规定饮食、节制饮食
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
-- digital 数字的、数码的、手指的、指状的、数字、数位、手指、琴键
+- digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
@@ -107,17 +112,19 @@
 - diode n.二极管
 - dioxide n.二氧化物
 - dip v.浸、蘸、下沉、下降、n.浸、蘸、洗澡 dip into 浏览、翻看、把手伸进(...里取东西)、提取(款项)、动用(存款)
-- direct a.径直的、直接的、v.指导、导演
+- direct [dəˈrekt] a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
 - director 导演、主管、主任、董事、理事
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
-- disaster [dɪˈzɑːstə(r)] 灾难、灾害、不幸
+- disability n.残疾、缺陷、障碍
+- disaster [dɪˈzɑːstə(r)] n.灾难、灾害、不幸
 - discern v.看出、理解、识别、辨别、分辨出、听出
 - discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
 - disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
 - disclose v.披露、透露、泄露、揭露
 - disclosure [dɪsˈkloʊʒər] n.公开、泄漏、纰漏
+- discourage v.劝阻、阻挠、使气馁、使沮丧
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
 - discrepancy n.矛盾、差异、不符合、不一致
@@ -148,7 +155,9 @@
 - disturb 打扰、干扰、使焦虑、使不安
 - diverge v.偏离、分歧
 - divergent a.发散的、有分歧的、不同的、相异的
+- diverse [daɪˈvɜːrs] a.多种多样的、不用的
 - diversity n.差异、不同、多样性、多样化
+- divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
 - divide v.分、划分、除、分配、n.分歧、不同、差异 class divide 阶级差异
 - division 分开、分隔、分配、除（法）
 - divorce n.离婚、分离、v.与...离婚、使分离、使脱离
@@ -161,6 +170,7 @@
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
 - dominate v.支配、影响、占优势
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
+- dose n.剂量、药量、v.(给...)服药
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] 怀疑、疑虑、未确定
 - downstream 下游的、引发的、顺流而下
@@ -174,7 +184,8 @@
 - drill 训练、操练、演习、钻、钻头
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
-- drug n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
 - durable [ˈdjʊərəbl] 耐用的、持久的、长期的、耐用品、耐久品
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间

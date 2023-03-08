@@ -1,5 +1,5 @@
 - vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
-- vaccine n.疫苗、菌苗、a.疫苗的、痘苗的
+- vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
 - valentine 情人
 - valid 有效的    invalid 无效的
 - validate v.验证、证实、使生效、批准、确认
@@ -11,7 +11,8 @@
 - variety n.多样、种类、多样化
 - various 各种各样的、各个的、个别的
 - vary v.改变、变化、相异、不同
-- vast a.巨大的、庞大的、大量的、n.浩瀚、广大无边的空间
+- vast a.巨大的、庞大的、大量的、非常的、n.浩瀚、广大无边的空间
+- vastly ad.很、非常
 - vault 墓穴、拱顶、地下室、金库、保险库、跳跃、腾跃
 - vector n.矢量、向量
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
@@ -27,7 +28,7 @@
 - versus prep.对、对抗、与...相对
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
-- very ad.很、非常、a.恰好的、仅仅的、唯独的
+- very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
 - vet 审查、仔细检查、兽医
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
@@ -51,5 +52,6 @@
 - vital 至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vocabulary n.词汇量、词汇表
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
+- volume [ˈvɒljuːm] n.体积、容积、容量
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性
