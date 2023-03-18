@@ -9,11 +9,11 @@
 - necessary a.必要的、必然的、强制的、不可避免的
 - necessitate v.使...成为必要、需要
 - necessity n.必要性、必然性、必要、必然、需要、必需品
-- negative a.消极的、负面的、否定的、负极的、阴性的、v.否定、拒绝、n.底片、负片、证伪
-- neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视
+- negative a.消极的、负面的、否定的、负极的、阴性的、v.否定、拒绝、n.负数、底片、负片、证伪
+- neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视、遗漏
 - negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
-- negotiate 谈判、协商、交涉、谈判达成、成功越过
+- negotiate v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
@@ -23,8 +23,10 @@
 - nevertheless 然而、不过、尽管如此
 - nightmare n.噩梦、梦魇
 - nimble a.灵活的、敏捷的
+- nimbus n.雨云、光环
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
+- nominate v.提名、推荐、任命、指派、指定
 - nonetheless [ˌnʌnðəˈles] a.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - norm n.规范、标准、准则、(劳动)定额

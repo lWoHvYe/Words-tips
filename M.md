@@ -8,14 +8,16 @@
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority n.大部分、大多数、成年、法定年龄
-- make v.做、制造、生产、使得、n.牌子、型号、性格、生产
+- make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产
 - makeup n.组成、构成、化妆品、天性、性格
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
 - manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
+- mandarin [ˈmændərɪn] n.普通话
 - mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
 - mandatory 强制的、法定的、义务的、受托者
+- mania n.狂热
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
 - manner 方法、方式、态度、礼仪、规矩
@@ -34,6 +36,7 @@
 - materialize v.实现、具现化、实质化
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
+- matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
@@ -47,6 +50,7 @@
 - mechanism n.机制、机能、机理、结构、构造、机械装置
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
+- medium a.中等的、n.媒介、手段、工具、方法、介质
 - mega a.巨大的、宏大的 = huge = great
 - memo 备忘录
 - memorial a.纪念的、悼念的、n.纪念碑、纪念品
@@ -71,7 +75,10 @@
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
 - might modal-v.may的过去式、可能、可以、n.力量、权势
 - mighty a.强大的、巨大的、非凡的、强有力的、ad.非常、很、极其
+- migrant n.移民、候鸟、迁徙动物
+- migrate v.迁徙、移居、转移、迁移
 - migratory a.迁移的、迁徙的
+- mile n.英里
 - milestone 重要事件、重要阶段、转折点、里程碑
 - military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
 - millennium [mɪˈleniəm] n.一千年、千年期
@@ -79,14 +86,14 @@
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
-- minor 较小的、少数的、轻微的、次要的
+- minor a.较小的、少数的、轻微的、次要的
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - misconception 误解、错觉、错误认识
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
-- misuse n/v.滥用、误用
+- misuse [ˌmɪsˈjuːs]/[ˌmɪsˈjuːz] n/v.滥用、误用
 - mitigant a.缓和的、减轻的、n.缓解措施
-- mitigate 使缓和、使减轻、使平息、减轻、缓和
+- mitigate v.使缓和、使减轻、使平息、减轻、缓和
 - mitochondrion [ˌmaɪtəʊˈkɒndriən] n.线粒体 复数: mitochondria
 - mitre 主教法冠、斜接
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
@@ -110,12 +117,14 @@
 - monetary a.货币的、金融的、财政的、钱的
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
+- monotone n.单调、a.单调的
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
 - mortgage 抵押贷款、按揭贷款、按揭、抵押（房产）
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、运动的
+- mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - movement n.运动、转动、迁移
 - mud [mʌd] 泥、泥浆

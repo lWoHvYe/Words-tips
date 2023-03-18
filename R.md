@@ -7,6 +7,7 @@
 - random a.随机的、无规则的、n.随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - ransom 赎金、赎回、赎罪
+- rapid [ˈræpɪd] a.快速的、迅速的、快捷的
 - rare a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ration n.定量、定额、合理的量、v.限量供应、配给 
@@ -23,9 +24,11 @@
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - recap 概括、扼要重述、简要回顾、翻新
 - recent a.最近的、近来的、新近的
-- receipt 接收、收到、收入、收据、开收据
+- receipt [rɪˈsiːt] n.收据、发票、收入、接收、收到、v.开收据
+- receive v.收到、接待、接收、受到、体验
+- reception n.接待、招待、招待会、反应、反响
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
-- recipe 配方、食谱、处方、秘诀
+- recipe n.配方、食谱、处方、秘诀
 - recite v.背诵
 - reckon v.估计、认为、估算、预计、指望、料想
 - recognize/recognise v.认出、认识、承认、认可
@@ -65,14 +68,16 @@
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
 - rein n.缰绳、控制、主宰、v.控制、驾驭
 - reinforce v.增援、加强、巩固
-- relate 使有联系、联系、讲述、叙述、把...联系起来、讲（故事）
+- relate v.使有联系、联系、关联、叙述、讲述、把...联系起来、讲（故事）
 - relation n.关系、联系、关联
+- relationship n.关系、联系、关联
 - relative a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、泄露
 - relevant a.相关的、有价值的、有意义的
-- reliable 可靠的、可信赖的、真实可信的、可靠的人
+- reliable a.可靠的、可信赖的、n.真实可信的、可靠的人
+- reliance n.依赖、依靠、信赖、信任
 - relic n.遗物、遗迹、废墟
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
 - rely v.依靠、依赖、信赖
@@ -88,6 +93,7 @@
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remold v.重塑、改造
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴
+- rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - renew v.更新、重新开始、重申、使恢复
@@ -96,16 +102,17 @@
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
 - repeat v.重复、复述、背诵、n.重演的事物、重复的事件
+- Repeater n.转发器(又称中继器或放大器)
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
 - reply n/v.回答、答复
 - represent v.代表、表示、表述、陈述、展现
-- representation n.表示、表现、描述、代表、抗议
+- representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
 - repute n.名誉、名声、v.把...称为、认为
 - reputation n.名誉、名声
-- require vt.需要、要求、vi.要求、规定
+- require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
 - resemble v.像、与...相像、类似于
@@ -141,8 +148,8 @@
 - retention 保持、维持、保留、阻滞、记忆、记忆力
 - retire 退休、撤退、后退
 - retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
-- retrieval 检索、取回、挽回
-- retrieve 取回、恢复、挽回
+- retrieval n.检索、取回、挽回
+- retrieve v.检索、取回、挽回、恢复
 - retrograde v.逆行、倒退、a.倒退的、退化的、退步的
 - return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
@@ -153,6 +160,7 @@
 - review n/vt.回顾、复习、评论、评审、审查、报告、汇报
 - revise v.修订、修正、改变、复习、校订
 - revision n.修订、修改、校对、复习、温习
+- revocation n.撤销、废除
 - revoke v.撤销、取消、废除、使无效
 - revolution n.革命、变革、旋转、运行、公转
 - revolve v.旋转、环绕、转动、使循环、反复考虑

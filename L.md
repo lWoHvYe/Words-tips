@@ -1,6 +1,7 @@
 - lable 标签
 - labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
 - lack n/v.缺乏、短缺
+- ladder n.梯子、阶梯、途径
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
 - landlady n.女房东、女店主
@@ -45,13 +46,18 @@
 - liable 有责任的、有义务的、有...倾向的
 - liberal a.自由的、开明的、慷慨的、n.自由的人、开明的人、自由党成员
 - liberalize v.使自由化、放宽对...限制、自由化
+- liberate v.解放、释放、使自由
+- liberty n.自由
 - license/licence [ˈlaɪsns] v.许可、n.许可证
+- lie v.躺、平躺、平放、保持(某种状态)、说谎、n.位置、谎言
 - lien n.留置权、扣押权
 - lifespan 寿命、存在期、使用期、有效期
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地  过去式及过去分词：lit
+- lime n.石灰、酸橙、v.加石灰、撒石灰
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - linguistic a.语言的、语言学的
+- link v.联系、连接、n.链接、联系、关系、纽带、环节
 - linkage n.联系、连锁、联动
 - linux ['lɪnəks] 
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
@@ -62,14 +68,17 @@
 - literally ad.照字面地、真正地、确实地
 - literary a.文学的、文学上的、爱好文学的
 - literature n.文学
+- load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
 - loan 贷款、借出
 - local a.地方的、当地的、局部的
 - locate v.定位
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
 - logical 必然的、合乎逻辑的、合乎情理的
+- look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
 - loop 环、环形、回路
 - loose 松的、释放
 - loss n.丧失、损失、亏损 take a loss 亏损
+- lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液
 - loud a.大声的、响亮的、喧闹的
 - loyal 忠诚的、忠实的、忠心的
 - lucrative a.获利多的、赚大钱的、合算的

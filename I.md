@@ -1,27 +1,32 @@
 - iconic [aɪˈkɒnɪk] a.标志性的、图标的、符号的
-- ideal a.完美的、理想的、不切实际的、理想、n.看似完美的思想、完美的人
+- ideal a.完美的、理想的、不切实际的、n.理想、理念、看似完美的思想、完美的人
 - idempotent 幂等、等幂、幂等的
+- identical a.完全相同的、同一的、恒等的
+- identification n.识别、鉴定、身份证明(ID)
 - identifier 标识符、识别码
-- identify v.确定、识别、认出、认同、鉴定
-- identity v.确定、识别、认出、认同
+- identify [aɪˈdentɪfaɪ] v.确定、识别、认出、发现、认同、鉴定、是...的标志
+- identity [aɪˈdentəti] n.身份(ID)、本体、特征、同一性、相同、一致、恒等 identity card 身份证
 - ideology n.思想、意识形态、空想、空论
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
+- illiquid a.流动性差的、非流动的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
+- imaginary a.虚构的、幻想的
 - imagine v.想象、设想、猜测、猜想
 - immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
-- immigrate vi.移入、移民  emigrate vi.移居国外、移民
+- immigrate [ˈɪmɪɡreɪt] vi.移入、移民  emigrate [ˈemɪɡreɪt] vi.移居国外、移民
 - imminent z.迫在眉睫的、即将发生的、临近的
 - immediate a.立即的、直接的、目前的、当前的、迫切的
 - immense a.广大的、巨大的、极大的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
+- impeccable a.完美的、无可挑剔的
 - impedance n.阻抗
 - imperative a.迫切的、急迫的、n.必要的事
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
@@ -48,6 +53,7 @@
 - incline v.倾向于、有...趋势、倾斜、偏向、赞同、n.斜面、斜坡
 - inclusion 包含、包括
 - inclusive 包括的、包罗广泛的
+- income n.收入、收益、所得
 - inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
 - incorporate v.包含、合并、吸收、使混合、a.具体化了的
 - incredible a.难以置信的、不可思议的
@@ -57,7 +63,7 @@
 - indeed ad.甚至、的确、确实、真正地、真的
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
-- independent 独立的
+- independent a.独立的、自主的、有主见的
 - index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
@@ -118,7 +124,7 @@
 - instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
 - insufficient [ˌɪnsəˈfɪʃnt] a.不足的、不充分的
-- insurance 保险、保险单、保险费、保障措施
+- insurance n.保险、保险单、保险费、保障措施、安全保证
 - insure v. 投保、承保
 - intake n.吸入、摄入、进气
 - integral a.完整的、必须的、积分的、n.积分、整体
@@ -129,6 +135,8 @@
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
 - intellisense n.智能感知、智能感应
 - intend v.计划、打算、想要、意指、意欲
+- intense a.强烈的、激烈的
+- intensify v.强化、加强、增强
 - intensity n.强烈、紧张、剧烈、强度
 - intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的
 - intent n.目的、意图、a.热切的、专切的
@@ -145,9 +153,10 @@
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
 - interpret [ɪnˈtɜːprət] v.解释、说明、理解、领会、翻译、诠释
+- interpretation n.理解、解释、说明、演绎
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - interrupt v.打断、中断、阻止
-- intersect 横断、横切、相交、交叉
+- intersect v.横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
 - interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
@@ -158,15 +167,17 @@
 - introduction n.介绍、引进、推行、引言、序言、导论
 - introductory a.引导的、介绍的、入门的、初步的
 - introspect v.反思、内省、自省
+- intrude v.闯入、侵入、打扰、侵扰、扰乱
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invade v.入侵、侵略
+- invasion n.侵略、侵犯
 - invalidate v.使无效、使作废、证明...错误、使站不住脚
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
 - inventory 存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
 - invert v.颠倒、倒转、倒置
-- invest v.投资、花费、装饰、授予、给予
+- invest v.投资、投入、花费、装饰、授予、给予
 - investigate v.调查、研究、审查、侦查、做调查
 - investment n.招商、投资、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
@@ -176,5 +187,5 @@
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
 - isolate v.隔离、孤立、a.隔离的、孤立的
-- issue 问题、发行、公布
+- issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则

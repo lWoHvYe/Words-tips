@@ -1,5 +1,6 @@
 - sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
 - sake n.目的、利益、缘故、缘由
+- salary n.薪金、薪水
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
 - sanitization 消毒、卫生处理、净化、清除
@@ -11,6 +12,7 @@
 - scalability n.可扩展性、可伸缩性、可量测性
 - scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
+- scam n.骗局
 - scan 扫描、浏览、细看、端详
 - scarce a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
@@ -33,7 +35,8 @@
 - seamless a.无缝的
 - season n.季、季节、时期、v.使适应、调味
 - seasonal a.季节性的、周期性的
-- secondary a.第二的、次要的、辅助的、中等的、n.助手、副手
+- second a.第二的、次等的、附加的、另外的、n.第二、秒、片刻、瞬间、v.支持、赞成、附议
+- secondary a.第二的、次要的、辅助的、中等的、中学的、n.助手、副手、卫星
 - secret n.秘密、奥秘、机密、a.隐秘的、神秘的、秘密的、机密的
 - secretary n.秘书、干事、书记员
 - section n.部分、部门、部件、v.切开、切断、切片
@@ -47,9 +50,12 @@
 - segment n.部分、片、段、v.分割、划分
 - segregate v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
+- select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
+- selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
 - semantic a.语义的、语义学的
 - semiannual 每半年的、半年的
-- semiconductor [ˌsemikənˈdʌktə(r)] n.半导体
+- semicolon [ˌsemiˈkəʊlən] n.分号
+- semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
 - seminar n.研讨会、研讨课
 - senior a.级别高的、资深的
 - sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
@@ -65,11 +71,12 @@
 - serialize 连载、连播
 - series 系列、连续、接连、串联、级数、系列节目
 - serious a.严肃的、严重的、认真的、重要的、危险的
-- servant 雇员、职员
+- servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
 - set v.设置、放置、树立、矫正、n.套、系列、a.固定不变的、确定的  
 - set aside 挑出、不理会 set off 出发、动身 set up 建立、树立、开办 set back 推迟、耽误、挫折、倒退
+- setback n.挫折、阻碍
 - setting v.set现在分词、n.沉落、底座、环境、背景、地点
 - settle v.解决、安排、决定、定居、下陷、沉淀、结清、付清、平静下来、安静下来
 - settlement n.解决、处理、协议、支付、偿付、定居点、移民、和解
@@ -82,12 +89,16 @@
 - shame 羞耻、羞愧、惭愧、耻辱、使丢脸、使羞愧、真可惜、太遗憾了、好极了、真棒
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、n.股份
+- sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
+- ship n.船
 - shirk [ʃɜːk] v.逃避、偷懒
 - shortage n.不足、缺少、短缺
+- shrink v.收缩、缩小、减少
+- sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sight n.景象、看见、视力、视野、v.看到、发现
 - significance n.意义、含义、重要性
@@ -103,11 +114,15 @@
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
+- sip v.小口喝、抿、n.一小口的量
 - site n.地点、位置、网站、站点、v.使坐落在...
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
 - sketch n.素描、草图、简报、v.速写、草拟、简述
+- skew a.斜的、歪的、不对称的、v.偏离、歪斜
 - ski n.滑雪板、v.滑雪、a.滑雪的
+- skirt n.短裙、挡板、v.绕开、回避
+- slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slash n.斜线、斜杠、劈、砍、v.大幅削减、大大降低
 - sleuth 足迹、警犬、侦探
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
@@ -117,7 +132,8 @@
 - sliver n.薄片、小块、v.切薄片
 - slogan n.标语、口号
 - slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
-- slot n.狭槽、窄缝、v.投放、塞进
+- sloppy a.马虎的、凌乱的、草率的、宽松的
+- slot n.狭槽、窄缝、时隙、v.投放、塞进
 - sluggish a.缓慢的、迟缓的
 - smash v.粉碎、打破、n.打碎、ad.轰然
 - smoothly 平稳地、顺利地、平静地、自信地
@@ -126,16 +142,23 @@
 - sneak v.潜行、偷偷溜走、告状、a.突然的、出其不意的
 - snip v.削减、剪去、剪断、n.片段
 - snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
+- snooze n/v.小睡
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - sober a.冷静的、头脑清醒的、v.变得冷静
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
 - solar 太阳的、日光的、利用太阳能的、太阳能的、日光浴室
+- solder n.焊料、v.焊接、焊合
+- soldier [ˈsəʊldʒə(r)] n.士兵
 - sole a.唯一的、仅有的、独占的、n.鞋底、脚底
 - solicitation 诱惑、请求、征求
 - solid 固体、固态、立体图形、固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的
 - solidary n.团结
 - sombre/somber a.忧郁的、昏暗的、阴沉的
+- somehow ad.以某种方式
+- somewhat ad.有点、稍微、有几分
+- sophistical a.诡辩的、强词夺理的
+- sophisticate n.老练的人、见多识广的人
 - sort n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
 - sound 声音、健全、合理
@@ -145,10 +168,11 @@
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - spatial a.空间的
+- special a.特殊的、特别的、专用的、n.特价商品
 - specialize/specialise v.专攻、专门从事、详细说明、列举
 - specialist n.专家、a.专业的、专家的
 - species n.物种、种类
-- specific 特定的、独特的、具体的、明确的、特性、细节、特效药
+- specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药
 - specification 规格、规范、明细单、说明书
 - specify 具体说明、明确规定、详述、详列
 - spectacle n.壮观的景象、壮观的场面、光景、景象
@@ -181,8 +205,10 @@
 - stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
+- stale a.陈腐的、不新鲜的、污浊的
 - stand 站立、直立、位于、容忍、经受、立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
 - standalone 独立的、单独的、脱机
+- standby n.备用品、可信赖的人、a.常备的、备用的
 - staple n.主食、主要产品、订书钉、v.装订、a.主要的、基本的、重要的
 - starvation 饥饿、挨饿、饿死、绝食
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
@@ -194,17 +220,20 @@
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - steroid n.类固醇
-- stick 粘贴、张贴、插入、刺入、容忍、放置、条状物、操作杆
+- stick v.粘贴、张贴、插入、刺入、容忍、放置、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
 - stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
-- stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素 
+- stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素
+- stir v.搅拌、n.搅拌、震动
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
 - stockpile n.库存、储备、v.大量储备
+- storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的
+- strange a.奇怪的、陌生的、不熟悉的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
@@ -221,7 +250,7 @@
 - struggle v.努力、奋斗、争取、抗争、n.努力、斗争、打斗、难事
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进
 - stupid 愚蠢的、迟钝的、笨蛋
-- subject n.主题、题材、学科、科目、研究、实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
+- subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从
@@ -232,6 +261,8 @@
 - subsequent a.随后的、之后的、后来的
 - subset 分组、小组、子集
 - subsidary a.辅助的、附属的
+- subside v.减弱、平息、退去、消退
+- subsidy n.津贴、补贴、补助
 - substantial 大量的、价值巨大的、重大的、结实的、本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
 - subtract 减、减去、扣除
@@ -242,6 +273,7 @@
 - successive a.连续的、接连的、相继的  successive governments 历届政府
 - succession n.一连串、一系列、继承、继任、继承人、继承权
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
+- sudden a.突然的、忽然的
 - suffer v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficent a.足够的、充足的、充分的、n.足量、充足
@@ -252,6 +284,7 @@
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
+- supersede v.取代、替代
 - supervise v.监督、管理、指导
 - supervision n.监管
 - supervisor n.监督者、指导者、主管人
@@ -262,7 +295,8 @@
 - support 支持、拥护、资助、赞助、支撑、（一些地方也可做）担保
 - suppose v.认为、假定、猜想
 - suppress [səˈpres] v.镇压、压制、抑制、止住、忍住
-- surety 保证人、担保人、保证金
+- sure a.确信的、可靠的、不可避免的、ad.当然、确实、的确 be sure to do sth 一定要、务必 for sure 肯定、无疑 make sure 查明、弄清、确保、保证 to be sure 诚然、固然、无可否认
+- surety n.保证人、担保人、保证金
 - surf v.冲浪、(互联网上)浏览、n.海浪、浪花
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surpass v.超过、胜过、超越、优于
@@ -283,9 +317,10 @@
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swim v.游泳、游动、旋转、眩晕、n.游泳
 - swine n.猪、讨厌的人、令人不愉快的事、难处理的东西
+- switch n.开关、转换、转换器、交换机、v.转换、转变、交换、对调
 - symbol n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
-- symmetric 对称的、均衡的
+- symmetric a.对称的、均衡的
 - symptom n.症状、征兆
 - synchronize v.同步、使同步、在时间上一致
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的

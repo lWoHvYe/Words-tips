@@ -3,6 +3,7 @@
 - jinx 厄运、霉运、不详之人、把霉运带给、使倒霉
 - joint a.共同的、联合的、共享的、n.关节、接合处
 - journal n.杂志、日志、报纸、刊物、期刊
+- journalism n.新闻业
 - journey n.旅行、旅程、v.旅行
 - judge n.法官、v.审判、评判
 - junction n.连接、接合、接合点

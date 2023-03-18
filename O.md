@@ -2,6 +2,7 @@
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
 - obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
 - obligor 债务人
+- observe v.看到、注意到、观察、遵守
 - obsession 痴迷、着魔、困扰、妄想
 - obtain 获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
@@ -20,7 +21,7 @@
 - onboard 随车携带的、机上的、舰上的、自主的、（也可做）客户/员工的新入
 - ongoing a.进行(中)的、不间断的、持续存在的、n.前进、发展、行为、举止
 - onward 继续的、向前的
-- opaque 不透明的、浑浊的、含糊的、难懂、模糊、隐晦
+- opaque [əʊˈpeɪk] a.不透明的、浑浊的、含糊的、n.不透明、难懂、模糊、隐晦
 - operand n.操作数
 - operate v.操作、运营、运作、控制、运转
 - operation n.手术、操作、经营、行动、运算、运转
@@ -55,8 +56,10 @@
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
+- overcome v.战胜、克服、解决
 - overdraft n.(钱)透支、透支额
 - overdue a.过期的、延误的、迟到的、早该发生的、早应完成的
+- overflow n/v.溢出
 - overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
 - overlap 重叠、交叠、重叠时间
 - overlay v.覆盖、镀金、n.覆盖物、图层

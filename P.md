@@ -10,11 +10,13 @@
 - paradox n.悖论、矛盾的人或事物
 - paragraph [ˈpærəɡrɑːf] n.段落、节、v.将...分段
 - paralyse/paralyze v.使瘫痪
+- pare v.削减、削皮、逐步减少
+- parse v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - participant n.参加者、参与者
 - participate v.参加、参与
-- particular a.特定的、特别的、n.细节、详情
-- partition 隔断、分隔、瓜分、使分裂
+- particular a.特定的、特别的、特殊的、n.细节、详情
+- partition 隔断、分隔、瓜分、使分裂、分区
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
 - passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
@@ -25,7 +27,10 @@
 - patience n.忍耐、耐心、耐性
 - patient a.有耐心的、能容忍的、n.病人、患者
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
+- payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
+- peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
+- peculiarity n.个性、特色、特点、独特性、怪癖
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
 - peer n.同辈人、同行、v.仔细看、端详
@@ -34,9 +39,10 @@
 - penalty n.刑罚、处罚、害处、不利
 - penny n.便士、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
-- perceive [pəˈsiːv] v.感知、认为、察觉到、注意到、意识到
+- perceive [pəˈsiːv] v.感知、认为、察觉、发觉、察觉到、注意到、意识到
 - percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
+- perception n.知觉、感知、感觉、洞察力、悟性、看法、见解
 - perceptive [pəˈseptɪv] a.感性的、理解力强的、有洞察力的、思维敏捷的
 - perfect a.完美的、正确的、极好的、完善的、v.使完善、使完备、n.(动词的)完成时(态)
 - perfectly ad.完全地、非常、十分、圆满地
@@ -57,15 +63,17 @@
 - personality n.特色、性格、人格、个性、人物、气质、气度
 - personnel n.人员、员工、职员、人事部门
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
+- persuade [pəˈsweɪd] v.说服、劝说、使相信、使信服
+- persuasion n.说服、劝说、信仰
 - pertain 存在、适用
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
-- phase 阶段、时期
+- phase [feɪz] n.阶段、时期、v.分阶段做、逐步做
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
 - philosophy [fəˈlɒsəfi] n.哲学
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
-- phrase [freɪz] n.短语、v.表达、措辞
+- phrase [freɪz] n.短语、习语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
 - physician n.医生、内科医生
 - physicist n.物理学家
@@ -82,10 +90,12 @@
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
 - plain n.平原、a.朴素的、朴实的、简朴的、清楚的、ad.简直、绝对地
+- plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
 - plant n.植物、工厂、设备、v.种植、放置、安放
 - plastic n.塑料、信用卡、a.塑料的、可塑的
 - platinum n.铂、白金
+- play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
@@ -96,12 +106,13 @@
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - pocket 口袋、金钱、财富
 - podcast n.播客
-- poem 诗、韵文
+- poem n.诗、韵文
+- poet n.诗人
 - poetry n.诗、诗歌、诗意
 - point 指向、观点、论点、目的、点
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
-- political 政治的、政府的、政权的
+- political a.政治的、政府的、政权的
 - pollute v.污染、弄脏
 - polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
@@ -111,6 +122,7 @@
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - population n.人口
+- pornographic a.淫秽的、色情的
 - port 港口、口岸、避风港、左舷、端口、移植
 - portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
@@ -119,7 +131,7 @@
 - portray v.描绘、描述、描写、刻画、扮演
 - pose v.造成、提出、陈述、摆姿势、假装、冒充、n.姿势、故作姿态  摆个pose
 - position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置
-- positive a.积极的、肯定的、乐观的、确实的、确信的、正电的、阳性的、正数的、n.正片、优势、优点
+- positive a.积极的、肯定的、乐观的、确实的、确信的、正电的、阳性的、正数的、n.正数、正片、优势、优点
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
@@ -147,6 +159,7 @@
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
 - preference n.偏爱、爱好
 - pregnant a.怀孕的、孕育着...的、富于想象的
+- preliminary a.预备的、初步的、n.序言、开场白、预赛
 - premature a.过早地、早产的、提前的、草率的
 - premier a.首要的、最先的、最早的、n.总理、首相
 - premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
@@ -174,7 +187,7 @@
 - prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
-- primary a.主要的、最初的、基本的
+- primary a.主要的、最初的、初级的、基本的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
@@ -205,7 +218,8 @@
 - prohibit 禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - prominent a.重要的、著名的、杰出的、突出的
-- promise n/v.允许、许诺、承诺、保证
+- promise n/v.允许、许诺、承诺、保证、指望、有指望
+- promising a.有希望的、有前途的
 - promote [prəˈmoʊt] v.促进、推动、提升、晋升、晋级
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
 - prompt [prɒmpt] a.迅速的、敏捷的、立刻的、准时的、v.提示、促使、导致、n.提示、提示符

@@ -1,4 +1,5 @@
 - bachelor n.学士、未婚男子、单身汉
+- backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward 落后的、向后的、反向的、倒退的、进步缓慢的、向后、倒
 - backload v.(签订协议后)增加费用
@@ -7,20 +8,24 @@
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
 - ban n.禁令、v.禁止、取缔
+- band n.乐队、管弦乐
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
 - bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
 - battery 电池、蓄电池、一组、一套
-- bear 熊、承受、忍受
+- battle n/v.战争、斗争
+- bear n.熊、v.承受、忍受
+- bearing n.关系、影响、姿态、方位、轴承
 - bearer 持票人、持有者、送信人、传授者、传播者
 - beast n.野兽
 - beastliness n.兽性
 - behalf n.利益、代表  on behalf of 代表
+- belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
 - benefactor n.施主、赞助者
-- benefit n.利益、好处、成效、福利、奖金、补助、v.使受益、得益于、得利于
+- benefit n.利益、好处、成效、福利、奖金、补助、救济金、v.使受益、得益于、得利于
 - bequest 遗赠、遗产、遗赠物
 - bespeak v.证明、预定、展现、显示
 - bespoke a.订做的、定制的、v. bespeak的过去式
@@ -35,6 +40,7 @@
 - biochemical 生物化学的、生化的
 - biography n.传记
 - biology 生物学
+- biophilia n.热爱生命的天性
 - bitwise n.位运算
 - blame n/v.责备、责怪、指责、n.责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
@@ -49,7 +55,7 @@
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
 - boilerplate n.样板
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
-- bond n.纽带、联系、债券、保释金、v.使结合、与...紧密联系
+- bond n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
 - book 书、本子、预订、登记
 - boom 发出隆隆声、繁荣、快速发展、暴涨、激增、轰鸣、轰响、使繁荣、使迅速发展
 - boost v.促进、增加、提高、偷窃、n.提高、激励、增长
@@ -57,11 +63,11 @@
 - border n.边框、边界、v.和...毗邻、给...镶边
 - borrow 借入、借贷
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
-- bound 跳跃、蹦跳、限制、接壤、束缚、约束、一定会、很可能会 bind的过去式和过去分词
+- bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary 边界、界限、分界线
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
 - branch [brɑːntʃ] n.分支、v.分开、分叉
-- brand n.品牌、商标、烙印
+- brand n.品牌、商标、烙印、v.给...打上烙印(贬义)
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
 - breakfast n.早餐、v.吃早餐
@@ -70,6 +76,7 @@
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
 - brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
+- British [ˈbrɪtɪʃ] n.英国人、a.英国的
 - broad a.宽阔的、广阔的、概括的、明显的
 - broaden 扩大、拓宽、增长
 - broker n.经纪人、中间人、代理人、v.安排、协商

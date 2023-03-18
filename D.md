@@ -1,5 +1,6 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
+- damage n/v.破坏、损害
 - deadline n.截止时间、最后期限
 - deal 处理、协议、大量、许多、交易、待遇、发牌
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
@@ -13,11 +14,13 @@
 - declare v.声明、宣布、表明、断言
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
 - decode 解码、破译、译解
+- decommission v.拆解、使退役
 - decorate [ˈdekəreɪt] v.装饰、点缀、粉刷、授予(某人)勋章、布置
 - decouple v.分离、隔断、解耦
 - dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
-- deduce 推论、推断、演绎
+- deduce v.推论、推断、演绎
+- deduction n.演绎、推论、扣除(额)、减去(数)
 - default 默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
 - defect 缺点、缺陷、瑕疵
@@ -45,6 +48,7 @@
 - delivery 传送、交付
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
+- democracy n.民主、民主制度
 - democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
 - demolish [dɪˈmɒlɪʃ] v.拆除、毁坏、破坏、推翻、驳倒
 - demolition [ˌdeməˈlɪʃn] n.拆毁、拆除、摧毁
@@ -59,6 +63,7 @@
 - depart v.离开、离去、出发、离职、脱轨
 - department n.(政府的)部、局、部门、(大学的)院系
 - departure n.离开、出发、起程、背离、违反、逾越   domestic/international departure/arrival 国内/国际-出发/到达
+- depend v.依赖、依靠、取决、指望
 - deport v.驱逐、驱逐出境、递解出境
 - deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
 - depress v.压下、压低、降低、减少、使沮丧、使消沉、使萧条、使不景气
@@ -79,7 +84,8 @@
 - despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运
-- destruct v.破坏、毁坏
+- destroy v.破坏、毁坏、消灭
+- destruct v.破坏、毁坏、a.破坏的
 - destruction n.摧毁、毁灭、破坏
 - detach v.派遣、分离、拆开、摆脱
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
@@ -146,7 +152,8 @@
 - dispute 辩论、争论、纠纷
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
 - dissolve v.溶解、解除(婚姻关系)、终止(商业协议)、解散、除去
-- distinct 不同的、明显的、清楚的、明白的、确切的
+- distinct a.不同的、明显的、清楚的、明白的、确切的
+- distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
 - distract v.分散(思想)、转移(注意力)、使分心
 - distraction n.分散注意力、娱乐、消遣
@@ -169,6 +176,7 @@
 - domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
 - dominate v.支配、影响、占优势
+- dormant a.睡着的、休眠的、蛰伏的
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - dose n.剂量、药量、v.(给...)服药
 - double a.双的、两倍的、v.加倍
@@ -181,13 +189,16 @@
 - drastic a.激烈的、猛烈的、极端的、严厉的
 - draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局
 - drawback 缺点、劣势、不利条件、退税
+- drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill 训练、操练、演习、钻、钻头
+- drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
-- durable [ˈdjʊərəbl] 耐用的、持久的、长期的、耐用品、耐久品
+- durable [ˈdjʊərəbl] a.耐用的、持久的、长期的、n.耐用品、耐久品
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品

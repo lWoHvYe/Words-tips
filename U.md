@@ -2,6 +2,7 @@
 - ultraviolet [ˌʌltrəˈvaɪələt] n.紫外线、紫外光、a.紫外线的  ultra- 超出、以外
 - umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的
+- uncanny a.不可思议的、难以解释的
 - uncertain a.不确定的、不明确的、无把握、犹豫、拿不准
 - uncertainty n.不确定性、犹豫、迟疑、无把握
 - uncharted a.未知的、人迹罕至的
@@ -17,6 +18,7 @@
 - underwrite v.认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
 - underwriting n.保险业、v.承担经济责任、承保、承销
 - undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
+- undue a.不适当的、过分的、过度的
 - unicast 点播、单播、单点传送
 - unification n.统一、联合、一致
 - uniform n.制服、校服、a.一致的、统一的
@@ -37,6 +39,7 @@
 - urban a.城市的、都市的
 - urge n.刺激、冲动、v.催促、敦促、力劝
 - urgent a.紧急的、迫切的
+- usual a.通常的、寻常的、惯常的
 - utility 公用事业、功用、效用、多用途的、多效用的、多功能的
 - utilize/utilise 使用、利用、运用、应用
 - utmost n.极限、最大可能、a.极度的、极大的

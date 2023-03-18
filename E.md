@@ -2,6 +2,7 @@
 - earn v.赢得、获得、赚得、博得
 - earth n.地球、陆地、地面
 - ease n.容易、舒适、安逸、v.缓解、减轻
+- eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -26,8 +27,9 @@
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
-- emerge v.出现、浮现 emerging v.emerge的现在分词、a.新兴的
+- emerge v.出现、浮现
 - emergency 紧急情况、突发事件
+- emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
@@ -57,7 +59,7 @@
 - enormous a.巨大的、庞大的、极大的
 - enrichment 丰富、充实、改进、肥沃
 - enroll v.登记、注册、招收、加入
-- ensure v. 确保、担保、保证
+- ensure v.确保、担保、保证
 - entail v.涉及、需要、牵涉、使必要、限定继承
 - enterprise 企业、事业单位、事业心、进取心
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
@@ -68,6 +70,7 @@
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
 - entrant n.参加者、新成员
+- entropy n.熵
 - entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envy n/v.羡慕、嫉妒
@@ -77,6 +80,7 @@
 - epoch 纪元、时代、时期
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
 - equate v.等同、相当于、使相等
+- equator n.赤道
 - equipment 设备、装备、器材、配件、知识、素养
 - equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
 - equivalent a.相等的、相当的、等效的、等价的
@@ -84,8 +88,11 @@
 - erase v.抹去、清除、擦掉
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
+- erupt v.爆发、喷发、突然发生
 - escalate [ˈeskəleɪt] v.逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
 - escalation n.扩大、增加、升级、价格调整
+- esoteric [ˌesəˈterɪk] a.秘传的、机密的、隐秘的
+- especial a.特别的、格外的
 - espresso n.浓缩咖啡
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
@@ -93,17 +100,20 @@
 - establishment n.建立、确立、企业、机构、当权派
 - estate 财产、遗产、房地产、不动产
 - estimate v.估计、估算、估价、n.估计、预测、报价
+- Ethernet n.以太网
 - ethic 伦理、伦理观、道德体系
 - ethical a.道德的、伦理的
+- ethnic a.民族的、种族的、n.少数民族的人
 - euro [ˈjʊərəʊ] € 欧元
 - evacuation 疏散、撤离、撤退、搬空
 - evade v.规避、躲避、逃避、避开
 - evaluate v.估计、评价、评估
 - evaluation n.评价
-- eventual 最后的、最终的、结果的
+- eventual a.最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
+- evolution n.发展、进化、演变
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - examine v.检查、审查、考察、调查、考试、审问
@@ -133,7 +143,7 @@
 - exist [ɪɡˈzɪst] 存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
-- expand [ɪkˈspænd] 扩大、扩张、扩展、详述、详细阐明
+- expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
@@ -159,7 +169,7 @@
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
-- extend 扩展、延伸、延长、适用于、涉及、提供
+- extend v.扩展、延伸、延长、适用于、涉及、提供
 - extent n.程度、限度、大小、面积、范围
 - extension n.扩大、延伸、延期
 - extensive a.广阔的、广大的、大量的、广泛的

@@ -1,5 +1,5 @@
 - wag v/n.摇动、摇摆
-- wage n.(按周结的)工资、v.开始、发动
+- wage n.(按周结的)工资、v.开始、发动、进行
 - waiver 放弃、弃权、弃权声明
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
 - wander n/v.漫步、徘徊、闲逛
@@ -7,10 +7,13 @@
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
 - watershed n.流域、分水岭、转折点
+- wave n.波动、波浪、v.挥手、招手
 - wealth 财产、财富、丰富、大量
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave 编织、编排
 - web n.网、网络、v.在...上织网、用网缠住
+- welfare n.福利、幸福
+- wellbeing n.健康、幸福
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
 - whilst conj/ad.同时、直到、虽然、尽管
 - whip n.鞭子、v.鞭打、鞭策、搅打(奶油、鸡蛋)

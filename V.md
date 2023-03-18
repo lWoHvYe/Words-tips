@@ -5,6 +5,7 @@
 - validate v.验证、证实、使生效、批准、确认
 - valuate v.对...作评估、对...作评价
 - valuation n.估价、估值、评估、评价
+- value n.价值、价格、用途、v.重视、珍视、给...估价
 - variable n.变量、可变因素、a.变化的、可变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
@@ -53,5 +54,6 @@
 - vocabulary n.词汇量、词汇表
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volume [ˈvɒljuːm] n.体积、容积、容量
+- voluntary a.自愿的、志愿的、无偿的
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

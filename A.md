@@ -5,7 +5,7 @@
 - abroad n.国外、海外、ad.到国外、在国外
 - abrupt a.陡峭的、突然的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
-- absolute 绝对的、完全的、肯定的、无疑的、不受限制的、独立的、绝对真理
+- absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
 - abstain 弃权、戒除、离开、回避
 - abstract n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - abundant a.大量的、充裕的、丰盛的
@@ -30,13 +30,16 @@
 - account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
+- accumulate v.积累、堆积
+- accuracy n.精确(程度)、准确(性)
 - accurate a.精确的、准确的、正确无误的
 - accustom v.使习惯、使适应
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
-- acknowledge v.承认、确认、答谢
-- acquaintance [əˈkweɪntəns] 相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
+- acknowledge v.承认、认可、确认、答谢
+- acquaintance [əˈkweɪntəns] n.相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
 - acquire v.获得、得到
 - acquisition 获得、得到、购置、收购
+- acre [ˈeɪkə(r)] n.英亩
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
 - active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity n.活动、活跃、行为
@@ -68,6 +71,7 @@
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise v.宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
 - advice n.劝告、忠告、建议、意见
+- advise v.劝告、忠告、建议、通知
 - advisor n.顾问、咨询
 - advisory a.顾问的、咨询的
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
@@ -78,7 +82,7 @@
 - affirm v.公开肯定、断言、证实
 - afford 提供、给予、负担得起、买得起
 - afterward ad.后来、之后
-- against 反对、对...不利、紧靠、以防、以...为背景、和...相比
+- against v.反对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
 - agenda n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
@@ -96,11 +100,13 @@
 - albeit conj.虽然、即使
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
+- alien [ˈeɪliən] n.外星人、外国人、a.外国的、相异的、异己的、不相容的
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
+- alleviate v.减轻、缓和、缓解
 - allocate v.分配、拨...(给)、划...(归)
 - allow [əˈlaʊ] v.允许、准许、容许、给予
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
@@ -134,12 +140,13 @@
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - anniversary n.周年纪念日
 - announce v.宣布、宣告、通知、声明
-- annual 年度的、每年的
+- annual [ˈænjuəl] a.年度的、每年的
 - anonymous a.匿名的
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
-- anxiety [æŋˈzaɪəti] n.焦虑、忧虑                                      
+- anxiety [æŋˈzaɪəti] n.焦虑、忧虑
+- anyway ad.无论如何                                      
 - apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
 - apartment n.公寓
 - apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
@@ -152,7 +159,8 @@
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
-- apply v.申请、应用、运用、适用、适合  apply to 适用于、运用  apply for 申请
+- application n.请求、申请、应用、涂抹、施用、应用程序
+- apply v.申请、应用、运用、适用、适合、涂、敷  apply to 适用于、运用  apply for 申请
 - appoint v.任命、委派、安排、约定、确定
 - appointment n.任命、约会、职务、职位
 - apportion v.分配、分摊、分派
@@ -166,7 +174,7 @@
 - arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
 - arbitrary a.随意的、任意的、武断的
 - architecture 体系结构、建筑学、结构
-- archive 存档、档案文件、档案室
+- archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
@@ -180,6 +188,7 @@
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
+- ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - aspire v.渴望
 - assemble v.集合、组装、装配、收集、聚集、组合
@@ -194,15 +203,17 @@
 - assist v.帮助、援助
 - assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
 - associate [əˈsoʊsieɪt]/[əˈsoʊsiət] v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
-- assume [əˈsjuːm] v.假定、假设、承担、担任
+- assume [əˈsjuːm] v.假定、假设、承担、担任、呈现
 - assumption n.假定、假设、承担、担任
-- assurance n.保证、担保、保险
-- assure 向...保证、使...确信、保证、确保
+- assurance n.保证、担保、保险、确信、把握
+- assure v.向...保证、使...确信、保证、确保
 - astray 迷路的、堕落、误入歧途的、迷路
-- asymmetric 不对称的、不匀称的
+- asymmetric a.不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
 - athlete [ˈæθliːt] n.运动员
 - athletic a.运动的、健壮的
+- Atlantic n.大西洋
+- atoll n.环礁
 - atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest v.作证、证明、证实、表明
