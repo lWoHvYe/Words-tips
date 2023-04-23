@@ -3,6 +3,7 @@
 - valentine 情人
 - valid 有效的    invalid 无效的
 - validate v.验证、证实、使生效、批准、确认
+- valley n.山谷、峡谷
 - valuate v.对...作评估、对...作评价
 - valuation n.估价、估值、评估、评价
 - value n.价值、价格、用途、v.重视、珍视、给...估价
@@ -21,9 +22,10 @@
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
 - venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机
+- venue n.地点、会场
 - verbal a.文字的、言语的、口头的、动词的
 - verbiage 用语、措辞、废话、冗余、晦涩
-- verbose 冗长的、啰嗦的
+- verbose a.冗长的、啰嗦的、唠叨的
 - verify v.证明、证实、核实、查证
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
@@ -42,15 +44,18 @@
 - violation n.违反、违章、侵犯
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
-- virtual [ˈvɜːtʃuəl] 实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的
+- viral a.病毒的、病毒性的
+- virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的
+- virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
 - visible a.可见的、明显的、n.现实世界
-- vision n.视力、视野、画面、幻象、v.想象
+- vision n.视力、视野、画面、幻象、观点、v.想象
 - visor n.面罩、遮阳板
 - visual a.视力的、视觉的、看得见的、n.画面、图像
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
-- vital 至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
+- vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
+- vitamin n.维生素
 - vocabulary n.词汇量、词汇表
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volume [ˈvɒljuːm] n.体积、容积、容量

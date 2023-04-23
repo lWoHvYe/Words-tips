@@ -18,15 +18,18 @@
 - lawsuit n.诉讼、起诉
 - lay v.放置、a.世俗的、外行的、没有经验的
 - layer 层、层次
+- layoff n.解雇、裁员
 - layout n.布局、布置、设计、安排
 - leak n/v.漏、泄漏、漏洞、漏出
 - leakage n.泄漏、泄漏量
 - lean v.前俯、倾斜、倚靠、a.瘦的、贫瘠的、难以赚钱的、n.瘦肉
+- leap v.跳、跳跃  leap year 闰年
 - learn v.学习、习得、得知、认识到
 - lease n.租赁、租约、v.租用、租借、出租
 - least [liːst] little的最高级 a.最小的、最少的
-- leave v.离开、保留、交付、n.休假、假期、准许  leave sth+adj. 让...处于某种状态
-- lecture 演讲、训诫
+- leave v.离开、保留、交付、使得、n.休假、假期、准许  leave sth+adj. 让...处于某种状态
+- lecture n/v.演讲、训诫
+- ledger n.账簿、账本
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
 - legal a.法律的、合法的、法定的、n.法定权利
 - legend 传奇、传说、图例、说明、铭文
@@ -37,13 +40,14 @@
 - length n.长、长度 at length 最后、终于、充分地、详尽地
 - lenient a.宽大的、宽容的、仁慈的
 - lens n.透镜、镜片、镜头、(眼球的)晶状体
+- lest conj.免得、以免、唯恐
 - letter n.信、函、字母
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
 - lever n.操纵杆、杠杆、v.撬动
 - leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购     leverage...to... 利用...来...
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
-- liability n.责任、债务、负债、欠债
-- liable 有责任的、有义务的、有...倾向的
+- liability n.责任、债务、负债、债务
+- liable a.有责任的、有义务的、有...倾向的
 - liberal a.自由的、开明的、慷慨的、n.自由的人、开明的人、自由党成员
 - liberalize v.使自由化、放宽对...限制、自由化
 - liberate v.解放、释放、使自由
@@ -61,6 +65,7 @@
 - linkage n.联系、连锁、联动
 - linux ['lɪnəks] 
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
+- liquidate v.清算、清盘、偿还、清偿、变卖、变现
 - liquidity n.流动性、流动资金、资产流动性、资产变现能力
 - lite 清淡的、低盐的、低热量的、精简的
 - literacy n.识字、有文化、读写能力
@@ -69,20 +74,26 @@
 - literary a.文学的、文学上的、爱好文学的
 - literature n.文学
 - load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
-- loan 贷款、借出
+- loan n.贷款、v.借出、贷与、出借
 - local a.地方的、当地的、局部的
-- locate v.定位
+- locate v.定位、找到、使...坐落于
+- location n.位置、地点
+- lodge n.乡间小屋、小屋、v.正式提出、寄住、借宿、租住、寄存
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
 - logical 必然的、合乎逻辑的、合乎情理的
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
+- loom n.织布机、纺织机、v.赫然出现、逼近
 - loop 环、环形、回路
 - loose 松的、释放
 - loss n.丧失、损失、亏损 take a loss 亏损
+- lot pron.大量、许多、n.全体、全部、命运、v.分组、划分(+ out)
 - lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液
+- lottery n.抽奖
 - loud a.大声的、响亮的、喧闹的
 - loyal 忠诚的、忠实的、忠心的
 - lucrative a.获利多的、赚大钱的、合算的
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
+- lunar a.月亮的、月球的 Lunar New Year 农历新年
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵
 - lux 勒克斯(照明单位)
 - luxury [ˈlʌkʃəri] n.奢侈、奢华、奢侈品、a.奢华的

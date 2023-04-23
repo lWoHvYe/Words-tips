@@ -3,6 +3,7 @@
 - earth n.地球、陆地、地面
 - ease n.容易、舒适、安逸、v.缓解、减轻
 - eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
+- eavesdrop v.偷听、窃听
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -37,6 +38,7 @@
 - empower v.授权、准许
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
+- enable v.使能够、使可能、批准、为...提供条件
 - encapsulate 封装、概括、压缩、简述
 - enclose v.随函附上、把...装入信封、附入、围住、把...围起来
 - encode 编码、译成密码/电码、编制成计算机语言
@@ -48,7 +50,7 @@
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
 - endue v.授予、赋予
 - endure v.忍受、忍耐、持续、持久
-- energy 活力、精力、能源
+- energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
 - engender v.产生、引起
 - enhance v.增强、提高、增加
@@ -61,10 +63,10 @@
 - enroll v.登记、注册、招收、加入
 - ensure v.确保、担保、保证
 - entail v.涉及、需要、牵涉、使必要、限定继承
-- enterprise 企业、事业单位、事业心、进取心
+- enterprise n.企业、事业单位、事业、事业心、进取心
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
 - entertainment n.娱乐节目、娱乐、消遣、招待、款待
-- entire 整个的、全部的、完全的、全体、整体
+- entire a.整个的、全部的、完全的、n.全体、整体
 - entitle v.授权，赋予权利、使享有权利、使符合资格、给...题名
 - entitlement n.权利、资格、津贴
 - entity 实体、独立存在物、本质
@@ -73,6 +75,8 @@
 - entropy n.熵
 - entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
+- envelop v.包住、裹住、盖住
+- envelope n.信封、外壳、膜
 - envy n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
@@ -91,6 +95,9 @@
 - erupt v.爆发、喷发、突然发生
 - escalate [ˈeskəleɪt] v.逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
 - escalation n.扩大、增加、升级、价格调整
+- escape v.逃离、逃避、逃脱
+- escapism n.逃避现实、解脱方法
+- escapist a.逃避现实的、令人解脱的
 - esoteric [ˌesəˈterɪk] a.秘传的、机密的、隐秘的
 - especial a.特别的、格外的
 - espresso n.浓缩咖啡
@@ -135,10 +142,11 @@
 - execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
 - exemplary a.模范的、典范的、惩戒性的
-- exempt 免除、豁免
+- exempt v.免除、豁免
 - exercise 运动、锻炼、练习、习题、行使
 - exfiltrate 渗出、渗漏、滤出、流出
-- exhaust [ɪɡˈzɔːst] 排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
+- exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
+- exhaustive a.详尽的、彻底的、全面的
 - exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
@@ -152,13 +160,14 @@
 - expensive a.昂贵的、花钱多的、豪华的
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
 - experiment 实验、试验、尝试、试用、做实验
-- expert n.专家、a.熟练的、内行的、经验丰富的
+- expert [ˈekspɜːt] n.专家、a.熟练的、内行的、经验丰富的
+- expire v.失效、中止、到期
 - explain v.解释、说明、阐明
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述
-- explict a.明确的、清晰的、直言的、坦率的、不隐晦的
+- explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的
 - explode v.爆炸、突然爆发、迸发、突增、激增
-- exploit v.开发、剥削、开拓、开采、利用、压榨、功劳、功绩
-- explore 勘查、探测、探索、研究、探讨
+- exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩
+- explore [ɪkˈsplɔː(r)] v.勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
 - explosion n.爆发、爆炸、炸裂、突增、激增
 - exponent [ɪkˈspəʊnənt] n.指数、幂、拥护者、倡导者、a.说明的、讲解的
@@ -175,6 +184,7 @@
 - extensive a.广阔的、广大的、大量的、广泛的
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
+- extra a.额外的、附加的、ad.额外、另外
 - extract [ˈekstrækt , ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物
 - extraordinary a.特别的、非凡的、意想不到的
 - extravagant a.奢侈的、过度的、过分的、放肆的

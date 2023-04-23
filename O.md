@@ -4,17 +4,20 @@
 - obligor 债务人
 - observe v.看到、注意到、观察、遵守
 - obsession 痴迷、着魔、困扰、妄想
-- obtain 获得、取得、得到、存在、流行
+- obsolete [ˈɒbsəliːt] a.淘汰的、废弃的、过时的
+- obtain v.获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occasion n.场合、时机、v.造成、导致
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - ocean n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
+- off v.离开、关闭、去掉
 - offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
 - offset v.抵消、弥补、补偿、n.抵消、补偿、平版印刷、a.胶印的
+- offshore a.海上的、近海的
 - omit 省略、遗漏、删除、未能做
 - omission [əˈmɪʃn] n.省略、遗漏、疏忽、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
@@ -22,6 +25,7 @@
 - ongoing a.进行(中)的、不间断的、持续存在的、n.前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque [əʊˈpeɪk] a.不透明的、浑浊的、含糊的、n.不透明、难懂、模糊、隐晦
+- opera n.歌剧、歌剧院、歌剧团
 - operand n.操作数
 - operate v.操作、运营、运作、控制、运转
 - operation n.手术、操作、经营、行动、运算、运转
@@ -29,20 +33,25 @@
 - opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
+- opposite a.对立的、相反的、完全不同的、n.对立的人或物、对立面、反面
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - optimal a.最佳的、最优的
-- optimistic a.乐观的
-- optimization 优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
-- optimize 优化、使最优化、充分利用
+- optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
+- optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
+- optimize v.优化、使最优化、充分利用
+- optimum a.最佳的、最适宜的 复数: optima
 - option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权、
 - optional 可选的、随意的、任意的、选修的、选修科目
+- opus n.作品、作曲 复数：opera
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
 - order n.顺序、次序、订单、命令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
+- ordinate n.纵坐标
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
 - originate v.起源、发源、创立、创建、发明
+- orphan n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
 - orthogonal a.正交的、直角的、垂直的、矩形的
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任

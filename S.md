@@ -1,9 +1,11 @@
+- sacred a.上帝的、神圣的、受崇敬的
 - sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
 - sanitization 消毒、卫生处理、净化、清除
+- satiate [seɪʃieɪt] v.满足
 - satisfaction n.满意、满足、清偿、赔偿
 - satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
@@ -19,6 +21,7 @@
 - scarcity n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
 - scenario n.方案、设想、场景、脚本
+- schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
 - scheme n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scientific a.科学的、有系统的
@@ -28,7 +31,7 @@
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
-- scrum 扭打、混乱、争夺 Scrum meeting 每日例会
+- scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
 - scrutinize [ˈskruːtənaɪz] v.仔细检查、认真审查
 - scrutiny [ˈskruːtəni] n.监督、细看、仔细检查、认真彻底的审查
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
@@ -45,8 +48,9 @@
 - secure v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
 - security n.安全、担保、保护措施、保证、抵押品、股票、证券、a.安全的、保密的
 - securitization 证券化
-- seek v.寻找、探求、追求、谋求
+- seek v.寻找、探求、追求、谋求 sought(过去式及过去分词)
 - seem v.似乎、好像
+- seep v.渗透
 - segment n.部分、片、段、v.分割、划分
 - segregate v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
@@ -80,26 +84,35 @@
 - setting v.set现在分词、n.沉落、底座、环境、背景、地点
 - settle v.解决、安排、决定、定居、下陷、沉淀、结清、付清、平静下来、安静下来
 - settlement n.解决、处理、协议、支付、偿付、定居点、移民、和解
+- sever [ˈsevə(r)] v.切断、中断
 - several 几个的、专有的、各自的、一些、几个、数个
-- severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的
+- severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的
 - severity 严重、严厉、苛刻
 - shake v.动摇、摇动、握手、n.摇动、颤抖
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
+- shall modal.将要、将会、必须、应该、可以
 - shallow a.浅的、肤浅的、表面的、n.浅滩、浅处、v.变浅、变浅薄
 - shame 羞耻、羞愧、惭愧、耻辱、使丢脸、使羞愧、真可惜、太遗憾了、好极了、真棒
 - shape n.形状、模型、身材、v.塑造、使符合、体现
-- share v.共有、分享、共享、n.股份
+- share v.共有、分享、共享、分配、n.股份、一份
 - sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
+- shear v.剪、剪切
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
+- shine v.闪耀、发光、n.光泽、光亮
 - ship n.船
 - shirk [ʃɜːk] v.逃避、偷懒
+- shock n.震惊、休克、震动
+- shore n.岸、滨
+- short a.短的、短暂的、缺乏、缺少
 - shortage n.不足、缺少、短缺
+- shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
 - shrink v.收缩、缩小、减少
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
+- sift v.筛、细查、挑选
 - sight n.景象、看见、视力、视野、v.看到、发现
 - significance n.意义、含义、重要性
 - significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
@@ -119,7 +132,7 @@
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
 - sketch n.素描、草图、简报、v.速写、草拟、简述
-- skew a.斜的、歪的、不对称的、v.偏离、歪斜
+- skew a.斜的、歪的、不对称的、v.偏离、偏差、歪斜
 - ski n.滑雪板、v.滑雪、a.滑雪的
 - skirt n.短裙、挡板、v.绕开、回避
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
@@ -128,6 +141,7 @@
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
 - slide 滑落、下跌、滑行、贬值、衰落
 - slight 轻微的、略微的、微小的、细小的、无需重视的、不足为道的、轻蔑、忽视、怠慢、冷落
+- slink v.溜走、溜
 - slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
 - sliver n.薄片、小块、v.切薄片
 - slogan n.标语、口号
@@ -136,7 +150,9 @@
 - slot n.狭槽、窄缝、时隙、v.投放、塞进
 - sluggish a.缓慢的、迟缓的
 - smash v.粉碎、打破、n.打碎、ad.轰然
+- smear v.弄脏、涂抹、污蔑、诋毁、摧毁、n.污迹、污渍、污点
 - smoothly 平稳地、顺利地、平静地、自信地
+- snack n.点心、小吃、快餐
 - snap v.断裂、折断、呵斥、拍快照、快速传球、a.匆忙的、仓促的
 - snapshot 快照、简介、简要说明、拍快照
 - sneak v.潜行、偷偷溜走、告状、a.突然的、出其不意的
@@ -154,6 +170,7 @@
 - solicitation 诱惑、请求、征求
 - solid 固体、固态、立体图形、固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的
 - solidary n.团结
+- solo n.独奏、独唱、a.独奏的、单独的、独自的、ad.单独地、独自地
 - sombre/somber a.忧郁的、昏暗的、阴沉的
 - somehow ad.以某种方式
 - somewhat ad.有点、稍微、有几分
@@ -179,12 +196,12 @@
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
-- spike 尖峰、尖状物、鞋钉、穗、用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
+- spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spin 纺纱、吐(丝)、作(茧)、快速旋转、急转身、兜风、旋转、导向性陈述
 - spine 脊柱、脊椎、书脊、刺
 - spirit n.精神、心灵、情绪
 - spit v.吐、吐出、n.唾液
-- spite n.恶意、怨恨、v.欺负、刁难
+- spite n.恶意、怨恨、v.欺负、刁难  in spite of 虽然、尽管
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
@@ -199,13 +216,17 @@
 - squad n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
+- stab n/v.刺、戳
+- stable a.稳定的、牢固的、稳固的
 - stability 稳定性、稳定、稳固
 - stadium [ˈsteɪdiəm] n.(露天)体育场、运动场
 - staff n.员工、v.在...工作、任职于
 - stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
+- stair n.楼梯
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
+- stance n.态度、立场
 - stand 站立、直立、位于、容忍、经受、立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
 - standalone 独立的、单独的、脱机
 - standby n.备用品、可信赖的人、a.常备的、备用的
@@ -214,13 +235,14 @@
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
 - static a.静止的、静态的、n.静电
+- stationary a.不动的、静止的、固定的
 - stationery [ˈsteɪʃənri] n.文具、信纸、信笺
-- statistic 统计的、统计学、统计资料
+- statistic a.统计的、n.统计学、统计资料
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - steroid n.类固醇
-- stick v.粘贴、张贴、插入、刺入、容忍、放置、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
+- stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
 - stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
@@ -247,24 +269,27 @@
 - strive 努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
 - structrue 结构、构造、建筑物、体系、构成、安排、排列
-- struggle v.努力、奋斗、争取、抗争、n.努力、斗争、打斗、难事
-- stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进
+- struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
+- stub n.存根、票根
+- stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
 - stupid 愚蠢的、迟钝的、笨蛋
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
 - submersible n.潜水器、深潜器、潜艇
-- submission n.提交、投降、屈服、服从
+- submission n.提交、投降、屈服、服从、建议、看法、意见
 - substance n.物质、实质、主旨、要点、基本内容
-- subtitle n.小标题、副标题、字幕
-- subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
+- subscript n.下标
 - subsequent a.随后的、之后的、后来的
 - subset 分组、小组、子集
 - subsidary a.辅助的、附属的
 - subside v.减弱、平息、退去、消退
 - subsidy n.津贴、补贴、补助
-- substantial 大量的、价值巨大的、重大的、结实的、本质
+- substance n.物质、主旨、要点、实质
+- substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
+- subtitle n.小标题、副标题、字幕
+- subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subtract 减、减去、扣除
 - suburb n.郊区、城外
 - succeed v.成功、继承
@@ -277,9 +302,11 @@
 - suffer v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficent a.足够的、充足的、充分的、n.足量、充足
+- suffix n.后缀
 - suggest v.建议、暗示、表明、启示
-- suit v.适合、合身、n.西装、套装、诉讼
-- suitable 合适、适合
+- suit v.适合、合意、合身、相称、n.西装、套装、诉讼
+- suitability n.适合、适宜
+- suitable a.合适、适合
 - summary 概括、总结、概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
@@ -301,6 +328,7 @@
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surpass v.超过、胜过、超越、优于
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
+- surrogate n.代理、代表、a.代理的、替代的、代用的
 - surveillance [sɜːrˈveɪləns] n.监控、监视
 - survey n.调查、测量、勘测、审查、概述、v.民意调查、测量、勘测、概述
 - survive v.幸存、幸免于难
@@ -326,5 +354,5 @@
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的
 - syndicate 企业联合组织、财团、私人联合会
 - synonym [ˈsɪnənɪm] n.同义词
-- syntax 语法、句法、句法规则、语构
+- syntax n.语法、句法、句法规则、语构
 - synthetic a.合成的、n.合成物

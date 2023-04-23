@@ -9,6 +9,7 @@
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
 - paradox n.悖论、矛盾的人或事物
 - paragraph [ˈpærəɡrɑːf] n.段落、节、v.将...分段
+- parallel a.平行的、同时发生的、并行的
 - paralyse/paralyze v.使瘫痪
 - pare v.削减、削皮、逐步减少
 - parse v.从语法上描述或分析
@@ -23,6 +24,7 @@
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
+- pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
 - pathway 路、道、途径、路径
 - patience n.忍耐、耐心、耐性
 - patient a.有耐心的、能容忍的、n.病人、患者
@@ -39,6 +41,8 @@
 - penalty n.刑罚、处罚、害处、不利
 - penny n.便士、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
+- pensive a.沉思的
+- people n.人(不可数)、民族(可数)
 - perceive [pəˈsiːv] v.感知、认为、察觉、发觉、察觉到、注意到、意识到
 - percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
@@ -54,9 +58,11 @@
 - periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
 - permanent a.永久的、永恒的、长久的、n.烫发
+- permeate v.散布、传播、弥漫、渗透、渗入
 - permutation 序列、排列、组合、置换
+- perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、持续的、不断的、四季开花的
 - persecute v.迫害、残害、骚扰、打扰
-- persist 坚持、保持、维持、持续存在
+- persist v.坚持、保持、维持、持续存在
 - persistent a.持续的、持久的、坚持不懈的、坚持不渝
 - persona n.人物角色、伪装、假象、人格面具
 - personal a.个人的、私人的、个性的、人际的
@@ -65,9 +71,11 @@
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - persuade [pəˈsweɪd] v.说服、劝说、使相信、使信服
 - persuasion n.说服、劝说、信仰
-- pertain 存在、适用
+- pertain v.存在、适用
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
+- pessimistic [ˌpesɪˈmɪstɪk] a.悲观的
+- phantom n.幻影、幻像、幽灵、幻觉
 - phase [feɪz] n.阶段、时期、v.分阶段做、逐步做
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
@@ -79,6 +87,7 @@
 - physicist n.物理学家
 - physics n.物理
 - physiology n.生理学
+- pie n.馅饼、派
 - piece 块、片、段、修补、连接
 - pill n.药片、药丸、v.起球、结绒
 - pillar n.支柱、v.成为...的栋梁
@@ -98,21 +107,23 @@
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
-- pledge n.保证、誓言、抵押品、v.保证、使发誓、抵押、典当
+- pledge n.保证、誓言、抵押品、抵押(证券)、v.保证、使发誓、抵押、典当、质押
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
-- plug 插头、插座、塞子、螺钉、补足、补充、推广、宣传
+- plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传
 - pluggable a.可插拔的
+- plunge v.暴跌、骤降
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - pocket 口袋、金钱、财富
 - podcast n.播客
 - poem n.诗、韵文
 - poet n.诗人
 - poetry n.诗、诗歌、诗意
-- point 指向、观点、论点、目的、点
+- point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
 - political a.政治的、政府的、政权的
+- politician n.政治家、政客
 - pollute v.污染、弄脏
 - polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
@@ -136,6 +147,7 @@
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
 - post 邮递、邮寄、终点、发布、公布、交付
+- postfix n.后缀
 - postgraduate n.研究生
 - postpone [pəˈspəʊn] v.推迟、延期、延迟
 - postscript n.附言、后记
@@ -149,6 +161,7 @@
 - practice n.练习、实习、实践、惯例、惯常做法、v.练习、实习
 - prairie [ˈpreəri] n.大草原、大牧场
 - praise n/v.称赞、赞扬、表扬
+- pragmatic a.实用的、务实的
 - prattle 闲扯、唠叨、闲聊
 - precede v.先于、优于、在...之上
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
@@ -162,6 +175,7 @@
 - preliminary a.预备的、初步的、n.序言、开场白、预赛
 - premature a.过早地、早产的、提前的、草率的
 - premier a.首要的、最先的、最早的、n.总理、首相
+- premise n/v.前提、假定
 - premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
 - prepare 准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
@@ -192,12 +206,14 @@
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
+- print v.打印、印刷  print advertisement 平面广告
 - prior [ˈpraɪə(r)] a.先前的、在前的、优先的
 - priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy n.隐私
-- privilege n.特权、v.给予特权
+- privilege n.特权、优惠、v.给予特权
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
+- proactive a.积极的、主动的
 - proactivity n.积极性、主动性
 - probability [ˌprɒbəˈbɪləti] n.可能性、几率、概率、可能的结果
 - probable [ˈprɒbəbl] a.可能的、大概的、n.很可能的事、可能入选者
@@ -263,8 +279,9 @@
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punish v.处罚、惩罚、责怪、自责
 - purchase n/v.购买、采购
-- pure 纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
+- pure a.纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除
+- purify v.使纯净、净化
 - purple n.紫色、a.紫色的、华丽的
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
 - pursue v.追求、奉行、推行、致力于、贯彻

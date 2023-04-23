@@ -6,7 +6,9 @@
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
+- talent n.才能、人才、天赋、天才
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
+- tap v.轻敲、轻叩、开发、利用、汲取、n.水龙头
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
@@ -19,6 +21,7 @@
 - teenage a.十几岁的、青少年的
 - telemetry n.遥测、遥感勘测
 - telescope n.望远镜
+- temporal a.世俗的、现世的
 - temporary 短暂的、暂时的、临时工
 - tempt v.引诱、诱惑、怂恿
 - temptation n.诱惑、引诱、诱惑物
@@ -27,7 +30,8 @@
 - tend v.趋势、趋向、倾向、照料、护理
 - tendency n.趋势、倾向
 - tenor 男高音、大意、要旨、要领
-- tentative 试探性的、试验的、不确定的、尝试、假设、实验
+- tense a.紧张的、绷紧的
+- tentative a.试探性的、试验的、不确定的、n.尝试、假设、实验
 - tenure n.任期、任职、终身职位、占有期、保有权、保有期
 - term n.学期、术语、条款、期限、v.把...称为、把...叫做 in ... terms 在...方面、从...角度
 - terminate 终止、停止、结束、解雇、到达终点站、终止的、有限的
@@ -38,7 +42,8 @@
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
-- theatre n.剧院、剧场、演出、上演
+- theater n.剧院、剧场、戏剧
+- theatre n.剧院、剧场、露天剧场、演出、上演
 - theft 盗窃、偷窃、赃物
 - theme n.题目、主题、题材、议题、主旋律、a.主题...
 - then n.那时、a.当时的、那时的、ad.然后、当时、那时、既然如此
@@ -53,11 +58,14 @@
 - thin a.薄的、瘦的、细的、v.变薄、变瘦、变稀少
 - thorn [θɔːn] n.刺、荆棘
 - thorny [ˈθɔːni] a.棘手的、麻烦的
+- thorough a.彻底的、完全的、充分的
+- thrash v.抽打、抖动
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat n.威胁、恐吓、构成威胁的人或事物
-- threaten v.危及、有...危险、对...构成威胁
+- threaten v.威胁、恐吓、危及、有...危险、对...构成威胁
 - threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
 - thrift n.节约、节俭
+- thrill [θrɪl] n/v.激动、兴奋
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
@@ -66,9 +74,11 @@
 - tick v.打上钩、n.记号、对号、信用、滴答声
 - tickle v.挠痒、愉快、逗乐、使高兴、使满足
 - tickler 棘手的问题
+- tide n.潮汐、潮流
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier n.层、级、阶层、等级、v.层层排列、层叠
-- tight 牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、紧身衣
+- tight a.牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、n.紧身衣
+- tighten v.收紧
 - timeless a.永恒的、永久的
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
@@ -80,6 +90,7 @@
 - tomb 坟墓、冢、埋葬
 - tombstone n.墓碑、墓石
 - tone n.语气、语调、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
+- tongue n.舌头
 - top up 充值
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
@@ -87,13 +98,14 @@
 - tough a.艰苦的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - tout v.标榜、吹捧、吹嘘
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
-- track 小路、小道、痕迹、踪迹、跟踪、追踪、监看、监测
+- trace v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
+- track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - traditional a.传统的、惯例的、因袭的、守旧的
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
-- train 火车、列车、队列、行列、培训、训练
+- train n.火车、列车、队列、行列、v.培训、训练
 - trait n.特点、特征、特性
 - transaction n.交易、业务、事务、办理、处理
 - transcribe v.转录、抄写、改编
@@ -118,7 +130,8 @@
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
 - trek n.徒步旅行、长途跋涉
 - tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
-- trend n、趋向、动态、动向、时尚、时髦
+- trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向
+- tribute n.礼物、贡品、颂词、体现、显现
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
 - Trie n.单词查找树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
@@ -126,6 +139,9 @@
 - trip 旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
+- troupe [truːp] n.剧团、表演团、v.巡回演出
+- trump n.王牌、v.胜过、打败
+- truncate v.截断
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性

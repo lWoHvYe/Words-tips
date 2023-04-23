@@ -1,11 +1,13 @@
 - machine [məˈʃiːn] n.机械、v.制造、加工成型
-- macro 宏、宏指令、巨大的、极厚的、特别突出的、大量使用的
+- macro n.宏、宏指令、a.广大的、宏观的、巨大的、极厚的、特别突出的、大量使用的
 - magazine n.杂志、期刊、弹药库
 - magical a.神奇的、有魔力的
 - magnify v.放大、增强、夸大、扩大
 - mainframe n.大型机、主机、中央处理机、主计算机
-- maintain 维持、保持、维修、保养、坚持、固执己见
+- maintain v.维持、保持、维修、保养、坚持、固执己见
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
+- majestic [məˈdʒestɪk] a.宏伟的、壮丽的、威严的
+- majesty n.陛下、统治权、王权
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority n.大部分、大多数、成年、法定年龄
 - make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产
@@ -20,8 +22,8 @@
 - mania n.狂热
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
-- manner 方法、方式、态度、礼仪、规矩
-- manual 手动的、手工的、用手操作的、手册、指南
+- manner n.方法、方式、态度、礼仪、规矩
+- manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边
@@ -32,7 +34,9 @@
 - mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
 - massive a.大量的、大规模的、严重的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
+- mate n.伙伴、朋友
 - material n.材料、素材、a.实际的、物质的、重要的、必要的
+- materialism n.物质主义、唯物主义
 - materialize v.实现、具现化、实质化
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
@@ -45,13 +49,19 @@
 - meal n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
 - means n.手段、方法、方式、途径、mean第三人称单数和复数
+- meanwhile ad.其间、与此同时
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
+- meat n.肉、重要的部分
 - mechanical [məˈkænɪkl] a.机动的、机械的、呆板的、n.机械部件、机械物体
 - mechanism n.机制、机能、机理、结构、构造、机械装置
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
+- meditative a.沉思的
 - medium a.中等的、n.媒介、手段、工具、方法、介质
+- meet v.满足、遇见、相遇、会面、会晤
 - mega a.巨大的、宏大的 = huge = great
+- melt v.溶化、溶解、软化
+- meltdown n.彻底垮台
 - memo 备忘录
 - memorial a.纪念的、悼念的、n.纪念碑、纪念品
 - memorize v.记住、熟记、记忆、存储
@@ -69,11 +79,12 @@
 - metadata 元数据
 - metal n.金属、v.用金属做、a.金属制的
 - metaphor [ˈmetəfə(r)] n.隐喻、暗喻、象征
+- mete v.分配、给予
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
 - metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
 - middleware n.中间件
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
-- might modal-v.may的过去式、可能、可以、n.力量、权势
+- might modal-v.may的过去式、可能、也许、可以、n.力量、权势、可能性
 - mighty a.强大的、巨大的、非凡的、强有力的、ad.非常、很、极其
 - migrant n.移民、候鸟、迁徙动物
 - migrate v.迁徙、移居、转移、迁移
@@ -85,9 +96,12 @@
 - million n.百万
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
+- minimal a.最小的、极小的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
 - minor a.较小的、少数的、轻微的、次要的
+- minus n.减、减号、负号
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
+- mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
@@ -107,6 +121,8 @@
 - modify v.修改、修饰、改变
 - module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
+- moisture n.潮湿、水分
+- moisturize v.给...增加水分、滋润
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
 - momentum [məˈmentəm] n.动力、势头、动量
@@ -116,8 +132,13 @@
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
+- mono a.单声道的
+- monolayer n.单层
+- monolith n.单块巨石、巨无霸
+- monolog n.独白、独角戏
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - monotone n.单调、a.单调的
+- monotonic a.单调的、无变化的
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
 - mortgage 抵押贷款、按揭贷款、按揭、抵押（房产）
@@ -137,6 +158,7 @@
 - multiply 乘、相乘、复合地、多样地、多股的、多层的
 - multiplier n.乘数、倍数
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
+- museum [mjuˈziːəm] n.博物馆
 - mutex 互斥、互斥对象、互斥锁
 - mutual a.相互的、彼此的、共同的、共有的
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 

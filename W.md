@@ -2,6 +2,7 @@
 - wage n.(按周结的)工资、v.开始、发动、进行
 - waiver 放弃、弃权、弃权声明
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
+- wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
 - warden n.管理人、看守人、监护人、学院院长、协会会长
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
@@ -12,17 +13,25 @@
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave 编织、编排
 - web n.网、网络、v.在...上织网、用网缠住
+- weigh [weɪ] v.权衡、称重
 - welfare n.福利、幸福
 - wellbeing n.健康、幸福
+- whereas n.鉴于、conj.然而、但是、尽管
+- whereby ad.凭此、借以
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
 - whilst conj/ad.同时、直到、虽然、尽管
 - whip n.鞭子、v.鞭打、鞭策、搅打(奶油、鸡蛋)
+- white n.白色、a.白色的、v.使变白
 - wholesale n.批发、a.批发的、ad.大量地
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  wildcard 通配符
 - wilderness n.荒野
 - will modal.将、会、v.想要、希望、愿意、n.意志、意愿
+- wind n.风、气流
+- windfall [ˈwɪndfɔːl] n.意外之财
 - wing n.翼、翅膀、机翼、派系、派别
+- wipe n.擦去、消除、抹去、n.抹布、纸巾
 - wire n.金属丝、电线、导线、v.用导线给(设备)接通电源、将....连接到(设备)
+- wireframe n.线框图
 - wisdom n.智慧、才智、知识、学问
 - wise a.聪明的、明智的、有智慧的、博学的、v.使知道、使懂得、教导
 - wist wit的过去式和过去分词 v.风趣、心智、才智
@@ -31,6 +40,7 @@
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
 - wonder v.想知道、想弄明白、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
 - wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
+- workaround n.应变方法、变通方法
 - workforce 劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
 - worse 更坏、更糟、更坏的、恶化的、严重的
@@ -38,3 +48,4 @@
 - worthy a.值得的、值得尊敬的、有价值的、n.杰出人物、知名人士
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrinkle 皱纹、褶皱
+- write-off n.勾销、注销、报废的东西

@@ -1,10 +1,12 @@
 - quadruple a.四倍的、四重的、四方的、v.变为四倍、n.四倍
+- qualification n.资格、资历、学历、限定条件
 - qualifier n.合格者、预选赛、资格赛
 - qualify 具有资格、有权、达标、限定、修饰、描述、形容、使合适、证明
 - quality [ˈkwɒləti] n.质量、特性、优质、品德、a.优质的、高质量的
 - quantity [ˈkwɒntəti] n.数量、数目、大量、大批
 - quarter n.四分之一、一刻钟、地区、v.把...四等份、给...提供食宿
 - quarterly [ˈkwɔːtəli] a.每季的、季度的、按季的
+- quest n/v.探索、追求
 - questionaire/questionnaire n.问卷调查、问卷、调查表
 - quickness n.机智、机敏、敏捷
 - quiescent a.静止的、静态的、休眠的

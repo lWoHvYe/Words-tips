@@ -1,4 +1,4 @@
-- fabric 织物、布料、结构
+- fabric n.织物、布料、结构
 - facade 外观、正面、表明、外表
 - face v.面临、面对、n.面部、表面 crisis/problem facing sth ...所面临的危机/问题
 - facilitate v.帮助、促进、使容易
@@ -23,6 +23,7 @@
 - fantasize v.想象、幻想、白日做梦
 - far a.远的、遥远的  比较级：farther/further  最高级：farthest/furthest
 - farewell n.告别、辞行、再会
+- farm n.农场、v.饲养
 - farther n.父亲、创始人、v.创立、发明
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fat [fæt] n.脂肪、a.胖的、肥胖的
@@ -30,12 +31,15 @@
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、v.发现错误
 - favor n/v.支持、赞成、喜爱、偏爱
 - favorable a.有利的、赞同的、讨人喜欢的、从优
+- fear n/v.害怕、恐惧
+- feasible a.可行的、行得通的
 - feasibility 可行性、可能性、现实性
-- feature 特色、特征、特点、特写
+- feature n.特色、特征、特点、特写、v.以...为特色、起重要作用、重点介绍
+- febrile [ˈfiːbraɪl] a.狂热的、发热的
 - federal a.联邦的、联邦制的
 - federation n.联邦、联盟、同盟 
 - fee 费用、报酬、付报酬、雇佣、聘请
-- feeble 虚弱的、无效的、无力的
+- feeble a.虚弱的、无效的、无力的
 - feed v.饲养、喂养、满足、n.饲料、肥料
 - female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
 - fence n.栅栏、屏障、v.围住、隔开、搪塞、回避
@@ -44,17 +48,19 @@
 - festival n.节日、a.节日的
 - fetch 取来、拿来
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
+- fiber [faɪbə] n.光纤、纤维
 - fiction n.小说、编造、虚构
 - field [fiːld] n.领域、场地、行业、字段、v.使参加竞选/比赛、处理、应付、a.野生的、野外的、实地的
-- figure n.数据、人物、身材、v.认为、认定、计算
+- figure n.数据、人物、身材、v.认为、认定、计算、描绘、象征  figure out 想出、理解、弄明白、计算出
 - file n.文件、档案、v.把(文件等)归档、提起(诉讼)、提出(申请)、送交(备案)、发送(报道给报社)
 - filer n.文件管理器、文件装订员、文件编档员
 - film n.电影、影片、胶片、v.拍电影、上镜头
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
 - financial a.金融的、财务的
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
+- finger n.手指、指针、v.告发
 - finite [ˈfaɪnaɪt] a.有限的、限定的
-- fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术)
+- fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术）
 - fireside 炉边、毫无拘束的
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal n.财政、a.财政的、国库的、税收的
@@ -73,6 +79,7 @@
 - flexible a.灵活的、柔韧的、有弹性的
 - flight n.航班、飞行、飞翔、v.使...在空中飞行、射击
 - flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
+- flock n.群、聚集、群集
 - flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
 - flourish 茂盛、繁荣、活跃、挥舞
 - flow 流、流动、持续生产、滔滔不绝、连贯、涨潮
@@ -85,6 +92,7 @@
 - force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - fore n.船头、前面、前部、a.在前部的
 - foremost ad.首先、a.最重要的
+- foresee v.预料、预知、预见
 - foreshadow 预示、预兆、先兆
 - forest n.森林、丛林
 - forever ad.永远、长久地、不断地、n.永恒、极长的一段时间
@@ -121,6 +129,7 @@
 - frequency 频率、频繁、发生率、出现率、重复率
 - frequent a.频繁的、常见的、v.常去、常到
 - fresh a.新鲜的、淡水的、无经验的、n.(一天、一年等的)开始、(河流的)暴涨
+- fret v.烦躁、苦恼、n.雾气
 - fright n.惊吓、恐怖、恐惧
 - frighten v.吓唬、使惊吓、使惊恐
 - front n.前面、正面、a.前面的、正面的、v.面向、领导、代表
@@ -134,5 +143,6 @@
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础
 - further [ˈfɜːðə(r)] a.进一步的、更多的、附加的、ad.进一步地、v.促进、增进 far的比较级
+- fuse v.融合、熔化、n.保险丝、导火索
 - fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
 - future n.将来、未来、前景、前途、期货、a.将来的、未来的

@@ -2,6 +2,7 @@
 - abdicate [ˈæbdɪkeɪt] v.放弃、退位
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
+- abort n/v.中止、退出、夭折
 - abroad n.国外、海外、ad.到国外、在国外
 - abrupt a.陡峭的、突然的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
@@ -34,7 +35,9 @@
 - accuracy n.精确(程度)、准确(性)
 - accurate a.精确的、准确的、正确无误的
 - accustom v.使习惯、使适应
+- ache n/v.疼痛
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
+- achievement n.成就、功绩、完成、达到
 - acknowledge v.承认、认可、确认、答谢
 - acquaintance [əˈkweɪntəns] n.相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
 - acquire v.获得、得到
@@ -78,11 +81,13 @@
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
 - affect v.影响、侵袭、感动、n.情感、偏差
+- affection n.感情、喜爱、爱情、钟爱
+- affectionate a.有感情的、热情的、慈爱的
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
 - afford 提供、给予、负担得起、买得起
 - afterward ad.后来、之后
-- against v.反对、对...不利、紧靠、以防、以...为背景、和...相比
+- against v.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
 - agenda n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
@@ -92,30 +97,39 @@
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
 - aggregate a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
+- aggression n.侵略
+- aggressor n.侵略者
 - agnostic 不可知论者、不可知论的
 - aid n/v.援助、帮助、救助
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
 - albeit conj.虽然、即使
+- album n.相册
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
 - alien [ˈeɪliən] n.外星人、外国人、a.外国的、相异的、异己的、不相容的
+- alienable a.可转让的
+- alienate v.使疏远、离间
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
 - alleviate v.减轻、缓和、缓解
-- allocate v.分配、拨...(给)、划...(归)
+- alliance n.结盟、联盟、同盟
+- allocate v.分配、分派、拨...(给)、划...(归)
 - allow [əˈlaʊ] v.允许、准许、容许、给予
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
+- ally n.联盟、同盟国、v.与...结盟
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alone a/ad.单独、独自、孤独、单独的、单独地
+- alphabetical a.按字母顺序的
 - alphanumeric [ˌælfənjuːˈmerɪk] a.含有字母和数字的、字母和数字并用的
+- alpine a.阿尔卑斯山的
 - alter v.改变、更改、修改
 - alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
-- alternative 替代的、另类的、备选的、可供选择的事物
+- alternative a.替代的、另类的、备选的、其他的、 n.可供选择的事物
 - altitude n.海拔
 - amber 琥珀、琥珀色
 - ambiguity [ˌæmbɪˈɡjuːəti] n.含糊、模棱两可、歧义
@@ -149,12 +163,13 @@
 - anyway ad.无论如何                                      
 - apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
 - apartment n.公寓
+- apology n.道歉、致歉
 - apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
 - appeal n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
 - appearance 外貌、外表、起源、首次使用、公开露面、出版
 - appendix 附录
-- appetite [ˈæpɪtaɪt] n.食欲、胃口、嗜好、爱好
+- appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
 - applause n.掌声、鼓掌、喝彩
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
@@ -180,7 +195,7 @@
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
 - arity n.(参数)数量、元数
 - arouse v.引起、唤起、激起、激发
-- arrange 安排、凑备、布置
+- arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
 - arthritic a.关节炎的
@@ -208,11 +223,13 @@
 - assurance n.保证、担保、保险、确信、把握
 - assure v.向...保证、使...确信、保证、确保
 - astray 迷路的、堕落、误入歧途的、迷路
+- astronomy n.天文学
 - asymmetric a.不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
 - athlete [ˈæθliːt] n.运动员
 - athletic a.运动的、健壮的
 - Atlantic n.大西洋
+- atmosphere n.气氛、基调、空气、大气层
 - atoll n.环礁
 - atom [ˈætəm] n.原子
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
@@ -220,22 +237,27 @@
 - attestation n.证明、证据、证词
 - attorney n.律师、代理人
 - attract v.吸引、诱惑、引人注意
-- attribute n.属性、特征、性质、v.认为...是、把...归于
+- attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
 - augment 加强、增加、扩大、提高
-- authentication [ɔːˌθentɪˈkeɪʃn] 认证、证明、鉴定、身份验证
+- authentication [ɔːˌθentɪˈkeɪʃn] 认证、鉴权、证明、鉴定、身份验证
 - authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
+- authorize [ˈɔːθəraɪz] v.授权、批准
 - authority [ɔːˈθɒrəti] n.权威、当权、当局、授权、批准
 - auto 汽车、汽车的
 - automate v.(使)自动化
+- automatic a.自动的、无意识的
 - automation n.自动化
 - automobile n.汽车
+- autonomous a.自主的、自治的、有自治权的、有自主权的
 - autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available [əˈveɪləbl] a.可利用的、可获得的、有空的、能找到的
 - avenue n.大街、大道、途径、渠道、手段
+- average a.平均的、平常的、普通的
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做
 - avert v.防止、避免、转移、避开
+- awake v.唤醒、醒来、唤起
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的

@@ -4,13 +4,13 @@
 - deadline n.截止时间、最后期限
 - deal 处理、协议、大量、许多、交易、待遇、发牌
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
-- debt 借款、欠款、债务、罪、过失
+- debt [det] n.债务、借款、欠款、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
 - decent a.体面的、得体的、相称的、正派的、相当不错的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
-- decide 决定、下决心、选定、解决、裁决
-- decision [dɪˈsɪʒn] 决定、决策、做决定
+- decide v.决定、下决心、选定、解决、裁决
+- decision [dɪˈsɪʒn] n.决定、决策、做决定
 - declare v.声明、宣布、表明、断言
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
 - decode 解码、破译、译解
@@ -42,8 +42,11 @@
 - delegate v.代表、把...委派、选派、n.代表
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
+- delimit v.限制、界定
+- delimiter n.定界符、分隔符
 - delineate [dɪˈlɪnieɪt] v.勾画、描述
 - delinquency 拖欠(债款/贷款)
+- delinquent a.有违法倾向的、拖欠债务的、n.少年罪犯、流氓
 - deliver 传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
 - demand n/v.需要、要求、请求、需求
@@ -65,9 +68,10 @@
 - departure n.离开、出发、起程、背离、违反、逾越   domestic/international departure/arrival 国内/国际-出发/到达
 - depend v.依赖、依靠、取决、指望
 - deport v.驱逐、驱逐出境、递解出境
-- deposit 保证金、储蓄、存款、沉积物、安置、放置、寄存、寄放
+- deposit n.保证金、储蓄、存款、沉积物、v.安置、放置、寄存、寄放
 - depress v.压下、压低、降低、减少、使沮丧、使消沉、使萧条、使不景气
 - depression n.抑郁、沮丧、萧条期、经济衰退、萎靡不振、低气压
+- deprive v.剥夺、使丧失、使不能享有
 - depute v.委托、将...交给某人、委派...为代表
 - deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
 - derivation n.引导、导出、衍生、起源、派生
@@ -78,10 +82,11 @@
 - deserve v.应受、值得
 - design v.设计、构思、意图、n.设计、图样
 - designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
-- desire n/v.ß渴望、希望、欲望、愿望
+- desirable a.向往的、可取的、令人满意的
+- desire n/v.渴望、希望、欲望、愿望
 - despair n/v.绝望、失望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的
-- despite prep.即使、尽管、n.侮辱、怨恨、轻蔑
+- despite prep.即使、尽管
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运
 - destroy v.破坏、毁坏、消灭
@@ -98,14 +103,18 @@
 - device n.装置、设备、方法、策略、手段
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - diagnose v.诊断、确诊
+- diagnostic a.诊断的、判断的、n.诊断程序、诊断提示
 - diagram 图表、示意图、图解
 - dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
 - dialect 方言
+- diary n.记事簿、日志、日记
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - dictate v.口述、命令、决定、支配、n.命令、规定
 - dictation n.口述、听写
 - die 死亡、凋零、渴望、盼望、模具、冲模、压模
 - diet 日常饮食、规定饮食、节制饮食
+- difficult a.困难的、艰难的、麻烦的
+- diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
 - digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
@@ -113,6 +122,7 @@
 - dignity n.庄严、端庄、尊严、高贵
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - dilution n.稀释
+- dim a.暗淡的、昏暗的
 - dimension [dɪˈmenʃn , daɪˈmenʃn] n.次元、度、维(度)、尺寸
 - diminish v.减少、减弱、降低、贬低、轻视
 - diode n.二极管
@@ -123,13 +133,17 @@
 - director 导演、主管、主任、董事、理事
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
+- disable v.使无效、使丧失能力
 - disability n.残疾、缺陷、障碍
 - disaster [dɪˈzɑːstə(r)] n.灾难、灾害、不幸
+- discard v.丢弃
 - discern v.看出、理解、识别、辨别、分辨出、听出
+- discharge v.准许离开、解雇、免除、释放、n.履行、执行、清偿
 - discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
 - disclaim v.否认、拒绝承认、放弃 disclaimer n.免责声明、放弃、放弃者
 - disclose v.披露、透露、泄露、揭露
 - disclosure [dɪsˈkloʊʒər] n.公开、泄漏、纰漏
+- discount n.折扣、v.打折
 - discourage v.劝阻、阻挠、使气馁、使沮丧
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
@@ -137,6 +151,7 @@
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
+- disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
 - dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - disparage v.贬低、轻视、批评、非难
@@ -149,7 +164,7 @@
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
 - disposition n.性格、性情、倾向、布置、排列、处置
-- dispute 辩论、争论、纠纷
+- dispute v.辩论、争论、纠纷
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
 - dissolve v.溶解、解除(婚姻关系)、终止(商业协议)、解散、除去
 - distinct a.不同的、明显的、清楚的、明白的、确切的
@@ -157,7 +172,8 @@
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
 - distract v.分散(思想)、转移(注意力)、使分心
 - distraction n.分散注意力、娱乐、消遣
-- distribution 分配、分布、经销、分销、配送
+- distribute v.分配、分布、分销、使散开、使分散
+- distribution n.分配、分布、经销、分销、配送
 - district n.地区、区域、区、行政区
 - disturb 打扰、干扰、使焦虑、使不安
 - diverge v.偏离、分歧
@@ -166,7 +182,9 @@
 - diversity n.差异、不同、多样性、多样化
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
 - divide v.分、划分、除、分配、n.分歧、不同、差异 class divide 阶级差异
+- dividend n.红利、股息
 - division 分开、分隔、分配、除（法）
+- divisive a.分裂的、造成不合的、制造分裂的
 - divorce n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
@@ -178,16 +196,20 @@
 - dominate v.支配、影响、占优势
 - dormant a.睡着的、休眠的、蛰伏的
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
+- donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] 怀疑、疑虑、未确定
+- downside n.缺点、弊端、不利方面  反义:upside
 - downstream 下游的、引发的、顺流而下
 - downturn n.经济低迷、衰退、衰退期
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
+- drag [dræɡ] v.拖拽、拖累、拖延
+- drain v.排空、耗尽、n.消耗、耗竭
 - drama n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - drastic a.激烈的、猛烈的、极端的、严厉的
-- draw 绘画、拖、拉、吸引、提取、抽出、抽奖、平局
+- draw v.绘画、拖、拉、吸引、提取、抽出、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill 训练、操练、演习、钻、钻头
@@ -204,4 +226,4 @@
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
 - duty [ˈdjuːti] n.责任、义务、职责、职务、税
 - dwell v.居住、栖身  dwelling n.住宅、住所
-- dynamic [daɪˈnæmɪk] 动态、动力、动力学、动态的、充满活力的、发展变化的
+- dynamic [daɪˈnæmɪk] n.动态、动力、态势、动力学、a.动态的、充满活力的、发展变化的

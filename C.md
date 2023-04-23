@@ -6,12 +6,15 @@
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
 - calcium [ˈkælsiəm] n.钙
 - calculate 计算、预测
+- calculus n.微积分、结石
+- caulk v.填、堵、n.密封剂
 - call 呼叫、号召
 - calm 平静的、镇静的、使平静、宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
+- cap n.帽子、额度、限额、v.覆盖、笼罩、胜过、超过
 - capability 性能、容量、才能、能力、生产力
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
 - capacity [kəˈpæsəti] n.容量、性能、才能、职位、功率、电容、a.充其量的、最大限度的
@@ -27,6 +30,7 @@
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
 - carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售    carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干
+- carve v.雕刻
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
 - cash 现金、资金、兑现支票、现金的
@@ -35,17 +39,20 @@
 - casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工
 - catalog n.目录、一览表、系列、种类、v.编目录、登记分类
 - catalogue n.目录、v.编目录、登记分类、记载
+- catalyst n.催化剂
 - catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
 - catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  catch up 追上、赶上
 - category n.类型、类别、种类
+- cater v.满足需要、迎合、提供饮食
 - cattle n.牛、牲口、畜生
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
-- caution 警告、告诫、小心、慎重
+- caution n/v.警告、告诫、小心、慎重
 - cautious a.小心的、谨慎的
 - caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
+- cellular a.细胞的、蜂窝状的、网状的
 - census [ˈsensəs] n.统计、人口普查、人口调查
 - central [ˈsentrəl] a.中央的、中心的
 - centralize 集中、使集中、成为...的中心、集权控制
@@ -53,30 +60,34 @@
 - centric a.中心的、中央的
 - centricity n.中心、中心性
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
+- ceremonial a.礼仪的、礼节的、n.礼仪、礼节
 - ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套
 - certain a.肯定、确定、确信、轻微的、某种的、一定的、必然的、确定的、pron.某些 to a certain extent/degree 在某种程度上、在一定程度上 far less certain 更不确定
 - certainly ad.当然、肯定、确定、无疑、行
 - certainty n.确信、确定性、确定的事、必然的事
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
 - certify v.证明、证实、颁发证书
+- chalk n.粉笔
 - challenge n/v.挑战、质疑
 - champion n.冠军、得胜者、拥护者、勇士、v.捍卫、声援
 - chance n.机会、机遇、时机、可能性、偶然、运气、v.偶然发生、冒险、碰巧、a.意外的、偶然的、碰巧的
+- chancellor n.大臣、总理
 - change 改变、交换、替换、换衣服、兑换、找零、更换
 - channel n.频道、渠道、途径、海峡、水道、v.集中(精力、情感)、调拨(资金、资源)、为...引资、引导
 - chaos [ˈkeɪɒs] n.混乱、混沌
 - chapter 章、回、时代、篇章
 - character n.性格、特点、角色、文字、字母、符号
-- characterise 是...的特征、以...为特征、描述
-- characteristic 特征、特点、品质、特有的、典型的、独特的
+- characterise/characterize v.表示...的特征、以...为特征、描述...的特性
+- characteristic n.特征、特点、品质、a.特有的、典型的、独特的
 - charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、控诉、充电 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
 - charity n.慈善机构、慈善、施舍
-- chart n.图表、v.记录、跟踪、绘制地图
+- chart n.图表、v.记录、跟踪、绘制地图  pit chart 饼图 bar chart 条形图 line chart 折线图
 - chase v.追求、追赶、追捕、努力获得、争取得到、n.追赶、追捕、打猎、猎物
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令
 - chemical [ˈkemɪkl] a.化学的、n.化学药品
+- chew v.咀嚼
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - choice n.选择、挑选、a.优质的、上等的
@@ -132,13 +143,18 @@
 - coin n.硬币、v.创造(新词语)、铸(币)
 - collaborate v.合作、协作、勾结、通敌
 - collapse n.崩溃、倒塌、折叠、垮掉、昏倒、v.倒塌、降价、贬值
+- collate v.整理、校对、核对、对照
 - collateral n.抵押品、a.附属的
+- collateralize v.以...作抵押
 - colleague 同事
 - collective a.集体的、共有的、共同的、n.集体、集团
+- college n.大学
 - collide [kəˈlaɪd] v.碰撞、冲突、抵触
 - collision [kəˈlɪʒn] n.碰撞、冲突
 - collocate v.搭配、组合、n.搭配词、组合词
 - colon [ˈkəʊlən] n.冒号
+- colonial a.殖民的
+- colony n.殖民地
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
@@ -147,36 +163,40 @@
 - comment n.议论、评论、注释、意见、说明、v.表达意见
 - commentary 评论、评注、注释
 - commerce [ˈkɒmɜːs] n.商务、商业、贸易
-- commercial a.商业的、商务的、盈利的
+- commercial a.商业的、商务的、盈利的、v.广告
 - commission n.委员会、佣金、回扣、手续费、v.委任、授予
 - commit [kəˈmɪt] v.承诺、保证、犯罪、把...学好记牢
 - commitment n.承诺、许诺、委托、委任、致力、献身、花费、使用
 - committee n.委员会
 - commodity n.商品、日用品、有价值的东西
 - common a.普通的、常见的、公共的
-- communicate 沟通、交流、通讯
+- communicate v.沟通、交流、通讯、传达、传递
 - community n.社区、群落
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压缩、压紧、压实
+- company n.公司、剧团、陪伴、做伴
 - compare n/v.比较、对比
 - comparative a.相对的、比较的、比较级的
 - compass n.罗盘、指南针、圆规、范围、界限
-- compatible 可共用的、兼容的、相容的、和睦相处的
+- compatible v.可共用的、兼容的、相容的、和睦相处的
 - compensate [ˈkɒmpenseɪt] v.抵消、补偿、赔偿、报酬
 - compensation n.补偿、赔偿
-- compete v.竞争、竞赛、对抗
+- compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
+- competent a.有能力的、能胜任的、称职的、过得去的
 - compliance n.顺从、遵从、服从、合规
 - compliant a.顺从的、遵从的、符合的、一致的
 - compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
 - compile v.编写、编辑、汇编、编译
 - complain v.抱怨、埋怨、投诉
 - complaint n.抱怨、埋怨
-- complement v.补充、补足、n.补语
+- complement [ˈkɒmplɪment/ˈkɒmplɪmənt] v.补充、补足、n.补语、足数、足额
 - complementary a.互补的、补充的
-- complete 完成、结束、完全的、彻底的
+- complete [kəmˈpliːt] v.完成、结束、a.完全的、彻底的、完整的
 - complex 复杂的、难懂的、相关联的一组事物、不正常的精神状态、不正常的忧虑
 - compliance 顺从、遵从、服从、承诺、柔软度
 - compliant 顺从的、遵从的、符合的、一致的
+- complicate v.使复杂化、使恶化
+- compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺
 - comply vi.顺从、服从、遵守、遵从、应允、同意
 - component 成分、组成、组成部分、组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
@@ -195,7 +215,7 @@
 - concede v.承认、让步、容许
 - conceit n.自负、幻象、思想、观点
 - conceive [kənˈsiːv] v.想出、想象、构想、设想、持有、怀孕
-- concentrate 集中、专心、浓缩
+- concentrate v.集中、专心、浓缩
 - concept n.观念、概念、观点
 - concern v.涉及、影响、参与、使担忧、n.关心、关爱、担心、顾虑
 - concert n.音乐会、演唱会、一致、和谐、v.协商、调解、合订、协同工作
@@ -220,6 +240,8 @@
 - confirm 证明、证实、确认、认可
 - confine v.限制、限定、监禁、禁闭、n.限制、界限、范围、边界
 - conform v.符合、遵守、相一致、相吻合
+- confuse v.困惑、迷惑
+- congest v.拥挤、使充血
 - congress n.国会、议会、v.开会、集合
 - conjunct 结合的、联合的、连接的
 - conjunction n.连词、连结、结合、联合、结合物
@@ -260,6 +282,7 @@
 - contempt n.轻蔑、轻视、鄙视
 - contend v.竞争、争夺、辩论、争辩、声称、主张、认为
 - content n.内容、目录、主题、n/v.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意
+- contention n.竞争、争论
 - contest n.比赛、争论、v.争取赢得、争辩
 - context n.语境、上下文、背景
 - continent [ˈkɑːntɪnənt] n.大陆、陆地、洲
@@ -273,8 +296,10 @@
 - contradict v.反驳、驳斥、否认
 - contrary [ˈkɒntrəri , kənˈtreəri] a.相反的、相对立的、截然不同的、反对的、违反的、n.反面、对立面、相反的事物/事实/情况 on the contrary 反之、恰恰相反
 - contrast [ˈkɒntrɑːst ,ˈkɑːntræst] n.对比、对照、差异、对照物、对比度、v.对比、对照、明显的差异、截然不同、形成对比  contrast to/with
-- contribute vt.贡献、捐赠、vi.有助于、有益于   A contribute to B A有益于B   contrubute A to B 把A贡献给B
+- contribute vt.贡献、捐赠、vi.有助于、有益于、是...的原因、v.增加、增进  A contribute to B A有益于B/A是B的原因  contrubute A to B 把A贡献给B
 - contribution n.捐款、贡献
+- contributor n.攥稿人、捐赠者、促成因素
+- contributory a.促成的、促进的、起作用的
 - controversial a.有争议的、引起争议的
 - controversy n.争论、辩论、争议
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
@@ -295,8 +320,9 @@
 - copilot n.副驾驶
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
 - corner 角落、拐角、垄断
-- coroutine 协同程序、联立程序
-- corporate [ˈkɔːpərət] 公司的、法人的、社团的、团体的、共同的
+- coroutine n.协同程序、联立程序
+- corpse n.尸体
+- corporate [ˈkɔːpərət] a.公司的、法人的、社团的、团体的、共同的
 - correlate v.相互关联、(使)相关、n.相关的事物、相关联的人
 - correlation n.相关性、相关、关联、相互关系
 - correspond v.顺应、契合、符合、一致、通信
@@ -310,6 +336,7 @@
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
 - counterparty 对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对
+- coupon n.优惠券、息票
 - courage n.勇气
 - course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
 - court n.法院、法庭、v.试图取悦、讨好、求爱、求婚、恋爱
@@ -326,7 +353,8 @@
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
 - crew [kruː] n.船员、乘务员
-- crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、转折点
+- crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
+- crisp a.脆的、酥脆的、n.薯片、v.变脆
 - criteria (criterion 复数) n.标准、准则 
 - criterion [kraɪˈtɪriən] n.标注、准则
 - critic n.批评家、评论家
@@ -347,14 +375,18 @@
 - cunning a.狡猾的、奸诈的、灵巧的、n.狡猾、狡黠 [jiǎo xiá]、诡诈
 - curb v.遏制、限制、抑制、束缚
 - cure v.治愈、矫正、解决、消除、治疗、n.药物、疗程、措施、对策
-- curiosity [ˌkjʊəriˈɒsəti] 好奇心、求知欲、奇物、珍品
+- curiosity [ˌkjʊəriˈɒsəti] n.好奇心、求知欲、奇物、珍品
+- curious [ˈkjʊəriəs] a.好奇的
 - current a.现在的、当前的、通用的、流通的、流行的、n.电流、水流、气流、思潮、潮流、趋势
-- currency 货币、通用、流行
-- curriculum [kəˈrɪkjələm] 课程、全部课程、课表
-- curve n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
+- currency n.货币、通货、流行
+- curriculum [kəˈrɪkjələm] n.课程、全部课程、课表
+- cursor n.光标、游标
+- curve [kɜːv] n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
+- cushion n.软垫、v.起缓冲作用、缓和冲击
 - custody 监管、拘留、羁押、抚养权、监护权
 - custom n.习惯、惯例、海关、关税、惠顾、光顾、a.定制的、定做的
 - customer 客户
+- customize [ˈkʌstəmaɪz] v.定制、定做、改造
 - cut v.切、切割、剪切、削减、删减、n.伤口、划口、削减、减少、份额、a.刺骨的、讽刺的
 - cute a.可爱的、机灵的、性感的、矫揉造作的
 - cyber a.计算机(网络)的、信息技术的

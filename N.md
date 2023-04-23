@@ -1,7 +1,9 @@
+- nadir n.最低点
 - narrate v.讲、讲述、叙述
 - narrative n.故事、叙述、描述、a.叙述的、叙事体的
 - narrow 狭窄的、狭隘的、有限的、勉强的、目光短浅的、限制、限定、变窄、缩小、海峡、狭窄的水道
 - nasal [ˈneɪzl] n.鼻腔、鼻音、a.鼻的、鼻音的
+- nasty a.肮脏的、恶劣的、恶意的
 - nation n.国家、民族、国民
 - nature n.自然、天性、本性
 - naviagte 驾驶、航行于、导航、航行、找到正确方法
@@ -16,18 +18,20 @@
 - negotiate v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的
+- nervy a.焦虑的、紧张的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
 - nested a.嵌套的
 - net n.网、网络、净收入、纯利、v.净得、净赚、用网捕获、a.净的、净得的、纯的、网住的、最后的、最终的  net profit 净利润
 - neuroscience 神经科学
-- nevertheless 然而、不过、尽管如此
+- neutral a.中立的、中性的、空档的、n.中立者、中和色
+- nevertheless ad.然而、不过、尽管如此
 - nightmare n.噩梦、梦魇
 - nimble a.灵活的、敏捷的
 - nimbus n.雨云、光环
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
 - nominate v.提名、推荐、任命、指派、指定
-- nonetheless [ˌnʌnðəˈles] a.尽管如此
+- nonetheless [ˌnʌnðəˈles] ad.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、n.标准、正常、常态、法线

@@ -1,5 +1,6 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
 - gallery 画廊、走廊、长廊
+- gamble [ˈɡæmbl] n/v.赌博
 - gap n.缺口、间隙、分歧、隔阂、空白
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment n.服装、衣服、v.给...穿衣服
@@ -31,23 +32,27 @@
 - glossary 术语汇编、词汇表
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - gold n.金、黄金、金色、a.金色的
+- gonna [ˈɡənə] n.即将、将要
 - gossip n.流言蜚语、闲言碎语、v.说三道四、说长道短
 - govern 统治、治理、控制、管理、支配
 - grab 抓住、强夺
 - grace n.优美、优雅
 - graceful a.优美的、优雅的、得体的、有风度的
+- grade n.等级、职级、年级、分数、v.评分、分级
 - gradual a.逐渐的、逐步的、平缓的
-- graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、n.大学毕业生
+- graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、逐渐变化、进展、n.大学毕业生
 - grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
 - grammar n.语法、语法书 grammar/primary school 小学
+- grand a.宏伟的、宏大的、重大的
 - granny n.祖母、外祖母
-- grant [ɡrɑːnt] v.授予、承认、准许、n.拨款 take for granted 认为...理所当然
+- grant [ɡrɑːnt] v.授予、承认、准许、n.拨款、补助金 take ... for granted 认为...理所当然
 - granularity 粒度
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
-- gratitude 感谢、感激
+- gratitude n.感谢、感激
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
+- greatness n.伟大、崇高、著名
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
@@ -57,6 +62,9 @@
 - guarantee n.保证、担保、保证人、保证书、抵押品、v.保证、担保、抵押、确保
 - guarantor n.保证人、担保人
 - guaranty n.保证、担保物、保证书、抵押品、v.保证、抵押、担保
+- guard [ɡɑːrd] n/v.警卫、保护、保卫、看守
+- guardian n.捍卫者
 - guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针
+- gum n.口香糖、牙龈、黏胶
 - gym/gymnasium [dʒɪmˈneɪziəm] n.体育馆、健身房

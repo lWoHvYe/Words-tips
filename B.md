@@ -10,17 +10,26 @@
 - ban n.禁令、v.禁止、取缔
 - band n.乐队、管弦乐
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
+- bar n.酒吧、条
 - bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
+- base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
+- basic a.基本的、初步的、必须的
+- basis n.基础、根据、原因、缘由
 - battery 电池、蓄电池、一组、一套
 - battle n/v.战争、斗争
+- beach n.海滩、沙滩、v.上岸
+- beacon [ˈbiːkən] n.信标
 - bear n.熊、v.承受、忍受
 - bearing n.关系、影响、姿态、方位、轴承
 - bearer 持票人、持有者、送信人、传授者、传播者
 - beast n.野兽
 - beastliness n.兽性
 - behalf n.利益、代表  on behalf of 代表
+- behave v.表现、举止得体
+- behavio(u)r n.行为、举止、特性、表现方式、活动方式
+- belief n.相信、信心、信念、理念
 - belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
@@ -36,11 +45,13 @@
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
 - billion n.十亿
+- binary a.二进制的
 - bind v.绑定、捆绑、缠绕、结合、约束、凝结、装订、n.窘境
 - biochemical 生物化学的、生化的
 - biography n.传记
 - biology 生物学
 - biophilia n.热爱生命的天性
+- bi-temporal n.双时态
 - bitwise n.位运算
 - blame n/v.责备、责怪、指责、n.责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
@@ -55,13 +66,15 @@
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
 - boilerplate n.样板
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
+- bolster v.改善、加强、n.靠垫、垫枕
 - bond n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
+- bonus n.奖金、红利
 - book 书、本子、预订、登记
 - boom 发出隆隆声、繁荣、快速发展、暴涨、激增、轰鸣、轰响、使繁荣、使迅速发展
 - boost v.促进、增加、提高、偷窃、n.提高、激励、增长
 - booth n.售货棚、摊位、公共电话亭
 - border n.边框、边界、v.和...毗邻、给...镶边
-- borrow 借入、借贷
+- borrow v.借入、借贷
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary 边界、界限、分界线
@@ -78,22 +91,27 @@
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - British [ˈbrɪtɪʃ] n.英国人、a.英国的
 - broad a.宽阔的、广阔的、概括的、明显的
+- broadcast v.广播、散布、传播
 - broaden 扩大、拓宽、增长
 - broker n.经纪人、中间人、代理人、v.安排、协商
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器
 - brutal a.残酷的、残暴的、野蛮的
 - brutality n.残忍、野蛮
+- bubble n.泡、气泡、泡沫、v.起泡、冒泡、洋溢着
 - bucket 桶、一桶(的量)
 - budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的
 - bulk [bʌlk] 体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离
+- bullet n.子弹
 - bump 碰撞、突然的；bump up 突然增加、提高
+- buoy [bɔɪ] n.浮标、航标、v.鼓舞、鼓励、使浮起、使(价格)上浮
+- buoyant a.看涨的、乐观的
 - burden n.负担、包袱、责任、义务、v.使担负...
 - burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
-- burst [bɜːrst] 爆裂、胀开、爆满
+- burst [bɜːrst] v.爆裂、胀开、爆满
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏
 - buyout 全部买下、买下、控制股权收购
 - buy up 买断、囤积

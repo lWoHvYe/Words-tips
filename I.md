@@ -13,6 +13,7 @@
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
+- illustrious [ɪˈlʌstriəs] a.杰出的、显赫的、著名的
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
 - imaginary a.虚构的、幻想的
 - imagine v.想象、设想、猜测、猜想
@@ -34,6 +35,7 @@
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
 - implication n.蕴含、含意、牵涉、牵连、影响
 - implict a.含蓄的、内含的、不直接的、隐示的
+- implode v.内爆、突然崩溃
 - imply v.暗示、意味、隐含、说明、意味着
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
@@ -55,7 +57,7 @@
 - inclusive 包括的、包罗广泛的
 - income n.收入、收益、所得
 - inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
-- incorporate v.包含、合并、吸收、使混合、a.具体化了的
+- incorporate v.包含、合并、吸收、使并入、使混合、注册成立、a.具体化了的
 - incredible a.难以置信的、不可思议的
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
@@ -63,6 +65,8 @@
 - indeed ad.甚至、的确、确实、真正地、真的
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
+- indent v.缩进、n.订单、订购
+- indenture n.契约
 - independent a.独立的、自主的、有主见的
 - index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩
 - indicate v.表明、暗示、象征、指示、打行车转向信号
@@ -82,8 +86,11 @@
 - inference n.推论、推理、推断
 - inferior a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
+- infinite a.无限的、无穷的、极大的
 - inflate [ɪnˈfleɪt] v.使充气、膨胀、鼓吹、涨价
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
+- inflict v.使承受、遭受、给予(打击)
+- inflight a.飞行中的
 - influence 影响、支配力、支配、左右
 - inform v.知会、通知、使活跃、使充满、告发、检举
 - informal a.非正式的、不拘礼节的、日常的
@@ -120,13 +127,13 @@
 - institution n.机构、协会、制度、惯例
 - instruct v.通知、命令、指导、指示
 - instruction n.用法说明、操作指南、指示、命令、指令
-- instrument 器械、仪器、器具、乐器、文据、手段、为演奏谱曲、向...递交文书
+- instrument n.器械、仪器、器具、乐器、文据、手段、v.为演奏谱曲、向...递交文书
 - instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
 - insufficient [ˌɪnsəˈfɪʃnt] a.不足的、不充分的
 - insurance n.保险、保险单、保险费、保障措施、安全保证
 - insure v. 投保、承保
-- intake n.吸入、摄入、进气
+- intake n.吸入、摄入、进气 intake form 登记表
 - integral a.完整的、必须的、积分的、n.积分、整体
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
 - integrity n.完整、完整性、廉正、正直、诚实、保存、健全
@@ -144,7 +151,10 @@
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
+- intergradation :the act or process of intergrading or the state of being intergraded.
+- intergrade n.中间形式、过度阶段
 - interim [ˈɪntərɪm] a.临时的、过渡的、n.间歇、过渡期间
+- interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的
 - interject v.打断、插话
 - interlace v.使交错、使交织
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
@@ -189,3 +199,5 @@
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则
+- iterate v.迭代
+- iteration n.迭代

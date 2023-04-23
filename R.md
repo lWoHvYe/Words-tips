@@ -1,3 +1,4 @@
+- race n/v.赛跑、比赛、竞争、角逐、民族
 - racial a.种族的
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
@@ -6,6 +7,7 @@
 - rally v.召集、集合、n.集会
 - random a.随机的、无规则的、n.随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
+- range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的
 - rare a.罕见的、稀少的
@@ -13,15 +15,20 @@
 - ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
+- rattle v.使紧张、使恐惧、n.咔哒声
 - react v.反应、回应、起反应
 - reactor 反应器、反应堆、原子炉、核反应堆
+- ready a.准备好的、现成的、即时的、n.现钱
+- real a.真实的、现实的、实际的
 - realign 重新排列、对...进行调整、改变观点
-- realistic a.现实的、实际的、逼真的
+- realistic a.现实的、实际的、逼真的、明智的
 - reality [riˈæləti] n.事实、现实、实体、实在  virtual reality VR虚拟现实
+- realize/realise v.理解、领会、认识到、注意到、实现、产生、发生
 - realm 领域、范围、王国、部门、界
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
+- rebound v.反弹
 - recap 概括、扼要重述、简要回顾、翻新
 - recent a.最近的、近来的、新近的
 - receipt [rɪˈsiːt] n.收据、发票、收入、接收、收到、v.开收据
@@ -30,6 +37,8 @@
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe n.配方、食谱、处方、秘诀
 - recite v.背诵
+- reck v.顾虑
+- reckless a.鲁莽的、草率的、不计后果的
 - reckon v.估计、认为、估算、预计、指望、料想
 - recognize/recognise v.认出、认识、承认、认可
 - reconcile v.调和、调停、使和好、使和解
@@ -42,19 +51,23 @@
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
 - recruit v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
+- recur v.复发、重现
 - recursive 递归的、循环的
 - redeem v.兑换、偿还、赎回
+- redirect v.使改变方向、重定向
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
 - refer v.提到、针对、参考、提及、涉及
+- reference data n.参考数据、引用数据、基准数据
 - refinance v.再筹资金、再融资
 - refine v.精炼、提炼、改进、改善
+- reflect v.反射、反映
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain v.抑制、避免、克制、节制
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝
 - refuse v.拒绝、回绝、推却、n.垃圾、废弃物
-- regard 将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
+- regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候；regarding 关于、相关
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
 - region 地区、区域、行政区、管辖区、层、界、境
@@ -62,6 +75,7 @@
 - regress 倒退、回归、退化
 - regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
 - regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
+- regulate v.规定、约束、控制、管理、调节
 - regulation n.规则、管理、控制、规章、v.规定的、必须使用
 - regulatory 监管、校准器、调节器
 - rehab 康复、修复、修缮、恢复名誉、复职
@@ -80,13 +94,15 @@
 - reliance n.依赖、依靠、信赖、信任
 - relic n.遗物、遗迹、废墟
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
+- religion n.宗教
+- religious a.宗教的、虔诚的[qián chéng]
 - rely v.依靠、依赖、信赖
 - remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
 - remark n/v.评论、谈论
 - remarkable a.非凡的、显著的、杰出的
-- remedial 治疗的、医治的、补救的、挽回的
+- remedial/remediate a.治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
 - remedy n.救济、治疗、补偿、公差、v.纠正、改正、改进
 - remind vt.提醒、使想起、使记起
@@ -101,7 +117,7 @@
 - rental 租金、出租、租赁、招租
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
-- repeat v.重复、复述、背诵、n.重演的事物、重复的事件
+- repeat v.重复、复述、背诵、重述、n.重演的事物、重复的事件
 - Repeater n.转发器(又称中继器或放大器)
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
@@ -121,11 +137,13 @@
 - reside v.住、居住、居住在、定居于
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
+- resign v.辞职
 - resilience/resiliency [rɪˈzɪliəns] n.弹性、弹力、快速恢复的能力、还原能力
 - resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
 - resistance n.反对、抵制、抵抗力、阻力、电阻
 - resistant 抵抗的、顽固的、抵抗者、防染剂
 - resolve 决定、决心、解决、做出决定、表决、使分解、使解体
+- resonate v.产生共鸣
 - resort [rɪˈzɔːt] n.求助、凭借、诉诸、度假胜地、v.求助、凭借、诉诸  resort to 诉诸于...、以...方式
 - respect n.尊重、尊敬、方面、细节、问候、着眼点、关系、v.尊敬、尊重、重视、遵守
 - respective a.分别的、各自的
@@ -146,7 +164,7 @@
 - retain v.保持、保留、持有、聘请、雇佣
 - retarget 重定向、重构、把...作为新目标
 - retention 保持、维持、保留、阻滞、记忆、记忆力
-- retire 退休、撤退、后退
+- retire v.退休、撤退、后退
 - retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
 - retrieval n.检索、取回、挽回
 - retrieve v.检索、取回、挽回、恢复
@@ -170,9 +188,11 @@
 - rise n/v.上升、增加
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
+- rival n.竞争对手、v.与...相匹敌、比得上、a.竞争的、对立的
+- robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
-- romantic 浪漫的、多情的、风流的、空想的、虚构的
+- romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - room n.房间、空间、可能性、v.租房、合住
 - rotate 旋转、转动、轮换、轮值、交替、辐状的
 - rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
@@ -180,7 +200,10 @@
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
 - round/around the corner 在附近、即将发生
 - roundabout a.迂回的、拐弯抹角的、n.环形交叉口、环岛
+- route n.路径、路途、途径、渠道
+- router n.路由器
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
+- rubble n.瓦砾、碎石
 - ruin n/v.破坏、毁灭、糟蹋、破产
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run v.跑、运营、起作用、n.跑、行程
