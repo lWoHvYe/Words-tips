@@ -23,6 +23,7 @@
 - nested a.嵌套的
 - net n.网、网络、净收入、纯利、v.净得、净赚、用网捕获、a.净的、净得的、纯的、网住的、最后的、最终的  net profit 净利润
 - neuroscience 神经科学
+- neurotic [njʊəˈrɒtɪk] a.神经质的
 - neutral a.中立的、中性的、空档的、n.中立者、中和色
 - nevertheless ad.然而、不过、尽管如此
 - nightmare n.噩梦、梦魇

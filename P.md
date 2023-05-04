@@ -8,8 +8,8 @@
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
 - paradox n.悖论、矛盾的人或事物
-- paragraph [ˈpærəɡrɑːf] n.段落、节、v.将...分段
-- parallel a.平行的、同时发生的、并行的
+- paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
+- parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
 - pare v.削减、削皮、逐步减少
 - parse v.从语法上描述或分析
@@ -119,6 +119,7 @@
 - poem n.诗、韵文
 - poet n.诗人
 - poetry n.诗、诗歌、诗意
+- poke n/v.捅、戳、刺、挑(出)
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
@@ -134,14 +135,14 @@
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - population n.人口
 - pornographic a.淫秽的、色情的
-- port 港口、口岸、避风港、左舷、端口、移植
+- port 港口、口岸、避风港、端口、移植
 - portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
-- portion 部分、分享的部分、分担的责任、分配、把...分成若干份
+- portion [ˈpɔːʃn] n.部分、分享的部分、分担的责任、v.分配、把...分成若干份
 - portray v.描绘、描述、描写、刻画、扮演
 - pose v.造成、提出、陈述、摆姿势、假装、冒充、n.姿势、故作姿态  摆个pose
-- position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置
+- position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置  respectable position 体面的工作
 - positive a.积极的、肯定的、乐观的、确实的、确信的、正电的、阳性的、正数的、n.正数、正片、优势、优点
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
@@ -166,6 +167,7 @@
 - precede v.先于、优于、在...之上
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
+- predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
 - preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
@@ -202,6 +204,7 @@
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - primary a.主要的、最初的、初级的、基本的
+- prime a.主要的、首要的、优质的、典型的
 - primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
@@ -223,6 +226,7 @@
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- prod n/v.戳、催促、鼓动、提醒
 - profession n.职业、行业、同行、宣称、声明、表白
 - professional a.职业的、专业的、n.专业人士、专家
 - proficient [prəˈfɪʃnt] a.精通的、熟练的
@@ -251,7 +255,9 @@
 - properly 正确的、适当的、恰当的、完全、非常
 - property [ˈprɒpəti] n.财产、资产、所有物、性质、特性、属性
 - propagate 传播、宣传、繁殖、增值
-- proportion n.比率、比例、面积、相称、平衡、v.分配、使成比例
+- propel v.推进、推动
+- propellor n.螺旋桨
+- proportion [prəˈpɔːʃn] n.比率、比例、面积、相称、平衡、v.分配、使成比例
 - proposal n.提议、建议、求婚、投标
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
@@ -267,6 +273,7 @@
 - proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是
 - provided conj.假如、如果、在...条件下
+- province n.省份、范围、领域
 - provision n.规定、条款、提供、饮食供应、供应品
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
@@ -278,12 +285,13 @@
 - publicize v.宣称、推广、宣扬、传播
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punish v.处罚、惩罚、责怪、自责
-- purchase n/v.购买、采购
+- purchase [ˈpɜːtʃəs] n/v.购买、采购
 - pure a.纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除
 - purify v.使纯净、净化
 - purple n.紫色、a.紫色的、华丽的
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
+- purse [pɜːrs] n.钱包、资金、奖金
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶
-- puzzle [ˈpʌzl] n.困惑、难题、v.迷惑、使困惑
+- puzzle [ˈpʌzl] n.困惑、难题、谜语、v.迷惑、使困惑

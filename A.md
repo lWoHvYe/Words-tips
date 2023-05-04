@@ -11,8 +11,9 @@
 - abstract n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
-- academic 学术的、学业的、纯理论的
-- academy 专科学校、学会、学院、中等学校、私立学校
+- academe/academia n.学术界、学术
+- academic a.学术的、学业的、大学的、学院的、纯理论的、n.高校教师、高校科研人员
+- academy n.专科学校、学会、研究院、学院、中等学校、私立学校
 - accelerate [əkˈseləreɪt] v.加快、促进、加速
 - accept [əkˈsept] v.接受、承认、同意、认可、相信
 - acceptable a.可接受的、可容许的、差强人意的、认同的、认可的
@@ -25,7 +26,7 @@
 - acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
 - acclimate v.使习惯、使适应
 - accompany v.陪伴、陪同、伴随
-- accomplish v.完成、达到
+- accomplish v.完成、达到、实现
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
 - account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任
@@ -116,7 +117,7 @@
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
-- alleviate v.减轻、缓和、缓解
+- alleviate [əˈliːvieɪt] v.减轻、缓和、缓解
 - alliance n.结盟、联盟、同盟
 - allocate v.分配、分派、拨...(给)、划...(归)
 - allow [əˈlaʊ] v.允许、准许、容许、给予
@@ -143,8 +144,10 @@
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogy [əˈnælədʒi] 类比、比喻
-- analysis [əˈnæləsɪs] n.分析、分析结果
+- analyse/analyze [ˈænəlaɪz] v.分析
+- analysis [əˈnæləsɪs] n.分析、分析结果、分析报告
 - analyst [ˈænəlɪst] n.分析师、化验员
+- analytic(al) a.分析的、分解的
 - ancestry [ˈænsestri] n.祖先、祖宗
 - ancient 古代的、古老的、古代人
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
@@ -156,6 +159,7 @@
 - announce v.宣布、宣告、通知、声明
 - annual [ˈænjuəl] a.年度的、每年的
 - anonymous a.匿名的
+- anthropology [ˌænθrəˈpɒlədʒi] n.人类学
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
@@ -222,6 +226,7 @@
 - assumption n.假定、假设、承担、担任
 - assurance n.保证、担保、保险、确信、把握
 - assure v.向...保证、使...确信、保证、确保
+- astonish v.使惊讶、震惊
 - astray 迷路的、堕落、误入歧途的、迷路
 - astronomy n.天文学
 - asymmetric a.不对称的、不匀称的
@@ -239,9 +244,11 @@
 - attract v.吸引、诱惑、引人注意
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
-- augment 加强、增加、扩大、提高
-- authentication [ɔːˌθentɪˈkeɪʃn] 认证、鉴权、证明、鉴定、身份验证
-- authorization [ˌɔːθərəˈzeɪʃn] 批准、授权、批准书、授权书
+- augment [ɔːɡˈment] v.扩大、增加、提高、加强
+- authentic [ɔːˈθentɪk] a.真正的、真实的
+- authenticate v.证明...是真实的、证实
+- authentication [ɔːˌθentɪˈkeɪʃn] n.认证、鉴权、证明、鉴定、身份验证
+- authorization [ˌɔːθərəˈzeɪʃn] n.批准、授权、批准书、授权书
 - authorize [ˈɔːθəraɪz] v.授权、批准
 - authority [ɔːˈθɒrəti] n.权威、当权、当局、授权、批准
 - auto 汽车、汽车的
@@ -258,6 +265,9 @@
 - average a.平均的、平常的、普通的
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做
 - avert v.防止、避免、转移、避开
+- aviation n.航空
 - awake v.唤醒、醒来、唤起
+- award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、判给  an annual pay award 年度加薪
 - aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的
+- awkward [ˈɔːkwəd] a.令人尴尬的、笨拙[bèn zhuō]的、难处理的

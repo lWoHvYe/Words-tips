@@ -1,4 +1,5 @@
 - obey v.服从、听从、遵守
+- object n.物品、对象、目标、宾语、v.反对、不赞成
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
 - obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
 - obligor 债务人

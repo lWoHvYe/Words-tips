@@ -1,6 +1,7 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
+- dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - deadline n.截止时间、最后期限
 - deal 处理、协议、大量、许多、交易、待遇、发牌
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
@@ -27,6 +28,7 @@
 - defence/defense n.防御、保护
 - defend v.防御、保护、防卫
 - defendant n.被告、a.被告的、辩护的
+- defensive a.防御的、保护的、辩护的
 - defer 推迟、拖延、延期、服从、使推迟、使延期
 - deference 尊敬、尊重、遵从
 - define v.给...下定义、界定、明确、阐述
@@ -67,8 +69,10 @@
 - department n.(政府的)部、局、部门、(大学的)院系
 - departure n.离开、出发、起程、背离、违反、逾越   domestic/international departure/arrival 国内/国际-出发/到达
 - depend v.依赖、依靠、取决、指望
+- deploy v.部署、调度、调动
 - deport v.驱逐、驱逐出境、递解出境
 - deposit n.保证金、储蓄、存款、沉积物、v.安置、放置、寄存、寄放
+- depredation [ˌdeprəˈdeɪʃn] n.掠夺、劫掠、破坏
 - depress v.压下、压低、降低、减少、使沮丧、使消沉、使萧条、使不景气
 - depression n.抑郁、沮丧、萧条期、经济衰退、萎靡不振、低气压
 - deprive v.剥夺、使丧失、使不能享有
@@ -95,7 +99,8 @@
 - detach v.派遣、分离、拆开、摆脱
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
 - detect v.查明、发现、探测、侦查
-- determine v.确定、决定、下决心、准确算出、支配、影响
+- deter v.阻止、使不敢  deter sb from doing sth
+- determine v.确定、决定、下决心、准确算出、查明、支配、影响
 - devaluation n.(货币)贬值
 - devastate 毁灭、破坏、蹂躏、使荒废
 - develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
@@ -103,7 +108,7 @@
 - device n.装置、设备、方法、策略、手段
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - diagnose v.诊断、确诊
-- diagnostic a.诊断的、判断的、n.诊断程序、诊断提示
+- diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
 - diagram 图表、示意图、图解
 - dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
 - dialect 方言
@@ -166,7 +171,7 @@
 - disposition n.性格、性情、倾向、布置、排列、处置
 - dispute v.辩论、争论、纠纷
 - disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
-- dissolve v.溶解、解除(婚姻关系)、终止(商业协议)、解散、除去
+- dissolve [dɪˈzɒlv] v.溶解、解除(婚姻关系)、终止(商业协议)、解散、消除、除去
 - distinct a.不同的、明显的、清楚的、明白的、确切的
 - distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
@@ -208,9 +213,10 @@
 - drain v.排空、耗尽、n.消耗、耗竭
 - drama n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
-- drastic a.激烈的、猛烈的、极端的、严厉的
-- draw v.绘画、拖、拉、吸引、提取、抽出、n.抽奖、抽签、平局
+- drastic a.激烈的、猛烈的、极端的、严厉的、彻底的
+- draw v.绘画、拖、拉、吸引、提取、抽出、抽签、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税
+- dress [dres] n.连衣裙、礼服、v.穿衣、打扮
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill 训练、操练、演习、钻、钻头
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道

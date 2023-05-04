@@ -9,6 +9,8 @@
 - ideology n.思想、意识形态、空想、空论
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
+- ignorant [ˈɪɡnərənt] a.不了解的、不知道的、无知的、愚昧的
+- ignore v.忽略、忽视、不顾、驳回
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
@@ -24,17 +26,20 @@
 - imminent z.迫在眉睫的、即将发生的、临近的
 - immediate a.立即的、直接的、目前的、当前的、迫切的
 - immense a.广大的、巨大的、极大的
+- immerse v.沉浸在、深陷于
+- immersive a.沉浸式虚拟现实的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
 - impeccable a.完美的、无可挑剔的
 - impedance n.阻抗
+- impediment n.阻碍、障碍
 - imperative a.迫切的、急迫的、n.必要的事
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
 - implication n.蕴含、含意、牵涉、牵连、影响
-- implict a.含蓄的、内含的、不直接的、隐示的
+- implict [ɪmˈplɪsɪt] a.含蓄的、内含的、不直接的、隐示的
 - implode v.内爆、突然崩溃
 - imply v.暗示、意味、隐含、说明、意味着
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
@@ -104,6 +109,8 @@
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
 - initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
 - inject 注射、注入
+- injure v.损害、伤害
+- injury n.损伤、伤害
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
 - innocuous a.无恶意的、无害的
 - innovate v.引入(新事物、思想或方法)、改革、创新
@@ -124,9 +131,10 @@
 - instead ad.相反、代替、反而
 - instinct n.本能、天性、直觉
 - institute v.建立、制定、开始、着手、n.学院、协会、研究所、机构
-- institution n.机构、协会、制度、惯例
+- institution n.机构、协会、制度、习俗、惯例
 - instruct v.通知、命令、指导、指示
 - instruction n.用法说明、操作指南、指示、命令、指令
+- instructor n.教练、导师、讲师
 - instrument n.器械、仪器、器具、乐器、文据、手段、v.为演奏谱曲、向...递交文书
 - instrumentation 仪器、仪表、手段
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
@@ -151,13 +159,17 @@
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
+- interfere v.干涉、干预、介入、妨碍
+- interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
 - intergrade n.中间形式、过度阶段
-- interim [ˈɪntərɪm] a.临时的、过渡的、n.间歇、过渡期间
+- intergrity n.完整、完好
+- interim [ˈɪntərɪm] a.临时的、过渡的、暂时的、n.间歇、过渡期间
 - interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的
 - interject v.打断、插话
 - interlace v.使交错、使交织
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
+- intermittent a.间歇性的、断断续续的
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
@@ -170,6 +182,7 @@
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
 - interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
+- intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate 错综复杂的

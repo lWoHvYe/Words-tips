@@ -1,8 +1,10 @@
 - lable 标签
 - labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
+- laboratory [ləˈbɒrətri] n.实验室
 - lack n/v.缺乏、短缺
 - ladder n.梯子、阶梯、途径
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
+- lame a.蹩脚的、站不住脚的、无说服力的
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
 - landlady n.女房东、女店主
 - landlord n.房东、地主、店主
@@ -59,6 +61,7 @@
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地  过去式及过去分词：lit
 - lime n.石灰、酸橙、v.加石灰、撒石灰
+- linchpin n.关键(人物或事物)
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - linguistic a.语言的、语言学的
 - link v.联系、连接、n.链接、联系、关系、纽带、环节
@@ -72,7 +75,8 @@
 - literal a.文学的、照字面的、原义的、字面意义的、平实的、缺乏想象力的
 - literally ad.照字面地、真正地、确实地
 - literary a.文学的、文学上的、爱好文学的
-- literature n.文学
+- literate a.有读写能力的、有文化的
+- literature n.文学、文献、资料
 - load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
 - loan n.贷款、v.借出、贷与、出借
 - local a.地方的、当地的、局部的
@@ -88,7 +92,7 @@
 - loss n.丧失、损失、亏损 take a loss 亏损
 - lot pron.大量、许多、n.全体、全部、命运、v.分组、划分(+ out)
 - lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液
-- lottery n.抽奖
+- lottery n.抽奖、彩票
 - loud a.大声的、响亮的、喧闹的
 - loyal 忠诚的、忠实的、忠心的
 - lucrative a.获利多的、赚大钱的、合算的

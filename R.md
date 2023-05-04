@@ -1,5 +1,6 @@
-- race n/v.赛跑、比赛、竞争、角逐、民族
-- racial a.种族的
+- race n/v.赛跑、比赛、竞争、角逐、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
+- racial [ˈreɪʃl] a.种族的
+- radar n.雷达
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - raincheck 雨票、延期
@@ -7,11 +8,12 @@
 - rally v.召集、集合、n.集会
 - random a.随机的、无规则的、n.随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
-- range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及
+- range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的
 - rare a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
+- ratio [ˈreɪʃiəʊ] n.比率
 - ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
@@ -23,12 +25,13 @@
 - realign 重新排列、对...进行调整、改变观点
 - realistic a.现实的、实际的、逼真的、明智的
 - reality [riˈæləti] n.事实、现实、实体、实在  virtual reality VR虚拟现实
-- realize/realise v.理解、领会、认识到、注意到、实现、产生、发生
+- realize/realise [ˈriːəlaɪz] v.理解、领会、认识到、注意到、实现、产生、发生
 - realm 领域、范围、王国、部门、界
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - rebound v.反弹
+- recall v.回忆起、召回
 - recap 概括、扼要重述、简要回顾、翻新
 - recent a.最近的、近来的、新近的
 - receipt [rɪˈsiːt] n.收据、发票、收入、接收、收到、v.开收据
@@ -77,7 +80,7 @@
 - regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
 - regulate v.规定、约束、控制、管理、调节
 - regulation n.规则、管理、控制、规章、v.规定的、必须使用
-- regulatory 监管、校准器、调节器
+- regulatory a.监管的、调节的
 - rehab 康复、修复、修缮、恢复名誉、复职
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
 - rein n.缰绳、控制、主宰、v.控制、驾驭
@@ -94,6 +97,7 @@
 - reliance n.依赖、依靠、信赖、信任
 - relic n.遗物、遗迹、废墟
 - relief n.救济、解脱、宽慰、缓和、减轻、救援物资
+- relieve v.缓解、减轻
 - religion n.宗教
 - religious a.宗教的、虔诚的[qián chéng]
 - rely v.依靠、依赖、信赖
@@ -141,12 +145,16 @@
 - resilience/resiliency [rɪˈzɪliəns] n.弹性、弹力、快速恢复的能力、还原能力
 - resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
 - resistance n.反对、抵制、抵抗力、阻力、电阻
-- resistant 抵抗的、顽固的、抵抗者、防染剂
-- resolve 决定、决心、解决、做出决定、表决、使分解、使解体
+- resistant a.抵抗的、顽固的、n.抵抗者、防染剂 water resistant 防水的
+- resolute [ˈrezəluːt] a.坚决的、坚定的
+- resolution n.决议、决心、解决  resolution ratio 分辨率  resolution cell 分辨单元
+- resolve [rɪˈzɒlv] n.决定、决心、v.解决、做出决定、表决、使分解、使解体  resolve to do sth 决定做某事
 - resonate v.产生共鸣
 - resort [rɪˈzɔːt] n.求助、凭借、诉诸、度假胜地、v.求助、凭借、诉诸  resort to 诉诸于...、以...方式
-- respect n.尊重、尊敬、方面、细节、问候、着眼点、关系、v.尊敬、尊重、重视、遵守
-- respective a.分别的、各自的
+- respect n.尊重、尊敬、方面、细节、问候、着眼点、关系、v.尊敬、尊重、重视、遵守  in respect of 就...而言
+- respectable a.正派的、体面的、可敬的
+- respectful a.有礼貌的
+- respective a.分别的、各自的、单独的
 - respond v.回应、响应、作出反应
 - response n.回答、答复、反应、响应
 - responsible a.应负责的、有责任的、有责任心的、责任重大的
@@ -172,6 +180,7 @@
 - return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
 - reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
+- revelation n.启示
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)
 - reversal n.颠倒、彻底转变、反转、转换、交换
 - reverse v.颠倒、反转、扭转、逆转、a.反面的、相反的、背面的、n.相反的情况、背部、后部
@@ -183,6 +192,7 @@
 - revolution n.革命、变革、旋转、运行、公转
 - revolve v.旋转、环绕、转动、使循环、反复考虑
 - reward n.奖励、回报、报酬、v.奖励、奖赏、给予报酬
+- rewarding a.有益的、值得做的
 - rid v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - rigid a.僵硬的、严格的、顽固的、死板的
 - rise n/v.上升、增加
@@ -192,7 +202,9 @@
 - robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
+- role n.角色、作用、地位、职能
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
+- roof n.顶部、屋顶
 - room n.房间、空间、可能性、v.租房、合住
 - rotate 旋转、转动、轮换、轮值、交替、辐状的
 - rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地

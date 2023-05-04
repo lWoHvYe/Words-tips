@@ -4,9 +4,12 @@
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
+- ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
 - warden n.管理人、看守人、监护人、学院院长、协会会长
+- wardrobe [ˈwɔːdrəʊb] n.衣橱
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
+- wash [wɒʃ] n/v.洗、流动
 - watershed n.流域、分水岭、转折点
 - wave n.波动、波浪、v.挥手、招手
 - wealth 财产、财富、丰富、大量
@@ -23,11 +26,13 @@
 - whip n.鞭子、v.鞭打、鞭策、搅打(奶油、鸡蛋)
 - white n.白色、a.白色的、v.使变白
 - wholesale n.批发、a.批发的、ad.大量地
+- widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  wildcard 通配符
 - wilderness n.荒野
 - will modal.将、会、v.想要、希望、愿意、n.意志、意愿
 - wind n.风、气流
 - windfall [ˈwɪndfɔːl] n.意外之财
+- window n.窗、窗口
 - wing n.翼、翅膀、机翼、派系、派别
 - wipe n.擦去、消除、抹去、n.抹布、纸巾
 - wire n.金属丝、电线、导线、v.用导线给(设备)接通电源、将....连接到(设备)
@@ -40,6 +45,7 @@
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
 - wonder v.想知道、想弄明白、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
 - wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
+- wordy a.冗长的、啰嗦的
 - workaround n.应变方法、变通方法
 - workforce 劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习

@@ -16,6 +16,7 @@
 - vast a.巨大的、庞大的、大量的、非常的、n.浩瀚、广大无边的空间
 - vastly ad.很、非常
 - vault 墓穴、拱顶、地下室、金库、保险库、跳跃、腾跃
+- vaunt [vɔːnt] v.吹嘘、自负
 - vector n.矢量、向量
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
@@ -45,7 +46,7 @@
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
 - viral a.病毒的、病毒性的
-- virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的
+- virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实
 - virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
 - virtuous a.善良的、贞洁的、品行端正的、有效力的

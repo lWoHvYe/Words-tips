@@ -24,9 +24,10 @@
 - hear v.听见、听到、倾听
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
-- hedge 树篱、保护手段、拐弯抹角、包围、限制
+- hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
+- hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
 - heuristic a.启发式的
 - hierarchy 分层、层次、层次体系、等级制度、统治集团

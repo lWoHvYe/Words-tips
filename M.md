@@ -15,6 +15,7 @@
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
+- mammal n.哺乳动物
 - manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
 - mandarin [ˈmændərɪn] n.普通话
 - mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
@@ -26,7 +27,7 @@
 - manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
-- margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边
+- margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
 - marital a.婚姻的、夫妻的
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
@@ -73,6 +74,7 @@
 - merchant n.商人
 - mercy n.怜悯、仁慈、宽容
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
+- merge v.合并、融合、融入
 - merit n.优点、美德、价值、功绩、绩效、v.应得、值得
 - mess 混乱、困境、肮脏、食堂、弄脏、搞砸
 - metabolism n.新陈代谢
@@ -95,6 +97,7 @@
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
+- mindedness n.思想、心思
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minimal a.最小的、极小的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾

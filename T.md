@@ -14,6 +14,7 @@
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
 - taxonomy [tækˈsɒnəmi] n.分类学、分类系统
 - taxpayer n.纳税人
+- team n.团队
 - teapot n.茶壶
 - tear v.撕裂、扯破、拉伤、n.破洞、裂口、眼泪💧、泪水
 - technical  技术的、技术性
@@ -38,6 +39,7 @@
 - terminology n.术语、专有名词
 - terminus n.终点
 - ternary a.三元的
+- terrain n.地形、地势、地带
 - terrible a.糟糕的、可怕的
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
@@ -80,6 +82,7 @@
 - tight a.牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、n.紧身衣
 - tighten v.收紧
 - timeless a.永恒的、永久的
+- tin n.锡、罐、v.镀锡
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
@@ -103,7 +106,7 @@
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - traditional a.传统的、惯例的、因袭的、守旧的
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
-- trail v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
+- trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
 - train n.火车、列车、队列、行列、v.培训、训练
 - trait n.特点、特征、特性
@@ -131,11 +134,13 @@
 - trek n.徒步旅行、长途跋涉
 - tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向
+- trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
 - tribute n.礼物、贡品、颂词、体现、显现
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
 - Trie n.单词查找树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
 - trillion n.万亿、兆
+- trinal a.三元的、三重的
 - trip 旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
@@ -150,6 +155,7 @@
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是 
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
 - tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
-- twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
+- tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
+- twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
 - typical a.典型的、有代表性的

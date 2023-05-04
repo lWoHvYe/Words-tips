@@ -5,7 +5,7 @@
 - canny a.谨慎的、精明的、狡猾的
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
 - calcium [ˈkælsiəm] n.钙
-- calculate 计算、预测
+- calculate [ˈkælkjuleɪt] v.计算、预测
 - calculus n.微积分、结石
 - caulk v.填、堵、n.密封剂
 - call 呼叫、号召
@@ -49,6 +49,7 @@
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
 - caution n/v.警告、告诫、小心、慎重
 - cautious a.小心的、谨慎的
+- cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
@@ -97,6 +98,7 @@
 - chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
 - chronicle n.编年史、历史、v.按事件发生顺序记述、把...载入编年史
 - chunk 大块、厚块、组块
+- church [tʃɜːtʃ] n.教堂、教会
 - cinema n.电影、电影院
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
 - circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器
@@ -123,6 +125,7 @@
 - climate  n.气候、趋势、状况、倾向、形势
 - climb n/v.攀登、升值、增加、提高地位、晋升
 - clipboard 剪切板
+- clique [kliːk] n.小团体
 - close v.关闭、停业、倒闭、缩小、接近、n.结束、关闭、a.接近的、紧闭的、稠密的
 - closet n.壁橱、密室、a.私下的、隐蔽的、v.把...引进密室会谈
 - closure n.结束、停业、关闭、倒闭、闭合、闭包、v.使结束、使终止
@@ -147,6 +150,7 @@
 - collateral n.抵押品、a.附属的
 - collateralize v.以...作抵押
 - colleague 同事
+- collect v.收集、聚集、收藏
 - collective a.集体的、共有的、共同的、n.集体、集团
 - college n.大学
 - collide [kəˈlaɪd] v.碰撞、冲突、抵触
@@ -155,8 +159,10 @@
 - colon [ˈkəʊlən] n.冒号
 - colonial a.殖民的
 - colony n.殖民地
+- column [ˈkɒləm] n.栏、专栏、圆柱
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
+- come v.来到、到达、开始、发生、prep.到来
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
 - commence 开始、着手、发源、获得学位
 - commensurate a.相等的、相称的、相当的
@@ -183,18 +189,16 @@
 - compensation n.补偿、赔偿
 - compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
 - competent a.有能力的、能胜任的、称职的、过得去的
-- compliance n.顺从、遵从、服从、合规
-- compliant a.顺从的、遵从的、符合的、一致的
 - compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
 - compile v.编写、编辑、汇编、编译
 - complain v.抱怨、埋怨、投诉
 - complaint n.抱怨、埋怨
 - complement [ˈkɒmplɪment/ˈkɒmplɪmənt] v.补充、补足、n.补语、足数、足额
 - complementary a.互补的、补充的
-- complete [kəmˈpliːt] v.完成、结束、a.完全的、彻底的、完整的
+- complete [kəmˈpliːt] v.完成、结束、使完整、使完美、填写、a.完全的、彻底的、完整的、完成了的
 - complex 复杂的、难懂的、相关联的一组事物、不正常的精神状态、不正常的忧虑
-- compliance 顺从、遵从、服从、承诺、柔软度
-- compliant 顺从的、遵从的、符合的、一致的
+- compliance n.顺从、遵从、服从、合规、承诺、柔软度
+- compliant a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺
 - comply vi.顺从、服从、遵守、遵从、应允、同意
@@ -239,6 +243,7 @@
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
 - confine v.限制、限定、监禁、禁闭、n.限制、界限、范围、边界
+- conflict [ˈkɒnflɪkt/kənˈflɪkt] n/v.冲突、抵触
 - conform v.符合、遵守、相一致、相吻合
 - confuse v.困惑、迷惑
 - congest v.拥挤、使充血
@@ -249,7 +254,7 @@
 - consecutive a.连续的、连贯的、表示结果的
 - consensus [kənˈsensəs] n.一致的意见、共识
 - consent n/v.同意、准许、允许、许可
-- consequence n.推论、结果、后果、成果、重要性
+- consequence n.推论、结果、后果、成果、重要性  in consequence of sth 因为、作为...的结果
 - consequent a.随之发生的、必然的、合乎逻辑的
 - consequently ad.所以、因此、因而
 - conservative 保守的、守旧的、保守的人
@@ -272,17 +277,19 @@
 - constitutional a.宪法的、符合宪法的、本质的
 - constrain [kənˈstreɪn] vt.强迫、约束、限制
 - constraint n.强制、限制、限定、约束
-- construct v.构成、构建、修建、建造、n.结构、结构体、建筑物、观念、概念
+- construct v.构成、构建、修建、建造、n.结构、结构体、建筑物、观念、概念、构想
+- construction n.建造、建筑物、结构
 - consult v.咨询、请教、商量、查阅
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
 - consumption n.消耗、消耗量、消费、肺病
 - contact n/v.联系、联络、接触、触摸、a.有关系的  contact lens 隐形眼镜
-- container [kənˈteɪnə(r)] n.容器
+- contain v.包含、容纳、控制、抑制、防止...蔓延/恶化
+- container [kənˈteɪnə(r)] n.容器、集装箱
 - contemplate v.沉思、考虑、思量、注视、凝视
 - contempt n.轻蔑、轻视、鄙视
 - contend v.竞争、争夺、辩论、争辩、声称、主张、认为
-- content n.内容、目录、主题、n/v.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意
-- contention n.竞争、争论
+- content [ˈkɒntent , kənˈtent] n.内容、目录、主题、含量、容量、n.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意  be content to do sth 愿意做某事
+- contention n.竞争、争论、看法、观点
 - contest n.比赛、争论、v.争取赢得、争辩
 - context n.语境、上下文、背景
 - continent [ˈkɑːntɪnənt] n.大陆、陆地、洲
@@ -344,7 +351,7 @@
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、报道、给...上保险、n.封面、掩护、覆盖物、避难所
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
 - crack v.破裂、开裂、崩溃、瓦解、阻止、打击、n.裂纹、裂缝、爆裂声、噼啪声、重击
-- craft n.工艺、手艺、技巧、技能、船、飞行器、v.精心制作
+- craft n.工艺、手艺、技巧、技能、v.精心制作
 - crash n/v.崩溃、碰撞、倒闭、破产、暴跌、a.应急的、速成的
 - crave v.渴望、热望、恳求
 - crease n.折痕、褶痕、v.弄皱、压褶

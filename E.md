@@ -7,19 +7,20 @@
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
-- edge n.边、边缘、v.给...加边、略微增加/减少
-- edition 版本、版次、（报刊或杂志）一份、（广播电视节目）一期
+- edge n.边、边缘、锋利、v.给...加边、略微增加/减少 cutting-edge 前沿的、先进的
+- edit [ˈedɪt] v.编辑、校订
+- edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
 - efficient a.有效率的、效率高的、有能力的
 - efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
-- effort n.工作、努力、尝试、成就
+- effort [ˈefət] n.工作、努力、尝试、成就
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
 - electric a.电的、用电的、充满刺激的、n.供电
 - electronic 电子的、电子设备的
 - elegant 简明的、简洁的、优美的、文雅的
-- elevate v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
@@ -28,13 +29,17 @@
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
-- emerge v.出现、浮现
-- emergency 紧急情况、突发事件
+- emerge v.出现、浮现、暴露、显露、兴起、开始为人所知
+- emergency n.紧急情况、突发事件
 - emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical a.来自实验或经验的、经验主义的
+- employ v.雇用、使用
+- employee [ɪmˈplɔɪiː] n.雇员  -ee是被的一方
+- employer [ɪmˈplɔɪə(r)] n.雇主  -er是主的一方
+- employment n.雇用、工作、职业、就业
 - empower v.授权、准许
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
@@ -52,6 +57,7 @@
 - endure v.忍受、忍耐、持续、持久
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
+- engage v.从事、雇用、吸引住
 - engender v.产生、引起
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
@@ -72,6 +78,7 @@
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
 - entrant n.参加者、新成员
+- entrepreneur [ˌɒntrəprəˈnɜː(r)] n.企业家、创业者
 - entropy n.熵
 - entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
@@ -104,8 +111,10 @@
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
 - establish v.建立、设立、开办、确立
+- established a.已制定的、已确立的、著名的、公认的
 - establishment n.建立、确立、企业、机构、当权派
 - estate 财产、遗产、房地产、不动产
+- esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
 - estimate v.估计、估算、估价、n.估计、预测、报价
 - Ethernet n.以太网
 - ethic 伦理、伦理观、道德体系
@@ -124,6 +133,7 @@
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - examine v.检查、审查、考察、调查、考试、审问
+- excavate [ˈekskəveɪt] v.挖掘、开凿
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
 - excel v.优于、擅长、胜过
@@ -135,7 +145,7 @@
 - exchequer n.财政部、国库、金库
 - excite [ɪkˈsaɪt] v.激发、刺激、使兴奋、使激动
 - exclaim v.呼喊、惊叫、大声说出
-- exclude 排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
+- exclude v.排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive 独家、专用的、高级的、独有的、独占的、独家新闻
 - execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
@@ -143,11 +153,11 @@
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
 - exemplary a.模范的、典范的、惩戒性的
 - exempt v.免除、豁免
-- exercise 运动、锻炼、练习、习题、行使
+- exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
 - exfiltrate 渗出、渗漏、滤出、流出
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhaustive a.详尽的、彻底的、全面的
-- exhibit v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
+- exhibit [ɪɡˈzɪbɪt] v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exist [ɪɡˈzɪst] 存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去

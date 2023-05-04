@@ -10,6 +10,7 @@
 - satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
 - sauce n.酱汁、调味汁、无礼的话或举动
+- save v.保存、保留、节省、免去、储蓄、解救、拯救、prep.除了、除...外
 - scalable a.可扩展的
 - scalability n.可扩展性、可伸缩性、可量测性
 - scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
@@ -18,7 +19,7 @@
 - scan 扫描、浏览、细看、端详
 - scarce a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
-- scarcity n.稀缺、稀少、缺乏、不足、萧条
+- scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
 - scenario n.方案、设想、场景、脚本
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
@@ -74,7 +75,7 @@
 - serial a.连续的、连载的
 - serialize 连载、连播
 - series 系列、连续、接连、串联、级数、系列节目
-- serious a.严肃的、严重的、认真的、重要的、危险的
+- serious a.严肃的、认真的、重要的、严重的、危险的
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
@@ -99,12 +100,13 @@
 - shear v.剪、剪切
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
+- shelter n.避难所、v.保护、掩蔽
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
 - shine v.闪耀、发光、n.光泽、光亮
 - ship n.船
 - shirk [ʃɜːk] v.逃避、偷懒
-- shock n.震惊、休克、震动
+- shock n.震惊、电击、休克、震动、v.使震动、使休克、使震惊
 - shore n.岸、滨
 - short a.短的、短暂的、缺乏、缺少
 - shortage n.不足、缺少、短缺
@@ -114,6 +116,7 @@
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
 - sight n.景象、看见、视力、视野、v.看到、发现
+- signal n.信号、暗号、标志、信号灯🚥
 - significance n.意义、含义、重要性
 - significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
 - significantly 重要的、重大的、明显的、显著的
@@ -160,6 +163,7 @@
 - snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
 - snooze n/v.小睡
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
+- soar [sɔː(r)] v.猛增、升腾
 - sober a.冷静的、头脑清醒的、v.变得冷静
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
@@ -171,6 +175,8 @@
 - solid 固体、固态、立体图形、固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的
 - solidary n.团结
 - solo n.独奏、独唱、a.独奏的、单独的、独自的、ad.单独地、独自地
+- solution [səˈluːʃn] n.解决办法、溶解、溶液
+- solve [sɒlv] v.解决、处理、解答、破解
 - sombre/somber a.忧郁的、昏暗的、阴沉的
 - somehow ad.以某种方式
 - somewhat ad.有点、稍微、有几分
@@ -205,7 +211,7 @@
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
-- sporadic 零星的、偶尔发生的、阵发性的
+- sporadic [spəˈrædɪk] a.零星的、偶尔发生的、阵发性的
 - spot 点、斑点、污点、地点、认出、认清、发现
 - spouse [spaʊs] n.配偶
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
@@ -218,7 +224,7 @@
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
 - stab n/v.刺、戳
 - stable a.稳定的、牢固的、稳固的
-- stability 稳定性、稳定、稳固
+- stability n.稳定性、稳定、稳固
 - stadium [ˈsteɪdiəm] n.(露天)体育场、运动场
 - staff n.员工、v.在...工作、任职于
 - stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
@@ -238,10 +244,15 @@
 - stationary a.不动的、静止的、固定的
 - stationery [ˈsteɪʃənri] n.文具、信纸、信笺
 - statistic a.统计的、n.统计学、统计资料
+- status n.地位、身份、情形、状况
+- stead [sted] n.代替、用途、好处
+- steadfast a.坚定的、不动摇的
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - steroid n.类固醇
+- stereotype [ˈsteriətaɪp] n.刻板印象、陈规
+- steward [ˈstjuːəd] n.乘务员、管家
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
@@ -254,7 +265,7 @@
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
 - straight a.直的、连续的、直率的、n.直线
-- straightforward a.直截了当的、坦率的
+- straightforward a.直截了当的、坦率的、正直的、简单的、易懂的
 - strange a.奇怪的、陌生的、不熟悉的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
@@ -268,10 +279,11 @@
 - stripe n.条纹、线条
 - strive 努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
-- structrue 结构、构造、建筑物、体系、构成、安排、排列
+- structrue n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列
 - struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
 - stub n.存根、票根
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
+- stun [stʌn] v.使昏迷、打晕、使震惊
 - stupid 愚蠢的、迟钝的、笨蛋
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
@@ -310,12 +322,14 @@
 - summary 概括、总结、概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
+- super a.超级的、ad.特别、格外
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
 - supersede v.取代、替代
 - supervise v.监督、管理、指导
 - supervision n.监管
 - supervisor n.监督者、指导者、主管人
 - supervisory a.监督的、管理的、指导的
+- supreme [suːˈpriːm] a.最高的、至高无上的
 - supple 灵活的、柔软的、顺从的、使柔软、使顺从
 - supplemental 补充、增补、添加物、增刊、附录、额外费用、补足的、追加的
 - supplier 供应商、供货商、供应者、供货方
