@@ -22,6 +22,8 @@
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
 - deduce v.推论、推断、演绎
 - deduction n.演绎、推论、扣除(额)、减去(数)
+- deed n.行为、行动、契约、证书
+- deem v.认为、视为、相信
 - default 默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
 - defect 缺点、缺陷、瑕疵
@@ -55,6 +57,7 @@
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
 - democracy n.民主、民主制度
 - democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
+- demography n.人口统计
 - demolish [dɪˈmɒlɪʃ] v.拆除、毁坏、破坏、推翻、驳倒
 - demolition [ˌdeməˈlɪʃn] n.拆毁、拆除、摧毁
 - demon n.恶魔、魔鬼
@@ -83,6 +86,7 @@
 - derive v.得到、获得、源于、产生、提取、派生
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
+- desert n.沙漠、v.抛弃、遗弃
 - deserve v.应受、值得
 - design v.设计、构思、意图、n.设计、图样
 - designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
@@ -170,13 +174,16 @@
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
 - disposition n.性格、性情、倾向、布置、排列、处置
 - dispute v.辩论、争论、纠纷
-- disrupt 扰乱、打乱、中断、瓦解、击穿、使中断、混乱的、瓦解的、分裂的、中断的
+- disregard n/v.忽视、漠视、不顾
+- disrupt v.扰乱、打乱、中断、瓦解、击穿、使中断、a.混乱的、瓦解的、分裂的、中断的
+- disruptive a.破坏性的、颠覆性的
 - dissolve [dɪˈzɒlv] v.溶解、解除(婚姻关系)、终止(商业协议)、解散、消除、除去
+- distance n.距离、间距、v.疏远、拉开距离
 - distinct a.不同的、明显的、清楚的、明白的、确切的
 - distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
-- distract v.分散(思想)、转移(注意力)、使分心
-- distraction n.分散注意力、娱乐、消遣
+- distract v.分散(思想)、转移(注意力)、使分心、迷惑、扰乱
+- distraction n.分散注意力、娱乐、消遣  limit distraction 限制干扰
 - distribute v.分配、分布、分销、使散开、使分散
 - distribution n.分配、分布、经销、分销、配送
 - district n.地区、区域、区、行政区
@@ -186,7 +193,7 @@
 - diverse [daɪˈvɜːrs] a.多种多样的、不用的
 - diversity n.差异、不同、多样性、多样化
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
-- divide v.分、划分、除、分配、n.分歧、不同、差异 class divide 阶级差异
+- divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异 class divide 阶级差异
 - dividend n.红利、股息
 - division 分开、分隔、分配、除（法）
 - divisive a.分裂的、造成不合的、制造分裂的
@@ -222,6 +229,7 @@
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
+- drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
 - duly ad.适当地、适时地、按时地、恰当地

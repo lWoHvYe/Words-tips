@@ -1,7 +1,7 @@
 - vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
 - valentine 情人
-- valid 有效的    invalid 无效的
+- valid [ˈvælɪd] a.有效的    invalid 无效的
 - validate v.验证、证实、使生效、批准、确认
 - valley n.山谷、峡谷
 - valuate v.对...作评估、对...作评价
@@ -58,6 +58,7 @@
 - vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vitamin n.维生素
 - vocabulary n.词汇量、词汇表
+- voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volume [ˈvɒljuːm] n.体积、容积、容量
 - voluntary a.自愿的、志愿的、无偿的

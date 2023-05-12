@@ -16,7 +16,8 @@
 - latch n.门闩、锁
 - latent a.潜在的、潜伏的、隐藏的、休眠的
 - latency 延迟、潜伏、潜在因素
-- launch v.开始从事、上市、发行、n.发射、下水
+- launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
+- launder [ˈlɔːndə(r)] v.洗、洗(钱)
 - lawsuit n.诉讼、起诉
 - lay v.放置、a.世俗的、外行的、没有经验的
 - layer 层、层次
@@ -94,10 +95,14 @@
 - lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液
 - lottery n.抽奖、彩票
 - loud a.大声的、响亮的、喧闹的
+- lounge [laʊndʒ] n.休息室、起居室
+- low-key a.低调的
 - loyal 忠诚的、忠实的、忠心的
+- loyalty n.忠心、忠诚  loyalty card 积分卡
 - lucrative a.获利多的、赚大钱的、合算的
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
 - lunar a.月亮的、月球的 Lunar New Year 农历新年
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵
 - lux 勒克斯(照明单位)
 - luxury [ˈlʌkʃəri] n.奢侈、奢华、奢侈品、a.奢华的
+- loyal a.忠诚的

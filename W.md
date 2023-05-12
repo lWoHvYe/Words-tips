@@ -12,6 +12,7 @@
 - wash [wɒʃ] n/v.洗、流动
 - watershed n.流域、分水岭、转折点
 - wave n.波动、波浪、v.挥手、招手
+- weak a.虚弱的
 - wealth 财产、财富、丰富、大量
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave 编织、编排
@@ -33,17 +34,17 @@
 - wind n.风、气流
 - windfall [ˈwɪndfɔːl] n.意外之财
 - window n.窗、窗口
-- wing n.翼、翅膀、机翼、派系、派别
+- wing n.翼、翅膀、机翼、派系、派别、厢房
 - wipe n.擦去、消除、抹去、n.抹布、纸巾
 - wire n.金属丝、电线、导线、v.用导线给(设备)接通电源、将....连接到(设备)
 - wireframe n.线框图
-- wisdom n.智慧、才智、知识、学问
+- wisdom n.智慧、才智、知识、学问  conventional wisdom 普遍看法
 - wise a.聪明的、明智的、有智慧的、博学的、v.使知道、使懂得、教导
 - wist wit的过去式和过去分词 v.风趣、心智、才智
 - wistful a.渴望的、伤感的
 - wit n.机智、才智、智慧、头脑、v.知道 wist
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
-- wonder v.想知道、想弄明白、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
+- wonder [ˈwʌndə(r)] v.想知道、想弄明白、好奇、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
 - wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
 - wordy a.冗长的、啰嗦的
 - workaround n.应变方法、变通方法

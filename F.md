@@ -46,11 +46,14 @@
 - fend v.照顾、照料、防御、保护
 - ferry n.渡船、摆渡、v.渡运、摆渡
 - fertile a.肥沃的
+- fertilize v.施肥、使受精、使授粉、使受孕
+- fertilizer n.肥料  artificial fertilizer 人造肥料、化学肥料
 - festival n.节日、a.节日的
 - fetch 取来、拿来
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - fiber [faɪbə] n.光纤、纤维
-- fiction n.小说、编造、虚构
+- fictile a.陶土制的、n.陶制品
+- fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
 - field [fiːld] n.领域、场地、行业、字段、v.使参加竞选/比赛、处理、应付、a.野生的、野外的、实地的
 - figure n.数据、人物、身材、v.认为、认定、计算、描绘、象征  figure out 想出、理解、弄明白、计算出
 - file n.文件、档案、v.把(文件等)归档、提起(诉讼)、提出(申请)、送交(备案)、发送(报道给报社)
@@ -83,10 +86,11 @@
 - flock n.群、聚集、群集
 - flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
 - flourish 茂盛、繁荣、活跃、挥舞
-- flow 流、流动、持续生产、滔滔不绝、连贯、涨潮
+- flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感
 - fluent a.流利的、流畅的
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
+- fold v.折叠  eightfold 八倍、八重
 - folk n.人们、各位、大伙
 - footprint n.脚印、足迹、踪迹 memory footprint 内存占用
 - forbid v.禁止、阻止、阻碍、妨碍
@@ -98,7 +102,10 @@
 - forest n.森林、丛林
 - forever ad.永远、长久地、不断地、n.永恒、极长的一段时间
 - forex 外汇
+- forge [fɔːdʒ] v.锻造、伪造、形成、缔造、n.锻造车间、铁匠铺
 - forgery 伪造、伪造品、赝品、伪造罪
+- forget v.忘记、遗忘、忘记做、不再想
+- forgive v.原谅、饶恕、免除
 - form n.表格、形式、外形、v.形成、构成、组织、塑造
 - formal a.正式的、正规的
 - format n.总体安排、设计、版式、样式、v.安排版式、格式化
@@ -111,6 +118,7 @@
 - fort n.堡垒、要塞
 - forth ad.向前、离去
 - forthcoming a.即将到来的、即将发生的、现成
+- forthright a.直率的、直接的、直截了当的
 - fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
 - foster v.培养、促进、抚养、代养

@@ -2,10 +2,12 @@
 - sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
+- salve n.药膏、软膏
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
 - sanitization 消毒、卫生处理、净化、清除
 - satiate [seɪʃieɪt] v.满足
+- satire [ˈsætaɪə(r)] n.讽刺
 - satisfaction n.满意、满足、清偿、赔偿
 - satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
@@ -17,7 +19,7 @@
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
 - scam n.骗局
 - scan 扫描、浏览、细看、端详
-- scarce a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
+- scarce [skeəs] a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
@@ -30,6 +32,7 @@
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
 - scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
+- screen [skriːn] n.屏幕、v.掩藏、庇护、检查
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
@@ -55,6 +58,7 @@
 - segment n.部分、片、段、v.分割、划分
 - segregate v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
+- seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
 - semantic a.语义的、语义学的
@@ -62,6 +66,7 @@
 - semicolon [ˌsemiˈkəʊlən] n.分号
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
 - seminar n.研讨会、研讨课
+- senate n.参议院、元老院、上院
 - senior a.级别高的、资深的
 - sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
 - sense n.感觉、意识、观念、v.感觉到、意识到、理解、领会 make sense 讲得通、有意义
@@ -101,6 +106,7 @@
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - shelter n.避难所、v.保护、掩蔽
+- shelve v.搁置
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
 - shine v.闪耀、发光、n.光泽、光亮
@@ -116,6 +122,7 @@
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
 - sight n.景象、看见、视力、视野、v.看到、发现
+- sign [saɪn] v.签名、签署、n.迹象、征兆
 - signal n.信号、暗号、标志、信号灯🚥
 - significance n.意义、含义、重要性
 - significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
@@ -140,6 +147,8 @@
 - skirt n.短裙、挡板、v.绕开、回避
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slash n.斜线、斜杠、劈、砍、v.大幅削减、大大降低
+- slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
+- slavery n.奴隶制度、奴隶身份
 - sleuth 足迹、警犬、侦探
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
 - slide 滑落、下跌、滑行、贬值、衰落
@@ -150,8 +159,10 @@
 - slogan n.标语、口号
 - slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
 - sloppy a.马虎的、凌乱的、草率的、宽松的
-- slot n.狭槽、窄缝、时隙、v.投放、塞进
+- slot n.狭槽、窄缝、时隙、机会、v.投放、塞进
 - sluggish a.缓慢的、迟缓的
+- slum [slʌm] n.贫民窟、棚户区
+- slump n.骤降、锐减、衰退、萧条期、v.骤降、锐减
 - smash v.粉碎、打破、n.打碎、ad.轰然
 - smear v.弄脏、涂抹、污蔑、诋毁、摧毁、n.污迹、污渍、污点
 - smoothly 平稳地、顺利地、平静地、自信地
@@ -191,6 +202,8 @@
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - spatial a.空间的
+- speak v.交谈、说(某种语言)、说话、演说
+- speaker n.说话者、扬声器
 - special a.特殊的、特别的、专用的、n.特价商品
 - specialize/specialise v.专攻、专门从事、详细说明、列举
 - specialist n.专家、a.专业的、专家的
@@ -201,6 +214,8 @@
 - spectacle n.壮观的景象、壮观的场面、光景、景象
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
+- speech n.演讲、发言
+- sperm [spɜːm] n.精子、精液
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spin 纺纱、吐(丝)、作(茧)、快速旋转、急转身、兜风、旋转、导向性陈述
@@ -256,6 +271,7 @@
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
+- stimulation n.激励、兴奋
 - stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
 - stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素
 - stir v.搅拌、n.搅拌、震动
@@ -264,6 +280,7 @@
 - stockpile n.库存、储备、v.大量储备
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
+- stove [stəʊv] n.火炉、炉子
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的、正直的、简单的、易懂的
 - strange a.奇怪的、陌生的、不熟悉的
@@ -274,6 +291,8 @@
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
+- strike n/v.罢工、击、打、打击
+- striking a.引入注目的、惊人的、显著的
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
 - strip n.带、v.剥去、除去、剥夺、跳闸
 - stripe n.条纹、线条
@@ -285,10 +304,12 @@
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
 - stun [stʌn] v.使昏迷、打晕、使震惊
 - stupid 愚蠢的、迟钝的、笨蛋
+- subconscious a.下意识的、潜意识的
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从、建议、看法、意见
+- submit v.提交、顺从、服从
 - substance n.物质、实质、主旨、要点、基本内容
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
 - subscript n.下标
@@ -316,6 +337,7 @@
 - sufficent a.足够的、充足的、充分的、n.足量、充足
 - suffix n.后缀
 - suggest v.建议、暗示、表明、启示
+- suicide [ˈsuːɪsaɪd] n/v.自杀
 - suit v.适合、合意、合身、相称、n.西装、套装、诉讼
 - suitability n.适合、适宜
 - suitable a.合适、适合

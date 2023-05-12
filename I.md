@@ -9,6 +9,7 @@
 - ideology n.思想、意识形态、空想、空论
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
+- if conj.如果、假设、是否
 - ignorant [ˈɪɡnərənt] a.不了解的、不知道的、无知的、愚昧的
 - ignore v.忽略、忽视、不顾、驳回
 - illegal a.不合法的、非法的、违法的
@@ -76,6 +77,7 @@
 - index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
+- indifference n.冷漠、中立
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
 - induction 就职、催生、电磁感应
@@ -87,6 +89,7 @@
 - inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
 - inherent a.固有的、内在的
 - inherit v.继承、接替、继任
+- infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
 - infer v.推论、推理、推断、暗示、意指
 - inference n.推论、推理、推断
 - inferior a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
@@ -113,8 +116,8 @@
 - injury n.损伤、伤害
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
 - innocuous a.无恶意的、无害的
-- innovate v.引入(新事物、思想或方法)、改革、创新
-- innovation 创新、革新
+- innovate [ˈɪnəveɪt] v.引入(新事物、思想或方法)、改革、创新
+- innovation n.创新、革新
 - inquire v.询问、打听
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
 - insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
@@ -159,6 +162,7 @@
 - interact 相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
+- interest n.兴趣、爱好、利息
 - interfere v.干涉、干预、介入、妨碍
 - interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
@@ -179,13 +183,13 @@
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - interrupt v.打断、中断、阻止
 - intersect v.横断、横切、相交、交叉
-- interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注
+- interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
 - interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
 - intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
-- intricate 错综复杂的
+- intricate a.错综复杂的、难理解的
 - introduce v.介绍、引进、提出、采用、作为...的开头
 - introduction n.介绍、引进、推行、引言、序言、导论
 - introductory a.引导的、介绍的、入门的、初步的
@@ -209,6 +213,7 @@
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
+- iron n.铁、熨斗、v.熨、烫平
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则

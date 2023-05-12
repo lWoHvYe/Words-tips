@@ -9,7 +9,7 @@
 - ecosystem 生态系统
 - edge n.边、边缘、锋利、v.给...加边、略微增加/减少 cutting-edge 前沿的、先进的
 - edit [ˈedɪt] v.编辑、校订
-- edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期
+- edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期  paperback edition 平装版  hardback edition 精装版
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
 - efficient a.有效率的、效率高的、有能力的
 - efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
@@ -17,9 +17,10 @@
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
+- elder [ˈeldə(r)] n.长者、元老、长老、a.年龄较大的、资格较老的
 - electric a.电的、用电的、充满刺激的、n.供电
 - electronic 电子的、电子设备的
-- elegant 简明的、简洁的、优美的、文雅的
+- elegant a.简明的、简洁的、优美的、文雅的
 - elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
@@ -33,6 +34,8 @@
 - emergency n.紧急情况、突发事件
 - emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
+- emission n.发出、排放
+- emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical a.来自实验或经验的、经验主义的
@@ -57,7 +60,7 @@
 - endure v.忍受、忍耐、持续、持久
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
-- engage v.从事、雇用、吸引住
+- engage v.从事、雇用、吸引住、接触
 - engender v.产生、引起
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
@@ -65,6 +68,7 @@
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - enormous a.巨大的、庞大的、极大的
+- enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
 - enroll v.登记、注册、招收、加入
 - ensure v.确保、担保、保证
@@ -195,7 +199,8 @@
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
 - extra a.额外的、附加的、ad.额外、另外
-- extract [ˈekstrækt , ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物
+- extract [ˈekstrækt/ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物、摘录
+- extraction n.取出、提炼、血统、家世
 - extraordinary a.特别的、非凡的、意想不到的
 - extravagant a.奢侈的、过度的、过分的、放肆的
 - extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的

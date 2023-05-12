@@ -1,3 +1,4 @@
+- tablet [ˈtæblət] n.药片、平板电脑
 - tack n.方法、方针、思路、v.钉住、附加、增补
 - tackle v.解决、应付、处理、与某人交涉
 - tactic n.策略、手段、战术、a.排列的、顺序的
@@ -7,6 +8,7 @@
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
+- talk n/v.说话、谈话  talk of 谈论、谈及
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
 - tap v.轻敲、轻叩、开发、利用、汲取、n.水龙头
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
@@ -17,10 +19,12 @@
 - team n.团队
 - teapot n.茶壶
 - tear v.撕裂、扯破、拉伤、n.破洞、裂口、眼泪💧、泪水
+- tech [tek] n.技术
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
 - teenage a.十几岁的、青少年的
 - telemetry n.遥测、遥感勘测
+- teleology n.目的论
 - telescope n.望远镜
 - temporal a.世俗的、现世的
 - temporary 短暂的、暂时的、临时工
@@ -63,7 +67,7 @@
 - thorough a.彻底的、完全的、充分的
 - thrash v.抽打、抖动
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
-- threat n.威胁、恐吓、构成威胁的人或事物
+- threat [θret] n.威胁、恐吓、构成威胁的人或事物
 - threaten v.威胁、恐吓、危及、有...危险、对...构成威胁
 - threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
 - thrift n.节约、节俭
@@ -76,7 +80,7 @@
 - tick v.打上钩、n.记号、对号、信用、滴答声
 - tickle v.挠痒、愉快、逗乐、使高兴、使满足
 - tickler 棘手的问题
-- tide n.潮汐、潮流
+- tide n.潮汐、潮流、趋势
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier n.层、级、阶层、等级、v.层层排列、层叠
 - tight a.牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、n.紧身衣
@@ -86,7 +90,7 @@
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
-- toggle v.转换、切换
+- toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
 - tolerate 容许、允许、容忍
 - toll n.伤亡人数、通行费、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税
@@ -99,12 +103,16 @@
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
 - tough a.艰苦的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
+- tour [tʊə(r)] n/v.旅行、游览、观光
+- tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
 - tout v.标榜、吹捧、吹嘘
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
 - trace v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
+- tract n.大片土地、(连通身体组织或器官的)道/束、短文
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - traditional a.传统的、惯例的、因袭的、守旧的
+- tragedy n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
@@ -131,6 +139,7 @@
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重
 - treasury n.财政部
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
+- treatment n.治疗、诊治  medical treatment 医疗
 - trek n.徒步旅行、长途跋涉
 - tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向

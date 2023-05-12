@@ -18,15 +18,23 @@
 - harvest 收割、收获
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
+- head n.头、头脑、领导、主管
 - headline n.大字标题、新闻摘要
 - headquarters n.总部
 - heads-up 提醒、警告
-- hear v.听见、听到、倾听
+- heal [hiːl] v.治愈、康复
+- health n.健康、医疗
+- healthcare n.医疗、医疗保健
+- hear [hɪə(r)] v.听见、听到、倾听
+- heart [hɑːrt] n.心、心脏、核心、中心
+- heat [hiːt] n.热、高温、激烈、v.加热
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
+- heroic [həˈrəʊɪk] a.英雄的、n.史诗
+- heroin [ˈherəʊɪn] n.海洛因
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
 - heuristic a.启发式的
@@ -49,9 +57,12 @@
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
 - host n/v.主持、主办  host of 许多、大量的
+- hub n.中心
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
+- hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
+- hydrogen [ˈhaɪdrədʒən] n.氢、氢气
 - hype v.炒作、n.促销广告
 - hypocritical [ˌhɪpəˈkrɪtɪkl] a.伪善的、虚伪的
 - hypothesis [haɪˈpɒθəsɪs] n.假定、假设、假象、假说

@@ -36,6 +36,7 @@
 - uplift v.鼓励、激励、振作、上升、升起、n.隆起、提高、振奋、鼓舞
 - upend v.倒立、倒放、颠倒 be upended by ... 反生了颠覆性的变化
 - upgrade n/v.改善、升级、提升
+- upheaval [ʌpˈhiːvl] n.剧变、动荡、动乱、激变
 - upon 在...上面、当...时候
 - upset v.打翻、扰乱、使...心烦意乱、n.混乱、困扰、麻烦、a.难过、沮丧、不高兴
 - upside n.好处、好的一面、上边、提高、上涨   反义:downside

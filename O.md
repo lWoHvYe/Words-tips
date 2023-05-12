@@ -1,3 +1,4 @@
+- obesity [əʊˈbiːsɪti] n.肥胖
 - obey v.服从、听从、遵守
 - object n.物品、对象、目标、宾语、v.反对、不赞成
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
@@ -13,6 +14,7 @@
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - ocean n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
+- odds [ɒdz] n.可能性、概率、几率
 - off v.离开、关闭、去掉
 - offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
@@ -39,11 +41,12 @@
 - optimal a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
-- optimize v.优化、使最优化、充分利用
+- optimize [ˈɒptɪmaɪz] v.优化、使最优化、充分利用
 - optimum a.最佳的、最适宜的 复数: optima
 - option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权、
 - optional 可选的、随意的、任意的、选修的、选修科目
 - opus n.作品、作曲 复数：opera
+- oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
 - order n.顺序、次序、订单、命令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
@@ -52,7 +55,8 @@
 - orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
 - originate v.起源、发源、创立、创建、发明
-- orphan n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
+- ornate a.华丽的、豪华的
+- orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
 - orthogonal a.正交的、直角的、垂直的、矩形的
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
@@ -76,6 +80,7 @@
 - overload v.使过载、使超载运行、使超负荷、n.过多、过量、超负荷
 - oversee v.监督、监视、俯瞰
 - oversight n.疏忽、失察、负责、照管
+- overtime n.加班
 - overturn v.颠覆、使垮台、推翻、撤销(判决)
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的

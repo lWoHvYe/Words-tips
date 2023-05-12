@@ -20,6 +20,7 @@
 - mandarin [ˈmændərɪn] n.普通话
 - mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
 - mandatory 强制的、法定的、义务的、受托者
+- mane [meɪn] n.鬃毛
 - mania n.狂热
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
@@ -27,6 +28,7 @@
 - manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
+- map n.地图、v.绘制
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
 - marital a.婚姻的、夫妻的
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
@@ -47,7 +49,7 @@
 - maven 专家、内行
 - may aux./modal 可能、也许、但愿、n.May 五月、山楂花
 - meadow n.草地、牧场
-- meal n.餐、v.进餐
+- meal [miːl] n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
 - means n.手段、方法、方式、途径、mean第三人称单数和复数
 - meanwhile ad.其间、与此同时
@@ -57,6 +59,7 @@
 - mechanism n.机制、机能、机理、结构、构造、机械装置
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
+- medicine [ˈmedsn] n.医学、药物
 - meditative a.沉思的
 - medium a.中等的、n.媒介、手段、工具、方法、介质
 - meet v.满足、遇见、相遇、会面、会晤
@@ -68,7 +71,7 @@
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
 - mental a.思想的、内心的、心理的、智慧的、n.精神病
-- mention v.提到、提及、说起
+- mention n/v.提到、提及、说起
 - mentor 导师、顾问、指导
 - merchandise v.销售、买卖、n.商品、货物
 - merchant n.商人
@@ -76,14 +79,18 @@
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
 - merge v.合并、融合、融入
 - merit n.优点、美德、价值、功绩、绩效、v.应得、值得
-- mess 混乱、困境、肮脏、食堂、弄脏、搞砸
+- mess n.混乱、困境、肮脏、v.弄脏、搞砸  mess up 弄乱、把...搞糟
+- message n.信息、要旨、要点
+- meta [ˈmɛtə] 元
 - metabolism n.新陈代谢
 - metadata 元数据
 - metal n.金属、v.用金属做、a.金属制的
 - metaphor [ˈmetəfə(r)] n.隐喻、暗喻、象征
+- metaphysics [ˌmetəˈfɪzɪks] n.形而上学、玄学
 - mete v.分配、给予
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
 - metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
+- microphone [ˈmaɪkrəfəʊn] n.话筒
 - middleware n.中间件
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
 - might modal-v.may的过去式、可能、也许、可以、n.力量、权势、可能性
@@ -101,7 +108,7 @@
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minimal a.最小的、极小的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
-- minor a.较小的、少数的、轻微的、次要的
+- minor a.较小的、少数的、轻微的、次要的、v.辅修、n.辅修课程
 - minus n.减、减号、负号
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
@@ -110,7 +117,7 @@
 - mist n.薄雾、水汽、液体喷雾
 - misuse [ˌmɪsˈjuːs]/[ˌmɪsˈjuːz] n/v.滥用、误用
 - mitigant a.缓和的、减轻的、n.缓解措施
-- mitigate v.使缓和、使减轻、使平息、减轻、缓和
+- mitigate [ˈmɪtɪɡeɪt] v.使缓和、使减轻、使平息、减轻、缓和
 - mitochondrion [ˌmaɪtəʊˈkɒndriən] n.线粒体 复数: mitochondria
 - mitre 主教法冠、斜接
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
@@ -144,13 +151,15 @@
 - monotonic a.单调的、无变化的
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
-- mortgage 抵押贷款、按揭贷款、按揭、抵押（房产）
+- morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
+- mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、运动的
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - movement n.运动、转动、迁移
+- movie n.电影
 - mud [mʌd] 泥、泥浆
 - muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
 - muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的

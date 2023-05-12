@@ -1,17 +1,21 @@
 - pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏  at ... pace 以...速度
+- pacify v.安抚、平息、使平静
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
+- panorama [ˌpænəˈrɑːmə] n.全景、全景画
 - paper n.纸张、资料、文件、文献、论文、报纸、试卷
 - parachute n.降落伞、保护伞、v.空降、空投
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
+- paradise n.天堂、乐园
 - paradox n.悖论、矛盾的人或事物
 - paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
 - pare v.削减、削皮、逐步减少
+- parenthood n.家长身份
 - parse v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - participant n.参加者、参与者
@@ -61,6 +65,7 @@
 - permeate v.散布、传播、弥漫、渗透、渗入
 - permutation 序列、排列、组合、置换
 - perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、持续的、不断的、四季开花的
+- perplex v.迷惑、困惑
 - persecute v.迫害、残害、骚扰、打扰
 - persist v.坚持、保持、维持、持续存在
 - persistent a.持续的、持久的、坚持不懈的、坚持不渝
@@ -76,6 +81,8 @@
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - pessimistic [ˌpesɪˈmɪstɪk] a.悲观的
 - phantom n.幻影、幻像、幽灵、幻觉
+- pharmaceutical [ˌfɑːməˈsuːtɪkl] a.制药的、药物的
+- pharmacy [ˈfɑːməsi] n.药房
 - phase [feɪz] n.阶段、时期、v.分阶段做、逐步做
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
@@ -125,6 +132,7 @@
 - policy  政策、策略
 - political a.政治的、政府的、政权的
 - politician n.政治家、政客
+- pollen n.花粉
 - pollute v.污染、弄脏
 - polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
@@ -170,6 +178,8 @@
 - predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
+- predominance n.优势、主导地位
+- predominant [prɪˈdɒmɪnənt] a.主要的、占优势的、占主导地位的
 - preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
 - preference n.偏爱、爱好
@@ -237,6 +247,7 @@
 - progressive a.进步的、逐步的、n.进步人士、改革派
 - prohibit 禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
+- projection n.预测、规划、估计、投影
 - prominent a.重要的、著名的、杰出的、突出的
 - promise n/v.允许、许诺、承诺、保证、指望、有指望
 - promising a.有希望的、有前途的
@@ -294,4 +305,5 @@
 - purse [pɜːrs] n.钱包、资金、奖金
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶
+- puss n.咪咪、猫咪
 - puzzle [ˈpʌzl] n.困惑、难题、谜语、v.迷惑、使困惑

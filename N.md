@@ -7,6 +7,7 @@
 - nation n.国家、民族、国民
 - nature n.自然、天性、本性
 - naviagte 驾驶、航行于、导航、航行、找到正确方法
+- navy [ˈneɪvi] n.海军
 - neat [niːt] a.整洁的、整齐的、灵巧的
 - necessary a.必要的、必然的、强制的、不可避免的
 - necessitate v.使...成为必要、需要
@@ -29,11 +30,13 @@
 - nightmare n.噩梦、梦魇
 - nimble a.灵活的、敏捷的
 - nimbus n.雨云、光环
+- nitrogen [ˈnaɪtrədʒən] n.氮、氮气
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
 - nominate v.提名、推荐、任命、指派、指定
 - nonetheless [ˌnʌnðəˈles] ad.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
+- noop 无操作、空操作
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、n.标准、正常、常态、法线
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
@@ -45,7 +48,7 @@
 - notion n.观念、概念、理念、理解
 - notorious a.臭名昭著的、声名狼藉的、众所周知的
 - nourish [ˈnʌrɪʃ] v.抚养、滋养、养育、培养、助长(情绪、观点等)
-- novel n.(长篇)小说、新法、附律、a.新颖的、与众不同的、珍奇的、异常的
+- novel n.(长篇)小说、新法、附律、a.新奇的、新颖的、与众不同的、珍奇的、异常的
 - novelist n.小说家
 - noxious a.有毒的、有害的
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国

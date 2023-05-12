@@ -4,11 +4,11 @@
 - abnormal a.不正常的、反常的、变态的、畸形的
 - abort n/v.中止、退出、夭折
 - abroad n.国外、海外、ad.到国外、在国外
-- abrupt a.陡峭的、突然的
+- abrupt a.陡峭的、突然的、生硬的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
 - abstain 弃权、戒除、离开、回避
-- abstract n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
+- abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academe/academia n.学术界、学术
@@ -25,6 +25,7 @@
 - accident n.事故、意外、偶然、附属品
 - acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
 - acclimate v.使习惯、使适应
+- accomodate v.容纳、使...适应
 - accompany v.陪伴、陪同、伴随
 - accomplish v.完成、达到、实现
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
@@ -61,6 +62,10 @@
 - adhocracy n.临时委员会、特别委员会
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
+- administer v.管理、治理、施用
+- administrate v.管理、支配
+- administration n.管理、行政部门、(美国)政府
+- administrator n.管理人员、行政人员
 - admire v.倾佩、欣赏、赞赏、仰慕
 - admission n.承认、准许进入、加入权、进入权、招生
 - admit v.承认、允许、确认、许可进入
@@ -79,7 +84,9 @@
 - advisor n.顾问、咨询
 - advisory a.顾问的、咨询的
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
+- aerial a.航空的、空中的、地表以上的、n.天线  aerial photograph 航拍
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
+- aesthetic/esthetic [esˈθetɪk] n.美学、美感、审美观、a.美学的、艺术的、审美的
 - affair 公共事务、事件、事情、私人业务、私事、不寻常之物
 - affect v.影响、侵袭、感动、n.情感、偏差
 - affection n.感情、喜爱、爱情、钟爱
@@ -98,6 +105,7 @@
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
 - aggregate a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
+- aggress v.攻击、侵略
 - aggression n.侵略
 - aggressor n.侵略者
 - agnostic 不可知论者、不可知论的
@@ -105,8 +113,10 @@
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
+- alarm n.警报、闹钟
 - albeit conj.虽然、即使
 - album n.相册
+- alert a.机警的、警觉的、v.使...警觉、使意识到、n.警戒、警惕、警报
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
 - alien [ˈeɪliən] n.外星人、外国人、a.外国的、相异的、异己的、不相容的
@@ -132,8 +142,10 @@
 - alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
 - alternative a.替代的、另类的、备选的、其他的、 n.可供选择的事物
 - altitude n.海拔
+- amateur [ˈæmətə(r)] a.业余的、n.业余爱好者、外行、生手
 - amber 琥珀、琥珀色
 - ambiguity [ˌæmbɪˈɡjuːəti] n.含糊、模棱两可、歧义
+- ambiguous [æmˈbɪɡjuəs] a.模棱两可的、含糊不清的、不明确的
 - ambition n.雄心、抱负、夙愿
 - ambitious [æmˈbɪʃəs] a.有雄心的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
@@ -149,7 +161,7 @@
 - analyst [ˈænəlɪst] n.分析师、化验员
 - analytic(al) a.分析的、分解的
 - ancestry [ˈænsestri] n.祖先、祖宗
-- ancient 古代的、古老的、古代人
+- ancient [ˈeɪnʃənt] a.古代的、古老的、n.古代人
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
 - anecdotal a.逸事的、趣闻的、传闻的
 - anecdote n.轶事、奇闻、逸事
@@ -220,8 +232,10 @@
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
 - assist v.帮助、援助
+- assistance n.帮助、援助、支持
 - assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
 - associate [əˈsoʊsieɪt]/[əˈsoʊsiət] v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
+- association n.协会、社团、联盟
 - assume [əˈsjuːm] v.假定、假设、承担、担任、呈现
 - assumption n.假定、假设、承担、担任
 - assurance n.保证、担保、保险、确信、把握
@@ -237,11 +251,17 @@
 - atmosphere n.气氛、基调、空气、大气层
 - atoll n.环礁
 - atom [ˈætəm] n.原子
+- attach v.附上、贴上
+- attack [əˈtæk] n/v.攻击、袭击、侵袭
+- attempt n/v.努力、尝试、企图
+- attend v.出席、参加、注意、专心
+- attendant n.服务员、侍者、a.伴随的、随之而来的
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest v.作证、证明、证实、表明
 - attestation n.证明、证据、证词
 - attorney n.律师、代理人
 - attract v.吸引、诱惑、引人注意
+- attractiveness n.吸引力
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
 - augment [ɔːɡˈment] v.扩大、增加、提高、加强
@@ -266,8 +286,10 @@
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做
 - avert v.防止、避免、转移、避开
 - aviation n.航空
+- aviator n.飞行员
 - awake v.唤醒、醒来、唤起
 - award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、判给  an annual pay award 年度加薪
-- aware 意识到的、知道的、察觉的、发觉、发现、对...有兴趣的
+- aware a.意识到的、知道的、察觉的
+- awareness n.察觉、意识、认知
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的
 - awkward [ˈɔːkwəd] a.令人尴尬的、笨拙[bèn zhuō]的、难处理的
