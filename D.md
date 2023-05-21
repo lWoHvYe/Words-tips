@@ -3,7 +3,8 @@
 - damage n/v.破坏、损害
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - deadline n.截止时间、最后期限
-- deal 处理、协议、大量、许多、交易、待遇、发牌
+- deal n/v.处理、协议、大量、许多、待遇、交易、发牌
+- dean n.教长、学院院长、系主任
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt [det] n.债务、借款、欠款、罪、过失
 - decade 十年、十年期
@@ -92,6 +93,7 @@
 - designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
 - desirable a.向往的、可取的、令人满意的
 - desire n/v.渴望、希望、欲望、愿望
+- desist [dɪˈzɪst] v.停止、结束
 - despair n/v.绝望、失望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的
 - despite prep.即使、尽管
@@ -111,6 +113,7 @@
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device n.装置、设备、方法、策略、手段
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
+- devote v.致力于、奉献、投入
 - diagnose v.诊断、确诊
 - diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
 - diagram 图表、示意图、图解
@@ -211,10 +214,11 @@
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
 - double a.双的、两倍的、v.加倍
-- doubt [daʊt] 怀疑、疑虑、未确定
+- doubt [daʊt] n/v.怀疑、疑虑、未确定
 - downside n.缺点、弊端、不利方面  反义:upside
 - downstream 下游的、引发的、顺流而下
 - downturn n.经济低迷、衰退、衰退期
+- dozen n.十几个
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
 - drag [dræɡ] v.拖拽、拖累、拖延
 - drain v.排空、耗尽、n.消耗、耗竭

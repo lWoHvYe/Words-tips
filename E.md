@@ -14,6 +14,7 @@
 - efficient a.有效率的、效率高的、有能力的
 - efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
 - effort [ˈefət] n.工作、努力、尝试、成就
+- egalitarian [iˌɡælɪˈteəriən] n.平等主义者、平等主义
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
@@ -60,13 +61,14 @@
 - endure v.忍受、忍耐、持续、持久
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
-- engage v.从事、雇用、吸引住、接触
-- engender v.产生、引起
-- enhance v.增强、提高、增加
-- enhancement  n.增强、提高、增加、改善
-- engage v.从事、聘用、使加入、吸引、与...建立密切关系、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
+- engage v.从事、聘用、使加入、吸引、与...建立密切关系、接触、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
+- engender v.产生、引起
+- engine n.引擎、发动机
+- enhance v.增强、提高、增加
+- enhancement  n.增强、提高、增加、改善
+- enjoy v.享受、享有
 - enormous a.巨大的、庞大的、极大的
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
@@ -92,7 +94,9 @@
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
-- epoch 纪元、时代、时期
+- episode n.插曲、片段
+- epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期
+- epochal a.划时代的
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
 - equate v.等同、相当于、使相等
 - equator n.赤道
@@ -127,8 +131,11 @@
 - euro [ˈjʊərəʊ] € 欧元
 - evacuation 疏散、撤离、撤退、搬空
 - evade v.规避、躲避、逃避、避开
-- evaluate v.估计、评价、评估
+- evaluate [ɪˈvæljueɪt] v.估计、评价、评估
 - evaluation n.评价
+- evasion n.逃避、借口、推辞
+- eve n.前夜、前夕  Eve 夏娃
+- event n.活动、事件
 - eventual a.最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
@@ -158,6 +165,7 @@
 - exemplary a.模范的、典范的、惩戒性的
 - exempt v.免除、豁免
 - exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
+- exert v.发挥、运用、施加
 - exfiltrate 渗出、渗漏、滤出、流出
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhaustive a.详尽的、彻底的、全面的
@@ -168,6 +176,7 @@
 - expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
+- expel v.驱逐、开除、排出
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗
 - expense v.费用、开销、花销、向...收取费用
@@ -201,6 +210,7 @@
 - extra a.额外的、附加的、ad.额外、另外
 - extract [ˈekstrækt/ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物、摘录
 - extraction n.取出、提炼、血统、家世
+- extranet n.外联网、外部网络
 - extraordinary a.特别的、非凡的、意想不到的
 - extravagant a.奢侈的、过度的、过分的、放肆的
 - extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的

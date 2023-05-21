@@ -2,6 +2,7 @@
 - racial [ˈreɪʃl] a.种族的
 - radar n.雷达
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
+- raft n.木筏
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - raincheck 雨票、延期
 - raise [reɪz] v.提升、举起、提出、提及、增加、筹募、抚养、饲养、终止、解除、n.上升、加薪
@@ -19,7 +20,9 @@
 - rationale n.根本原因，基本原理
 - rattle v.使紧张、使恐惧、n.咔哒声
 - react v.反应、回应、起反应
+- reaction n.反应、反对、副作用、不良反应
 - reactor 反应器、反应堆、原子炉、核反应堆
+- readiness n.准备就绪、愿意、乐意
 - ready a.准备好的、现成的、即时的、n.现钱
 - real a.真实的、现实的、实际的
 - realign 重新排列、对...进行调整、改变观点
@@ -100,6 +103,7 @@
 - relieve v.缓解、减轻
 - religion n.宗教
 - religious a.宗教的、虔诚的[qián chéng]
+- reluctant a.不情愿的、勉强的
 - rely v.依靠、依赖、信赖
 - remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
 - remainder 余数、差数、剩余物、廉价出售、剩余的
@@ -121,8 +125,10 @@
 - rental 租金、出租、租赁、招租
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
+- repeal [rɪˈpiːl] n/v.废除、撤销
 - repeat v.重复、复述、背诵、重述、n.重演的事物、重复的事件
 - Repeater n.转发器(又称中继器或放大器)
+- repel [rɪˈpel] v.击退
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
@@ -135,7 +141,7 @@
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
-- resemble v.像、与...相像、类似于
+- resemble [rɪˈzembl] v.像、与...相像、类似于
 - resent v.怨恨、愤恨、厌恶、愤愤不平
 - reserve n.储备、保留、保护区、内向、矜持、v.保留、预定、预约
 - reside v.住、居住、居住在、定居于
@@ -155,6 +161,7 @@
 - respectable a.正派的、体面的、可敬的
 - respectful a.有礼貌的
 - respective a.分别的、各自的、单独的
+- respire v.呼吸
 - respond v.回应、响应、作出反应
 - response n.回答、答复、反应、响应
 - responsible a.应负责的、有责任的、有责任心的、责任重大的
@@ -194,8 +201,9 @@
 - revolve v.旋转、环绕、转动、使循环、反复考虑
 - reward n.奖励、回报、报酬、v.奖励、奖赏、给予报酬
 - rewarding a.有益的、值得做的
-- rid v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
+- rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - rigid a.僵硬的、严格的、顽固的、死板的
+- ringtone n.铃声
 - rise n/v.上升、增加
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
@@ -223,4 +231,5 @@
 - run v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
+- rush n/v.冲、急促、仓促
 - ruthless a.残忍的、无情的

@@ -3,15 +3,17 @@
 - magazine n.杂志、期刊、弹药库
 - magical a.神奇的、有魔力的
 - magnify v.放大、增强、夸大、扩大
+- maid n.女仆
 - mainframe n.大型机、主机、中央处理机、主计算机
 - maintain v.维持、保持、维修、保养、坚持、固执己见
 - maintenance n.维护、维修、保养、保持、生活费、抚养费
+- maize [meɪz] n.玉米
 - majestic [məˈdʒestɪk] a.宏伟的、壮丽的、威严的
 - majesty n.陛下、统治权、王权
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority n.大部分、大多数、成年、法定年龄
 - make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产
-- makeup n.组成、构成、化妆品、天性、性格
+- makeup n.化妆品、性格、组成、构成
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
@@ -64,6 +66,8 @@
 - medium a.中等的、n.媒介、手段、工具、方法、介质
 - meet v.满足、遇见、相遇、会面、会晤
 - mega a.巨大的、宏大的 = huge = great
+- megabit n.兆位 MB
+- melodramatic [ˌmelədrəˈmætɪk] a.夸大的、虚张声势的
 - melt v.溶化、溶解、软化
 - meltdown n.彻底垮台
 - memo 备忘录
@@ -75,6 +79,7 @@
 - mentor 导师、顾问、指导
 - merchandise v.销售、买卖、n.商品、货物
 - merchant n.商人
+- mercury n.汞、水银  Mercury 水星
 - mercy n.怜悯、仁慈、宽容
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
 - merge v.合并、融合、融入
@@ -113,6 +118,7 @@
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
+- miss n.女士、小姐、失误、v.未击中、错过
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
 - misuse [ˌmɪsˈjuːs]/[ˌmɪsˈjuːz] n/v.滥用、误用
@@ -121,7 +127,7 @@
 - mitochondrion [ˌmaɪtəʊˈkɒndriən] n.线粒体 复数: mitochondria
 - mitre 主教法冠、斜接
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
-- mobile a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
+- mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
 - model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
@@ -131,6 +137,7 @@
 - modify v.修改、修饰、改变
 - module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
+- moist a.潮湿的、湿润的
 - moisture n.潮湿、水分
 - moisturize v.给...增加水分、滋润
 - molecule [ˈmɒlɪkjuːl] n.分子
@@ -152,6 +159,7 @@
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
+- mortal n.凡人、普通人、a.致命的、不共戴天的
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因

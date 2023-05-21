@@ -1,4 +1,5 @@
 - fabric n.织物、布料、结构
+- fabulous a.极好的、难以置信的
 - facade 外观、正面、表明、外表
 - face v.面临、面对、n.面部、表面 crisis/problem facing sth ...所面临的危机/问题
 - facilitate v.帮助、促进、使容易
@@ -48,6 +49,7 @@
 - fertile a.肥沃的
 - fertilize v.施肥、使受精、使授粉、使受孕
 - fertilizer n.肥料  artificial fertilizer 人造肥料、化学肥料
+- fest n.节日、集会
 - festival n.节日、a.节日的
 - fetch 取来、拿来
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
@@ -58,7 +60,9 @@
 - figure n.数据、人物、身材、v.认为、认定、计算、描绘、象征  figure out 想出、理解、弄明白、计算出
 - file n.文件、档案、v.把(文件等)归档、提起(诉讼)、提出(申请)、送交(备案)、发送(报道给报社)
 - filer n.文件管理器、文件装订员、文件编档员
+- fill v.填满、充满、担任
 - film n.电影、影片、胶片、v.拍电影、上镜头
+- filter n.过滤器、筛选程序、v.过滤、筛选、慢慢传开
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
 - financial a.金融的、财务的
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
@@ -90,6 +94,7 @@
 - flu n.流行性感冒、流感
 - fluent a.流利的、流畅的
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
+- foe n.敌人、仇敌
 - fold v.折叠  eightfold 八倍、八重
 - folk n.人们、各位、大伙
 - footprint n.脚印、足迹、踪迹 memory footprint 内存占用
@@ -135,6 +140,7 @@
 - free a.免费的、自由的、免税的、空闲的、v.释放、使自由、使解脱
 - freemium 免费增值、收费增值
 - freeze v.使结冰、冻结  frozen (过去分词) a.冻结的、冰封的、极冷的
+- French n.法语、a.法国的
 - frequency 频率、频繁、发生率、出现率、重复率
 - frequent a.频繁的、常见的、v.常去、常到
 - fresh a.新鲜的、淡水的、无经验的、n.(一天、一年等的)开始、(河流的)暴涨

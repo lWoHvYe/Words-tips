@@ -35,6 +35,7 @@
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - gold n.金、黄金、金色、a.金色的
 - gonna [ˈɡənə] n.即将、将要
+- google [ˈɡuːɡl] n.谷歌
 - gossip n.流言蜚语、闲言碎语、v.说三道四、说长道短
 - govern 统治、治理、控制、管理、支配
 - grab 抓住、强夺
@@ -69,5 +70,6 @@
 - guardian n.捍卫者
 - guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针
+- guilty a.有罪的、内疚的
 - gum n.口香糖、牙龈、黏胶
 - gym/gymnasium [dʒɪmˈneɪziəm] n.体育馆、健身房

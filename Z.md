@@ -1,0 +1,2 @@
+- zeal n.热情、激情
+- zephyr [ˈzefə(r)] n.和风、微风

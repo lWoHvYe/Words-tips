@@ -7,11 +7,11 @@
 - valuate v.对...作评估、对...作评价
 - valuation n.估价、估值、评估、评价
 - value n.价值、价格、用途、v.重视、珍视、给...估价
-- variable n.变量、可变因素、a.变化的、可变的
+- variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
-- variety n.多样、种类、多样化
-- various 各种各样的、各个的、个别的
+- variety [vəˈraɪəti] n.多样、种类、多样化
+- various [ˈveəriəs] a.各种各样的、各个的、个别的
 - vary v.改变、变化、相异、不同
 - vast a.巨大的、庞大的、大量的、非常的、n.浩瀚、广大无边的空间
 - vastly ad.很、非常
@@ -27,6 +27,7 @@
 - verbal a.文字的、言语的、口头的、动词的
 - verbiage 用语、措辞、废话、冗余、晦涩
 - verbose a.冗长的、啰嗦的、唠叨的
+- verdict n.裁定、判决
 - verify v.证明、证实、核实、查证
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
@@ -53,7 +54,7 @@
 - visible a.可见的、明显的、n.现实世界
 - vision n.视力、视野、画面、幻象、观点、v.想象
 - visor n.面罩、遮阳板
-- visual a.视力的、视觉的、看得见的、n.画面、图像
+- visual [ˈvɪʒuəl] a.视力的、视觉的、看得见的、n.画面、图像
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vitamin n.维生素

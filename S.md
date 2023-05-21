@@ -1,10 +1,14 @@
-- sacred a.上帝的、神圣的、受崇敬的
+- sacred a.上帝的、神圣的、庄严的、受崇敬的
+- sacrifice n/v.牺牲、祭祀
+- sad a.悲哀的、难过的
 - sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
+- saint [seɪnt] n.圣人
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
 - salve n.药膏、软膏
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
+- sanctity [ˈsæŋktəti] n.神圣
 - sanitization 消毒、卫生处理、净化、清除
 - satiate [seɪʃieɪt] v.满足
 - satire [ˈsætaɪə(r)] n.讽刺
@@ -38,6 +42,7 @@
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
 - scrutinize [ˈskruːtənaɪz] v.仔细检查、认真审查
 - scrutiny [ˈskruːtəni] n.监督、细看、仔细检查、认真彻底的审查
+- seal n.海豹、印章
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
 - seamless a.无缝的
 - season n.季、季节、时期、v.使适应、调味
@@ -62,6 +67,7 @@
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
 - semantic a.语义的、语义学的
+- semester n.学期
 - semiannual 每半年的、半年的
 - semicolon [ˌsemiˈkəʊlən] n.分号
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
@@ -114,10 +120,14 @@
 - shirk [ʃɜːk] v.逃避、偷懒
 - shock n.震惊、电击、休克、震动、v.使震动、使休克、使震惊
 - shore n.岸、滨
-- short a.短的、短暂的、缺乏、缺少
+- short a.短的、短暂的、缺乏、缺少、低的、矮的  fall short of sth 未达到、不符合
+- shortcoming n.短处、缺点
+- shorthand n/v.速记
+- shortly ad.立刻、马上
 - shortage n.不足、缺少、短缺
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
 - shrink v.收缩、缩小、减少
+- shuffle n/v.洗牌
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
@@ -129,9 +139,13 @@
 - significantly 重要的、重大的、明显的、显著的
 - signify v.代表、象征、表示
 - silence 沉默、无声、寂静、失去联系、使安静、压制、安静、静下来
-- silicon 硅
+- silica [ˈsɪlɪkə] n.二氧化硅
+- silicon 硅  Silicon Valley 硅谷
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
 - silver n.银、银币、银器、银色、a.银色的、v.镀银
+- similar [ˈsɪmələr] a.相似的、相仿的、相像的、n.相似物、类似物
+- similarity n.相似性、相似之处
+- simile [ˈsɪməli] n.明确
 - simplify v.简化、精简
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
@@ -146,7 +160,8 @@
 - ski n.滑雪板、v.滑雪、a.滑雪的
 - skirt n.短裙、挡板、v.绕开、回避
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
-- slash n.斜线、斜杠、劈、砍、v.大幅削减、大大降低
+- slant n/v.倾斜、斜线、斜面
+- slash n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
 - slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
 - slavery n.奴隶制度、奴隶身份
 - sleuth 足迹、警犬、侦探
@@ -263,17 +278,19 @@
 - stead [sted] n.代替、用途、好处
 - steadfast a.坚定的、不动摇的
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
+- steep a.陡峭的、急剧的
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - steroid n.类固醇
-- stereotype [ˈsteriətaɪp] n.刻板印象、陈规
+- stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、v.对...产生成见、把...浇筑成铅版
 - steward [ˈstjuːəd] n.乘务员、管家
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
-- stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋
+- stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋、促使
 - stimulation n.激励、兴奋
 - stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
 - stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素
+- sting v.叮、刺痛
 - stir v.搅拌、n.搅拌、震动
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
@@ -345,8 +362,13 @@
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - super a.超级的、ad.特别、格外
+- superb a.卓越的、极佳的
+- superficial [ˌsuːpəˈfɪʃl] a.表面的、肤浅的、浅薄的
+- superfluous a.过剩的、多余的
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
+- supermarket n.超市
 - supersede v.取代、替代
+- superstition n.迷信
 - supervise v.监督、管理、指导
 - supervision n.监管
 - supervisor n.监督者、指导者、主管人
@@ -364,7 +386,7 @@
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surpass v.超过、胜过、超越、优于
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
-- surrogate n.代理、代表、a.代理的、替代的、代用的
+- surrogate [ˈsʌrəɡət] n.代理、代表、代孕、a.代理的、替代的、代用的
 - surveillance [sɜːrˈveɪləns] n.监控、监视
 - survey n.调查、测量、勘测、审查、概述、v.民意调查、测量、勘测、概述
 - survive v.幸存、幸免于难

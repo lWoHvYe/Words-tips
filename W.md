@@ -1,5 +1,9 @@
 - wag v/n.摇动、摇摆
-- wage n.(按周结的)工资、v.开始、发动、进行
+- wage [weɪdʒ] n.(按周结的)工资、v.开始、发动、进行
+- wager n/v.打赌、押
+- wait n/v.等待
+- waiter [ˈweɪtə(r)] n.男侍者、男服务员
+- waitress [ˈweɪtrəs] n.女侍者、女服务员
 - waiver 放弃、弃权、弃权声明
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
 - wallet n.钱包

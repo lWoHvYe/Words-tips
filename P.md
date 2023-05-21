@@ -28,10 +28,12 @@
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
+- paternal [pəˈtɜːnl] a.父亲的、父系的
 - pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
 - pathway 路、道、途径、路径
 - patience n.忍耐、耐心、耐性
-- patient a.有耐心的、能容忍的、n.病人、患者
+- patient [ˈpeɪʃnt] a.有耐心的、能容忍的、n.病人、患者
+- patriotism [ˈpætriətɪzəm] n.爱国主义
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
@@ -39,7 +41,7 @@
 - peculiarity n.个性、特色、特点、独特性、怪癖
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
-- peer n.同辈人、同行、v.仔细看、端详
+- peer n.同辈人、同行、v.仔细看、仔细检查、端详
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty n.刑罚、处罚、害处、不利
@@ -57,9 +59,9 @@
 - perform v.履行、执行、表演、演出、工作、表现
 - performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
 - perhaps ad.可能、大概、也许、或许、n.假定、猜想
-- period n.时期、周期、一段时间、阶段、时代
+- period n.时期、周期、一段时间、阶段、时代、句号
 - periodic 周期的、定期的、时而发生的、间歇的
-- periodical 期刊、杂志、周期的、定期的、时常发生的、定期发行的
+- periodical [ˌpɪəriˈɒdɪkl] n.期刊、杂志
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
 - permanent a.永久的、永恒的、长久的、n.烫发
 - permeate v.散布、传播、弥漫、渗透、渗入
@@ -96,6 +98,7 @@
 - physiology n.生理学
 - pie n.馅饼、派
 - piece 块、片、段、修补、连接
+- pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
 - pillar n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
@@ -155,7 +158,7 @@
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
-- post 邮递、邮寄、终点、发布、公布、交付
+- post n.邮递、邮政、职位、岗位、v.发布、公布、交付、张贴、邮寄  look for a post 寻求职位
 - postfix n.后缀
 - postgraduate n.研究生
 - postpone [pəˈspəʊn] v.推迟、延期、延迟
@@ -172,9 +175,10 @@
 - praise n/v.称赞、赞扬、表扬
 - pragmatic a.实用的、务实的
 - prattle 闲扯、唠叨、闲聊
+- preach n/v.宣讲、布道、说教
 - precede v.先于、优于、在...之上
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
-- precise 精密、精确的、准确的、明确的、正规的、一丝不苟的
+- precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
@@ -182,14 +186,16 @@
 - predominant [prɪˈdɒmɪnənt] a.主要的、占优势的、占主导地位的
 - preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
+- prefer v.更喜欢
 - preference n.偏爱、爱好
 - pregnant a.怀孕的、孕育着...的、富于想象的
+- prejudice n.偏见、成见、v.使有偏见、损害
 - preliminary a.预备的、初步的、n.序言、开场白、预赛
 - premature a.过早地、早产的、提前的、草率的
 - premier a.首要的、最先的、最早的、n.总理、首相
 - premise n/v.前提、假定
 - premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
-- prepare 准备、筹备
+- prepare [prɪˈpeə(r)] v.准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
 - prescribe v.规定、指定、命令、开处方
 - prescription n.规定、法规、处方、药方、法定期限、时效、a.凭处方供应的、根据处方配置的  prescription drug 处方药
@@ -224,6 +230,7 @@
 - priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
 - privacy n.隐私
+- private a.私有的、私人的
 - privilege n.特权、优惠、v.给予特权
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
 - proactive a.积极的、主动的
@@ -273,7 +280,7 @@
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
-- prospect n.展望、设想、前景、可能性、v.探矿、勘探
+- prospect n.展望、设想、前景、可能性、景色、v.探矿、勘探
 - prosper v.繁荣、兴旺、成功、发达
 - prosperity n.兴旺、繁荣、成功、昌盛
 - protect v.保护、防护、实行贸易保护 protect...from... 保护...免受...
@@ -289,7 +296,7 @@
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
-- proxy 代理、代理服务器、代理人、代表权
+- proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychology 心理学、心理状态、心理特征、心理影响
 - puberty n.青春期

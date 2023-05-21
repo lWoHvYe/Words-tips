@@ -16,9 +16,10 @@
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
 - taxonomy [tækˈsɒnəmi] n.分类学、分类系统
 - taxpayer n.纳税人
-- team n.团队
+- team n.团队、v.使协作、使合作
 - teapot n.茶壶
-- tear v.撕裂、扯破、拉伤、n.破洞、裂口、眼泪💧、泪水
+- tear [teə(r)] v.撕裂、扯破、拉伤、[tɪə(r)] n.破洞、裂口、眼泪💧、泪水  过去式 tore、过去分词 torn
+- tease [tiːz] n/v.戏弄、(out)梳理
 - tech [tek] n.技术
 - technical  技术的、技术性
 - technology n.技术、科技、工程技术、技术学
@@ -26,6 +27,9 @@
 - telemetry n.遥测、遥感勘测
 - teleology n.目的论
 - telescope n.望远镜
+- temper n.脾气、怒气、v.使缓和、使温和
+- temperate a.温带的、温和的
+- temperature n.温度、气温、体温
 - temporal a.世俗的、现世的
 - temporary 短暂的、暂时的、临时工
 - tempt v.引诱、诱惑、怂恿
@@ -102,7 +106,7 @@
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
-- tough a.艰苦的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
+- tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - tour [tʊə(r)] n/v.旅行、游览、观光
 - tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
 - tout v.标榜、吹捧、吹嘘
@@ -120,7 +124,7 @@
 - trait n.特点、特征、特性
 - transaction n.交易、业务、事务、办理、处理
 - transcribe v.转录、抄写、改编
-- transcript 成绩单、抄本、誉本、打印本
+- transcript 成绩单、抄本、誉本、打印本、剧本
 - transducer 传感器、变频器
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
 - transform 变换、改变、改观
@@ -159,6 +163,7 @@
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
+- tuition n.学费
 - tune n.曲子、曲调、v.调音、调节
 - turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是 
@@ -167,4 +172,6 @@
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
+- type n.种类、类型、字体、字形、v.打字
+- typewriter n.打字机
 - typical a.典型的、有代表性的

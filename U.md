@@ -1,4 +1,4 @@
-- ultimate a.最后的、最终的、最好的、基本的、基础性的、v.极品、精华
+- ultimate a.最后的、最终的、最好的、基本的、基础的、基础性的、v.极品、精华
 - ultraviolet [ˌʌltrəˈvaɪələt] n.紫外线、紫外光、a.紫外线的  ultra- 超出、以外
 - umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的

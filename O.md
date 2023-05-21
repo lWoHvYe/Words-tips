@@ -1,4 +1,4 @@
-- obesity [əʊˈbiːsɪti] n.肥胖
+- obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
 - obey v.服从、听从、遵守
 - object n.物品、对象、目标、宾语、v.反对、不赞成
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
@@ -21,6 +21,7 @@
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
 - offset v.抵消、弥补、补偿、n.抵消、补偿、平版印刷、a.胶印的
 - offshore a.海上的、近海的
+- omen n.征兆、预兆
 - omit 省略、遗漏、删除、未能做
 - omission [əˈmɪʃn] n.省略、遗漏、疏忽、删除
 - once ad.一旦、曾经、一次、conj.一旦...(就...)、当...时候、n.一次、一回、a.从前的、一度的
@@ -33,10 +34,11 @@
 - operate v.操作、运营、运作、控制、运转
 - operation n.手术、操作、经营、行动、运算、运转
 - opinion n.意见、主张、看法、观点
+- opponent n.对手、竞争者
 - opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
-- oppose v.抵制、反对、使相对、使对照  opposing a.对立的、相反的
-- opposite a.对立的、相反的、完全不同的、n.对立的人或物、对立面、反面
+- oppose v.抵制、反对、阻挠、使相对、使对照  opposing a.对立的、相反的
+- opposite [ˈɒpəzɪt] a.对立的、相反的、完全不同的、n.对立的人或物、对立面、反面、v.在...的对面
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - optimal a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
@@ -48,7 +50,7 @@
 - opus n.作品、作曲 复数：opera
 - oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
-- order n.顺序、次序、订单、命令、v.命令、订购、点(餐)、组织
+- order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的

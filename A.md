@@ -7,8 +7,10 @@
 - abrupt a.陡峭的、突然的、生硬的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
+- absorb [əbˈzɔːb] v.吸收、理解、掌握
 - abstain 弃权、戒除、离开、回避
 - abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
+- absurd a.荒谬的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academe/academia n.学术界、学术
@@ -52,8 +54,9 @@
 - actuator 致动器、传动、执行机构
 - acute 严重的、急性的、灵敏的、敏锐的、锐角的
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
+- Adam n.亚当
 - adapt 适应、改编、使适合、改编、改写
-- addict n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
+- addict [ˈædɪkt] n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - addition n.增加、添加、加法、附加 in addition 此外、另外
 - additional 额外的、追加的、附加的、补充
 - address n.地址、称呼、演讲、演说、v.写地址、致函、称呼、演说、处理、指出
@@ -69,6 +72,7 @@
 - admire v.倾佩、欣赏、赞赏、仰慕
 - admission n.承认、准许进入、加入权、进入权、招生
 - admit v.承认、允许、确认、许可进入
+- adolescent n.青少年、a.青春期的
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adult n.成年人、成人、a.成人的 
 - adulthood 成年、成年期
@@ -95,7 +99,7 @@
 - affirm v.公开肯定、断言、证实
 - afford 提供、给予、负担得起、买得起
 - afterward ad.后来、之后
-- against v.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
+- against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
 - agenda n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
@@ -116,6 +120,7 @@
 - alarm n.警报、闹钟
 - albeit conj.虽然、即使
 - album n.相册
+- alcohol [ˈælkəhɒl] n.乙醇、酒精
 - alert a.机警的、警觉的、v.使...警觉、使意识到、n.警戒、警惕、警报
 - algebra [ˈældʒɪbrə] n.代数学、代数
 - algorithm n.算法、计算程序
@@ -130,7 +135,7 @@
 - alleviate [əˈliːvieɪt] v.减轻、缓和、缓解
 - alliance n.结盟、联盟、同盟
 - allocate v.分配、分派、拨...(给)、划...(归)
-- allow [əˈlaʊ] v.允许、准许、容许、给予
+- allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
 - ally n.联盟、同盟国、v.与...结盟
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
@@ -155,7 +160,8 @@
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
-- analogy [əˈnælədʒi] 类比、比喻
+- analogous a.相似的、类似的
+- analogy [əˈnælədʒi] n.类比、比喻
 - analyse/analyze [ˈænəlaɪz] v.分析
 - analysis [əˈnæləsɪs] n.分析、分析结果、分析报告
 - analyst [ˈænəlɪst] n.分析师、化验员
@@ -171,6 +177,7 @@
 - announce v.宣布、宣告、通知、声明
 - annual [ˈænjuəl] a.年度的、每年的
 - anonymous a.匿名的
+- antenna n.天线、触角
 - anthropology [ˌænθrəˈpɒlədʒi] n.人类学
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antitrust a.反垄断的、反托拉斯的
@@ -183,7 +190,7 @@
 - apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
 - appeal n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
-- appearance 外貌、外表、起源、首次使用、公开露面、出版
+- appearance 外貌、外表、起源、首次使用、公开露面、出版  appearance and temperament 外貌和气质
 - appendix 附录
 - appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
 - applause n.掌声、鼓掌、喝彩
@@ -214,6 +221,8 @@
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
+- arrogant [ˈærəɡənt] a.傲慢的、自大的
+- arrow n.箭头
 - arthritic a.关节炎的
 - arthritis n.关节炎
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
@@ -222,7 +231,7 @@
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - aspire v.渴望
-- assemble v.集合、组装、装配、收集、聚集、组合
+- assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构
 - assert v.声称、断言、明确肯定、维护、坚持、生效
@@ -231,6 +240,7 @@
 - asset n.资产、财产、优点、有利条件
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
+- assimilate [əˈsɪməleɪt] v.同化、消化、吸收
 - assist v.帮助、援助
 - assistance n.帮助、援助、支持
 - assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
@@ -275,7 +285,8 @@
 - automate v.(使)自动化
 - automatic a.自动的、无意识的
 - automation n.自动化
-- automobile n.汽车
+- automobile [ˈɔːtəməbiːl] n.汽车
+- automotive [ˌɔːtəˈməʊtɪv] a.汽车的、机动车辆的
 - autonomous a.自主的、自治的、有自治权的、有自主权的
 - autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
@@ -287,6 +298,7 @@
 - avert v.防止、避免、转移、避开
 - aviation n.航空
 - aviator n.飞行员
+- await v.等待、期盼、即将发生
 - awake v.唤醒、醒来、唤起
 - award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、判给  an annual pay award 年度加薪
 - aware a.意识到的、知道的、察觉的

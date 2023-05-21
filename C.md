@@ -2,6 +2,7 @@
 - cabinet n.内阁、柜橱、储藏柜、陈列柜、a.内阁的、秘密的、玲珑的
 - cable n.缆绳、电缆
 - cache n.隐藏物、高速缓冲存储器、v.高速缓存、藏匿、隐匿
+- cadence [ˈkeɪdns] n.节奏、韵律
 - calcium [ˈkælsiəm] n.钙
 - calculate [ˈkælkjuleɪt] v.计算、预测
 - calculus n.微积分、结石
@@ -12,6 +13,7 @@
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
+- cancel [ˈkænsl] n/v.取消、撤销
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - canny a.谨慎的、精明的、狡猾的
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
@@ -22,10 +24,12 @@
 - capex abbr.资本支出 capital expenditures
 - capital n.首都、资本、财富、v.大写的、极好的、死刑的
 - capital n.首都、资本、资金、财富、财产、资方、大写字母、a.首都的、资本的、大写的、极好的、死刑的
+- capitalism n.资本主义
 - captain n.船长、机长、上校、上尉、首领、队长
 - caption n.字幕、说明文字、v.加字幕
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
 - carbon [ˈkɑːbən] n.碳、复写纸、碳精电极、a.碳的
+- carbonate n.碳酸盐
 - cardinality n.基数
 - care n.照顾、照料、小心、忧虑、v.关心、关怀、在意、介意 take care of 照顾、照料、承担、处理、负责 care for 照管、关心、喜欢
 - cargo n.货物
@@ -36,6 +40,7 @@
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
 - cash 现金、资金、兑现支票、现金的
+- casino [kəˈsiːnəʊ] n.赌场
 - cask n.桶、容器
 - cast 铸造、投射、造谣中伤、投、扔、脱、铸件、模子、特性
 - casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工
@@ -53,6 +58,7 @@
 - cautious a.小心的、谨慎的
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
+- cease [siːs] v.停止、结束
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
@@ -64,7 +70,7 @@
 - centricity n.中心、中心性
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
 - ceremonial a.礼仪的、礼节的、n.礼仪、礼节
-- ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套
+- ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套  graduation ceremony 毕业典礼
 - certain a.肯定、确定、确信、轻微的、某种的、一定的、必然的、确定的、pron.某些 to a certain extent/degree 在某种程度上、在一定程度上 far less certain 更不确定
 - certainly ad.当然、肯定、确定、无疑、行
 - certainty n.确信、确定性、确定的事、必然的事
@@ -90,9 +96,10 @@
 - chase v.追求、追赶、追捕、努力获得、争取得到、n.追赶、追捕、打猎、猎物
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
+- cheat n/v.欺骗、作弊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令
 - chemical [ˈkemɪkl] a.化学的、n.化学药品
-- chew v.咀嚼
+- chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - choice n.选择、挑选、a.优质的、上等的
@@ -168,6 +175,7 @@
 - colonial a.殖民的
 - colony n.殖民地
 - column [ˈkɒləm] n.栏、专栏、圆柱
+- comb [kəʊm] n/v.梳、梳理
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
 - come v.来到、到达、开始、发生、prep.到来
@@ -177,8 +185,8 @@
 - commensurate a.相等的、相称的、相当的
 - comment n.议论、评论、注释、意见、说明、v.表达意见
 - commentary 评论、评注、注释
-- commerce [ˈkɒmɜːs] n.商务、商业、贸易
-- commercial a.商业的、商务的、盈利的、v.广告
+- commerce [ˈkɒmɜːs] n.商务、商业、贸易  e-commerce 电子商务
+- commercial [kəˈmɜːʃl] a.商业的、商务的、盈利的、v.广告
 - commission n.委员会、佣金、回扣、手续费、v.委任、授予
 - commit [kəˈmɪt] v.承诺、保证、犯罪、调配、把...学好记牢  commit oneself to sth/doing sth 承诺/保证做某事  be committed to 对...尽责
 - commitment n.承诺、许诺、委托、委任、致力、献身、花费、使用
@@ -194,6 +202,7 @@
 - comparative a.相对的、比较的、比较级的
 - compass n.罗盘、指南针、圆规、范围、界限
 - compatible v.可共用的、兼容的、相容的、和睦相处的
+- compel v.强迫、迫使
 - compensate [ˈkɒmpenseɪt] v.抵消、补偿、赔偿、报酬
 - compensation n.补偿、赔偿、薪资
 - compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
@@ -225,6 +234,7 @@
 - comptroller n.审核员、审计官
 - compute v.计算、估算、推断、n.计算机技术  cloud computing 云计算
 - concatenate v.连接、连锁、串级、a.连锁的
+- conceal [kənˈsiːl] v.隐藏、隐瞒、掩盖
 - concede v.承认、让步、容许
 - conceit n.自负、幻象、思想、观点
 - conceive [kənˈsiːv] v.想出、想象、构想、设想、持有、怀孕
@@ -233,6 +243,7 @@
 - concern v.涉及、影响、参与、使担忧、n.关心、关爱、担心、顾虑
 - concert n.音乐会、演唱会、一致、和谐、v.协商、调解、合订、协同工作
 - concerted a.同心协力的、努力的、协调的、协力的
+- concertgoer n.常去听音乐会的人
 - concession n.让步、妥协、特许权、优惠价格
 - conciliate v.平息、安抚、劝慰、n.安抚者、劝慰者
 - conciliatory a.调和的、调解的、抚慰的、安抚的
@@ -247,7 +258,7 @@
 - conduct [kənˈdʌkt]/[ˈkɒndʌkt] n.行为、举止、品行、引导、v.执行、引导、安排、组织、管理、进行、传导
 - conductor [kənˈdʌktə(r)] n.导体、指挥、列车长、售票员
 - conference n.会议、讨论、研讨会
-- conficence n.信任、信赖、信心、秘密、机密、
+- conficence n.信任、信赖、信心
 - confident a.自信的、确信的、有把握的、大胆的、过分自信的、n.知己
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
@@ -260,6 +271,9 @@
 - conjunct 结合的、联合的、连接的
 - conjunction n.连词、连结、结合、联合、结合物
 - conquer v.征服、克服、攻克、打败
+- conscience [ˈkɒnʃəns] n.良知、良心
+- conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
+- consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consecutive a.连续的、连贯的、表示结果的
 - consensus [kənˈsensəs] n.一致的意见、共识
 - consent n/v.同意、准许、允许、许可
@@ -269,9 +283,6 @@
 - conservative 保守的、守旧的、保守的人
 - conservation n.保护、保存
 - conserve vt.保护、保存、n.果酱、蜜饯
-- conscience [ˈkɒnʃəns] n.良知、良心
-- conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
-- consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consider [kənˈsɪdər] v.考虑、认为、仔细考虑、细想、体谅、顾及、端详
 - considerable a.相当大的、该注意的、应考虑的、重大的、可观的
 - consist [kənˈsɪst] v.包括、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
@@ -281,7 +292,8 @@
 - consolidate v.巩固、使加强、合并、统一、联合  be consolidated to 被合并到...
 - conspicuous a.明显的、显而易见的、引入注目的
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
-- constitute v.组成、构成、制定、设立、指派
+- constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
+- constitute v.组成、构成、制定、设立、成立、指派
 - constitution n.组成、构成、体质、体格、宪法、章程
 - constitutional a.宪法的、符合宪法的、本质的
 - constrain [kənˈstreɪn] vt.强迫、约束、限制
@@ -329,15 +341,16 @@
 - converse v.谈话、交谈、a.相反的、颠倒的
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
 - convert v.转变、转换、兑换
-- convey [kənˈveɪ] v.运送、输送、表达、传播
+- convey [kənˈveɪ] v.传送、输送、表达、传达
 - convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
 - coordinator n.协调者
-- cope v.对付、处理、n.斗篷、长袍
+- cope v.对付、处理 cope with 对付
 - copilot n.副驾驶
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
+- corn n.玉米、谷物
 - corner 角落、拐角、垄断
 - coroutine n.协同程序、联立程序
 - corpse n.尸体
@@ -345,6 +358,7 @@
 - correlate v.相互关联、(使)相关、n.相关的事物、相关联的人
 - correlation n.相关性、相关、关联、相互关系
 - correspond v.顺应、契合、符合、一致、通信
+- corrupt v.腐败、贪污、破坏、损坏、a.贪污的、受贿的、腐败的
 - corruption [kəˈrʌpʃn] n.腐败、贪污、贿赂、受贿
 - cosmos [ˈkɒzmɒs] n.宇宙
 - cost n.费用、花费、代价、成本、v.花费、估计成本

@@ -6,11 +6,14 @@
 - journal n.杂志、日志、报纸、刊物、期刊
 - journalism n.新闻业
 - journey n.旅行、旅程、v.旅行
+- joy n.快乐、喜悦、满足
 - judge n.法官、v.审判、评判
+- juice n.果汁
 - junction n.连接、接合、接合点
 - junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、n.年少者、青少年、职位较低者
 - jury n.陪审团
 - jurisdiction n.管辖权、管辖范围、司法权
 - just ad.只是、正好、a.公正的、合适的、恰当的、n.正直的人
 - justice n.法官、公平、公正
-- justify 证明正当、证明...正确、为...辩护、对...作出解释、整理版面
+- justify v.证明正当、证明...正确、为...辩护、对...作出解释、整理版面
+- juvenile n.少年、a.少年的、未成年的

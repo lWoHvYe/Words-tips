@@ -95,6 +95,7 @@
 - breathe 呼吸、活着、生存
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
 - brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要
+- bright a.明亮的、聪明的、有希望的
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - British [ˈbrɪtɪʃ] n.英国人、a.英国的
 - broad a.宽阔的、广阔的、概括的、明显的
@@ -103,6 +104,7 @@
 - broker n.经纪人、中间人、代理人、v.安排、协商
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器
+- brush n.刷子、画笔、v.刷、掠过、轻触  hair brushing 梳头
 - brutal a.残酷的、残暴的、野蛮的
 - brutality n.残忍、野蛮
 - bubble n.泡、气泡、泡沫、v.起泡、冒泡、洋溢着

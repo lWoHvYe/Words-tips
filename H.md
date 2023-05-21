@@ -4,7 +4,7 @@
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halt v.暂停、中止、停下
-- hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予
+- hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
 - handful n.一把(的量)
 - handicap [ˈhændikæp] n.障碍、缺陷、残疾、不利条件、v.阻碍、妨碍
 - handle n.柄、把手、v.处理、对待、操纵、触、摸
@@ -18,7 +18,7 @@
 - harvest 收割、收获
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
-- head n.头、头脑、领导、主管
+- head n.头、头脑、领导、主管、v.朝着...行进
 - headline n.大字标题、新闻摘要
 - headquarters n.总部
 - heads-up 提醒、警告
@@ -31,6 +31,7 @@
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
+- height [haɪt] n.身高、高度
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
 - heroic [həˈrəʊɪk] a.英雄的、n.史诗
@@ -40,6 +41,7 @@
 - heuristic a.启发式的
 - hierarchy 分层、层次、层次体系、等级制度、统治集团
 - highlight v.突出、强调、n.最好的部分、强光部分
+- hill n.山丘、斜坡
 - hinder v.阻碍、妨碍
 - hint n.暗示、示意、提示、征兆、迹象、v.暗示、透露、示意
 - hire v.雇用、聘用、租用、租借、n.租借、租用、租赁、租金、酬金

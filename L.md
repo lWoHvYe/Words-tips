@@ -1,4 +1,4 @@
-- lable 标签
+- label n.标签、标记
 - labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
 - laboratory [ləˈbɒrətri] n.实验室
 - lack n/v.缺乏、短缺
@@ -35,7 +35,7 @@
 - ledger n.账簿、账本
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
 - legal a.法律的、合法的、法定的、n.法定权利
-- legend 传奇、传说、图例、说明、铭文
+- legend n.传奇、传说、图例、说明、铭文
 - legislation n.立法、制定法律、法律、法规
 - legitimate a.合法的、合理的、正规的、法定的、n.使合法、正式批准、授权
 - leisure n.空闲、闲暇、悠闲、安逸、a.空闲的、闲暇的

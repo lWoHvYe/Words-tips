@@ -7,6 +7,8 @@
 - identify [aɪˈdentɪfaɪ] v.确定、识别、认出、发现、认同、鉴定、是...的标志
 - identity [aɪˈdentəti] n.身份(ID)、本体、特征、同一性、相同、一致、恒等 identity card 身份证
 - ideology n.思想、意识形态、空想、空论
+- idiosyncracy n.特质
+- idiosyncratic [ˌɪdiəsɪŋˈkrætɪk] a.乖僻的、怪异的、特质的
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
 - if conj.如果、假设、是否
@@ -15,11 +17,14 @@
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
+- illusion [ɪˈluːʒn] n.幻觉、幻想
+- illusory a.虚幻的、幻觉的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - illustrious [ɪˈlʌstriəs] a.杰出的、显赫的、著名的
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
 - imaginary a.虚构的、幻想的
 - imagine v.想象、设想、猜测、猜想
+- imitate v.模仿、仿造
 - immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
 - immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
@@ -29,12 +34,15 @@
 - immense a.广大的、巨大的、极大的
 - immerse v.沉浸在、深陷于
 - immersive a.沉浸式虚拟现实的
+- immortal a.不死的、永恒的、n.神
+- immune a.有免疫力的、不受影响的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
 - impeccable a.完美的、无可挑剔的
 - impedance n.阻抗
 - impediment n.阻碍、障碍
+- impel v.促使、推动
 - imperative a.迫切的、急迫的、n.必要的事
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
@@ -92,9 +100,9 @@
 - infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
 - infer v.推论、推理、推断、暗示、意指
 - inference n.推论、推理、推断
-- inferior a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
+- inferior [ɪnˈfɪəriə(r)] a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
-- infinite a.无限的、无穷的、极大的
+- infinite [ˈɪnfɪnət] a.无限的、无穷的、极大的
 - inflate [ɪnˈfleɪt] v.使充气、膨胀、鼓吹、涨价
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - inflict v.使承受、遭受、给予(打击)
@@ -106,6 +114,7 @@
 - infrastructure n.基础设施、基础建设
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
+- inherent a.固有的
 - inherit v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
 - initial [ɪˈnɪʃl] a.初始、最初的、开始的
@@ -122,6 +131,7 @@
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
 - insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
+- insidious [ɪnˈsɪdiəs] a.阴险的、潜伏的
 - insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
 - inspect v.检查、视察
@@ -159,10 +169,10 @@
 - intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的
 - intent n.目的、意图、a.热切的、专切的
 - intentional a.故意的、蓄意的
-- interact 相互作用、相互影响、互动、交流、沟通、合作
+- interact v.相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
-- interest n.兴趣、爱好、利息
+- interest [ˈɪntrəst] n.兴趣、爱好、利息、利益
 - interfere v.干涉、干预、介入、妨碍
 - interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
