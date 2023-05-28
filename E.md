@@ -2,6 +2,8 @@
 - earn v.赢得、获得、赚得、博得
 - earth n.地球、陆地、地面
 - ease n.容易、舒适、安逸、v.缓解、减轻
+- easily ad.轻松地、容易地、多半、无疑、肯定
+- easy a.轻松的、容易的、安逸的
 - eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
 - eavesdrop v.偷听、窃听
 - ecommerce n.电子商务
@@ -15,12 +17,20 @@
 - efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
 - effort [ˈefət] n.工作、努力、尝试、成就
 - egalitarian [iˌɡælɪˈteəriən] n.平等主义者、平等主义
+- ego n.自我、自负
+- egregious [ɪˈɡriːdʒiəs] a.极糟的、极坏的
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
 - elder [ˈeldə(r)] n.长者、元老、长老、a.年龄较大的、资格较老的
-- electric a.电的、用电的、充满刺激的、n.供电
-- electronic 电子的、电子设备的
+- elect v.选举、推举、选择
+- election n.选举、推举、当选
+- elector n.选民
+- electoral [ɪˈlektərəl] a.选举的、与选举有关的  Electoral College 选举团
+- electric a.电的、用电的、导电的、充满刺激的、n.供电
+- electrical a.电的、用电的、发电的、电气科学的
+- electricity [ɪˌlekˈtrɪsəti] n.电、电流、电学
+- electronic a.电子的、电子设备的
 - elegant a.简明的、简洁的、优美的、文雅的
 - elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
 - elide [iˈlaɪd] v.省略
@@ -50,7 +60,7 @@
 - enable v.使能够、使可能、批准、为...提供条件
 - encapsulate 封装、概括、压缩、简述
 - enclose v.随函附上、把...装入信封、附入、围住、把...围起来
-- encode 编码、译成密码/电码、编制成计算机语言
+- encode v.编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
 - encourage v.支持、鼓励、促进、激励、劝告、怂恿
@@ -69,6 +79,7 @@
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
 - enjoy v.享受、享有
+- enlighten v.启发、启迪、开导
 - enormous a.巨大的、庞大的、极大的
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
@@ -103,7 +114,7 @@
 - equipment 设备、装备、器材、配件、知识、素养
 - equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
 - equivalent a.相等的、相当的、等效的、等价的
-- era n.时代、年代
+- era [ˈɪərə] n.时代、年代
 - erase v.抹去、清除、擦掉
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
@@ -153,6 +164,7 @@
 - exception n.例外、除外、(程序中的)异常
 - excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
+- exchange n/v.交换、兑换、汇兑
 - exchequer n.财政部、国库、金库
 - excite [ɪkˈsaɪt] v.激发、刺激、使兴奋、使激动
 - exclaim v.呼喊、惊叫、大声说出

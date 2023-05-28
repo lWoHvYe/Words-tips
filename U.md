@@ -2,6 +2,7 @@
 - ultraviolet [ˌʌltrəˈvaɪələt] n.紫外线、紫外光、a.紫外线的  ultra- 超出、以外
 - umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的
+- unary a.一元的
 - uncanny a.不可思议的、难以解释的
 - uncertain a.不确定的、不明确的、无把握、犹豫、拿不准
 - uncertainty n.不确定性、犹豫、迟疑、无把握
@@ -20,13 +21,15 @@
 - underwriting n.保险业、v.承担经济责任、承保、承销
 - undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
 - undue a.不适当的、过分的、过度的
+- uneasy a.不安的、焦虑的、不稳定的
 - unemployment n.失业、失业率  unemployment rate 失业率  unemployment insurance 失业保险
 - unicast 点播、单播、单点传送
 - unification n.统一、联合、一致
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
 - union n.同盟、联盟、联邦、协会、工会
-- unit 单元、单位、机构
+- unit n.单元、单位、机构
+- unite [juˈnaɪt] v.团结、合并、统一
 - universal a.普遍的、通用的
 - universe n.宇宙、领域
 - unleash v.发泄、解除...的束缚

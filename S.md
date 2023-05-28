@@ -5,6 +5,7 @@
 - saint [seɪnt] n.圣人
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
+- sale n.出售、销售、销售量、特价销售
 - salve n.药膏、软膏
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction 制裁、惩罚、约束、批准、许可
@@ -51,6 +52,7 @@
 - secondary a.第二的、次要的、辅助的、中等的、中学的、n.助手、副手、卫星
 - secret n.秘密、奥秘、机密、a.隐秘的、神秘的、秘密的、机密的
 - secretary n.秘书、干事、书记员
+- secrete [sɪˈkriːt] v.分泌、隐藏
 - section n.部分、部门、部件、v.切开、切断、切片
 - sectional 某群体的、断面的、某阶层的、局部的、部分的
 - sector n.部门、领域、行业
@@ -66,6 +68,7 @@
 - seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
+- sell v.卖、出售、转让
 - semantic a.语义的、语义学的
 - semester n.学期
 - semiannual 每半年的、半年的
@@ -80,7 +83,7 @@
 - sensitive a.敏感的、体贴的、n.敏感的人
 - sentence n.句子、宣判、判刑、v.判决
 - sentiment n.看法、观点、情绪、伤感、哀伤
-- separate 分开、分离、单独的、不相关的
+- separate v.分开、分离、a.分开的、单独的、不相关的
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
 - serial a.连续的、连载的
@@ -109,8 +112,9 @@
 - share v.共有、分享、共享、分配、n.股份、一份
 - sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
 - shear v.剪、剪切
-- shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇
+- shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇  shed some light on 解释、阐明
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
+- shelf n.架子
 - shelter n.避难所、v.保护、掩蔽
 - shelve v.搁置
 - shield 盾、护罩、保护、掩护、屏蔽
@@ -128,6 +132,7 @@
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
 - shrink v.收缩、缩小、减少
 - shuffle n/v.洗牌
+- shut n/v.关闭、停业、关门  shut down 关闭、停业
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
@@ -167,7 +172,7 @@
 - sleuth 足迹、警犬、侦探
 - slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
 - slide 滑落、下跌、滑行、贬值、衰落
-- slight 轻微的、略微的、微小的、细小的、无需重视的、不足为道的、轻蔑、忽视、怠慢、冷落
+- slight a.轻微的、略微的、微小的、细小的、无需重视的、不足为道的、v.轻蔑、忽视、怠慢、冷落
 - slink v.溜走、溜
 - slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
 - sliver n.薄片、小块、v.切薄片
@@ -180,6 +185,7 @@
 - slump n.骤降、锐减、衰退、萧条期、v.骤降、锐减
 - smash v.粉碎、打破、n.打碎、ad.轰然
 - smear v.弄脏、涂抹、污蔑、诋毁、摧毁、n.污迹、污渍、污点
+- smooth [smuːð] a.平整的、平坦的、光滑的、顺利的、平和的、v.使平整、使光滑
 - smoothly 平稳地、顺利地、平静地、自信地
 - snack n.点心、小吃、快餐
 - snap v.断裂、折断、呵斥、拍快照、快速传球、a.匆忙的、仓促的
@@ -214,6 +220,7 @@
 - source n.来源、出处、根源、起源、v.(从...)获得
 - sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
 - spaghetti n.意大利面条
+- Spain [speɪn] n.西班牙
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - spatial a.空间的
@@ -227,6 +234,7 @@
 - specification 规格、规范、明细单、说明书
 - specify 具体说明、明确规定、详述、详列
 - spectacle n.壮观的景象、壮观的场面、光景、景象
+- spectrum [ˈspektrəm] n.光谱、波谱、范围、系列
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - speech n.演讲、发言
@@ -238,6 +246,7 @@
 - spirit n.精神、心灵、情绪
 - spit v.吐、吐出、n.唾液
 - spite n.恶意、怨恨、v.欺负、刁难  in spite of 虽然、尽管
+- split n/v.分裂、划分
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
@@ -257,7 +266,9 @@
 - stability n.稳定性、稳定、稳固
 - stadium [ˈsteɪdiəm] n.(露天)体育场、运动场
 - staff n.员工、v.在...工作、任职于
-- stage 阶段、步骤、举办、举行、组织、筹划、使发生、使出现
+- stag n.雄鹿
+- stage n.阶段、步骤、舞台、v.举办、举行、组织、筹划、使发生、使出现
+- stagger n/v.蹒跚、动摇、犹豫、摇晃
 - stair n.楼梯
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
@@ -285,6 +296,7 @@
 - stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、v.对...产生成见、把...浇筑成铅版
 - steward [ˈstjuːəd] n.乘务员、管家
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
+- stickness n.黏性
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋、促使
 - stimulation n.激励、兴奋
@@ -295,6 +307,7 @@
 - stitch 缝、缝合
 - stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
 - stockpile n.库存、储备、v.大量储备
+- stop v.停止、n.车站
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
 - stove [stəʊv] n.火炉、炉子
@@ -342,6 +355,7 @@
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subtract 减、减去、扣除
 - suburb n.郊区、城外
+- suburban a.郊区的
 - succeed v.成功、继承
 - success n.成功
 - successful a.成功的
@@ -349,9 +363,9 @@
 - succession n.一连串、一系列、继承、继任、继承人、继承权
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
 - sudden a.突然的、忽然的
-- suffer v.受苦、受难、遭受、忍受
+- suffer [ˈsʌfə(r)] v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
-- sufficent a.足够的、充足的、充分的、n.足量、充足
+- sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足
 - suffix n.后缀
 - suggest v.建议、暗示、表明、启示
 - suicide [ˈsuːɪsaɪd] n/v.自杀
@@ -381,6 +395,7 @@
 - suppose v.认为、假定、猜想
 - suppress [səˈpres] v.镇压、压制、抑制、止住、忍住
 - sure a.确信的、可靠的、不可避免的、ad.当然、确实、的确 be sure to do sth 一定要、务必 for sure 肯定、无疑 make sure 查明、弄清、确保、保证 to be sure 诚然、固然、无可否认
+- surefire a.万无一失的、必定成功的
 - surety n.保证人、担保人、保证金
 - surf v.冲浪、(互联网上)浏览、n.海浪、浪花
 - surface n.表面、台面、外表、v.露面、浮出水面
@@ -389,6 +404,7 @@
 - surrogate [ˈsʌrəɡət] n.代理、代表、代孕、a.代理的、替代的、代用的
 - surveillance [sɜːrˈveɪləns] n.监控、监视
 - survey n.调查、测量、勘测、审查、概述、v.民意调查、测量、勘测、概述
+- survival n.幸存、幸存者、残余物
 - survive v.幸存、幸免于难
 - susceptibility n.易感性、敏感性、过敏性
 - susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的、易受感动的

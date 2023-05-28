@@ -28,10 +28,12 @@
 - farther n.父亲、创始人、v.创立、发明
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fat [fæt] n.脂肪、a.胖的、肥胖的
-- fatal [ˈfeɪtl] a.致命的、严重的、毁灭性的
+- fate n.命运、注定
+- fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、v.发现错误
-- favor n/v.支持、赞成、喜爱、偏爱
+- favor n/v.恩惠、支持、赞成、喜爱、偏爱
 - favorable a.有利的、赞同的、讨人喜欢的、从优
+- favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
 - fear n/v.害怕、恐惧
 - feasible a.可行的、行得通的
 - feasibility 可行性、可能性、现实性
@@ -52,7 +54,10 @@
 - fest n.节日、集会
 - festival n.节日、a.节日的
 - fetch 取来、拿来
+- feudal [ˈfjuːdl] a.封建的
+- feudalism [ˈfjuːdəlɪzəm] n.封建主义
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
+- few 很少、几乎没有
 - fiber [faɪbə] n.光纤、纤维
 - fictile a.陶土制的、n.陶制品
 - fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
@@ -93,6 +98,7 @@
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感
 - fluent a.流利的、流畅的
+- foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
 - foe n.敌人、仇敌
 - fold v.折叠  eightfold 八倍、八重

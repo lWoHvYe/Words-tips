@@ -21,6 +21,7 @@
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
 - offset v.抵消、弥补、补偿、n.抵消、补偿、平版印刷、a.胶印的
 - offshore a.海上的、近海的
+- olive n.橄榄、橄榄色、橄榄绿、黄褐色
 - omen n.征兆、预兆
 - omit 省略、遗漏、删除、未能做
 - omission [əˈmɪʃn] n.省略、遗漏、疏忽、删除
@@ -53,6 +54,7 @@
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标
+- organ [ˈɔːɡən] n.器官、风琴
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
 - original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
@@ -86,6 +88,7 @@
 - overturn v.颠覆、使垮台、推翻、撤销(判决)
 - overwhelm v.压倒、淹没、压垮
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的
+- owe [əʊ] v.欠(债)、归功于、归因于
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气
 - oxytocin/pitocin [ˌɑksəˈtoʊsən] n.催产素

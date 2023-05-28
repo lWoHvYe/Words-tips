@@ -2,9 +2,11 @@
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
+- dead a.死亡的、无活力的
 - deadline n.截止时间、最后期限
 - deal n/v.处理、协议、大量、许多、待遇、交易、发牌
 - dean n.教长、学院院长、系主任
+- death n.死亡、死神
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt [det] n.债务、借款、欠款、罪、过失
 - decade 十年、十年期
@@ -15,7 +17,7 @@
 - decision [dɪˈsɪʒn] n.决定、决策、做决定
 - declare v.声明、宣布、表明、断言
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
-- decode 解码、破译、译解
+- decode v.解码、破译、译解
 - decommission v.拆解、使退役
 - decorate [ˈdekəreɪt] v.装饰、点缀、粉刷、授予(某人)勋章、布置
 - decouple v.分离、隔断、解耦
@@ -32,7 +34,7 @@
 - defend v.防御、保护、防卫
 - defendant n.被告、a.被告的、辩护的
 - defensive a.防御的、保护的、辩护的
-- defer 推迟、拖延、延期、服从、使推迟、使延期
+- defer [dɪˈfɜː(r)] v.推迟、拖延、延期、服从、使推迟、使延期
 - deference 尊敬、尊重、遵从
 - define v.给...下定义、界定、明确、阐述
 - definite a.肯定的、确定的、明确的、n.肯定的人或事
@@ -68,6 +70,7 @@
 - denote v.标志、预示、象征、表示、代表
 - dense a.密集的、稠密的、浓厚的
 - density n.密集、稠密、密度
+- deny v.否定、否认、拒绝
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
 - department n.(政府的)部、局、部门、(大学的)院系
@@ -91,7 +94,7 @@
 - deserve v.应受、值得
 - design v.设计、构思、意图、n.设计、图样
 - designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
-- desirable a.向往的、可取的、令人满意的
+- desirable a.向往的、可取的、令人满意的、值得拥有的
 - desire n/v.渴望、希望、欲望、愿望
 - desist [dɪˈzɪst] v.停止、结束
 - despair n/v.绝望、失望
@@ -123,8 +126,11 @@
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - dictate v.口述、命令、决定、支配、n.命令、规定
 - dictation n.口述、听写
-- die 死亡、凋零、渴望、盼望、模具、冲模、压模
+- dictator n.独裁者
+- dictatorship [ˌdɪkˈteɪtəʃɪp] n.专政、独裁
+- die v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失
 - diet 日常饮食、规定饮食、节制饮食
+- difference n.差别、差异、差数、差额
 - difficult a.困难的、艰难的、麻烦的
 - diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
@@ -142,7 +148,7 @@
 - dip v.浸、蘸、下沉、下降、n.浸、蘸、洗澡 dip into 浏览、翻看、把手伸进(...里取东西)、提取(款项)、动用(存款)
 - direct [dəˈrekt] a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
-- director 导演、主管、主任、董事、理事
+- director n.导演、主管、主任、董事、理事
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
 - disable v.使无效、使丧失能力
@@ -163,6 +169,7 @@
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
+- disease [dɪˈziːz] n.疾病
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
 - dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
@@ -176,12 +183,13 @@
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
 - disposition n.性格、性情、倾向、布置、排列、处置
-- dispute v.辩论、争论、纠纷
+- dispute n/v.辩论、争论、纠纷
 - disregard n/v.忽视、漠视、不顾
 - disrupt v.扰乱、打乱、中断、瓦解、击穿、使中断、a.混乱的、瓦解的、分裂的、中断的
 - disruptive a.破坏性的、颠覆性的
 - dissolve [dɪˈzɒlv] v.溶解、解除(婚姻关系)、终止(商业协议)、解散、消除、除去
 - distance n.距离、间距、v.疏远、拉开距离
+- distasteful a.讨厌的、令人反感的
 - distinct a.不同的、明显的、清楚的、明白的、确切的
 - distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
@@ -196,9 +204,9 @@
 - diverse [daɪˈvɜːrs] a.多种多样的、不用的
 - diversity n.差异、不同、多样性、多样化
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
-- divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异 class divide 阶级差异
+- divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异  class divide 阶级差异
 - dividend n.红利、股息
-- division 分开、分隔、分配、除（法）
+- division 分开、分隔、分配、除（法）  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
 - divorce n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
@@ -227,6 +235,8 @@
 - drastic a.激烈的、猛烈的、极端的、严厉的、彻底的
 - draw v.绘画、拖、拉、吸引、提取、抽出、抽签、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税
+- drawn a.憔悴的、苍白的
+- drawn-out 持久的
 - dress [dres] n.连衣裙、礼服、v.穿衣、打扮
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill 训练、操练、演习、钻、钻头

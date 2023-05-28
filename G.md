@@ -1,6 +1,7 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
 - gallery 画廊、走廊、长廊
 - gamble [ˈɡæmbl] n/v.赌博
+- game n.游戏、比赛、猎物、v.打赌
 - gap n.缺口、间隙、分歧、隔阂、空白
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment [ˈɡɑːmənt] n.服装、(一件)衣服、v.给...穿衣服
@@ -52,14 +53,18 @@
 - granularity 粒度
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
+- gratify v.满足、使高兴、使满意
 - gratitude n.感谢、感激
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
 - greatness n.伟大、崇高、著名
+- greed n.贪婪
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groan [ɡrəʊn] n/v.呻吟、叹息
+- grocer n.杂货商
+- grocery [ˈɡrəʊsəri] n.杂货店
 - groom 使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得
 - ground n.地面、地基、基础

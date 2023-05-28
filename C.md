@@ -36,6 +36,7 @@
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
 - carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售    carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干
+- cart n.手推车
 - carve v.雕刻
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
@@ -60,6 +61,7 @@
 - caveat n.警告、告诫、附加说明
 - cease [siːs] v.停止、结束
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
+- celebrity [səˈlebrəti] n.名人、名望、著名
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
 - census [ˈsensəs] n.统计、人口普查、人口调查
@@ -76,6 +78,7 @@
 - certainty n.确信、确定性、确定的事、必然的事
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
 - certify v.证明、证实、颁发证书
+- chain n.链条、连锁
 - chalk n.粉笔
 - challenge n/v.挑战、质疑
 - champion n.冠军、得胜者、拥护者、勇士、v.捍卫、声援
@@ -90,15 +93,18 @@
 - character n.性格、特点、角色、文字、字母、符号
 - characterise/characterize v.表示...的特征、以...为特征、描述...的特性
 - characteristic n.特征、特点、品质、a.特有的、典型的、独特的
-- charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、控诉、充电 in charge of 负责、掌管 be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
+- charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、要价、收费、控诉、充电  in charge of 负责、掌管  be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
 - charity n.慈善机构、慈善、施舍
-- chart n.图表、v.记录、跟踪、绘制地图  pit chart 饼图 bar chart 条形图 line chart 折线图
+- chart n.图表、v.记录、跟踪、绘制地图、制定(计划)  pie chart 饼图 bar chart 条形图 line chart 折线图
+- charter [ˈtʃɑːtə(r)] n.宪章、许可证、v.发...许可证、特许设立、租用
 - chase v.追求、追赶、追捕、努力获得、争取得到、n.追赶、追捕、打猎、猎物
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令
+- chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品
+- chest n.胸腔、胸部
 - chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
@@ -148,7 +154,7 @@
 - coastal a.沿海的、海岸的
 - cock n.公鸡
 - cocktail n.鸡尾酒
-- code n.密码、电码、代码、编码、道德准则、行为规范、法典、v.为...编码、编程序  code of conduct 行为准则
+- code n.密码、电码、代码、编码、道德准则、行为规范、法典、v.为...编码、编程序  code of conduct 行为准则  QR Code - Quick Response Code 二维码
 - codec 编解码器
 - codify v.编撰、把...编成法典
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
@@ -165,7 +171,7 @@
 - collateral n.抵押品、a.附属的
 - collateralize v.以...作抵押
 - colleague 同事
-- collect v.收集、聚集、收藏
+- collect v.收集、聚集、收藏、募捐、募集
 - collective a.集体的、共有的、共同的、n.集体、集团
 - college n.大学
 - collide [kəˈlaɪd] v.碰撞、冲突、抵触
@@ -181,6 +187,7 @@
 - come v.来到、到达、开始、发生、prep.到来
 - comedy n.喜剧
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
+- comma n.逗号
 - commence 开始、着手、发源、获得学位
 - commensurate a.相等的、相称的、相当的
 - comment n.议论、评论、注释、意见、说明、v.表达意见
@@ -257,13 +264,17 @@
 - conditional a.条件的、有条件的、附带条件的  conditional on/upon 依/视...而定 = depend on/upon
 - conduct [kənˈdʌkt]/[ˈkɒndʌkt] n.行为、举止、品行、引导、v.执行、引导、安排、组织、管理、进行、传导
 - conductor [kənˈdʌktə(r)] n.导体、指挥、列车长、售票员
-- conference n.会议、讨论、研讨会
+- confer [kənˈfɜː(r)] v.参考、协商、授予、赋予
+- conference [ˈkɒnfərəns] n.会议、讨论、研讨会
 - conficence n.信任、信赖、信心
 - confident a.自信的、确信的、有把握的、大胆的、过分自信的、n.知己
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
 - confine v.限制、限定、监禁、禁闭、n.限制、界限、范围、边界
+- conflate [kənˈfleɪt] v.合并、混合
 - conflict [ˈkɒnflɪkt/kənˈflɪkt] n/v.冲突、抵触
+- confluence [ˈkɒnfluəns] n.汇合、交汇处
+- confluent a.汇合的
 - conform v.符合、遵守、相一致、相吻合
 - confuse v.困惑、迷惑
 - congest v.拥挤、使充血
@@ -342,6 +353,8 @@
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
 - convert v.转变、转换、兑换
 - convey [kənˈveɪ] v.传送、输送、表达、传达
+- convict [kənˈvɪkt/ˈkɒnvɪkt] n.罪犯、v.定罪、宣判...有罪
+- conviction n.定罪、信念、确信、说服
 - convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
@@ -367,7 +380,8 @@
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
-- counterparty 对手方、合同的一方、合约对方、交易对方
+- counterpart n.对应方、职位相当的人
+- counterparty n.对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对
 - coupon n.优惠券、息票
 - courage n.勇气
@@ -380,6 +394,7 @@
 - craft n.工艺、手艺、技巧、技能、v.精心制作
 - crash n/v.崩溃、碰撞、倒闭、破产、暴跌、a.应急的、速成的
 - crave v.渴望、热望、恳求
+- crawl v.爬行
 - cream n.奶油、乳霜、a.奶油色的、米色的
 - crease n.折痕、褶痕、v.弄皱、压褶
 - credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书
@@ -400,6 +415,7 @@
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crunch v.嚼、碾、处理信息
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
+- crush v.压坏、压碎、捣碎、弄皱、n.热恋、迷恋
 - crypto 加密货币
 - cryptography 密码学、密码术
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮

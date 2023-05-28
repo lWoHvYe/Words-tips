@@ -1,9 +1,11 @@
 - pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏  at ... pace 以...速度
 - pacify v.安抚、平息、使平静
+- pack n.包裹、v.打包
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
+- panic n/v.惊恐、恐慌
 - panorama [ˌpænəˈrɑːmə] n.全景、全景画
 - paper n.纸张、资料、文件、文献、论文、报纸、试卷
 - parachute n.降落伞、保护伞、v.空降、空投
@@ -22,6 +24,7 @@
 - participate v.参加、参与
 - particular a.特定的、特别的、特殊的、n.细节、详情
 - partition 隔断、分隔、瓜分、使分裂、分区
+- party n.聚会、政党、v.举行聚会
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
 - passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
@@ -44,7 +47,7 @@
 - peer n.同辈人、同行、v.仔细看、仔细检查、端详
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
-- penalty n.刑罚、处罚、害处、不利
+- penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
 - penny n.便士、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
 - pensive a.沉思的
@@ -85,7 +88,7 @@
 - phantom n.幻影、幻像、幽灵、幻觉
 - pharmaceutical [ˌfɑːməˈsuːtɪkl] a.制药的、药物的
 - pharmacy [ˈfɑːməsi] n.药房
-- phase [feɪz] n.阶段、时期、v.分阶段做、逐步做
+- phase [feɪz] n.阶段、时期、相、相位、v.分阶段做、逐步做
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
 - philosophy [fəˈlɒsəfi] n.哲学
@@ -103,7 +106,9 @@
 - pillar n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
+- pink n.粉红色
 - pipeline n.管道、管线 in the pipeline 在筹备中
+- pit n.矿井
 - pitfall 陷阱、诱惑、圈套、困境、危险、隐患
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
@@ -135,6 +140,7 @@
 - policy  政策、策略
 - political a.政治的、政府的、政权的
 - politician n.政治家、政客
+- poll v.投票、民意调查
 - pollen n.花粉
 - pollute v.污染、弄脏
 - polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
@@ -165,8 +171,9 @@
 - postscript n.附言、后记
 - posture [ˈpɒstʃə(r)] n.姿势、态度、看法、立场、v.故作姿态、装模作样
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
-- pound n. £ 英镑、v.砰砰的跳
+- pound n. £ 英镑、v.砰砰的跳、反复击打、捣碎
 - pour 倾、倾泻、涌出、大雨、浇筑
+- poverty [ˈpɒvəti] n.贫困
 - power n.能力、权力、力量、有影响力的大国、幂、乘方、v.驱动、推动、运转
 - practical a.实践的、实际的、切实可行的、有用的、n.实验课、实践课
 - practicality n.实践性、可行性、实事求是、实际情况
@@ -209,9 +216,11 @@
 - president n.总统、国家主席、会长、院长、银行行长、董事长、总裁
 - press v.按、压、逼迫、催促、坚持、n.报刊、出版机构、压榨机
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
+- prestige [preˈstiːʒ] n.威信、威望、显赫
+- presume v.假定、推测、设想
 - presuppose v.预设、假设、以...为前提
 - pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
-- pretty a.漂亮的、精致的
+- pretty a.漂亮的、精致的、美观的、ad.相当、很、非常
 - prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败、占优势
 - prevalent a.流行的、盛行的、普遍存在的
 - prevent v.防止、阻止、阻碍、阻挠
@@ -244,8 +253,12 @@
 - proceed v.继续、进行、前进、n.收入、获利
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - prod n/v.戳、催促、鼓动、提醒
+- produce n/v.生产、制造
+- product n.产品、乘积
+- profess [prəˈfes] v.宣称、声称、信奉
 - profession n.职业、行业、同行、宣称、声明、表白
 - professional a.职业的、专业的、n.专业人士、专家
+- professor n.教授、讲师
 - proficient [prəˈfɪʃnt] a.精通的、熟练的
 - profile n.侧面、轮廓、外形、形象、印象、简介、引入注目、v.扼要介绍、概述
 - profit n.利润、收益、红利、赢利、好处、v.获益、对...有益  net profit 净利润  gross profit 毛利润  profit margin 利润率
@@ -288,6 +301,7 @@
 - protest n/v.抗议、反对
 - protocol n.协议、礼仪、草案、规程、规约、v.拟
 - prototype 原型、雏形、蓝本
+- protrude [prəˈtruːd] v.突出、伸出、鼓出
 - proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是
 - provided conj.假如、如果、在...条件下
@@ -298,7 +312,9 @@
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
-- psychology 心理学、心理状态、心理特征、心理影响
+- psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
+- psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响
+- pub n.酒吧
 - puberty n.青春期
 - publicize v.宣称、推广、宣扬、传播
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子

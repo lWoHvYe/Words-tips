@@ -13,15 +13,18 @@
 - wardrobe [ˈwɔːdrəʊb] n.衣橱
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
+- warrant n.许可证、授权令、执行令、凭据
 - wash [wɒʃ] n/v.洗、流动
+- waste n/v.浪费、滥用
 - watershed n.流域、分水岭、转折点
 - wave n.波动、波浪、v.挥手、招手
 - weak a.虚弱的
-- wealth 财产、财富、丰富、大量
+- wealth n.财产、财富、丰富、大量
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave 编织、编排
 - web n.网、网络、v.在...上织网、用网缠住
 - weigh [weɪ] v.权衡、称重
+- weld v.焊接、n.焊接点
 - welfare n.福利、幸福
 - wellbeing n.健康、幸福
 - whereas n.鉴于、conj.然而、但是、尽管
@@ -30,6 +33,7 @@
 - whilst conj/ad.同时、直到、虽然、尽管
 - whip n.鞭子、v.鞭打、鞭策、搅打(奶油、鸡蛋)
 - white n.白色、a.白色的、v.使变白
+- whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
 - widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  wildcard 通配符
@@ -54,7 +58,7 @@
 - workaround n.应变方法、变通方法
 - workforce 劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
-- worse 更坏、更糟、更坏的、恶化的、严重的
+- worse ad.更坏、更糟、a.更坏的、恶化的、严重的
 - worth a.值得的、有...价值、n.价值、财富、财产
 - worthy a.值得的、值得尊敬的、有价值的、n.杰出人物、知名人士
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷

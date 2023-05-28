@@ -9,6 +9,7 @@
 - ideology n.思想、意识形态、空想、空论
 - idiosyncracy n.特质
 - idiosyncratic [ˌɪdiəsɪŋˈkrætɪk] a.乖僻的、怪异的、特质的
+- idiot [ˈɪdiət] n.白痴、傻瓜、笨蛋
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
 - if conj.如果、假设、是否
@@ -43,7 +44,7 @@
 - impedance n.阻抗
 - impediment n.阻碍、障碍
 - impel v.促使、推动
-- imperative a.迫切的、急迫的、n.必要的事
+- imperative a.迫切的、急迫的、n.必要的事、祈使语气
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement 实施、执行、使生效、实现、落地、工具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
@@ -97,6 +98,7 @@
 - inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
 - inherent a.固有的、内在的
 - inherit v.继承、接替、继任
+- initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət] v.开始、发起、创始
 - infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
 - infer v.推论、推理、推断、暗示、意指
 - inference n.推论、推理、推断
@@ -123,6 +125,7 @@
 - inject 注射、注入
 - injure v.损害、伤害
 - injury n.损伤、伤害
+- innermost a.内心深处的
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
 - innocuous a.无恶意的、无害的
 - innovate [ˈɪnəveɪt] v.引入(新事物、思想或方法)、改革、创新
@@ -134,6 +137,7 @@
 - insidious [ɪnˈsɪdiəs] a.阴险的、潜伏的
 - insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
+- insulate [ˈɪnsjuleɪt] v.使隔离、使孤立、使绝缘、使隔热 
 - inspect v.检查、视察
 - inspire v.鼓励、激励、启迪
 - inspite of 尽管、即使
@@ -204,7 +208,8 @@
 - introduction n.介绍、引进、推行、引言、序言、导论
 - introductory a.引导的、介绍的、入门的、初步的
 - introspect v.反思、内省、自省
-- intrude v.闯入、侵入、打扰、侵扰、扰乱
+- intrude [ɪnˈtruːd] v.闯入、侵入、打扰、侵扰、扰乱
+- intrusive a.侵入的、侵扰的、插入的
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invade v.入侵、侵略
 - invasion n.侵略、侵犯

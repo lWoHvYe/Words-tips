@@ -7,6 +7,7 @@
 - abrupt a.陡峭的、突然的、生硬的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
+- absolutism n.专制主义
 - absorb [əbˈzɔːb] v.吸收、理解、掌握
 - abstain 弃权、戒除、离开、回避
 - abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
@@ -148,6 +149,7 @@
 - alternative a.替代的、另类的、备选的、其他的、 n.可供选择的事物
 - altitude n.海拔
 - amateur [ˈæmətə(r)] a.业余的、n.业余爱好者、外行、生手
+- Amazon [ˈæməzən] n.亚马逊
 - amber 琥珀、琥珀色
 - ambiguity [ˌæmbɪˈɡjuːəti] n.含糊、模棱两可、歧义
 - ambiguous [æmˈbɪɡjuəs] a.模棱两可的、含糊不清的、不明确的
@@ -159,6 +161,7 @@
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
+- amuse v.娱乐、消遣
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogous a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
@@ -228,6 +231,7 @@
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
+- Asia ['eɪʒə] n.亚洲
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - aspire v.渴望
@@ -274,6 +278,7 @@
 - attractiveness n.吸引力
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
+- auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
 - augment [ɔːɡˈment] v.扩大、增加、提高、加强
 - authentic [ɔːˈθentɪk] a.真正的、真实的
 - authenticate v.证明...是真实的、证实

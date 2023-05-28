@@ -21,8 +21,9 @@
 - tear [teə(r)] v.撕裂、扯破、拉伤、[tɪə(r)] n.破洞、裂口、眼泪💧、泪水  过去式 tore、过去分词 torn
 - tease [tiːz] n/v.戏弄、(out)梳理
 - tech [tek] n.技术
-- technical  技术的、技术性
-- technology n.技术、科技、工程技术、技术学
+- technical [ˈteknɪkl] a,技术的、专业的、技术性的
+- technological [ˌteknəˈlɒdʒɪkl] a.技术的、科技的
+- technology [tekˈnɒlədʒi] n.技术、科技、工程技术、技术学
 - teenage a.十几岁的、青少年的
 - telemetry n.遥测、遥感勘测
 - teleology n.目的论
@@ -30,6 +31,7 @@
 - temper n.脾气、怒气、v.使缓和、使温和
 - temperate a.温带的、温和的
 - temperature n.温度、气温、体温
+- tempo n.速度、节拍
 - temporal a.世俗的、现世的
 - temporary 短暂的、暂时的、临时工
 - tempt v.引诱、诱惑、怂恿
@@ -87,13 +89,15 @@
 - tide n.潮汐、潮流、趋势
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier n.层、级、阶层、等级、v.层层排列、层叠
-- tight a.牢固的、紧的、严格的、疼痛的、不适的、亲密的、势均力敌的、小气的、紧紧地、牢固地、n.紧身衣
+- tight a.牢固的、紧的、紧张的、严格的、紧密的、紧身的、亲密的、n.紧身衣
 - tighten v.收紧
 - timeless a.永恒的、永久的
 - tin n.锡、罐、v.镀锡
+- tiny a.极小的、微小的  tinier(比较级)
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
+- toddle v.蹒跚行走
 - toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
 - tolerate 容许、允许、容忍
@@ -127,9 +131,9 @@
 - transcript 成绩单、抄本、誉本、打印本、剧本
 - transducer 传感器、变频器
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
-- transform 变换、改变、改观
+- transform v.变换、转换、改变、改观
 - transient a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
-- transition n.过渡、转变、变革、变迁
+- transition [trænˈzɪʃn] n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
 - translate v.翻译、转化、解释
 - translator n.翻译、翻译家、译员
@@ -171,6 +175,7 @@
 - tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
+- twist v.扭曲、使弯曲
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
 - type n.种类、类型、字体、字形、v.打字
 - typewriter n.打字机

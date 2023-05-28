@@ -19,3 +19,4 @@
 - quota n.定量、定额、配额、限额、指标
 - quote v.引用、引述、n.引用、引号
 - quotation n.引用、引号、市价、行情
+- quotient n.商

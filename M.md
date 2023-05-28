@@ -1,5 +1,6 @@
 - machine [məˈʃiːn] n.机械、v.制造、加工成型
 - macro n.宏、宏指令、a.广大的、宏观的、巨大的、极厚的、特别突出的、大量使用的
+- madam [ˈmædəm] n.夫人、女士、小姐
 - magazine n.杂志、期刊、弹药库
 - magical a.神奇的、有魔力的
 - magnify v.放大、增强、夸大、扩大
@@ -14,6 +15,7 @@
 - majority n.大部分、大多数、成年、法定年龄
 - make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产
 - makeup n.化妆品、性格、组成、构成
+- maladapted a.不适应的、不适合的
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
@@ -118,7 +120,7 @@
 - minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
-- miss n.女士、小姐、失误、v.未击中、错过
+- miss n.女士、小姐（未婚）、失误、v.未击中、错过
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
 - misuse [ˌmɪsˈjuːs]/[ˌmɪsˈjuːz] n/v.滥用、误用
@@ -159,7 +161,8 @@
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
-- mortal n.凡人、普通人、a.致命的、不共戴天的
+- mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
+- mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因

@@ -57,19 +57,23 @@
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
 - recruit v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
+- rectify v.矫正、纠正
 - recur v.复发、重现
 - recursive 递归的、循环的
 - redeem v.兑换、偿还、赎回
 - redirect v.使改变方向、重定向
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
-- refer v.提到、针对、参考、提及、涉及
+- refer [rɪˈfɜː(r)] v.提到、针对、参考、提及、涉及
+- reference [ˈrefrəns] n.参考、参照、引文、谈到、提及、关系、关联、参考书、推荐信、a.参考的
 - reference data n.参考数据、引用数据、基准数据
 - refinance v.再筹资金、再融资
 - refine v.精炼、提炼、改进、改善
 - reflect v.反射、反映
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain v.抑制、避免、克制、节制
+- refuge n/v.庇护、避难
+- refugee n.难民
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝
 - refuse v.拒绝、回绝、推却、n.垃圾、废弃物
@@ -136,8 +140,8 @@
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
-- repute n.名誉、名声、v.把...称为、认为
-- reputation n.名誉、名声
+- repute [rɪˈpjuːt] n.名誉、名声、v.把...称为、认为
+- reputation [ˌrepjuˈteɪʃn] n.名誉、名声
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
@@ -184,6 +188,7 @@
 - retrieval n.检索、取回、挽回
 - retrieve v.检索、取回、挽回、恢复
 - retrograde v.逆行、倒退、a.倒退的、退化的、退步的
+- retrospect [ˈretrəspekt] n.回顾、回想  in retrospect 回顾、回想
 - return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
 - reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
@@ -195,6 +200,8 @@
 - review n/vt.回顾、复习、评论、评审、审查、报告、汇报
 - revise v.修订、修正、改变、复习、校订
 - revision n.修订、修改、校对、复习、温习
+- revival n.复兴、振兴、复苏
+- revive [rɪˈvaɪv] v.苏醒、复活、复苏、重新使用、重新做、重新上演
 - revocation n.撤销、废除
 - revoke v.撤销、取消、废除、使无效
 - revolution n.革命、变革、旋转、运行、公转
@@ -208,6 +215,7 @@
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
 - rival n.竞争对手、v.与...相匹敌、比得上、a.竞争的、对立的
+- roast v.烤、n.烤肉
 - robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动

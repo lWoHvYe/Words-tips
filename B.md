@@ -3,13 +3,15 @@
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward 落后的、向后的、反向的、倒退的、进步缓慢的、向后、倒
 - backload v.(签订协议后)增加费用
+- bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
-- ban n.禁令、v.禁止、取缔
+- ban [bæn] n.禁令、v.禁止、取缔
 - band n.乐队、管弦乐
 - bandwidth n.带宽
+- bang n.砰的一声、巨响、猛击、猛撞、v.猛击、猛撞
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
 - bankrupt [ˈbæŋkrʌpt] a.破产、倒闭、完全缺乏、n.破产者、v.使破产
 - bar n.酒吧、条
@@ -19,10 +21,11 @@
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
 - basic a.基本的、初步的、必须的
 - basis n.基础、根据、原因、缘由
-- battery 电池、蓄电池、一组、一套
+- battery n.电池、蓄电池、一组、一套
 - battle n/v.战争、斗争
 - beach n.海滩、沙滩、v.上岸
 - beacon [ˈbiːkən] n.信标
+- beam n.光波、波束、v.发射、射出、笑容满面
 - bear n.熊、v.承受、忍受、生育
 - bearing n.关系、影响、姿态、方位、轴承
 - bearer 持票人、持有者、送信人、传授者、传播者
@@ -56,7 +59,7 @@
 - biophilia n.热爱生命的天性
 - bi-temporal n.双时态
 - bitwise n.位运算
-- blame n/v.责备、责怪、指责、n.责任
+- blame n/v.责备、责怪、指责、把...归咎于、n.责任  be to blame for sth 对...负有责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
@@ -64,19 +67,23 @@
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍
+- blow v.吹、刮、打击
 - blueprint n.蓝图
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、变模糊
 - blurry a.模糊的
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
+- boast [bəʊst] n/v.自夸、夸耀
 - boat n.小船、舟
 - boilerplate n.样板
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bolster v.改善、加强、n.靠垫、垫枕
-- bond n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
+- bond [bɒnd] n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
+- bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
 - book 书、本子、预订、登记
-- boom 发出隆隆声、繁荣、快速发展、暴涨、激增、轰鸣、轰响、使繁荣、使迅速发展
+- boom n/v.繁荣、迅速发展、暴涨、激增、轰鸣、轰响  economic boom 经济繁荣  boom and bust 繁荣与萧条  baby boom 婴儿潮
 - boost [buːst] v.促进、增加、提高、偷窃、n.提高、激励、增长
+- boot n.靴子、(汽车后部的)行李箱、v.(+ up)启动(计算机)  boot camp 新兵训练营
 - booth n.售货棚、摊位、公共电话亭
 - border n.边框、边界、v.和...毗邻、成为...的界线、给...镶边
 - bore v.令人厌烦、钻孔、盯着看、n.令人厌烦的人或事、孔、内径、口径
@@ -107,7 +114,7 @@
 - brush n.刷子、画笔、v.刷、掠过、轻触  hair brushing 梳头
 - brutal a.残酷的、残暴的、野蛮的
 - brutality n.残忍、野蛮
-- bubble n.泡、气泡、泡沫、v.起泡、冒泡、洋溢着
+- bubble n.泡、气泡、泡沫、妄想、经济泡沫、v.起泡、冒泡、洋溢着
 - bucket 桶、一桶(的量)
 - budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的
 - bulk [bʌlk] 体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
@@ -123,6 +130,8 @@
 - burst [bɜːrst] v.爆裂、胀开、爆满
 - bury [ˈberi] v.埋葬、埋藏
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏
+- buy v.买、购买、买通、收买、贿赂、相信、接受、n.购买
+- buy into 买进、入股
+- buy up 买断、囤积、全部买下某物、收购
 - buyout 全部买下、买下、控制股权收购
-- buy up 买断、囤积
 - bypass n.旁路、旁道、心脏搭桥手术、v.绕过、避开  bypass operation 心脏搭桥手术

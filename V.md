@@ -41,6 +41,7 @@
 - victim 受害者、牺牲品、上当的人、祭品、牺牲
 - victory n.成功、胜利
 - view n.看法、视野、见解、态度、景色、风景、v.看待 view as 认为、视为、视作
+- vigorous [ˈvɪɡərəs] a.充满活力的、精力充沛的、强壮的、强健的、果断的
 - vintage a.酿造的、优质的、上等的、最好的
 - violate [ˈvaɪəleɪt] v.违反、侵犯、亵渎
 - violation n.违反、违章、侵犯
@@ -58,6 +59,7 @@
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vitamin n.维生素
+- vivid a.生动的
 - vocabulary n.词汇量、词汇表
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
