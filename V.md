@@ -34,7 +34,7 @@
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
-- vet 审查、仔细检查、兽医
+- vet v.审查、仔细检查、n.兽医
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
 - vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的
@@ -52,6 +52,7 @@
 - virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
+- virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠
 - visible a.可见的、明显的、n.现实世界
 - vision n.视力、视野、画面、幻象、观点、v.想象
 - visor n.面罩、遮阳板

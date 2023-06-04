@@ -20,6 +20,7 @@
 - wave n.波动、波浪、v.挥手、招手
 - weak a.虚弱的
 - wealth n.财产、财富、丰富、大量
+- weapon [ˈwepən] n.武器、兵器、v.武装、提供武器
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave 编织、编排
 - web n.网、网络、v.在...上织网、用网缠住
@@ -27,6 +28,7 @@
 - weld v.焊接、n.焊接点
 - welfare n.福利、幸福
 - wellbeing n.健康、幸福
+- whelm v.淹没、压倒、覆盖
 - whereas n.鉴于、conj.然而、但是、尽管
 - whereby ad.凭此、借以
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
@@ -35,6 +37,7 @@
 - white n.白色、a.白色的、v.使变白
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
+- widespread a.普遍的、广泛的
 - widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  wildcard 通配符
 - wilderness n.荒野
@@ -52,6 +55,8 @@
 - wistful a.渴望的、伤感的
 - wit n.机智、才智、智慧、头脑、v.知道 wist
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
+- woman [ˈwʊmən] n.妇女、女人
+- women [ˈwɪmɪn] n. woman的复数
 - wonder [ˈwʌndə(r)] v.想知道、想弄明白、好奇、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
 - wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
 - wordy a.冗长的、啰嗦的

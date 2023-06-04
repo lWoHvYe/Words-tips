@@ -1,18 +1,21 @@
 - race n/v.赛跑、比赛、竞争、角逐、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
 - racial [ˈreɪʃl] a.种族的
 - radar n.雷达
+- radical a.根本的、彻底的、完全的、激进的
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - raft n.木筏
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
+- rain n.雨、v.下雨
 - raincheck 雨票、延期
 - raise [reɪz] v.提升、举起、提出、提及、增加、筹募、抚养、饲养、终止、解除、n.上升、加薪
 - rally v.召集、集合、n.集会
+- ramp n.斜坡、坡道
 - random a.随机的、无规则的、n.随机、随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的
-- rare a.罕见的、稀少的
+- rare [reə(r)] a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ratio [ˈreɪʃiəʊ] n.比率
 - ration n.定量、定额、合理的量、v.限量供应、配给 
@@ -34,7 +37,7 @@
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - rebound v.反弹
-- recall v.回忆起、召回
+- recall v.回忆起、召回、收回
 - recap 概括、扼要重述、简要回顾、翻新
 - recent a.最近的、近来的、新近的
 - receipt [rɪˈsiːt] n.收据、发票、收入、接收、收到、v.开收据
@@ -42,6 +45,9 @@
 - reception n.接待、招待、招待会、反应、反响
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe n.配方、食谱、处方、秘诀
+- reciprocal [rɪˈsɪprəkl] a.互惠的
+- reciprocate v.回应、回报
+- reciprocity [ˌresɪˈprɒsəti] n.互惠、互助
 - recite v.背诵
 - reck v.顾虑
 - reckless a.鲁莽的、草率的、不计后果的
@@ -58,10 +64,14 @@
 - recreation n.娱乐、消遣
 - recruit v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
 - rectify v.矫正、纠正
-- recur v.复发、重现
-- recursive 递归的、循环的
+- recur v.复发、(尤指不好的事)重现
+- recursion n.递归、递推
+- recursive a.递归的、循环的
 - redeem v.兑换、偿还、赎回
-- redirect v.使改变方向、重定向
+- redirect [ˌriːdəˈrekt/ˈriːdərekt] v.使改变方向、重定向
+- reduce v.减少
+- reduction n.减少、降低、约简、减价、折扣
+- reductor n.复位器、还原剂
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - refactor 重构
 - refer [rɪˈfɜː(r)] v.提到、针对、参考、提及、涉及
@@ -69,9 +79,11 @@
 - reference data n.参考数据、引用数据、基准数据
 - refinance v.再筹资金、再融资
 - refine v.精炼、提炼、改进、改善
-- reflect v.反射、反映
+- reflect v.反射、反映、考虑、仔细思考
+- reflection n.反映、反射、显示、表达、体现
+- reflexion n.反射、反射光、反射作用
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
-- refrain v.抑制、避免、克制、节制
+- refrain v.抑制、避免、克制、节制、n.反复说的话、迭句
 - refuge n/v.庇护、避难
 - refugee n.难民
 - refund n/v.退款、退还
@@ -127,6 +139,7 @@
 - renew v.更新、重新开始、重申、使恢复
 - renewable a.可再生的、n.可再生资源
 - rental 租金、出租、租赁、招租
+- repair [rɪˈpeə(r)] n/v.修理、修补、补救、纠正
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
 - repeal [rɪˈpiːl] n/v.废除、撤销
@@ -180,9 +193,10 @@
 - result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
+- retake v.收复、重拍、重修(课程)、n.补考
 - retain v.保持、保留、持有、聘请、雇佣
 - retarget 重定向、重构、把...作为新目标
-- retention 保持、维持、保留、阻滞、记忆、记忆力
+- retention n.保持、维持、保留、阻滞、记忆、记忆力
 - retire v.退休、撤退、后退
 - retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
 - retrieval n.检索、取回、挽回
@@ -218,6 +232,7 @@
 - roast v.烤、n.烤肉
 - robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
+- robustness n.鲁棒性、健壮性
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - role n.角色、作用、地位、职能
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的

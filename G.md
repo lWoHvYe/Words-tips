@@ -24,11 +24,13 @@
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
+- gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
 - gist 主旨、要点、大意
 - giveaway n.赠品
 - glad a.高兴的、乐意的
 - glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
+- glide n/v.滑行、滑动、滑翔
 - glitch [ɡlɪtʃ] n.差错、小故障
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
 - globe n.地球、球体、地球仪

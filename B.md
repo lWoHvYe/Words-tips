@@ -1,8 +1,10 @@
 - bachelor n.学士、未婚男子、单身汉
 - backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
-- backward 落后的、向后的、反向的、倒退的、进步缓慢的、向后、倒
+- backward a.落后的、向后的、反向的、倒退的、进步缓慢的、v.向后、倒
 - backload v.(签订协议后)增加费用
+- bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
+- bacterium/bacteria(复数) n.细菌
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
@@ -39,6 +41,7 @@
 - belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
+- beneath prep.在下方、在下面、在底下
 - benefactor n.施主、赞助者
 - benefit n.利益、好处、成效、福利、奖金、补助、救济金、v.使受益、得益于、得利于
 - bequest 遗赠、遗产、遗赠物
@@ -66,7 +69,7 @@
 - bless 祝福、赞美
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
-- block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍
+- block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
 - blow v.吹、刮、打击
 - blueprint n.蓝图
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、变模糊
@@ -77,6 +80,7 @@
 - boilerplate n.样板
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bolster v.改善、加强、n.靠垫、垫枕
+- bomb [bɒm] n.炸弹、v.轰炸
 - bond [bɒnd] n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
 - bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
@@ -92,6 +96,7 @@
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
+- boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)
@@ -121,9 +126,10 @@
 - bulkhead n.舱壁、隔板、资源隔离
 - bullet n.子弹
 - bump 碰撞、突然的；bump up 突然增加、提高
+- bundle n.捆、包
 - buoy [bɔɪ] n.浮标、航标、v.鼓舞、鼓励、使浮起、使(价格)上浮
 - buoyant a.看涨的、乐观的
-- burden n.负担、包袱、责任、义务、v.使担负...
+- burden [ˈbɜːdn] n.负担、包袱、责任、义务、v.使担负...
 - burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流

@@ -18,14 +18,15 @@
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
 - negotiate v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
-- nervous [ˈnɜːvəs] a.紧张的、焦虑的
+- nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的
 - nervy a.焦虑的、紧张的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
 - nested a.嵌套的
 - net n.网、网络、净收入、纯利、v.净得、净赚、用网捕获、a.净的、净得的、纯的、网住的、最后的、最终的  net profit 净利润
 - neuroscience 神经科学
+- neural [ˈnjʊərəl/ˈnʊrəl] a.神经的、神经系统的
 - neurotic [njʊəˈrɒtɪk] a.神经质的
-- neutral a.中立的、中性的、空档的、n.中立者、中和色
+- neutral [ˈnjuːtrəl] a.中立的、中性的、不带电的、空档的、n.中立者、中和色
 - nevertheless ad.然而、不过、尽管如此
 - nightmare n.噩梦、梦魇
 - nimble a.灵活的、敏捷的
@@ -38,7 +39,7 @@
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - noop 无操作、空操作
 - norm n.规范、标准、准则、(劳动)定额
-- normal a.正常的、正规的、标准的、n.标准、正常、常态、法线
+- normal a.正常的、正规的、标准的、师范的、n.标准、正常、常态、法线
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
 - notably ad.特别、尤其
 - notation 符号、记号、注释
@@ -50,8 +51,9 @@
 - nourish [ˈnʌrɪʃ] v.抚养、滋养、养育、培养、助长(情绪、观点等)
 - novel n.(长篇)小说、新法、附律、a.新奇的、新颖的、与众不同的、珍奇的、异常的
 - novelist n.小说家
+- novice n.新手、初学者
 - noxious a.有毒的、有害的
-- nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国
+- nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为
 - numerical 数字的、用数字表示的、数值的
 - numerous [ˈnjuːmərəs] a.很多的、许多的、众多的

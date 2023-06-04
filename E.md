@@ -32,6 +32,9 @@
 - electricity [ɪˌlekˈtrɪsəti] n.电、电流、电学
 - electronic a.电子的、电子设备的
 - elegant a.简明的、简洁的、优美的、文雅的
+- element n.要素、元素、电热元件、电阻丝
+- elemental n.元素、基本原理、a.基本的、主要的
+- elementary a.初级的、基本的
 - elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
@@ -79,6 +82,7 @@
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
 - enjoy v.享受、享有
+- enlarge v.扩大、放大、扩充
 - enlighten v.启发、启迪、开导
 - enormous a.巨大的、庞大的、极大的
 - enrich v.充实、使富足、使变肥沃
@@ -162,6 +166,7 @@
 - excellence 优点、优秀、卓越
 - except v.把...除外、不计、prep.除了、conj.除了、只是
 - exception n.例外、除外、(程序中的)异常
+- exceptional a.例外的、杰出的、卓越的、罕见的
 - excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchange n/v.交换、兑换、汇兑
@@ -219,6 +224,7 @@
 - extensive a.广阔的、广大的、大量的、广泛的
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
+- extinct [ɪkˈstɪŋkt] a.灭绝的、绝种的
 - extra a.额外的、附加的、ad.额外、另外
 - extract [ˈekstrækt/ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物、摘录
 - extraction n.取出、提炼、血统、家世

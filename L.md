@@ -11,11 +11,14 @@
 - landmark n.地标、里程碑
 - landscape n.风景、景观、地形、地貌、政治或社会形势
 - lapse 失效、衰退、衰弱、结束、背弃、失足、过失、疏忽
+- large a.大的、大量的、广泛的  at large 在逃的、大多数、一般、普遍
+- largely ad.主要地、多半
 - last a.最后的、最终的、末尾的、最近的、v.持续、延续、持久、够用   
 - lasting a.持久的、耐久的、v.持续、继续、继续存在、持续起作用
 - latch n.门闩、锁
 - latent a.潜在的、潜伏的、隐藏的、休眠的
 - latency 延迟、潜伏、潜在因素
+- lateral [ˈlætərəl] a.侧面的、横向的
 - launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
 - launder [ˈlɔːndə(r)] v.洗、洗(钱)
 - lawsuit n.诉讼、起诉
@@ -49,6 +52,7 @@
 - lever n.操纵杆、杠杆、v.撬动
 - leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购     leverage...to... 利用...来...
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
+- lexical [ˈleksɪkl] a.词汇的
 - liability n.责任、债务、负债、债务
 - liable a.有责任的、有义务的、有...倾向的
 - liberal a.自由的、开明的、慷慨的、n.自由的人、开明的人、自由党成员
@@ -72,6 +76,7 @@
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
 - liquidate v.清算、清盘、偿还、清偿、变卖、变现
 - liquidity n.流动性、流动资金、资产流动性、资产变现能力
+- list n.列表、清单、v.列出、列举
 - lite 清淡的、低盐的、低热量的、精简的
 - literacy n.识字、有文化、读写能力
 - literal a.文学的、照字面的、原义的、字面意义的、平实的、缺乏想象力的

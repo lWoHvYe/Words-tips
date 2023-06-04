@@ -64,6 +64,7 @@
 - adequate a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
+- adjoin v.邻近、毗邻
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
 - administer v.管理、治理、施用
@@ -214,6 +215,8 @@
 - approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
 - arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
 - arbitrary a.随意的、任意的、武断的
+- archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
+- archaeology [ˌɑːkiˈɒlədʒi] n.考古学
 - architecture 体系结构、建筑学、结构
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
@@ -267,6 +270,7 @@
 - atom [ˈætəm] n.原子
 - attach v.附上、贴上
 - attack [əˈtæk] n/v.攻击、袭击、侵袭
+- attain v.达到、获得、得到
 - attempt n/v.努力、尝试、企图
 - attend v.出席、参加、注意、专心
 - attendant n.服务员、侍者、a.伴随的、随之而来的

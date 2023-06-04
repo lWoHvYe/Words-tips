@@ -12,6 +12,7 @@
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
 - tap v.轻敲、轻叩、开发、利用、汲取、n.水龙头
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
+- target n.目标、目标对象、v.以...为目标、把...选做目标
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
 - taxonomy [tækˈsɒnəmi] n.分类学、分类系统
@@ -28,6 +29,7 @@
 - telemetry n.遥测、遥感勘测
 - teleology n.目的论
 - telescope n.望远镜
+- telos 目的
 - temper n.脾气、怒气、v.使缓和、使温和
 - temperate a.温带的、温和的
 - temperature n.温度、气温、体温
@@ -79,6 +81,7 @@
 - thrift n.节约、节俭
 - thrill [θrɪl] n/v.激动、兴奋
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
+- throat n.喉咙、咽喉
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
@@ -106,6 +109,7 @@
 - tombstone n.墓碑、墓石
 - tone n.语气、语调、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
 - tongue n.舌头
+- toolkit n.工具包、工具箱
 - top up 充值
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
@@ -114,6 +118,7 @@
 - tour [tʊə(r)] n/v.旅行、游览、观光
 - tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
 - tout v.标榜、吹捧、吹嘘
+- toward prep.朝向、面对、对于、关于、接近、将近
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
 - trace v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
@@ -149,7 +154,8 @@
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
 - treatment n.治疗、诊治  medical treatment 医疗
 - trek n.徒步旅行、长途跋涉
-- tremendous n.极大的、巨大的、可怕的、惊人的、极好的、了不起的
+- tremble n/v.颤抖
+- tremendous a.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向
 - trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
 - tribute n.礼物、贡品、颂词、体现、显现
@@ -161,6 +167,7 @@
 - trip 旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
+- trivial a.不重要的、琐碎的、微不足道的
 - troupe [truːp] n.剧团、表演团、v.巡回演出
 - trump n.王牌、v.胜过、打败
 - truncate v.截断
@@ -170,7 +177,8 @@
 - tuition n.学费
 - tune n.曲子、曲调、v.调音、调节
 - turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
-- turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是 
+- turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是  trun around 转动、转身、好转、改变意见
+- turnaround n.周转、时限、转机
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
 - tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整

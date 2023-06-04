@@ -15,6 +15,7 @@
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide v.决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] n.决定、决策、做决定
+- deck n.甲板、舱面、v.装饰、打扮
 - declare v.声明、宣布、表明、断言
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
 - decode v.解码、破译、译解
@@ -41,6 +42,7 @@
 - definition n.定义、释义、解释、清晰度
 - deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
+- defy v.蔑视、违抗、反抗
 - degradation n.恶化、堕落、毁坏
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
@@ -54,7 +56,7 @@
 - delineate [dɪˈlɪnieɪt] v.勾画、描述
 - delinquency 拖欠(债款/贷款)
 - delinquent a.有违法倾向的、拖欠债务的、n.少年罪犯、流氓
-- deliver 传送、交付、发表、宣布、履行、兑现
+- deliver v.传送、交付、发表、宣布、履行、兑现
 - delivery 传送、交付
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
@@ -87,7 +89,7 @@
 - deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
 - derivation n.引导、导出、衍生、起源、派生
 - derivative n.派生词、衍生物、导数、微商、a.衍生的、导出的
-- derive v.得到、获得、源于、产生、提取、派生
+- derive v.得到、获得、起源于、产生、提取、派生
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
 - desert n.沙漠、v.抛弃、遗弃
@@ -124,7 +126,7 @@
 - dialect 方言
 - diary n.记事簿、日志、日记
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
-- dictate v.口述、命令、决定、支配、n.命令、规定
+- dictate v.口述、听写、命令、决定、支配、n.命令、规定
 - dictation n.口述、听写
 - dictator n.独裁者
 - dictatorship [ˌdɪkˈteɪtəʃɪp] n.专政、独裁
@@ -166,7 +168,9 @@
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
 - discrepancy n.矛盾、差异、不符合、不一致
+- discrete a.离散的、分离的
 - discretion 慎重、考虑周到、判断力、自行决定的自由
+- discretionary a.任意的、自由决定的
 - discriminate v.歧视、区别、辨别、a.有区别的
 - discuss 商量、讨论、详述、论述
 - disease [dɪˈziːz] n.疾病
@@ -208,7 +212,7 @@
 - dividend n.红利、股息
 - division 分开、分隔、分配、除（法）  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
-- divorce n.离婚、分离、v.与...离婚、使分离、使脱离
+- divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
 - dollar n.美元
@@ -217,6 +221,7 @@
 - domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
 - dominate v.支配、影响、占优势
+- donate v.捐赠、捐献
 - dormant a.睡着的、休眠的、蛰伏的
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - donut n.甜甜圈、环形图

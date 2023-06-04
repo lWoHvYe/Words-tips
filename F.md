@@ -31,7 +31,7 @@
 - fate n.命运、注定
 - fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、v.发现错误
-- favor n/v.恩惠、支持、赞成、喜爱、偏爱
+- favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
 - favorable a.有利的、赞同的、讨人喜欢的、从优
 - favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
 - fear n/v.害怕、恐惧
@@ -97,6 +97,7 @@
 - flourish 茂盛、繁荣、活跃、挥舞
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感
+- fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定
 - fluent a.流利的、流畅的
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
@@ -117,6 +118,7 @@
 - forgery 伪造、伪造品、赝品、伪造罪
 - forget v.忘记、遗忘、忘记做、不再想
 - forgive v.原谅、饶恕、免除
+- forgiveness n.原谅、宽恕、宽宏大量
 - form n.表格、形式、外形、v.形成、构成、组织、塑造
 - formal a.正式的、正规的
 - format n.总体安排、设计、版式、样式、v.安排版式、格式化
@@ -132,6 +134,8 @@
 - forthright a.直率的、直接的、直截了当的
 - fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
+- forward [ˈfɔːwəd] ad.向前、进展、提前、a.前进的、向前的、前部的、未来的、将来的、v.发送、寄、转交、促进、增进  backwards and forwards 来来回回、往复
+- fossil [ˈfɒsl] n.化石、老顽固
 - foster v.培养、促进、抚养、代养
 - found v.建立、find的过去式及过去分词
 - foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
@@ -155,10 +159,11 @@
 - frighten v.吓唬、使惊吓、使惊恐
 - front n.前面、正面、a.前面的、正面的、v.面向、领导、代表
 - frontend 前端、前台、前端模块、编辑器前端
+- frown v.不赞成、反对、皱眉
 - fruition n.完成、实现、取得成功
 - frustrate [frʌˈstreɪt] v.挫败、阻挠、使沮丧、使懊恼、a.无效的、无益的
 - frustration n.挫折、挫败、失意、失败
-- fuel n.食物、燃料、刺激物、v.给...提供燃料、加油、刺激
+- fuel [ˈfjuːəl] n.食物、燃料、刺激物、v.给...提供燃料、加油、增加、加强、刺激
 - fulfil/fulfill v.完成、履行、执行、实现、符合、满足、起...作用
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给

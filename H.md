@@ -4,6 +4,7 @@
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halt v.暂停、中止、停下
+- hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
 - handful n.一把(的量)
 - handicap [ˈhændikæp] n.障碍、缺陷、残疾、不利条件、v.阻碍、妨碍
@@ -46,6 +47,7 @@
 - hint n.暗示、示意、提示、征兆、迹象、v.暗示、透露、示意
 - hire v.雇用、聘用、租用、租借、n.租借、租用、租赁、租金、酬金
 - histogram 柱状图、直方图
+- historian n.历史学家
 - historic/historical a.历史的、历史上的
 - hitherto [ˌhɪðərˈtuː] ad.迄(qi)今、至今、到目前为止
 - hobby n.爱好

@@ -1,17 +1,21 @@
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
 - obey v.服从、听从、遵守
-- object n.物品、对象、目标、宾语、v.反对、不赞成
+- object [ˈɒbdʒɪkt/əbˈdʒekt] n.物品、对象、目标、宾语、v.反对、不赞成  visualize the object 可视化对象
+- objection [əbˈdʒekʃn] n.反对、异议
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
 - obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
 - obligor 债务人
 - observe v.看到、注意到、观察、遵守
-- obsession 痴迷、着魔、困扰、妄想
+- obsess [əbˈses] v.痴迷、迷恋
+- obsession n.痴迷、着魔、困扰、妄想
 - obsolete [ˈɒbsəliːt] a.淘汰的、废弃的、过时的
 - obtain v.获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occasion n.场合、时机、v.造成、导致
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
+- occur [əˈkɜː(r)] v.出现、发生、存在于、出现在
+- occurrence n.出现、发生、事件、事变
 - ocean n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
@@ -46,7 +50,7 @@
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize [ˈɒptɪmaɪz] v.优化、使最优化、充分利用
 - optimum a.最佳的、最适宜的 复数: optima
-- option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权、
+- option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权  stock options 股票期权
 - optional 可选的、随意的、任意的、选修的、选修科目
 - opus n.作品、作曲 复数：opera
 - oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试
@@ -57,7 +61,8 @@
 - organ [ˈɔːɡən] n.器官、风琴
 - orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
 - orientation 方向、目标、定位、态度、观点、培训
-- original 原始的、最初的、独创的、新颖的、原件、原文、不同寻常的人、怪人
+- origin n.起源、由来、出身、来历、原点
+- original a.原始的、最初的、独创的、新颖的、n.原件、原文、不同寻常的人、怪人
 - originate v.起源、发源、创立、创建、发明
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
@@ -73,6 +78,7 @@
 - outset n.开始、开端
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
+- outward a.表面的、外表的、外出的、向外的
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overcome v.战胜、克服、解决
 - overdraft n.(钱)透支、透支额
@@ -82,12 +88,15 @@
 - overlap 重叠、交叠、重叠时间
 - overlay v.覆盖、镀金、n.覆盖物、图层
 - overload v.使过载、使超载运行、使超负荷、n.过多、过量、超负荷
+- overlook v.忽视、俯瞰、眺望
+- overseas a.国外的、海外的、ad.在国外、在海外
 - oversee v.监督、监视、俯瞰
+- overshadow v.掩盖、遮蔽
 - oversight n.疏忽、失察、负责、照管
 - overtime n.加班
 - overturn v.颠覆、使垮台、推翻、撤销(判决)
-- overwhelm v.压倒、淹没、压垮
-- overwhelming a.势不可挡的、压倒性的、无法抗拒的
+- overwhelm v.压倒、淹没、压垮、征服、难以承受
+- overwhelming a.势不可挡的、压倒性的、无法抗拒的、(数量)巨大的
 - owe [əʊ] v.欠(债)、归功于、归因于
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气

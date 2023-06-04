@@ -38,6 +38,7 @@
 - patient [ˈpeɪʃnt] a.有耐心的、能容忍的、n.病人、患者
 - patriotism [ˈpætriətɪzəm] n.爱国主义
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
+- pave v.铺、铺路
 - payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
@@ -93,12 +94,14 @@
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
 - philosophy [fəˈlɒsəfi] n.哲学
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
+- photograph n.照片、v.拍照
 - phrase [freɪz] n.短语、习语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
 - physician n.医生、内科医生
 - physicist n.物理学家
 - physics n.物理
 - physiology n.生理学
+- picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
 - pie n.馅饼、派
 - piece 块、片、段、修补、连接
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
@@ -106,10 +109,12 @@
 - pillar n.支柱、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
+- pinch [pɪntʃ] v.拧、捏、捏住
 - pink n.粉红色
 - pipeline n.管道、管线 in the pipeline 在筹备中
 - pit n.矿井
 - pitfall 陷阱、诱惑、圈套、困境、危险、隐患
+- pivot n.枢轴、中心点、支点
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
@@ -119,6 +124,7 @@
 - plant n.植物、工厂、设备、v.种植、放置、安放
 - plastic n.塑料、信用卡、a.塑料的、可塑的
 - platinum n.铂、白金
+- plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - plead v.恳求、辩护、认罪、陈述案情
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
@@ -184,6 +190,7 @@
 - prattle 闲扯、唠叨、闲聊
 - preach n/v.宣讲、布道、说教
 - precede v.先于、优于、在...之上
+- precedent n.先例
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - predatory a.捕食性的、食肉的
@@ -196,12 +203,14 @@
 - prefer v.更喜欢
 - preference n.偏爱、爱好
 - pregnant a.怀孕的、孕育着...的、富于想象的
+- prehistoric a.史前的、远古的
 - prejudice n.偏见、成见、v.使有偏见、损害
 - preliminary a.预备的、初步的、n.序言、开场白、预赛
 - premature a.过早地、早产的、提前的、草率的
 - premier a.首要的、最先的、最早的、n.总理、首相
 - premise n/v.前提、假定
 - premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
+- preparation [ˌprepəˈreɪʃn] n.准备、准备工作、配制品、制剂
 - prepare [prɪˈpeə(r)] v.准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
 - prescribe v.规定、指定、命令、开处方
@@ -223,14 +232,14 @@
 - pretty a.漂亮的、精致的、美观的、ad.相当、很、非常
 - prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败、占优势
 - prevalent a.流行的、盛行的、普遍存在的
-- prevent v.防止、阻止、阻碍、阻挠
+- prevent [prɪˈvent] v.防止、阻止、阻碍、阻挠
 - previous a.先前的、以前的
 - prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - primary a.主要的、最初的、初级的、基本的
-- prime a.主要的、首要的、优质的、典型的
-- primitive 原始的、远古的、发展水平低的、落后的、原始本能的、原始人、早期的艺术家
+- prime a.主要的、首要的、优质的、典型的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点
+- primitive a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
@@ -238,6 +247,7 @@
 - prior [ˈpraɪə(r)] a.先前的、在前的、优先的
 - priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
+- prison [ˈprɪzn] n.监狱、看守所、v.监禁、关押
 - privacy n.隐私
 - private a.私有的、私人的
 - privilege n.特权、优惠、v.给予特权
@@ -262,10 +272,11 @@
 - proficient [prəˈfɪʃnt] a.精通的、熟练的
 - profile n.侧面、轮廓、外形、形象、印象、简介、引入注目、v.扼要介绍、概述
 - profit n.利润、收益、红利、赢利、好处、v.获益、对...有益  net profit 净利润  gross profit 毛利润  profit margin 利润率
+- profound a.深厚的、深远的、n.深海、深渊
 - program(me) [ˈprəʊɡræm] n.程序、编码指令、计划、安排、课程、纲领、节目单、v.编写程序、制定计划
 - progress n/v.进步、进展、流逝
 - progressive a.进步的、逐步的、n.进步人士、改革派
-- prohibit 禁止、阻止、不允许
+- prohibit v.禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - projection n.预测、规划、估计、投影
 - prominent a.重要的、著名的、杰出的、突出的

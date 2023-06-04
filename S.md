@@ -103,6 +103,7 @@
 - several 几个的、专有的、各自的、一些、几个、数个
 - severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的
 - severity 严重、严厉、苛刻
+- shadow n.阴影、影子、v.跟踪、尾随
 - shake v.动摇、摇动、握手、n.摇动、颤抖
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
 - shall modal.将要、将会、必须、应该、可以
@@ -111,6 +112,7 @@
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、分配、n.股份、一份
 - sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
+- shave [ʃeɪv] v.刮胡子、剃、削减、降低
 - shear v.剪、剪切
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇  shed some light on 解释、阐明
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
@@ -138,7 +140,7 @@
 - sift v.筛、细查、挑选
 - sight n.景象、看见、视力、视野、v.看到、发现
 - sign [saɪn] v.签名、签署、n.迹象、征兆
-- signal n.信号、暗号、标志、信号灯🚥
+- signal n.信号、暗号、标志、信号灯🚥、v.发信号、示意、表明
 - significance n.意义、含义、重要性
 - significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
 - significantly 重要的、重大的、明显的、显著的
@@ -185,6 +187,7 @@
 - slump n.骤降、锐减、衰退、萧条期、v.骤降、锐减
 - smash v.粉碎、打破、n.打碎、ad.轰然
 - smear v.弄脏、涂抹、污蔑、诋毁、摧毁、n.污迹、污渍、污点
+- smoke n.烟、烟雾、v.冒烟、抽烟🚬
 - smooth [smuːð] a.平整的、平坦的、光滑的、顺利的、平和的、v.使平整、使光滑
 - smoothly 平稳地、顺利地、平静地、自信地
 - snack n.点心、小吃、快餐
@@ -238,6 +241,7 @@
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - speech n.演讲、发言
+- spend n/v.花费、开销
 - sperm [spɜːm] n.精子、精液
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
@@ -258,6 +262,7 @@
 - spreadsheet n.电子表格
 - sprint 冲刺、全速短跑、短跑比赛
 - spurious a.虚假的、伪造的、欺骗性的
+- sqrt 根号
 - squad n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
@@ -282,6 +287,7 @@
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
 - static a.静止的、静态的、n.静电
+- station n.站
 - stationary a.不动的、静止的、固定的
 - stationery [ˈsteɪʃənri] n.文具、信纸、信笺
 - statistic a.统计的、n.统计学、统计资料
@@ -305,8 +311,8 @@
 - sting v.叮、刺痛
 - stir v.搅拌、n.搅拌、震动
 - stitch 缝、缝合
-- stock n.股票、股份、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的
-- stockpile n.库存、储备、v.大量储备
+- stock n.股票、股份、资本、公债、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的  stock options 股票期权
+- stockpile n.库存、储备、囤积的物资、v.大量储备
 - stop v.停止、n.车站
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
@@ -356,6 +362,7 @@
 - subtract 减、减去、扣除
 - suburb n.郊区、城外
 - suburban a.郊区的
+- subway n.地铁、地下通道
 - succeed v.成功、继承
 - success n.成功
 - successful a.成功的
@@ -411,8 +418,8 @@
 - suspect v.猜测、怀疑、不信任、a.可疑的、不可信的、n.犯罪嫌疑人、嫌疑犯、可疑对象
 - suspend v.暂停、中止、悬挂、延缓
 - suspicion 怀疑、嫌疑、疑心、不放心、少许
-- sustain v.维持、供养、支撑、承受、承担
-- sustainable a.可持续的
+- sustain [səˈsteɪn] v.维持、供养、支撑、承受、承担、遭受
+- sustainable a.可持续的  sustainable development 可持续发展
 - swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
 - swap 交换、互换、掉换、交流、交换物
 - sweep v.扫除、打扫、清理、掠过、舞动、挥动
@@ -427,6 +434,7 @@
 - synchronize v.同步、使同步、在时间上一致
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的
 - syndicate 企业联合组织、财团、私人联合会
+- syndrome [ˈsɪndrəʊm] n.综合症
 - synonym [ˈsɪnənɪm] n.同义词
 - syntax n.语法、句法、句法规则、语构
 - synthetic a.合成的、n.合成物

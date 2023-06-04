@@ -81,6 +81,7 @@
 - chain n.链条、连锁
 - chalk n.粉笔
 - challenge n/v.挑战、质疑
+- chamber [ˈtʃeɪmbə(r)] n.室、会议厅、议院、房间
 - champion n.冠军、得胜者、拥护者、勇士、v.捍卫、声援
 - chance n.机会、机遇、时机、可能性、偶然、运气、v.偶然发生、冒险、碰巧、a.意外的、偶然的、碰巧的
 - chancellor n.大臣、总理
@@ -120,6 +121,7 @@
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
 - circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器
 - circular [ˈsɜːkjələ(r)] a.圆环的、环形的
+- circulation n.循环、流通、环流、发行量
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
@@ -150,6 +152,8 @@
 - clue n.线索、提示、v.提示
 - cluster n.群、丛、簇
 - coach [kəʊtʃ] n.教练
+- coal [kəʊl] n.煤
+- coalition n.联合政府
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
 - coastal a.沿海的、海岸的
 - cock n.公鸡
@@ -229,7 +233,7 @@
 - comply vi.顺从、服从、遵守、遵从、应允、同意
 - component n.成分、组成、组成部分、要素、a.组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
-- composite a.混合成的、复合的、合成的、混成的、n.复合材料、合成物、混合物
+- composite [ˈkɒmpəzɪt/kəmˈpɑːzət] a.混合成的、复合的、合成的、混成的、n.复合材料、合成物、混合物
 - composition n.作文、作曲、创造、构图、成分、构成
 - compound n.复合物、化合物、a.复合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
 - comprehend v.理解、领悟
@@ -239,6 +243,7 @@
 - comprise v.包含、包括、由...组成、由...构成
 - compromise [ˈkɒmprəmaɪz] n/v.妥协、折中、互让、让步、和解、达成妥协、损害、伤害
 - comptroller n.审核员、审计官
+- compulsory [kəmˈpʌlsəri] a.强制的、义务的
 - compute v.计算、估算、推断、n.计算机技术  cloud computing 云计算
 - concatenate v.连接、连锁、串级、a.连锁的
 - conceal [kənˈsiːl] v.隐藏、隐瞒、掩盖
@@ -252,7 +257,7 @@
 - concerted a.同心协力的、努力的、协调的、协力的
 - concertgoer n.常去听音乐会的人
 - concession n.让步、妥协、特许权、优惠价格
-- conciliate v.平息、安抚、劝慰、n.安抚者、劝慰者
+- conciliate [kənˈsɪlieɪt] v.平息、安抚、劝慰、和解、调解、n.安抚者、劝慰者
 - conciliatory a.调和的、调解的、抚慰的、安抚的
 - concise a.简洁的、简明的、简练的
 - conclude v.推断、断定、终止、结束、预定、得出结论
@@ -264,6 +269,7 @@
 - conditional a.条件的、有条件的、附带条件的  conditional on/upon 依/视...而定 = depend on/upon
 - conduct [kənˈdʌkt]/[ˈkɒndʌkt] n.行为、举止、品行、引导、v.执行、引导、安排、组织、管理、进行、传导
 - conductor [kənˈdʌktə(r)] n.导体、指挥、列车长、售票员
+- conduit n.管道、导管
 - confer [kənˈfɜː(r)] v.参考、协商、授予、赋予
 - conference [ˈkɒnfərəns] n.会议、讨论、研讨会
 - conficence n.信任、信赖、信心
@@ -279,8 +285,8 @@
 - confuse v.困惑、迷惑
 - congest v.拥挤、使充血
 - congress n.国会、议会、代表大会、v.开会、集合
-- conjunct 结合的、联合的、连接的
-- conjunction n.连词、连结、结合、联合、结合物
+- conjunct a.结合的、联合的、连接的
+- conjunction n.连词、连结、结合、联合、结合物、(事件的)同时发生
 - conquer v.征服、克服、攻克、打败
 - conscience [ˈkɒnʃəns] n.良知、良心
 - conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
@@ -296,12 +302,12 @@
 - conserve vt.保护、保存、n.果酱、蜜饯
 - consider [kənˈsɪdər] v.考虑、认为、仔细考虑、细想、体谅、顾及、端详
 - considerable a.相当大的、该注意的、应考虑的、重大的、可观的
-- consist [kənˈsɪst] v.包括、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
+- consist [kənˈsɪst] v.包括、存在于、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
 - consistence n.浓度、稠度
 - consistency 一致性、连贯性、平滑度
-- consistent 一致的、连续的、始终如一的、符合的、相符的、不矛盾的
+- consistent a.一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consolidate v.巩固、使加强、合并、统一、联合  be consolidated to 被合并到...
-- conspicuous a.明显的、显而易见的、引入注目的
+- conspicuous [kənˈspɪkjuəs] a.明显的、显而易见的、引入注目的
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
 - constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
 - constitute v.组成、构成、制定、设立、成立、指派
@@ -361,8 +367,9 @@
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
 - coordinator n.协调者
 - cope v.对付、处理 cope with 对付
-- copilot n.副驾驶
+- copilot [ˈkəʊˌpaɪlət] n.副驾驶
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
+- core n.核心、中心部分、核心成员、a.主要的、基本的、核心的、骨干的  inner core 内核
 - corn n.玉米、谷物
 - corner 角落、拐角、垄断
 - coroutine n.协同程序、联立程序
@@ -382,8 +389,8 @@
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
 - counterpart n.对应方、职位相当的人
 - counterparty n.对手方、合同的一方、合约对方、交易对方
-- couple n.对、一对、几个人、几件事物、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对
-- coupon n.优惠券、息票
+- couple n.对、一对、几个人、几件事物、夫妻、情侣、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对  the next couple of days 接下来的几天
+- coupon n.优惠券、礼券、息票
 - courage n.勇气
 - course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
 - court n.法院、法庭、v.试图取悦、讨好、求爱、求婚、恋爱

@@ -6,8 +6,8 @@
 - magnify v.放大、增强、夸大、扩大
 - maid n.女仆
 - mainframe n.大型机、主机、中央处理机、主计算机
-- maintain v.维持、保持、维修、保养、坚持、固执己见
-- maintenance n.维护、维修、保养、保持、生活费、抚养费
+- maintain [meɪnˈteɪn] v.维持、保持、维修、保养、坚持、固执己见
+- maintenance [ˈmeɪntənəns] n.维护、维修、保养、保持、生活费、抚养费
 - maize [meɪz] n.玉米
 - majestic [məˈdʒestɪk] a.宏伟的、壮丽的、威严的
 - majesty n.陛下、统治权、王权
@@ -35,6 +35,8 @@
 - map n.地图、v.绘制
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
 - marital a.婚姻的、夫妻的
+- marriage n.结婚仪式、婚姻、婚礼
+- marry v.结婚、嫁、娶、为...举行婚礼
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
@@ -105,7 +107,9 @@
 - migrant n.移民、候鸟、迁徙动物
 - migrate v.迁徙、移居、转移、迁移
 - migratory a.迁移的、迁徙的
+- mild a.温和的、轻微的
 - mile n.英里
+- mileage n.里程、英里、好处、利益
 - milestone 重要事件、重要阶段、转折点、里程碑
 - military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
 - millennium [mɪˈleniəm] n.一千年、千年期
@@ -164,6 +168,7 @@
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
+- moth n.蛾、飞蛾
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、运动的

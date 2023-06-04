@@ -27,6 +27,7 @@
 - unification n.统一、联合、一致
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
+- unilateral [ˌjuːnɪˈlætrəl] a.片面的、单方的
 - union n.同盟、联盟、联邦、协会、工会
 - unit n.单元、单位、机构
 - unite [juˈnaɪt] v.团结、合并、统一
@@ -40,9 +41,11 @@
 - upend v.倒立、倒放、颠倒 be upended by ... 反生了颠覆性的变化
 - upgrade n/v.改善、升级、提升
 - upheaval [ʌpˈhiːvl] n.剧变、动荡、动乱、激变
+- uphold v.维护、支持
 - upon 在...上面、当...时候
 - upset v.打翻、扰乱、使...心烦意乱、n.混乱、困扰、麻烦、a.难过、沮丧、不高兴
 - upside n.好处、好的一面、上边、提高、上涨   反义:downside
+- upward a.向上的、上升的、朝上的、上涨的、增长的
 - upwash n.上升气流
 - urban a.城市的、都市的
 - urge n.刺激、冲动、v.催促、敦促、力劝

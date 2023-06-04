@@ -40,6 +40,7 @@
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact 影响、撞击、冲击、挤入、冲击力
+- impair v.损坏、削弱
 - impeccable a.完美的、无可挑剔的
 - impedance n.阻抗
 - impediment n.阻碍、障碍
@@ -77,6 +78,7 @@
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
+- incur v.招致、引起、遭受
 - indeed ad.甚至、的确、确实、真正地、真的
 - indefinite 无期限的、不明确的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
@@ -114,8 +116,10 @@
 - informal a.非正式的、不拘礼节的、日常的
 - infrared n.红外线、a.红外线的 infra- 下、低
 - infrastructure n.基础设施、基础建设
+- ingest v.摄入、食入、咽下
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
+- inhale v.吸入、吸气
 - inherent a.固有的
 - inherit v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
@@ -125,6 +129,7 @@
 - inject 注射、注入
 - injure v.损害、伤害
 - injury n.损伤、伤害
+- inner a.内部的、内心的、n.内部、里面
 - innermost a.内心深处的
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
 - innocuous a.无恶意的、无害的
@@ -186,6 +191,7 @@
 - interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的
 - interject v.打断、插话
 - interlace v.使交错、使交织
+- intermarriage n.通婚、近亲结婚
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
 - intermittent a.间歇性的、断断续续的
 - intern 实习生、实习医生、拘留、禁闭、关押
@@ -195,6 +201,7 @@
 - interpret [ɪnˈtɜːprət] v.解释、说明、理解、领会、翻译、诠释
 - interpretation n.理解、解释、说明、演绎
 - interpreter 口译译员、解释者、解释程序、演绎的人
+- interrogate v.询问、审问、质问
 - interrupt v.打断、中断、阻止
 - intersect v.横断、横切、相交、交叉
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
@@ -216,7 +223,7 @@
 - invalidate v.使无效、使作废、证明...错误、使站不住脚
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
-- inventory 存货、库存、清单、财产目录、开列清单
+- inventory n.存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
 - invert v.颠倒、倒转、倒置
 - invest v.投资、投入、花费、装饰、授予、给予
