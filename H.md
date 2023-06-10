@@ -6,7 +6,7 @@
 - halt v.暂停、中止、停下
 - hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
-- handful n.一把(的量)
+- handful n.一把(的量)、少数、难以控制的人
 - handicap [ˈhændikæp] n.障碍、缺陷、残疾、不利条件、v.阻碍、妨碍
 - handle n.柄、把手、v.处理、对待、操纵、触、摸
 - handsome [ˈhænsəm] a.英俊的、漂亮的、慷慨的、大方的、数量大的
@@ -17,9 +17,11 @@
 - harmony n.和谐、融洽、协调、和声
 - harsh a.残酷的、恶劣的、严酷的
 - harvest 收割、收获
+- hash [hæʃ] n.#号
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
 - head n.头、头脑、领导、主管、v.朝着...行进
+- headcount/hc 公司HR预计招聘的员工人数 
 - headline n.大字标题、新闻摘要
 - headquarters n.总部
 - heads-up 提醒、警告
@@ -61,11 +63,12 @@
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
 - host n/v.主持、主办  host of 许多、大量的
-- hub n.中心
+- hub n.轮轴、中心、电线插孔、集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
 - hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
+- hydrochloride n.盐酸、盐酸盐、氯化氢
 - hydrogen [ˈhaɪdrədʒən] n.氢、氢气
 - hype v.炒作、n.促销广告
 - hypocritical [ˌhɪpəˈkrɪtɪkl] a.伪善的、虚伪的

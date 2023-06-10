@@ -16,6 +16,8 @@
 - cancel [ˈkænsl] n/v.取消、撤销
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - canny a.谨慎的、精明的、狡猾的
+- canon n.原则、标准、准则
+- canonical [kəˈnɒnɪkl] a.典型的、经典的、最简洁的
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
 - cap n.帽子、额度、限额、v.覆盖、笼罩、胜过、超过
 - capability 性能、容量、才能、能力、生产力
@@ -51,7 +53,7 @@
 - catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
 - catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  catch up 追上、赶上
 - category n.类型、类别、种类
-- cater v.满足需要、迎合、提供饮食
+- cater v.满足需要、迎合、提供饮食  cater to/for 
 - cattle n.牛、牲口、畜生
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
@@ -221,7 +223,7 @@
 - compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
 - compile [kəmˈpaɪl] v.编写、编辑、汇编、编译
 - complain v.抱怨、埋怨、投诉
-- complaint n.抱怨、埋怨
+- complaint n.抱怨、埋怨、(不严重的)疾病  complaint list 投诉清单
 - complement [ˈkɒmplɪment/ˈkɒmplɪmənt] v.补充、补足、n.补语、足数、足额
 - complementary a.互补的、补充的
 - complete [kəmˈpliːt] v.完成、结束、使完整、使完美、填写、a.完全的、彻底的、完整的、完成了的
@@ -272,8 +274,10 @@
 - conduit n.管道、导管
 - confer [kənˈfɜː(r)] v.参考、协商、授予、赋予
 - conference [ˈkɒnfərəns] n.会议、讨论、研讨会
-- conficence n.信任、信赖、信心
-- confident a.自信的、确信的、有把握的、大胆的、过分自信的、n.知己
+- confidant [ˈkɒnfɪdænt] n.知己、密友
+- confide [kənˈfaɪd] v.倾诉、吐露
+- confidence n.信任、信赖、信心、私下、秘密、机密
+- confident [ˈkɒnfɪdənt] a.自信的、确信的、有把握的、大胆的、过分自信的、n.知己
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
 - confine v.限制、限定、监禁、禁闭、n.限制、界限、范围、边界
@@ -360,7 +364,7 @@
 - convert v.转变、转换、兑换
 - convey [kənˈveɪ] v.传送、输送、表达、传达
 - convict [kənˈvɪkt/ˈkɒnvɪkt] n.罪犯、v.定罪、宣判...有罪
-- conviction n.定罪、信念、确信、说服
+- conviction n.判罪、定罪、信念、确信、说服
 - convince v.说服、劝说、使确信、使信服
 - cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
 - cooperation n.合作、协作、配合
@@ -373,6 +377,7 @@
 - corn n.玉米、谷物
 - corner 角落、拐角、垄断
 - coroutine n.协同程序、联立程序
+- Corp 公司
 - corpse n.尸体
 - corporate [ˈkɔːpərət] a.公司的、法人的、社团的、团体的、共同的
 - correlate v.相互关联、(使)相关、n.相关的事物、相关联的人
@@ -425,6 +430,7 @@
 - crush v.压坏、压碎、捣碎、弄皱、n.热恋、迷恋
 - crypto 加密货币
 - cryptography 密码学、密码术
+- cube n.立方体、立方、三次幂
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮
 - culmination n.高潮、巅峰、顶点、终点
 - culprit 罪魁祸首、罪犯、肇事者
@@ -451,4 +457,5 @@
 - cyber a.计算机(网络)的、信息技术的
 - cyberspace n.网络空间、赛博空间
 - cycle n.周期、循环、v.循环、轮转、骑自行车
+- cylinder n.圆柱、气缸
 - czar n.沙皇

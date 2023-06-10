@@ -53,7 +53,7 @@
 - option [əˈpɪnjən] n.选择、选项、选择权、选修课、期权  stock options 股票期权
 - optional 可选的、随意的、任意的、选修的、选修科目
 - opus n.作品、作曲 复数：opera
-- oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试
+- oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试  oral English 英语口语
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
@@ -71,7 +71,9 @@
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
 - outage n.(电力的)断供期、停电
 - outbound 向外的、出港的、离开某地的
+- outbreak n/v.爆发
 - outcome n.结果、效果、成果、出路
+- outdate v.使过时、使陈旧、使落伍
 - outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
 - outlook n.见解、前景、观点、景色、景观
 - outrage n.愤怒、暴行、v.使震怒、激怒
@@ -89,6 +91,8 @@
 - overlay v.覆盖、镀金、n.覆盖物、图层
 - overload v.使过载、使超载运行、使超负荷、n.过多、过量、超负荷
 - overlook v.忽视、俯瞰、眺望
+- overrule v.否决、驳回、宣布...无效
+- overrun v.泛滥、超支、超时
 - overseas a.国外的、海外的、ad.在国外、在海外
 - oversee v.监督、监视、俯瞰
 - overshadow v.掩盖、遮蔽

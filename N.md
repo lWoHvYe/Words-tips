@@ -32,6 +32,7 @@
 - nimble a.灵活的、敏捷的
 - nimbus n.雨云、光环
 - nitrogen [ˈnaɪtrədʒən] n.氮、氮气
+- NLP 自然语言处理(Natural Language Processing)
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
 - nominate v.提名、推荐、任命、指派、指定
@@ -53,9 +54,11 @@
 - novelist n.小说家
 - novice n.新手、初学者
 - noxious a.有毒的、有害的
-- nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站
+- nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站  nuclear power plant 核电站
+- nudge [nʌdʒ] n/v.轻推、推动、鼓励
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为
 - numerical 数字的、用数字表示的、数值的
 - numerous [ˈnjuːmərəs] a.很多的、许多的、众多的
+- nurse n.护士、v.看护、照料
 - nut n.螺帽、螺母、坚果
 - nuts a.疯狂、执着、迷恋、狂热

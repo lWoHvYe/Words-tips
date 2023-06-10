@@ -23,6 +23,7 @@
 - genuine [ˈdʒenjuɪn] a.真正的、真诚的、坦率的
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
+- Germany [ˈdʒɜːməni] n.德国
 - giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
 - gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
 - gist 主旨、要点、大意
@@ -61,6 +62,7 @@
 - graveyard n.墓地、垃圾场、收容所
 - greatness n.伟大、崇高、著名
 - greed n.贪婪
+- Greek n.希腊、希腊人
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事

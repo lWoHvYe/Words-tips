@@ -89,6 +89,7 @@
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
 - indifference n.冷漠、中立
+- indispensable a.不可或缺的、必不可少的
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
 - induction 就职、催生、电磁感应
@@ -204,11 +205,13 @@
 - interrogate v.询问、审问、质问
 - interrupt v.打断、中断、阻止
 - intersect v.横断、横切、相交、交叉
+- intersection n.交集
 - interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
 - interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
 - intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
+- intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate a.错综复杂的、难理解的
 - introduce v.介绍、引进、提出、采用、作为...的开头
@@ -236,6 +239,7 @@
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
 - iron n.铁、熨斗、v.熨、烫平
+- irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则

@@ -5,7 +5,7 @@
 - waiter [ˈweɪtə(r)] n.男侍者、男服务员
 - waitress [ˈweɪtrəs] n.女侍者、女服务员
 - waiver 放弃、弃权、弃权声明
-- wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹
+- wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹  in the wake of 随...而来、作为...的结果
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
 - ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
@@ -37,9 +37,11 @@
 - white n.白色、a.白色的、v.使变白
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
+- wholesome a.卫生的、健康的、有益的
 - widespread a.普遍的、广泛的
 - widow [ˈwɪdəʊ] n.寡妇
-- wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  wildcard 通配符
+- wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  
+- wildcard 通配符
 - wilderness n.荒野
 - will modal.将、会、v.想要、希望、愿意、n.意志、意愿
 - wind n.风、气流

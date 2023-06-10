@@ -98,6 +98,7 @@
 - tin n.锡、罐、v.镀锡
 - tiny a.极小的、微小的  tinier(比较级)
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
+- tire n.轮胎、头饰、v.疲劳、疲倦
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
 - toddle v.蹒跚行走
@@ -114,13 +115,14 @@
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
+- touch [tʌtʃ] v.触摸、接触、感动、涉及、n.触摸、触觉、轻微、一点  touch on 关系到、涉及  in touch with 联系、联络、了解最新情况
 - tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - tour [tʊə(r)] n/v.旅行、游览、观光
 - tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
 - tout v.标榜、吹捧、吹嘘
 - toward prep.朝向、面对、对于、关于、接近、将近
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
-- trace v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
+- trace [treɪs] v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
@@ -149,7 +151,7 @@
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
-- treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重
+- treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
 - treasury n.财政部
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
 - treatment n.治疗、诊治  medical treatment 医疗
@@ -169,6 +171,7 @@
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trivial a.不重要的、琐碎的、微不足道的
 - troupe [truːp] n.剧团、表演团、v.巡回演出
+- trove n.发掘出来的财宝
 - trump n.王牌、v.胜过、打败
 - truncate v.截断
 - trust v.信任、相信、信赖、信托、希望、期望
@@ -176,6 +179,8 @@
 - truth n.真相、真理、事实、真实性
 - tuition n.学费
 - tune n.曲子、曲调、v.调音、调节
+- turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
+- turbo n.涡轮发动机、涡轮增压器
 - turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是  trun around 转动、转身、好转、改变意见
 - turnaround n.周转、时限、转机

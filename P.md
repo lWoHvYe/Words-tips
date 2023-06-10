@@ -29,6 +29,7 @@
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
 - passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
+- passionate a.热情的、热诚的、狂热的
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
@@ -67,7 +68,7 @@
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical [ˌpɪəriˈɒdɪkl] n.期刊、杂志
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
-- permanent a.永久的、永恒的、长久的、n.烫发
+- permanent [ˈpɜːmənənt] a.永久的、永恒的、长久的、n.烫发
 - permeate v.散布、传播、弥漫、渗透、渗入
 - permutation 序列、排列、组合、置换
 - perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、持续的、不断的、四季开花的
@@ -118,7 +119,7 @@
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
-- plain n.平原、a.朴素的、朴实的、简朴的、清楚的、ad.简直、绝对地
+- plain [pleɪn] n.平原、a.朴素的、朴实的、简朴的、清楚的、原味的、ad.简直、绝对地
 - plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
 - plant n.植物、工厂、设备、v.种植、放置、安放
@@ -134,6 +135,7 @@
 - plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传
 - pluggable a.可插拔的
 - plunge v.暴跌、骤降
+- plural [ˈplʊərəl] n.复数、复数形式、a.复数的、多元的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - pocket 口袋、金钱、财富
 - podcast n.播客
@@ -180,7 +182,8 @@
 - pound n. £ 英镑、v.砰砰的跳、反复击打、捣碎
 - pour 倾、倾泻、涌出、大雨、浇筑
 - poverty [ˈpɒvəti] n.贫困
-- power n.能力、权力、力量、有影响力的大国、幂、乘方、v.驱动、推动、运转
+- power n.能力、权力、力量、电能、有影响力的大国、幂、乘方、v.驱动、推动、运转  turn the power off 关掉电源  power failure 断电
+- powerhouse n.强大的集团或组织、精力充沛的人
 - practical a.实践的、实际的、切实可行的、有用的、n.实验课、实践课
 - practicality n.实践性、可行性、实事求是、实际情况
 - practice n.练习、实习、实践、惯例、惯常做法、v.练习、实习
@@ -188,11 +191,14 @@
 - praise n/v.称赞、赞扬、表扬
 - pragmatic a.实用的、务实的
 - prattle 闲扯、唠叨、闲聊
+- pray v.祈祷、祷告
+- prayer n.祈祷、祈祷文、经文
 - preach n/v.宣讲、布道、说教
 - precede v.先于、优于、在...之上
 - precedent n.先例
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
+- precisely ad.准确地、精确地、确实、正是
 - predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
@@ -237,8 +243,10 @@
 - prevision n.预见、远见、预知、先见
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
+- priest [priːst] n.牧师、神父、僧侣
 - primary a.主要的、最初的、初级的、基本的
 - prime a.主要的、首要的、优质的、典型的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点
+- primer n.启蒙读本
 - primitive a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
@@ -250,7 +258,7 @@
 - prison [ˈprɪzn] n.监狱、看守所、v.监禁、关押
 - privacy n.隐私
 - private a.私有的、私人的
-- privilege n.特权、优惠、v.给予特权
+- privilege n.特权、优惠、荣幸、v.给予特权
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
 - proactive a.积极的、主动的
 - proactivity n.积极性、主动性
@@ -288,7 +296,7 @@
 - prone a.有...倾向的、俯卧的、易于遭受的
 - prong n.部分、方面
 - pronoun n.代词
-- pronounce v.发音、读、宣布、宣称、演讲
+- pronounce v.发音、读、宣布、宣称、演讲  pronounce on sth 对某事发表看法
 - pronounced a.明显的、显著的、(pronounce的过去式和过去分词)
 - proof n.证据、证明、证实、检验、标准酒精度、v.给...做防护处理、使防水/防火、a.能抵御的、能防范的、防...的、抗...的
 - propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
@@ -316,12 +324,13 @@
 - proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是
 - provided conj.假如、如果、在...条件下
-- province n.省份、范围、领域
+- province n.省份、范围、领域、职责范围
 - provision n.规定、条款、提供、饮食供应、供应品
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
+- pry n/v.窥探、探听
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
 - psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响

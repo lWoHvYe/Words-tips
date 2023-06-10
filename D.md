@@ -1,6 +1,7 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
+- date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - dead a.死亡的、无活力的
 - deadline n.截止时间、最后期限
@@ -16,7 +17,7 @@
 - decide v.决定、下决心、选定、解决、裁决
 - decision [dɪˈsɪʒn] n.决定、决策、做决定
 - deck n.甲板、舱面、v.装饰、打扮
-- declare v.声明、宣布、表明、断言
+- declare v.声明、宣布、表明、断言、申报
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
 - decode v.解码、破译、译解
 - decommission v.拆解、使退役
@@ -172,8 +173,9 @@
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discretionary a.任意的、自由决定的
 - discriminate v.歧视、区别、辨别、a.有区别的
-- discuss 商量、讨论、详述、论述
+- discuss [dɪˈskʌs] v.商量、讨论、详述、论述
 - disease [dɪˈziːz] n.疾病
+- disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
 - dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
@@ -181,7 +183,9 @@
 - disparate a.完全不同的、迥然不同的、无法比较的
 - dispatch 派遣、调度、迅速处理、处决
 - dispensation 豁免、宽免、分配、实施、制度
-- dispersal 分散、散布、消散、驱散
+- dispense v.分配、分发、施与、提供、配(药)
+- dispersal [dɪˈspɜːsl] n.分散、散布、消散、驱散
+- disperse v.分散、散开、驱散
 - displace v.移动、移走、取代、置换、替换、排水、撤职
 - disposable [dɪˈspəʊzəbl] a.可任意处理的、可自由处置的、一次性的
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
@@ -214,7 +218,9 @@
 - divisive a.分裂的、造成不合的、制造分裂的
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
 - document 公文、文件、证件、记录、记载
+- doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
+- doctrine [ˈdɒktrɪn] n.教条、主义、学说
 - dollar n.美元
 - domain 领域、范围、领土、域、域名
 - dome 穹顶、圆屋顶、圆顶状物、加圆屋顶于...上
@@ -247,9 +253,10 @@
 - drill 训练、操练、演习、钻、钻头
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
-- drop 滴、下降、下跌、水珠、少量、微量、落下、使落下、变弱、遗漏、停止、暗示
+- drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示  drop out 退学、退出
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- dry [draɪ] a.干的、干燥的、v.弄干、干涸
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的

@@ -39,6 +39,7 @@
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
 - legal a.法律的、合法的、法定的、n.法定权利
 - legend n.传奇、传说、图例、说明、铭文
+- legislate v.立法、制定法律
 - legislation n.立法、制定法律、法律、法规
 - legitimate a.合法的、合理的、正规的、法定的、n.使合法、正式批准、授权
 - leisure n.空闲、闲暇、悠闲、安逸、a.空闲的、闲暇的
@@ -86,6 +87,7 @@
 - literature n.文学、文献、资料
 - load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
 - loan n.贷款、v.借出、贷与、出借
+- lobby [ˈlɒbi] n.大厅、休息室、游说、游说团体、v.游说
 - local a.地方的、当地的、局部的
 - locate v.定位、找到、使...坐落于
 - location n.位置、地点
@@ -96,6 +98,7 @@
 - loom n.织布机、纺织机、v.赫然出现、逼近
 - loop 环、环形、回路
 - loose 松的、释放
+- lord n.主、上帝
 - loss n.丧失、损失、亏损 take a loss 亏损
 - lot pron.大量、许多、n.全体、全部、命运、v.分组、划分(+ out)
 - lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液

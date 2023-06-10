@@ -32,7 +32,7 @@
 - electricity [ɪˌlekˈtrɪsəti] n.电、电流、电学
 - electronic a.电子的、电子设备的
 - elegant a.简明的、简洁的、优美的、文雅的
-- element n.要素、元素、电热元件、电阻丝
+- element [ˈelɪmənt] n.要素、元素、电热元件、电阻丝、自然环境、适宜的环境、pl.(学科的)基础原理/基础/纲要
 - elemental n.元素、基本原理、a.基本的、主要的
 - elementary a.初级的、基本的
 - elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
@@ -40,6 +40,8 @@
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
 - elite [eɪˈliːt] n.精英、上层集团、a.精英的、精锐的
+- ellipse [ɪˈlɪps] n.椭圆
+- ellipses n.省略号 ...
 - embarrass v.窘迫、尴尬、局促不安
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
@@ -79,6 +81,8 @@
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - engender v.产生、引起
 - engine n.引擎、发动机
+- engineer n.工程师
+- engineering n.工程、工程学、v.设计制造
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
 - enjoy v.享受、享有
@@ -112,12 +116,14 @@
 - episode n.插曲、片段
 - epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期
 - epochal a.划时代的
+- equal [ˈiːkwəl] a.相等的、平等的、胜任的、n.同等的人、相等物、v.等于、比得上
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
 - equate v.等同、相当于、使相等
+- equation n.等式、方程、相等、均衡、影响因素
 - equator n.赤道
 - equipment 设备、装备、器材、配件、知识、素养
-- equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
-- equivalent a.相等的、相当的、等效的、等价的
+- equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、(分享红利而非固定股息的)股票、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
+- equivalent a.相等的、相当的、等效的、等价的、n.相等物、等价物、对应词
 - era [ˈɪərə] n.时代、年代
 - erase v.抹去、清除、擦掉
 - erasure n.擦掉、抹掉、消除、删除
@@ -155,6 +161,7 @@
 - evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
+- evil a.恶毒的、邪恶的、有害的
 - evolution n.发展、进化、演变
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
@@ -173,6 +180,7 @@
 - exchequer n.财政部、国库、金库
 - excite [ɪkˈsaɪt] v.激发、刺激、使兴奋、使激动
 - exclaim v.呼喊、惊叫、大声说出
+- exclamation n.感叹、感叹号
 - exclude v.排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive 独家、专用的、高级的、独有的、独占的、独家新闻
@@ -187,7 +195,7 @@
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhaustive a.详尽的、彻底的、全面的
 - exhibit [ɪɡˈzɪbɪt] v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
-- exist [ɪɡˈzɪst] 存在、生存、生活
+- exist [ɪɡˈzɪst] v.存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
 - expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
@@ -196,14 +204,14 @@
 - expel v.驱逐、开除、排出
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗
-- expense v.费用、开销、花销、向...收取费用
+- expense n.费用、开销、花销、v.向...收取费用  at the expense of 以...为代价
 - expensive a.昂贵的、花钱多的、豪华的
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
 - experiment 实验、试验、尝试、试用、做实验
 - expert [ˈekspɜːt] n.专家、a.熟练的、内行的、经验丰富的
 - expire v.失效、中止、到期
 - explain v.解释、说明、阐明
-- explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述
+- explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述、理由、原因
 - explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的
 - explode v.爆炸、突然爆发、迸发、突增、激增
 - exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩

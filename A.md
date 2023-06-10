@@ -49,6 +49,7 @@
 - acquisition 获得、得到、购置、收购
 - acre [ˈeɪkə(r)] n.英亩
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
+- act n.行为、法令、法案、表演、假装、v.行动、表演、起作用
 - active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity n.活动、活跃、行为
 - actual 实际的、真实的、现在的、现行的
@@ -99,7 +100,7 @@
 - affectionate a.有感情的、热情的、慈爱的
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
-- afford 提供、给予、负担得起、买得起
+- afford v.提供、给予、负担得起、买得起、有能力做
 - afterward ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
@@ -131,6 +132,7 @@
 - alienate v.使疏远、离间
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
+- all det./a.所有的、全部的、极度的、prep.所有、全部、全体、ad.完全、十分、非常  all day long 整天  after all 毕竟、终究  above all 首先  in all 总共  all the time 总是、一直  all the way 一路、自始至终  all the more 更加、愈加
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
@@ -161,6 +163,7 @@
 - amid prep.在...中间、在...之中
 - ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
+- ampersand [ˈæmpəsænd] n. & (and符号)
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amuse v.娱乐、消遣
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
@@ -184,6 +187,7 @@
 - antenna n.天线、触角
 - anthropology [ˌænθrəˈpɒlədʒi] n.人类学
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
+- antique a.古时的、古老的、n.古物、古董
 - antitrust a.反垄断的、反托拉斯的
 - anxious a.焦虑的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑
@@ -211,7 +215,8 @@
 - apprehension n.忧虑、担心、理解、领悟、拘捕
 - approach v.接近、靠近、探讨、处理、对待、n.方法、路径、建议、要求
 - appropriate a.适当的、恰当的、v.侵吞、挪用、盗用、占用
-- approval 批准、同意；approve 批准、赞成、同意、认可
+- approval n.批准、同意、认可
+- approve v.批准、赞成、同意、认可
 - approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
 - arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
 - arbitrary a.随意的、任意的、武断的
@@ -222,11 +227,15 @@
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
+- aristocracy n.贵族
+- aristocrat [ˈærɪstəkræt] n.贵族
 - arity n.(参数)数量、元数
 - arouse v.引起、唤起、激起、激发
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
+- arrival n.到达、到达者、到达物
+- arrive v.到达、抵达、发生、到来
 - arrogant [ˈærəɡənt] a.傲慢的、自大的
 - arrow n.箭头
 - arthritic a.关节炎的
@@ -257,6 +266,7 @@
 - assumption n.假定、假设、承担、担任
 - assurance n.保证、担保、保险、确信、把握
 - assure v.向...保证、使...确信、保证、确保
+- asterisk [ˈæstərɪsk] n.星号 *
 - astonish v.使惊讶、震惊
 - astray 迷路的、堕落、误入歧途的、迷路
 - astronomy n.天文学
@@ -284,6 +294,8 @@
 - attrition 损耗、消耗
 - auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
 - augment [ɔːɡˈment] v.扩大、增加、提高、加强
+- aura n.气氛、氛围
+- aural [ˈɔːrəl] a.听的、听觉的
 - authentic [ɔːˈθentɪk] a.真正的、真实的
 - authenticate v.证明...是真实的、证实
 - authentication [ɔːˌθentɪˈkeɪʃn] n.认证、鉴权、证明、鉴定、身份验证
@@ -305,10 +317,11 @@
 - average a.平均的、平常的、普通的
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做
 - avert v.防止、避免、转移、避开
+- avian n.鸟、a.鸟的
 - aviation n.航空
 - aviator n.飞行员
 - await v.等待、期盼、即将发生
-- awake v.唤醒、醒来、唤起
+- awake v.唤醒、醒来、唤起、a.醒着的、警觉的
 - award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、判给  an annual pay award 年度加薪
 - aware a.意识到的、知道的、察觉的
 - awareness n.察觉、意识、认知

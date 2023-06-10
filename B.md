@@ -1,4 +1,5 @@
-- bachelor n.学士、未婚男子、单身汉
+- bachelor [ˈbætʃələ(r)] n.学士、未婚男子、单身汉
+- back n.背部、反面、v.后退、支持、a.后面的、过去的、拖欠的
 - backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward a.落后的、向后的、反向的、倒退的、进步缓慢的、v.向后、倒
@@ -9,6 +10,7 @@
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
+- ballot [ˈbælət] n/v.投票、选票、无记名投票
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
 - ban [bæn] n.禁令、v.禁止、取缔
 - band n.乐队、管弦乐
@@ -62,11 +64,12 @@
 - biophilia n.热爱生命的天性
 - bi-temporal n.双时态
 - bitwise n.位运算
+- bizarre [bɪˈzɑːr] a.奇怪的、离奇的、极其怪诞的
 - blame n/v.责备、责怪、指责、把...归咎于、n.责任  be to blame for sth 对...负有责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
-- bless 祝福、赞美
+- bless [bles] v.祝福、赞美
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
@@ -81,6 +84,7 @@
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bolster v.改善、加强、n.靠垫、垫枕
 - bomb [bɒm] n.炸弹、v.轰炸
+- bombast n.夸大其词、大话、a.夸大的
 - bond [bɒnd] n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
 - bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
@@ -98,6 +102,7 @@
 - boundary n.边界、界限、分界线
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
+- brain n.脑、智力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
@@ -121,7 +126,12 @@
 - brutality n.残忍、野蛮
 - bubble n.泡、气泡、泡沫、妄想、经济泡沫、v.起泡、冒泡、洋溢着
 - bucket 桶、一桶(的量)
-- budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的
+- bud n.芽、萌芽、花苞、v.发芽
+- Buddha [ˈbʊdə] n.佛陀、佛
+- Buddhism n.佛教
+- Buddhist a.佛教的、n.佛教徒
+- buddy [ˈbʌdi] n.朋友、同伴、搭档
+- budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的  on a budget 节省费用、避免不必要的开支
 - bulk [bʌlk] 体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离
 - bullet n.子弹

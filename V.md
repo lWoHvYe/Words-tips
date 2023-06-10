@@ -1,7 +1,7 @@
 - vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
 - valentine 情人
-- valid [ˈvælɪd] a.有效的    invalid 无效的
+- valid [ˈvælɪd] a.有效的、合理的、确凿的    invalid 无效的
 - validate v.验证、证实、使生效、批准、确认
 - valley n.山谷、峡谷
 - valuate v.对...作评估、对...作评价
@@ -29,12 +29,14 @@
 - verbose a.冗长的、啰嗦的、唠叨的
 - verdict n.裁定、判决
 - verify v.证明、证实、核实、查证
+- versa 反之亦然
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
 - vet v.审查、仔细检查、n.兽医
+- veto [ˈviːtəʊ] n.否决权、v.否决
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
 - vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的
@@ -66,5 +68,6 @@
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volume [ˈvɒljuːm] n.体积、容积、容量
 - voluntary a.自愿的、志愿的、无偿的
+- vote n/v.投票、表决
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

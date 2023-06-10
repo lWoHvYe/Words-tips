@@ -2,6 +2,7 @@
 - racial [ˈreɪʃl] a.种族的
 - radar n.雷达
 - radical a.根本的、彻底的、完全的、激进的
+- radix n.进制、基数
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - raft n.木筏
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
@@ -22,6 +23,7 @@
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
 - rattle v.使紧张、使恐惧、n.咔哒声
+- reach v.到达、抵达、够到、(用电话)联系、增加到、提升到、n.影响范围
 - react v.反应、回应、起反应
 - reaction n.反应、反对、副作用、不良反应
 - reactor 反应器、反应堆、原子炉、核反应堆
@@ -48,7 +50,7 @@
 - reciprocal [rɪˈsɪprəkl] a.互惠的
 - reciprocate v.回应、回报
 - reciprocity [ˌresɪˈprɒsəti] n.互惠、互助
-- recite v.背诵
+- recite v.背诵、朗诵、列举
 - reck v.顾虑
 - reckless a.鲁莽的、草率的、不计后果的
 - reckon v.估计、认为、估算、预计、指望、料想
@@ -96,8 +98,9 @@
 - register v.登记、注册、n.登记薄、注册表、寄存器
 - regress 倒退、回归、退化
 - regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
-- regular a.有规律的、定期的、常规的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式
-- regulate v.规定、约束、控制、管理、调节
+- regular a.有规律的、定期的、常规的、寻常的、普通的、一般的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式  regular job固定工作
+- regularity n.规律性、经常性
+- regulate v.规定、约束、控制、管理、调节、校准
 - regulation n.规则、管理、控制、规章、v.规定的、必须使用
 - regulatory a.监管的、调节的
 - rehab 康复、修复、修缮、恢复名誉、复职
@@ -238,7 +241,8 @@
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - roof n.顶部、屋顶
 - room n.房间、空间、可能性、v.租房、合住
-- rotate 旋转、转动、轮换、轮值、交替、辐状的
+- rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
+- rotation n.旋转、轮换、交替
 - rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   

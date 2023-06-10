@@ -10,6 +10,8 @@ pron. 代词 pronoun
 aux. 助动词
 modal v.情态动词
 int. 感叹词 interjection
+det. 限定词 determiner
+pl. 复数 plural
 
 
 语法：

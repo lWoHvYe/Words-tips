@@ -29,11 +29,13 @@
 - manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
 - manner n.方法、方式、态度、礼仪、规矩
+- manpower [ˈmænpaʊə(r)] n.人力、人手、劳动力
 - manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
 - map n.地图、v.绘制
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
+- marginal a.小的、微不足道的、边缘的
 - marital a.婚姻的、夫妻的
 - marriage n.结婚仪式、婚姻、婚礼
 - marry v.结婚、嫁、娶、为...举行婚礼
@@ -133,6 +135,7 @@
 - mitochondrion [ˌmaɪtəʊˈkɒndriən] n.线粒体 复数: mitochondria
 - mitre 主教法冠、斜接
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
+- mnemonic [nɪˈmɒnɪk] n.助记符号 
 - mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
@@ -158,6 +161,7 @@
 - mono a.单声道的
 - monolayer n.单层
 - monolith n.单块巨石、巨无霸
+- monolithic [ˌmɒnəˈlɪθɪk] a.整体的、庞大的
 - monolog n.独白、独角戏
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - monotone n.单调、a.单调的
@@ -172,6 +176,7 @@
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、运动的
+- mourn [mɔːn] v.哀悼、忧伤
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - movement n.运动、转动、迁移
@@ -186,6 +191,7 @@
 - multiply 乘、相乘、复合地、多样地、多股的、多层的
 - multiplier n.乘数、倍数
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
+- murmur n/v.小声说话
 - museum [mjuˈziːəm] n.博物馆
 - mutex 互斥、互斥对象、互斥锁
 - mutual a.相互的、彼此的、共同的、共有的

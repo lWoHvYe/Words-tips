@@ -1,18 +1,18 @@
-- sacred a.上帝的、神圣的、庄严的、受崇敬的
+- sacred [ˈseɪkrɪd] a.上帝的、神圣的、庄严的、受崇敬的
 - sacrifice n/v.牺牲、祭祀
 - sad a.悲哀的、难过的
 - sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
-- saint [seɪnt] n.圣人
+- saint [seɪnt] n.圣人、圣徒
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
 - sale n.出售、销售、销售量、特价销售
 - salve n.药膏、软膏
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
-- sanction 制裁、惩罚、约束、批准、许可
+- sanction [ˈsæŋkʃn] n.批准、认可、制裁、惩罚、约束、v.批准、许可
 - sanctity [ˈsæŋktəti] n.神圣
 - sanitization 消毒、卫生处理、净化、清除
 - satiate [seɪʃieɪt] v.满足
-- satire [ˈsætaɪə(r)] n.讽刺
+- satire [ˈsætaɪə(r)] n.讽刺、讽刺文学
 - satisfaction n.满意、满足、清偿、赔偿
 - satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
@@ -29,10 +29,12 @@
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
 - scenario n.方案、设想、场景、脚本
+- sceptical [ˈskeptɪkl] a.怀疑的
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
 - scheme n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scientific a.科学的、有系统的
+- scissors [ˈsɪzəz] n.剪刀
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
 - scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
@@ -86,10 +88,12 @@
 - separate v.分开、分离、a.分开的、单独的、不相关的
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
+- sera [ˈsɪərə] n.血清、血浆
 - serial a.连续的、连载的
 - serialize 连载、连播
 - series 系列、连续、接连、串联、级数、系列节目
 - serious a.严肃的、认真的、重要的、严重的、危险的
+- sermon n.布道、讲道
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
@@ -132,6 +136,8 @@
 - shortly ad.立刻、马上
 - shortage n.不足、缺少、短缺
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
+- show n/v.显示、表示、展示、演示
+- shower n.淋浴、阵雨、小雨
 - shrink v.收缩、缩小、减少
 - shuffle n/v.洗牌
 - shut n/v.关闭、停业、关门  shut down 关闭、停业
@@ -162,13 +168,15 @@
 - site n.地点、位置、网站、站点、v.使坐落在...
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
+- skeptical a.怀疑的、持怀疑态度的
+- skepticism [ˈskeptɪsɪzəm] n.怀疑态度、怀疑论、怀疑主义
 - sketch n.素描、草图、简报、v.速写、草拟、简述
 - skew a.斜的、歪的、不对称的、v.偏离、偏差、歪斜
 - ski n.滑雪板、v.滑雪、a.滑雪的
 - skirt n.短裙、挡板、v.绕开、回避
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
-- slash n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
+- slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
 - slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
 - slavery n.奴隶制度、奴隶身份
 - sleuth 足迹、警犬、侦探
@@ -202,7 +210,7 @@
 - sober a.冷静的、头脑清醒的、v.变得冷静
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
-- solar 太阳的、日光的、利用太阳能的、太阳能的、日光浴室
+- solar [ˈsəʊlə(r)] a.太阳的、日光的、利用太阳能的、太阳能的、n.日光浴室
 - solder n.焊料、v.焊接、焊合
 - soldier [ˈsəʊldʒə(r)] n.士兵
 - sole a.唯一的、仅有的、独占的、n.鞋底、脚底
@@ -241,6 +249,7 @@
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - speech n.演讲、发言
+- spell v.拼写、招致、顶替、n.一段时间、咒语、魔法
 - spend n/v.花费、开销
 - sperm [spɜːm] n.精子、精液
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
@@ -260,6 +269,7 @@
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
 - spread v.传播、散布、展开、伸开、n.传播、蔓延、差额、差幅、a.广大的、大幅的 spreading (在金融方面可做)利息差
 - spreadsheet n.电子表格
+- spree [spriː] n.(过分的)玩乐、作乐
 - sprint 冲刺、全速短跑、短跑比赛
 - spurious a.虚假的、伪造的、欺骗性的
 - sqrt 根号
@@ -279,10 +289,12 @@
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
 - stance n.态度、立场
-- stand 站立、直立、位于、容忍、经受、立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
+- stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
 - standalone 独立的、单独的、脱机
 - standby n.备用品、可信赖的人、a.常备的、备用的
+- standing a.永久性的、长期存在的
 - staple n.主食、主要产品、订书钉、v.装订、a.主要的、基本的、重要的
+- star n.明星、星号、v.主演、标星号
 - starvation 饥饿、挨饿、饿死、绝食
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
@@ -415,17 +427,19 @@
 - survive v.幸存、幸免于难
 - susceptibility n.易感性、敏感性、过敏性
 - susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的、易受感动的
-- suspect v.猜测、怀疑、不信任、a.可疑的、不可信的、n.犯罪嫌疑人、嫌疑犯、可疑对象
+- suspect v.猜测、怀疑、不信任、猜想、a.可疑的、不可信的、n.犯罪嫌疑人、嫌疑犯、可疑对象
 - suspend v.暂停、中止、悬挂、延缓
-- suspicion 怀疑、嫌疑、疑心、不放心、少许
+- suspicion [səˈspɪʃn] n.怀疑、嫌疑、疑心、不放心、预感、(of)些许、少许
+- suspicious a.怀疑的、可疑的、起疑的
 - sustain [səˈsteɪn] v.维持、供养、支撑、承受、承担、遭受
 - sustainable a.可持续的  sustainable development 可持续发展
 - swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
 - swap 交换、互换、掉换、交流、交换物
 - sweep v.扫除、打扫、清理、掠过、舞动、挥动
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
+- swift a.敏捷的、迅速的
 - swim v.游泳、游动、旋转、眩晕、n.游泳
-- swine n.猪、讨厌的人、令人不愉快的事、难处理的东西
+- swine n.猪、讨厌的人、令人不愉快的事、难处理的东西  swine flu 猪流感  bird flu 禽流感
 - switch n.开关、转换、转换器、交换机、v.转换、转变、交换、对调
 - symbol n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
