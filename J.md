@@ -11,6 +11,8 @@
 - journey n.旅行、旅程、v.旅行
 - joy n.快乐、喜悦、满足
 - judge n.法官、v.审判、评判
+- judicial a.法庭的、法官的、司法的 
+- judicious [dʒuˈdɪʃəs] a.明智的、明断的
 - juice n.果汁
 - junction n.连接、接合、接合点
 - junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、n.年少者、青少年、职位较低者

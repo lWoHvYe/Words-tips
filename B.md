@@ -50,6 +50,10 @@
 - bespeak v.证明、预定、展现、显示
 - bespoke a.订做的、定制的、v. bespeak的过去式
 - between [bɪˈtwiːn] prep.在...中间、介于...之间 between jobs 工作之间、待业中、暂时失业中
+- bewail v.悲哀、哀悼
+- beware v.当心、提防
+- bewilder v.使困惑、使迷惑
+- bewitch v.蛊惑、迷惑、使中魔法
 - beyond 超过、超出、那一边、在远处
 - bias n.偏见、偏心、偏向、v.使偏向、使有偏见、a.斜的、偏动的
 - bid [bɪd] n/v.投标、出价
@@ -69,6 +73,7 @@
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
+- bleak [bliːk] a.凄凉的、荒凉的、暗淡的、阴冷的、没有希望的  bleak economic future 暗淡的经济前景
 - bless [bles] v.祝福、赞美
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
@@ -80,7 +85,7 @@
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
 - boast [bəʊst] n/v.自夸、夸耀
 - boat n.小船、舟
-- boilerplate n.样板
+- boilerplate [ˈbɔɪləpleɪt] n.样板文件、公式化
 - bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bolster v.改善、加强、n.靠垫、垫枕
 - bomb [bɒm] n.炸弹、v.轰炸
@@ -101,11 +106,13 @@
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
+- brace n.箍子、牙箍、大括弧、v.准备好、支撑
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
-- brain n.脑、智力
+- brain [breɪn] n.脑、智力、逻辑思维能力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
+- bread n.面包
 - break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
@@ -143,7 +150,7 @@
 - burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
-- burst [bɜːrst] v.爆裂、胀开、爆满
+- burst [bɜːrst] v.爆裂、胀开、爆满  boom and burst 繁荣与破灭
 - bury [ˈberi] v.埋葬、埋藏
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏
 - buy v.买、购买、买通、收买、贿赂、相信、接受、n.购买

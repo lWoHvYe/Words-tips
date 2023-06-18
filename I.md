@@ -7,6 +7,7 @@
 - identify [aɪˈdentɪfaɪ] v.确定、识别、认出、发现、认同、鉴定、是...的标志
 - identity [aɪˈdentəti] n.身份(ID)、本体、特征、同一性、相同、一致、恒等 identity card 身份证
 - ideology n.思想、意识形态、空想、空论
+- idiom [ˈɪdiəm] n.习语、成语、语法
 - idiosyncracy n.特质
 - idiosyncratic [ˌɪdiəsɪŋˈkrætɪk] a.乖僻的、怪异的、特质的
 - idiot [ˈɪdiət] n.白痴、傻瓜、笨蛋
@@ -21,6 +22,7 @@
 - illusion [ɪˈluːʒn] n.幻觉、幻想
 - illusory a.虚幻的、幻觉的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
+- illustration n.插图、图示、说明、图解
 - illustrious [ɪˈlʌstriəs] a.杰出的、显赫的、著名的
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
 - imaginary a.虚构的、幻想的
@@ -39,15 +41,19 @@
 - immune a.有免疫力的、不受影响的
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
-- impact 影响、撞击、冲击、挤入、冲击力
+- impact n/v.影响、撞击、冲击、挤入、冲击力
 - impair v.损坏、削弱
+- impart v.通知、透露、传授、将...给予
+- impartial [ɪmˈpɑːʃl] a.公正的、中立的、不偏不倚的
+- impasse n.僵局、绝境
+- impassive a.冷漠的、无情的
 - impeccable a.完美的、无可挑剔的
 - impedance n.阻抗
 - impediment n.阻碍、障碍
 - impel v.促使、推动
 - imperative a.迫切的、急迫的、n.必要的事、祈使语气
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
-- implement 实施、执行、使生效、实现、落地、工具、器械
+- implement v.实施、执行、使生效、实现、落地、n.工具、器具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
 - implication n.蕴含、含意、牵涉、牵连、影响
 - implict [ɪmˈplɪsɪt] a.含蓄的、内含的、不直接的、隐示的
@@ -127,9 +133,10 @@
 - initial [ɪˈnɪʃl] a.初始、最初的、开始的
 - initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
 - initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
-- inject 注射、注入
+- inject v.注射、注入
 - injure v.损害、伤害
 - injury n.损伤、伤害
+- inlay v.镶嵌、嵌入
 - inner a.内部的、内心的、n.内部、里面
 - innermost a.内心深处的
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
@@ -176,9 +183,10 @@
 - intense a.强烈的、激烈的
 - intensify v.强化、加强、增强
 - intensity n.强烈、紧张、剧烈、强度
-- intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的
+- intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的  labor-intensive 劳动密集型
 - intent n.目的、意图、a.热切的、专切的
 - intentional a.故意的、蓄意的
+- inter v.埋葬
 - interact v.相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
@@ -199,6 +207,7 @@
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
+- interpolate v.插入、插话、插嘴
 - interpret [ɪnˈtɜːprət] v.解释、说明、理解、领会、翻译、诠释
 - interpretation n.理解、解释、说明、演绎
 - interpreter 口译译员、解释者、解释程序、演绎的人
@@ -214,6 +223,7 @@
 - intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate a.错综复杂的、难理解的
+- intrinsic [ɪnˈtrɪnzɪk] a.固有的、内在的
 - introduce v.介绍、引进、提出、采用、作为...的开头
 - introduction n.介绍、引进、推行、引言、序言、导论
 - introductory a.引导的、介绍的、入门的、初步的
@@ -230,7 +240,7 @@
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
 - invert v.颠倒、倒转、倒置
 - invest v.投资、投入、花费、装饰、授予、给予
-- investigate v.调查、研究、审查、侦查、做调查
+- investigate v.调查、研究、审查、侦查、做调查  be under investigate 受到调查
 - investment n.招商、投资、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待

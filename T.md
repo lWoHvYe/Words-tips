@@ -56,6 +56,9 @@
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
+- text n.正文、文本、文档
+- textile n.织物、纺织品、纺织业
+- textual a.正文的、原文的、文本的、篇章的
 - theater n.剧院、剧场、戏剧
 - theatre n.剧院、剧场、露天剧场、演出、上演
 - theft 盗窃、偷窃、赃物
@@ -127,7 +130,7 @@
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - traditional a.传统的、惯例的、因袭的、守旧的
-- tragedy n.悲剧
+- tragedy [ˈtrædʒədi] n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
 - trailer n.拖车、挂车、活动房屋、预告片
@@ -140,11 +143,13 @@
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
 - transform v.变换、转换、改变、改观
 - transient a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
+- transistor [trænˈzɪstə(r)] n.晶体管
+- transit n.运输、中转、过境、交通运输系统、v.经过、穿过
 - transition [trænˈzɪʃn] n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
 - translate v.翻译、转化、解释
 - translator n.翻译、翻译家、译员
-- transmit [trænzˈmɪt] v.传输、传送、传播、传染、发射
+- transmit [trænzˈmɪt] v.传输、传送、传播、传导、传染、发射
 - transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - transportation n.运输、流放
@@ -181,11 +186,12 @@
 - tune n.曲子、曲调、v.调音、调节
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器
-- turbulent [ˈtɜːrbjələnt] 骚乱的、动荡的、激流的
+- turbulence n.湍流、涡流、骚乱、动乱
+- turbulent [ˈtɜːrbjələnt] a.骚乱的、动荡的、激流的
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是  trun around 转动、转身、好转、改变意见
 - turnaround n.周转、时限、转机
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
-- tutorial 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
+- tutorial [tjuːˈtɔːriəl] 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
 - twist v.扭曲、使弯曲
@@ -193,3 +199,4 @@
 - type n.种类、类型、字体、字形、v.打字
 - typewriter n.打字机
 - typical a.典型的、有代表性的
+- typify v.作为...的典型、成为...的特征

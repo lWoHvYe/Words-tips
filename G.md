@@ -25,6 +25,7 @@
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - Germany [ˈdʒɜːməni] n.德国
 - giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
+- gift n.礼物、赠品、天赋、v.白送、白给
 - gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
 - gist 主旨、要点、大意
 - giveaway n.赠品
@@ -75,10 +76,11 @@
 - guarantee n.保证、担保、保证人、保证书、抵押品、v.保证、担保、抵押、确保
 - guarantor n.保证人、担保人
 - guaranty n.保证、担保物、保证书、抵押品、v.保证、抵押、担保
-- guard [ɡɑːrd] n/v.警卫、保护、保卫、看守
-- guardian n.捍卫者
+- guard [ɡɑːrd] n/v.警卫、保护、保卫、看守  security guard 保安
+- guardian n.捍卫者、监护人
 - guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针
 - guilty a.有罪的、内疚的
 - gum n.口香糖、牙龈、黏胶
+- gutter n.槽沟、排水沟、v.忽明忽暗、摇曳不定
 - gym/gymnasium [dʒɪmˈneɪziəm] n.体育馆、健身房

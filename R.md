@@ -90,7 +90,7 @@
 - refugee n.难民
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝
-- refuse v.拒绝、回绝、推却、n.垃圾、废弃物
+- refuse [rɪˈfjuːz/ˈrefjuːs] v.拒绝、回绝、推却、n.垃圾、废弃物
 - regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候、n.尊敬、注意、关注  regarding 关于、相关  with regard to 对于、就...而论
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
@@ -107,6 +107,7 @@
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
 - rein n.缰绳、控制、主宰、v.控制、驾驭
 - reinforce v.增援、加强、巩固
+- reject [rɪˈdʒekt/ˈriːdʒekt] v.拒绝、驳回、排斥、排异(移植的器官)
 - relate v.使有联系、联系、关联、叙述、讲述、把...联系起来、讲（故事）
 - relation n.关系、联系、关联
 - relationship n.关系、联系、关联
@@ -124,7 +125,7 @@
 - religious a.宗教的、虔诚的[qián chéng]
 - reluctant a.不情愿的、勉强的
 - rely v.依靠、依赖、信赖
-- remain 剩余物、残骸、残余、遗迹、余额、保持、依然、留下、留待
+- remain n.剩余物、残骸、残余、遗迹、余额、v.保持、依然、留下、留待、剩余
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
 - remark n/v.评论、谈论
@@ -138,6 +139,7 @@
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴
 - rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
+- rendezvous [ˈrɒndɪvuː] n/v.约会、会面、会合、集合
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - renew v.更新、重新开始、重申、使恢复
 - renewable a.可再生的、n.可再生资源
@@ -146,13 +148,15 @@
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
 - repeal [rɪˈpiːl] n/v.废除、撤销
-- repeat v.重复、复述、背诵、重述、n.重演的事物、重复的事件
+- repeat v.重复、一再、复述、背诵、重述、n.重演的事物、重复的事件
 - Repeater n.转发器(又称中继器或放大器)
 - repel [rɪˈpel] v.击退
+- repertoire [ˈrepətwɑː(r)] n.全部节目、全部本领、(计算机的)指令表
 - repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
 - reply n/v.回答、答复
+- repository n.仓库
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
@@ -172,6 +176,7 @@
 - resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
 - resistance n.反对、抵制、抵抗力、阻力、电阻
 - resistant a.抵抗的、顽固的、n.抵抗者、防染剂 water resistant 防水的
+- resistor n.电阻、电阻器
 - resolute [ˈrezəluːt] a.坚决的、坚定的
 - resolution n.决议、决心、解决  resolution ratio 分辨率  resolution cell 分辨单元
 - resolve [rɪˈzɒlv] n.决定、决心、v.解决、做出决定、表决、使分解、使解体  resolve to do sth 决定做某事
@@ -226,6 +231,7 @@
 - reward n.奖励、回报、报酬、v.奖励、奖赏、给予报酬
 - rewarding a.有益的、值得做的
 - rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
+- right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
 - rigid a.僵硬的、严格的、顽固的、死板的
 - ringtone n.铃声
 - rise n/v.上升、增加
@@ -241,6 +247,7 @@
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - roof n.顶部、屋顶
 - room n.房间、空间、可能性、v.租房、合住
+- rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替
 - rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
@@ -252,6 +259,7 @@
 - router n.路由器
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
+- RTL Resistor Transistor Logic 电路
 - rubble n.瓦砾、碎石
 - ruin n/v.破坏、毁灭、糟蹋、破产
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决

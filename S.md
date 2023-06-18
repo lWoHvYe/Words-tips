@@ -1,7 +1,8 @@
 - sacred [ˈseɪkrɪd] a.上帝的、神圣的、庄严的、受崇敬的
 - sacrifice n/v.牺牲、祭祀
 - sad a.悲哀的、难过的
-- sage 圣人、贤者、智者、鼠尾草、睿智的、贤明的
+- safeguard [ˈseɪfɡɑːd] v.保护、维护、捍卫、n.防护装置、保护措施、安全设施
+- sage [seɪdʒ] 圣人、贤者、智者、鼠尾草、睿智的、贤明的
 - saint [seɪnt] n.圣人、圣徒
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
@@ -77,7 +78,7 @@
 - semicolon [ˌsemiˈkəʊlən] n.分号
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
 - seminar n.研讨会、研讨课
-- senate n.参议院、元老院、上院
+- senate [ˈsenət] n.参议院、元老院、上院
 - senior a.级别高的、资深的
 - sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
 - sense n.感觉、意识、观念、v.感觉到、意识到、理解、领会 make sense 讲得通、有意义
@@ -129,7 +130,7 @@
 - ship n.船
 - shirk [ʃɜːk] v.逃避、偷懒
 - shock n.震惊、电击、休克、震动、v.使震动、使休克、使震惊
-- shore n.岸、滨
+- shore n.岸、滨  Onshore employees are those who work in the same country where the company is headquartered, while offshore employees work in a different country.
 - short a.短的、短暂的、缺乏、缺少、低的、矮的  fall short of sth 未达到、不符合
 - shortcoming n.短处、缺点
 - shorthand n/v.速记
@@ -230,6 +231,8 @@
 - sound 声音、健全、合理
 - source n.来源、出处、根源、起源、v.(从...)获得
 - sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
+- soy n.大豆
+- soybean n.大豆
 - spaghetti n.意大利面条
 - Spain [speɪn] n.西班牙
 - span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
@@ -334,9 +337,12 @@
 - strange a.奇怪的、陌生的、不熟悉的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
+- straw n.稻草、吸管
+- strawberry n.草莓
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
 - strength n.力量、体力、毅力、优点、长处
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
+- stretch [stretʃ] v.伸展、拉长、拉紧、延续、耗尽、n.(连续的)一段时间、一片、伸展
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
 - strike n/v.罢工、击、打、打击
@@ -365,6 +371,7 @@
 - subset 分组、小组、子集
 - subsidary a.辅助的、附属的
 - subside v.减弱、平息、退去、消退
+- subsidise ['sʌbsɪdaɪz] v.补助、资助、给...发津贴
 - subsidy n.津贴、补贴、补助
 - substance n.物质、主旨、要点、实质
 - substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
@@ -435,7 +442,7 @@
 - sustainable a.可持续的  sustainable development 可持续发展
 - swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
 - swap 交换、互换、掉换、交流、交换物
-- sweep v.扫除、打扫、清理、掠过、舞动、挥动
+- sweep v.扫除、打扫、清理、掠过、舞动、挥动  a sweeping ruling 全面的裁决
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swift a.敏捷的、迅速的
 - swim v.游泳、游动、旋转、眩晕、n.游泳

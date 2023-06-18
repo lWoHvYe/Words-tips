@@ -48,6 +48,7 @@
 - acquire v.获得、得到
 - acquisition 获得、得到、购置、收购
 - acre [ˈeɪkə(r)] n.英亩
+- acreage [ˈeɪkərɪdʒ] n.面积、英亩数
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
 - act n.行为、法令、法案、表演、假装、v.行动、表演、起作用
 - active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
@@ -94,13 +95,14 @@
 - aerial a.航空的、空中的、地表以上的、n.天线  aerial photograph 航拍
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - aesthetic/esthetic [esˈθetɪk] n.美学、美感、审美观、a.美学的、艺术的、审美的
-- affair 公共事务、事件、事情、私人业务、私事、不寻常之物
+- affair n.事务、事件、事情、私人业务、私事、不寻常之物
 - affect v.影响、侵袭、感动、n.情感、偏差
 - affection n.感情、喜爱、爱情、钟爱
 - affectionate a.有感情的、热情的、慈爱的
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
 - afford v.提供、给予、负担得起、买得起、有能力做
+- afresh ad.重新开始、重新、从头
 - afterward ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
@@ -121,7 +123,7 @@
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
 - alarm n.警报、闹钟
-- albeit conj.虽然、即使
+- albeit [ˌɔːlˈbiːɪt] conj.虽然、即使、尽管
 - album n.相册
 - alcohol [ˈælkəhɒl] n.乙醇、酒精
 - alert a.机警的、警觉的、v.使...警觉、使意识到、n.警戒、警惕、警报
@@ -249,11 +251,12 @@
 - aspire v.渴望
 - assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
-- assembly n.装配、集会、议会、会议、立法机构
+- assembly n.装配、集会、议会、会议、立法机构  assembly language (asm)汇编语言
 - assert v.声称、断言、明确肯定、维护、坚持、生效
 - assess [əˈses] v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
 - asset n.资产、财产、优点、有利条件
+- assiduous a.刻苦的、勤勉的、兢兢业业的
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
 - assimilate [əˈsɪməleɪt] v.同化、消化、吸收

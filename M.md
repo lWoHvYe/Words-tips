@@ -1,4 +1,4 @@
-- machine [məˈʃiːn] n.机械、v.制造、加工成型
+- machine [məˈʃiːn] n.机械、机器、v.制造、加工成型  Machine Learning 机器学习  Machine Language 机器语言
 - macro n.宏、宏指令、a.广大的、宏观的、巨大的、极厚的、特别突出的、大量使用的
 - madam [ˈmædəm] n.夫人、女士、小姐
 - magazine n.杂志、期刊、弹药库
@@ -13,7 +13,7 @@
 - majesty n.陛下、统治权、王权
 - major a.主要的、重要的、主修的、n.专业、少校、主修课程、专业课、v.主修、专攻
 - majority n.大部分、大多数、成年、法定年龄
-- make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产
+- make v.做、制造、生产、使得、制定、使成为、使产生、n.牌子、型号、性格、生产  make up with 与...和好、与...和解、补偿、弥补
 - makeup n.化妆品、性格、组成、构成
 - maladapted a.不适应的、不适合的
 - male a.男性的、雄性的、n.男人、雄性动/植物
@@ -64,12 +64,15 @@
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
 - meat n.肉、重要的部分
 - mechanical [məˈkænɪkl] a.机动的、机械的、呆板的、n.机械部件、机械物体
-- mechanism n.机制、机能、机理、结构、构造、机械装置
+- mechanics n.机械学、力学、mechanic的复数
+- mechanism [ˈmekənɪzəm] n.机制、机能、机理、物理过程、结构、构造、机械装置
+- mechanize/mechanise [ˈmekənaɪz] v.使机械化
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
 - medicine [ˈmedsn] n.医学、药物
+- medieval [ˌmediˈiːvl] a.中世纪、中世纪的(约公元1000到1450年)
 - meditative a.沉思的
-- medium a.中等的、n.媒介、手段、工具、方法、介质
+- medium a.中等的、中间的、适中的、n.媒介、手段、工具、方法、介质  cooling medium 冷却介质
 - meet v.满足、遇见、相遇、会面、会晤
 - mega a.巨大的、宏大的 = huge = great
 - megabit n.兆位 MB
@@ -80,6 +83,7 @@
 - memorial a.纪念的、悼念的、n.纪念碑、纪念品
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
+- mend v.修理、修补、弥补、解决、痊愈
 - mental a.思想的、内心的、心理的、智慧的、n.精神病
 - mention n/v.提到、提及、说起
 - mentor 导师、顾问、指导
@@ -114,16 +118,19 @@
 - mileage n.里程、英里、好处、利益
 - milestone 重要事件、重要阶段、转折点、里程碑
 - military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
+- mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
 - mindedness n.思想、心思
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minimal a.最小的、极小的
+- minimize v.使减少到最低限度、使最小化、对...轻描淡写
+- minimum n.最小值、最低限度、极小值、a.最小的、最低的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
 - minor a.较小的、少数的、轻微的、次要的、v.辅修、n.辅修课程
 - minus n.减、减号、负号
-- minute n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
+- minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
@@ -173,9 +180,11 @@
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
 - moth n.蛾、飞蛾
+- motion n.运动、行动、意图、动机、v.示意
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
-- motive n.动机、原因、目的、促使、a.动机的、运动的
+- motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
+- motor n.发动机、电动机
 - mourn [mɔːn] v.哀悼、忧伤
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事

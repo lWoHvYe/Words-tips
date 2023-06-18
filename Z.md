@@ -1,2 +1,3 @@
 - zeal n.热情、激情
 - zephyr [ˈzefə(r)] n.和风、微风
+- zone n.地区、地带、流域、v.划分区域

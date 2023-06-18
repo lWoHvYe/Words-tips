@@ -14,6 +14,8 @@
 - quickness n.机智、机敏、敏捷
 - quiescent a.静止的、静态的、休眠的
 - quintuple a.五倍的、v.变成五倍、n.五倍
+- quire n.帖
+- quirk [kwɜːk] n.怪异的性格、怪事、奇事
 - quit v.离开、放弃、辞职
 - quite a.清静的、轻声的、平静的、n/v.平静、安静
 - quiz 提问、咨询、测验、盘问、挖苦、张望

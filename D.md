@@ -58,7 +58,7 @@
 - delinquency 拖欠(债款/贷款)
 - delinquent a.有违法倾向的、拖欠债务的、n.少年罪犯、流氓
 - deliver v.传送、交付、发表、宣布、履行、兑现
-- delivery 传送、交付
+- delivery n.传送、交付、投递、分娩
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
 - democracy n.民主、民主制度
@@ -91,6 +91,8 @@
 - derivation n.引导、导出、衍生、起源、派生
 - derivative n.派生词、衍生物、导数、微商、a.衍生的、导出的
 - derive v.得到、获得、起源于、产生、提取、派生
+- descend v.下降、降临
+- descendant n.后裔、后代、派生物
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
 - desert n.沙漠、v.抛弃、遗弃
@@ -101,7 +103,7 @@
 - desire n/v.渴望、希望、欲望、愿望
 - desist [dɪˈzɪst] v.停止、结束
 - despair n/v.绝望、失望
-- desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的
+- desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的、渴望的、非常需要的、危急的、严峻的
 - despite prep.即使、尽管
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运
@@ -135,7 +137,7 @@
 - diet 日常饮食、规定饮食、节制饮食
 - difference n.差别、差异、差数、差额
 - difficult a.困难的、艰难的、麻烦的
-- diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散
+- diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散、宣泄、舒缓
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest 消化、领会、领悟、理解、摘要、文摘、汇编
 - digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
@@ -151,6 +153,7 @@
 - dip v.浸、蘸、下沉、下降、n.浸、蘸、洗澡 dip into 浏览、翻看、把手伸进(...里取东西)、提取(款项)、动用(存款)
 - direct [dəˈrekt] a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
+- directive n.指示、命令、a.指示的、指导的
 - director n.导演、主管、主任、董事、理事
 - dirt n.污垢、泥土、灰尘
 - dirty a.肮脏的、v.弄脏、玷污
@@ -182,8 +185,9 @@
 - disparage v.贬低、轻视、批评、非难
 - disparate a.完全不同的、迥然不同的、无法比较的
 - dispatch 派遣、调度、迅速处理、处决
+- dispensable a.非必需的、可有可无、不必要
 - dispensation 豁免、宽免、分配、实施、制度
-- dispense v.分配、分发、施与、提供、配(药)
+- dispense v.分配、分发、施与、提供、配(药)、免除、豁免
 - dispersal [dɪˈspɜːsl] n.分散、散布、消散、驱散
 - disperse v.分散、散开、驱散
 - displace v.移动、移走、取代、置换、替换、排水、撤职
@@ -232,6 +236,7 @@
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
+- dot n.点、句点  dot-com 网络公司/互联网经济
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] n/v.怀疑、疑虑、未确定
 - downside n.缺点、弊端、不利方面  反义:upside
@@ -254,9 +259,10 @@
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示  drop out 退学、退出
+- drought n.干旱、旱灾
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
-- dry [draɪ] a.干的、干燥的、v.弄干、干涸
+- dry [draɪ] a.干的、干燥的、v.变干、弄干、干涸
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
@@ -265,5 +271,6 @@
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
 - duty [ˈdjuːti] n.责任、义务、职责、职务、税
+- dwarf n.矮子、侏儒、a.矮小的、发育不全的、v.使显得矮小、使相形见绌
 - dwell v.居住、栖身  dwelling n.住宅、住所
 - dynamic [daɪˈnæmɪk] n.动态、动力、态势、动力学、a.动态的、充满活力的、发展变化的

@@ -13,6 +13,8 @@
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
+- can modal.可以、能够、n.罐头、金属容器、密封保护外壳、一听、v.解雇、开除
+- canned a.罐装的、预先录制的
 - cancel [ˈkænsl] n/v.取消、撤销
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - canny a.谨慎的、精明的、狡猾的
@@ -51,7 +53,7 @@
 - catalogue n.目录、v.编目录、登记分类、记载
 - catalyst n.催化剂
 - catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
-- catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  catch up 追上、赶上
+- catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  过去式/过去分词caught  catch up 追上、赶上
 - category n.类型、类别、种类
 - cater v.满足需要、迎合、提供饮食  cater to/for 
 - cattle n.牛、牲口、畜生
@@ -62,14 +64,17 @@
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
 - cease [siːs] v.停止、结束
-- celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美
+- celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美、烘托
 - celebrity [səˈlebrəti] n.名人、名望、著名
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
 - census [ˈsensəs] n.统计、人口普查、人口调查
-- central [ˈsentrəl] a.中央的、中心的
+- center v.居中、集中、n.中心、中央、中枢
+- central [ˈsentrəl] a.中央的、中心的、首要的、主要的
 - centralize 集中、使集中、成为...的中心、集权控制
 - Centralized 中心化 Decentralized 去中心化
+- centre [ˈsentə(r)] n.中心、中央
+- centrepiece n.最好的部分、最重要的物品、精华
 - centric a.中心的、中央的
 - centricity n.中心、中心性
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
@@ -81,6 +86,7 @@
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
 - certify v.证明、证实、颁发证书
 - chain n.链条、连锁
+- chair n.椅子、v.主席、主持
 - chalk n.粉笔
 - challenge n/v.挑战、质疑
 - chamber [ˈtʃeɪmbə(r)] n.室、会议厅、议院、房间
@@ -89,7 +95,7 @@
 - chancellor n.大臣、总理
 - change 改变、交换、替换、换衣服、兑换、找零、更换
 - channel n.频道、渠道、途径、海峡、水道、v.集中(精力、情感)、调拨(资金、资源)、为...引资、引导
-- chaos [ˈkeɪɒs] n.混乱、混沌
+- chaos [ˈkeɪɒs] n.混乱、混沌  from chaos to order 从混乱到有序
 - chap n.家伙、伙计、小伙子
 - chapel n.小教堂
 - chapter 章、回、时代、篇章
@@ -112,6 +118,7 @@
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - choice n.选择、挑选、a.优质的、上等的
+- cholera [ˈkɒlərə] n.霍乱
 - choreography [ˌkɒriˈɒɡrəfi] n.编舞、舞蹈编排、编舞艺术
 - chose v.选择、挑选、决定、情愿
 - chromosome [ˈkrəʊməsəʊm] n.染色体
@@ -128,7 +135,8 @@
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
 - citizen n.公民、居民、市民
-- civil a.公民的、国民的、民用的
+- civil a.公民的、国民的、民用的、文明的、有礼貌的
+- civilian [səˈvɪliən] n.平民、老百姓
 - civilization n.文明、社会文明、文明世界
 - civilize v.教化、开化、使文明、使有教养
 - claim [kleɪm] v/n宣称、声明、索赔、索要、所有权
@@ -167,6 +175,8 @@
 - coexistence n.共存、共处 co existence(存在、生存)
 - cognition n.认知、感知
 - cognitive a.认知的、认识的、感知的
+- cognize v.认识、认知
+- coherence n.连贯性、条理性
 - cohesive a.有结合力的、紧密结合的、结成一个整体的
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
 - coincidence n.巧合、巧事、同时存在、并存、一致
@@ -192,6 +202,7 @@
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
 - come v.来到、到达、开始、发生、prep.到来
 - comedy n.喜剧
+- comic n.漫画、喜剧演员、a.滑稽的、喜剧的
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
 - comma n.逗号
 - commence 开始、着手、发源、获得学位
@@ -210,6 +221,7 @@
 - community n.社区、群落
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压缩、压紧、压实
+- companion n.同伴、伴侣、旅伴、伙伴
 - company n.公司、剧团、陪伴、做伴
 - compare n/v.比较、对比
 - comparative a.相对的、比较的、比较级的
@@ -231,7 +243,7 @@
 - compliance n.顺从、遵从、服从、合规、承诺、柔软度
 - compliant a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
-- compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺
+- compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
 - comply vi.顺从、服从、遵守、遵从、应允、同意
 - component n.成分、组成、组成部分、要素、a.组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
@@ -268,7 +280,7 @@
 - concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
 - condemn [kənˈdem] v.谴责、指责、宣判、宣布、迫使
 - condition n.条件、状态、状况、健康状况、处境、v.训练、使习惯于、使适应、养护
-- conditional a.条件的、有条件的、附带条件的  conditional on/upon 依/视...而定 = depend on/upon
+- conditional a.条件的、有条件的、有附带条件的、依...而定的  conditional on/upon 依/视...而定 = depend on/upon
 - conduct [kənˈdʌkt]/[ˈkɒndʌkt] n.行为、举止、品行、引导、v.执行、引导、安排、组织、管理、进行、传导
 - conductor [kənˈdʌktə(r)] n.导体、指挥、列车长、售票员
 - conduit n.管道、导管
@@ -286,16 +298,17 @@
 - confluence [ˈkɒnfluəns] n.汇合、交汇处
 - confluent a.汇合的
 - conform v.符合、遵守、相一致、相吻合
-- confuse v.困惑、迷惑
+- confuse v.困惑、迷惑、混淆
 - congest v.拥挤、使充血
 - congress n.国会、议会、代表大会、v.开会、集合
+- conjecture n/v.猜想、猜测、推测
 - conjunct a.结合的、联合的、连接的
 - conjunction n.连词、连结、结合、联合、结合物、(事件的)同时发生
 - conquer v.征服、克服、攻克、打败
 - conscience [ˈkɒnʃəns] n.良知、良心
 - conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
 - consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
-- consecutive a.连续的、连贯的、表示结果的
+- consecutive [kənˈsekjətɪv] a.连续的、连贯的、表示结果的
 - consensus [kənˈsensəs] n.一致的意见、共识
 - consent n/v.同意、准许、允许、许可
 - consequence n.推论、结果、后果、成果、重要性  in consequence of sth 因为、作为...的结果
@@ -341,6 +354,7 @@
 - continue v.持续、继续、连续、延伸
 - continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性
 - continuous a.连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
+- contra n.相反、对立面、抵消、prep.反对、与...相反、ad.反对、相反
 - contract n.合同、契约、v.签合同、缩小、感染
 - contraction n.收缩、缩写、痉挛
 - contractor n.承包人、承包商
@@ -366,7 +380,7 @@
 - convict [kənˈvɪkt/ˈkɒnvɪkt] n.罪犯、v.定罪、宣判...有罪
 - conviction n.判罪、定罪、信念、确信、说服
 - convince v.说服、劝说、使确信、使信服
-- cooperate [kəʊˈɒpəreɪt] 合作、协作、协助、配合
+- cooperate [kəʊˈɒpəreɪt] v.合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
 - coordinator n.协调者
@@ -387,7 +401,8 @@
 - corruption [kəˈrʌpʃn] n.腐败、贪污、贿赂、受贿
 - cosmos [ˈkɒzmɒs] n.宇宙
 - cost n.费用、花费、代价、成本、v.花费、估计成本
-- costly a.昂贵的、代价高的
+- costly a.昂贵的、代价高的、豪华的
+- cotton n.棉、棉花、棉织物
 - council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
@@ -423,11 +438,15 @@
 - critical a.关键的、批评的、批判的、严重的、紧要的、极重要的
 - criticism [ˈkrɪtɪsɪzəm] n.批评、批判、评论文章、评论
 - criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
+- cron n.时间单位，等于百万年
+- crop n.庄稼、作物
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
+- crumb n.碎屑、v.弄碎、捏碎
 - crunch v.嚼、碾、处理信息
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
 - crush v.压坏、压碎、捣碎、弄皱、n.热恋、迷恋
+- cry v.哭、哭泣、叫喊、呼喊
 - crypto 加密货币
 - cryptography 密码学、密码术
 - cube n.立方体、立方、三次幂
@@ -442,6 +461,7 @@
 - cure v.治愈、矫正、解决、消除、治疗、n.药物、疗程、措施、对策
 - curiosity [ˌkjʊəriˈɒsəti] n.好奇心、求知欲、奇物、珍品
 - curious [ˈkjʊəriəs] a.好奇的
+- curly a.卷曲的
 - current a.现在的、当前的、通用的、流通的、流行的、n.电流、水流、气流、思潮、潮流、趋势
 - currency n.货币、通货、流行
 - curriculum [kəˈrɪkjələm] n.课程、全部课程、课表

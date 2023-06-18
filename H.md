@@ -3,6 +3,7 @@
 - hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
+- halo [ˈheɪləʊ] n.光环、(日月等的)晕
 - halt v.暂停、中止、停下
 - hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
@@ -19,6 +20,7 @@
 - harvest 收割、收获
 - hash [hæʃ] n.#号
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
+- haste n.匆忙、仓促
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
 - head n.头、头脑、领导、主管、v.朝着...行进
 - headcount/hc 公司HR预计招聘的员工人数 
@@ -63,9 +65,11 @@
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
 - host n/v.主持、主办  host of 许多、大量的
+- House n.下议院
 - hub n.轮轴、中心、电线插孔、集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
+- humor n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
 - hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
 - hydrochloride n.盐酸、盐酸盐、氯化氢

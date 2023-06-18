@@ -17,9 +17,11 @@
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
 - pare v.削减、削皮、逐步减少
+- parenthesis n.插入语、圆括号
 - parenthood n.家长身份
 - parse v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
+- particle n.微粒、粒子、质子、极小量
 - participant n.参加者、参与者
 - participate v.参加、参与
 - particular a.特定的、特别的、特殊的、n.细节、详情
@@ -28,11 +30,12 @@
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
 - passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
-- passion [ˈpæʃn] n.激情、热恋、酷爱、v.表露强烈感情
-- passionate a.热情的、热诚的、狂热的
+- passion [ˈpæʃn] n.激情、热恋、酷爱、激怒、大怒、v.表露强烈感情
+- passionate a.热情的、热诚的、狂热的、易怒的
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
+- pathogen n.病原体
 - pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
 - pathway 路、道、途径、路径
 - patience n.忍耐、耐心、耐性
@@ -51,7 +54,7 @@
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
 - penny n.便士、一分钱、少量的钱
-- pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的
+- pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的  pension fund 养老基金
 - pensive a.沉思的
 - people n.人(不可数)、民族(可数)
 - perceive [pəˈsiːv] v.感知、认为、察觉、发觉、察觉到、注意到、意识到
@@ -71,7 +74,7 @@
 - permanent [ˈpɜːmənənt] a.永久的、永恒的、长久的、n.烫发
 - permeate v.散布、传播、弥漫、渗透、渗入
 - permutation 序列、排列、组合、置换
-- perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、持续的、不断的、四季开花的
+- perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、无期限的、终身的、持续的、不断的、四季开花的
 - perplex v.迷惑、困惑
 - persecute v.迫害、残害、骚扰、打扰
 - persist v.坚持、保持、维持、持续存在
@@ -103,8 +106,8 @@
 - physics n.物理
 - physiology n.生理学
 - picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
-- pie n.馅饼、派
-- piece 块、片、段、修补、连接
+- pie [paɪ] n.馅饼、派
+- piece [piːs] 块、片、段、修补、连接
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
 - pillar n.支柱、v.成为...的栋梁
@@ -112,9 +115,10 @@
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
 - pinch [pɪntʃ] v.拧、捏、捏住
 - pink n.粉红色
+- pioneer [ˌpaɪəˈnɪə(r)] n.先驱者、开拓者
 - pipeline n.管道、管线 in the pipeline 在筹备中
 - pit n.矿井
-- pitfall 陷阱、诱惑、圈套、困境、危险、隐患
+- pitfall n.陷阱、诱惑、圈套、困境、危险、隐患
 - pivot n.枢轴、中心点、支点
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
@@ -128,6 +132,7 @@
 - plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - plead v.恳求、辩护、认罪、陈述案情
+- please int.请、v.使满意、使高兴、(as/what/where...)想、喜欢  do as you please 请便
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、抵押(证券)、v.保证、使发誓、抵押、典当、质押
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
@@ -141,11 +146,13 @@
 - podcast n.播客
 - poem n.诗、韵文
 - poet n.诗人
-- poetry n.诗、诗歌、诗意
+- poetry [ˈpəʊətri] n.诗、诗歌、诗意
 - poke n/v.捅、戳、刺、挑(出)
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
+- polite [pəˈlaɪt] a.有礼貌的、客气的
+- politeness [pə'laɪtnəs] n.客气、有礼貌、殷勤
 - political a.政治的、政府的、政权的
 - politician n.政治家、政客
 - poll v.投票、民意调查
@@ -245,7 +252,7 @@
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - priest [priːst] n.牧师、神父、僧侣
 - primary a.主要的、最初的、初级的、基本的
-- prime a.主要的、首要的、优质的、典型的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点
+- prime a.主要的、首要的、优质的、典型的、基本的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点  prime number 质数、素数
 - primer n.启蒙读本
 - primitive a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
@@ -311,6 +318,7 @@
 - proposal n.提议、建议、求婚、投标
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
+- prose n.散文、白话文
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
 - prospect n.展望、设想、前景、可能性、景色、v.探矿、勘探
 - prosper v.繁荣、兴旺、成功、发达

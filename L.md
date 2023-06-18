@@ -69,6 +69,7 @@
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
+- linger v.逗留、徘徊、继续存留
 - linguistic a.语言的、语言学的
 - link v.联系、连接、n.链接、联系、关系、纽带、环节
 - linkage n.联系、连锁、联动
@@ -80,11 +81,11 @@
 - list n.列表、清单、v.列出、列举
 - lite 清淡的、低盐的、低热量的、精简的
 - literacy n.识字、有文化、读写能力
-- literal a.文学的、照字面的、原义的、字面意义的、平实的、缺乏想象力的
+- literal [ˈlɪtərəl] a.文学的、照字面的、原义的、字面意义的、平实的、缺乏想象力的
 - literally ad.照字面地、真正地、确实地
-- literary a.文学的、文学上的、爱好文学的
+- literary [ˈlɪtərəri] a.文学的、文学上的、爱好文学的
 - literate a.有读写能力的、有文化的
-- literature n.文学、文献、资料
+- literature [ˈlɪtrətʃər] n.文学、文献、资料
 - load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
 - loan n.贷款、v.借出、贷与、出借
 - lobby [ˈlɒbi] n.大厅、休息室、游说、游说团体、v.游说

@@ -1,4 +1,5 @@
 - nadir n.最低点
+- narcissus [nɑːˈsɪsəs] n.水仙、水仙花
 - narrate v.讲、讲述、叙述
 - narrative n.故事、叙述、描述、a.叙述的、叙事体的
 - narrow 狭窄的、狭隘的、有限的、勉强的、目光短浅的、限制、限定、变窄、缩小、海峡、狭窄的水道
@@ -28,6 +29,7 @@
 - neurotic [njʊəˈrɒtɪk] a.神经质的
 - neutral [ˈnjuːtrəl] a.中立的、中性的、不带电的、空档的、n.中立者、中和色
 - nevertheless ad.然而、不过、尽管如此
+- nice a.美好的、吸引人的、友好的
 - nightmare n.噩梦、梦魇
 - nimble a.灵活的、敏捷的
 - nimbus n.雨云、光环

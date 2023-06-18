@@ -29,7 +29,7 @@
 - verbose a.冗长的、啰嗦的、唠叨的
 - verdict n.裁定、判决
 - verify v.证明、证实、核实、查证
-- versa 反之亦然
+- versa 反之亦然  vice versa ad.反之亦然
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus prep.对、对抗、与...相对
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
@@ -39,7 +39,7 @@
 - veto [ˈviːtəʊ] n.否决权、v.否决
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
-- vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的
+- vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的、prep.代替、替代
 - victim 受害者、牺牲品、上当的人、祭品、牺牲
 - victory n.成功、胜利
 - view n.看法、视野、见解、态度、景色、风景、v.看待 view as 认为、视为、视作
@@ -66,6 +66,7 @@
 - vocabulary n.词汇量、词汇表
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
+- volkswagen [ˈvəʊkswægən] (汽车品牌)大众
 - volume [ˈvɒljuːm] n.体积、容积、容量
 - voluntary a.自愿的、志愿的、无偿的
 - vote n/v.投票、表决

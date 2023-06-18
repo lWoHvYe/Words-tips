@@ -1,10 +1,13 @@
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
 - obey v.服从、听从、遵守
+- obfuscate v.混淆、使困惑、使模糊不清
 - object [ˈɒbdʒɪkt/əbˈdʒekt] n.物品、对象、目标、宾语、v.反对、不赞成  visualize the object 可视化对象
 - objection [əbˈdʒekʃn] n.反对、异议
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
 - obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
 - obligor 债务人
+- obscene [əbˈsiːn] a.淫秽的、猥琐的、下流的
+- obscure [əbˈskjʊə(r)] a.模糊的、无名的、费解的、v.使模糊、使隐晦、使费解
 - observe v.看到、注意到、观察、遵守
 - obsess [əbˈses] v.痴迷、迷恋
 - obsession n.痴迷、着魔、困扰、妄想
@@ -45,6 +48,7 @@
 - oppose v.抵制、反对、阻挠、使相对、使对照  opposing a.对立的、相反的
 - opposite [ˈɒpəzɪt] a.对立的、相反的、完全不同的、n.对立的人或物、对立面、反面、v.在...的对面
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
+- opt v.选择、挑选
 - optimal a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
@@ -54,6 +58,7 @@
 - optional 可选的、随意的、任意的、选修的、选修科目
 - opus n.作品、作曲 复数：opera
 - oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试  oral English 英语口语
+- orchestra n.管弦乐队
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
@@ -102,6 +107,7 @@
 - overwhelm v.压倒、淹没、压垮、征服、难以承受
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的、(数量)巨大的
 - owe [əʊ] v.欠(债)、归功于、归因于
+- ownership n.产权、所有权
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气
 - oxytocin/pitocin [ˌɑksəˈtoʊsən] n.催产素

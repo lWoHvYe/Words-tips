@@ -6,6 +6,7 @@
 - easy a.轻松的、容易的、安逸的
 - eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
 - eavesdrop v.偷听、窃听
+- echo [ˈekəʊ] n/v.回声、回响、共鸣
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -19,6 +20,7 @@
 - egalitarian [iˌɡælɪˈteəriən] n.平等主义者、平等主义
 - ego n.自我、自负
 - egregious [ɪˈɡriːdʒiəs] a.极糟的、极坏的
+- eject v.驱逐、剥夺、喷射、弹射
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
@@ -50,7 +52,7 @@
 - emergency n.紧急情况、突发事件
 - emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
-- emission n.发出、排放
+- emission n.发出、排放、排放物、散发物
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
@@ -63,7 +65,7 @@
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
 - enable v.使能够、使可能、批准、为...提供条件
-- encapsulate 封装、概括、压缩、简述
+- encapsulate v.封装、概括、压缩、简述
 - enclose v.随函附上、把...装入信封、附入、围住、把...围起来
 - encode v.编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
@@ -89,6 +91,7 @@
 - enlarge v.扩大、放大、扩充
 - enlighten v.启发、启迪、开导
 - enormous a.巨大的、庞大的、极大的
+- enrage v.激怒、触怒
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
 - enroll v.登记、注册、招收、加入
@@ -113,8 +116,8 @@
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
-- episode n.插曲、片段
-- epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期
+- episode n.插曲、片段、一集、单集
+- epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期、(地质)世、纪、期
 - epochal a.划时代的
 - equal [ˈiːkwəl] a.相等的、平等的、胜任的、n.同等的人、相等物、v.等于、比得上
 - equality [iˈkwɑːləti] n.同等、平等、相等、等式
@@ -125,7 +128,8 @@
 - equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、(分享红利而非固定股息的)股票、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
 - equivalent a.相等的、相当的、等效的、等价的、n.相等物、等价物、对应词
 - era [ˈɪərə] n.时代、年代
-- erase v.抹去、清除、擦掉
+- erase v.抹去、清除、擦掉、删除(存储器上的信息)
+- eraser n.橡皮擦、黑板擦
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
 - erupt v.爆发、喷发、突然发生
@@ -137,6 +141,7 @@
 - esoteric [ˌesəˈterɪk] a.秘传的、机密的、隐秘的
 - especial a.特别的、格外的
 - espresso n.浓缩咖啡
+- essay [ˈeseɪ/eˈseɪ] n.散文、随笔、短文、v.企图、尝试
 - essence n.本质、实质、精髓、香精、精华
 - essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
 - establish v.建立、设立、开办、确立
@@ -149,6 +154,7 @@
 - ethic 伦理、伦理观、道德体系
 - ethical a.道德的、伦理的
 - ethnic a.民族的、种族的、n.少数民族的人
+- etiquette [ˈetɪkət] n.礼仪、礼节
 - euro [ˈjʊərəʊ] € 欧元
 - evacuation 疏散、撤离、撤退、搬空
 - evade v.规避、躲避、逃避、避开
@@ -156,6 +162,7 @@
 - evaluation n.评价
 - evasion n.逃避、借口、推辞
 - eve n.前夜、前夕  Eve 夏娃
+- even ad.甚至、平均的、平坦的、偶数的
 - event n.活动、事件
 - eventual a.最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出
@@ -183,7 +190,7 @@
 - exclamation n.感叹、感叹号
 - exclude v.排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
-- exclusive 独家、专用的、高级的、独有的、独占的、独家新闻
+- exclusive a.独家的、专用的、高级的、独有的、独占的、排外的、排斥的、n.独家新闻
 - execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
 - execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
@@ -203,7 +210,7 @@
 - expectation n.预料、预期、期待、期望值
 - expel v.驱逐、开除、排出
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
-- expenditure n.支出、花费、费用、经费、耗费、消耗
+- expenditure n.支出、花费、费用、经费、耗费、消耗  public expenditure 公共支出  infrastructure expenditure 基础设施支出
 - expense n.费用、开销、花销、v.向...收取费用  at the expense of 以...为代价
 - expensive a.昂贵的、花钱多的、豪华的
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
@@ -226,8 +233,8 @@
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
-- extend v.扩展、延伸、延长、适用于、涉及、提供
-- extent n.程度、限度、大小、面积、范围
+- extend v.扩展、延伸、延长、使延期、适用于、涉及、提供  extend the deadline 延长最后期限
+- extent n.程度、限度、大小、面积、范围  to a great extent 在很大程度上
 - extension n.扩大、延伸、延期
 - extensive a.广阔的、广大的、大量的、广泛的
 - external a.外面的、外部的、n.外面、外部、外观

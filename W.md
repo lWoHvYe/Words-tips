@@ -5,7 +5,7 @@
 - waiter [ˈweɪtə(r)] n.男侍者、男服务员
 - waitress [ˈweɪtrəs] n.女侍者、女服务员
 - waiver 放弃、弃权、弃权声明
-- wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹  in the wake of 随...而来、作为...的结果
+- wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹、尾流  in the wake of 随...而来、作为...的结果
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
 - ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
@@ -22,12 +22,13 @@
 - wealth n.财产、财富、丰富、大量
 - weapon [ˈwepən] n.武器、兵器、v.武装、提供武器
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
-- weave 编织、编排
+- weave v.编织、编造
 - web n.网、网络、v.在...上织网、用网缠住
 - weigh [weɪ] v.权衡、称重
 - weld v.焊接、n.焊接点
 - welfare n.福利、幸福
 - wellbeing n.健康、幸福
+- wheat n.小麦
 - whelm v.淹没、压倒、覆盖
 - whereas n.鉴于、conj.然而、但是、尽管
 - whereby ad.凭此、借以
@@ -71,3 +72,4 @@
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrinkle 皱纹、褶皱
 - write-off n.勾销、注销、报废的东西
+- wrong a.错误的、不正确的、不公平的
