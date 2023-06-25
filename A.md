@@ -5,13 +5,16 @@
 - abort n/v.中止、退出、夭折
 - abroad n.国外、海外、ad.到国外、在国外
 - abrupt a.陡峭的、突然的、生硬的
-- absence n.缺席、缺勤、不在、缺乏、心不在焉
+- absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
+- absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
 - absolutism n.专制主义
-- absorb [əbˈzɔːb] v.吸收、理解、掌握
+- absorb [əbˈzɔːb] v.吸收、吸引、使全神贯注、理解、掌握、承受、承担  absorb hardships 承受磨难
+- absorbed a.专心的、全神贯注的
+- absorption [əbˈzɔːpʃn] n.吸收、专注、合并  absorption cost 全部成本
 - abstain 弃权、戒除、离开、回避
 - abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
-- absurd a.荒谬的
+- absurd [əbˈsɜːd] a.荒谬的、不合理的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
 - academe/academia n.学术界、学术
@@ -51,18 +54,22 @@
 - acreage [ˈeɪkərɪdʒ] n.面积、英亩数
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
 - act n.行为、法令、法案、表演、假装、v.行动、表演、起作用
-- active a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
-- activity n.活动、活跃、行为
-- actual 实际的、真实的、现在的、现行的
+- action n.行动、行为、作用、诉讼
+- activate [ˈæktɪveɪt] v.使运作、使起作用、使活化、激活
+- active [ˈæktɪv] a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
+- activity [ækˈtɪvəti] n.活动、活跃、行为
+- actual a.实际的、真实的、现在的、现行的  actual needs 实际需要
 - actuator 致动器、传动、执行机构
 - acute 严重的、急性的、灵敏的、敏锐的、锐角的
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - Adam n.亚当
-- adapt 适应、改编、使适合、改编、改写
+- adapt v.使适应、使适合、改编、改写  adapt to 适应...
+- adaptive a.适应的  an adaptive value 适应值
 - addict [ˈædɪkt] n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - addition n.增加、添加、加法、附加 in addition 此外、另外
 - additional 额外的、追加的、附加的、补充
 - address n.地址、称呼、演讲、演说、v.写地址、致函、称呼、演说、处理、指出
+- adept [əˈdept/ˈædept] a.内行的、熟练的、擅长的、n.专家、能手
 - adequate a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
@@ -146,6 +153,7 @@
 - ally n.联盟、同盟国、v.与...结盟
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alone a/ad.单独、独自、孤独、单独的、单独地
+- along prep.沿着、顺着、靠着...边、ad.一道、一起  along with A came B 伴随着A而来的是B
 - alphabetical a.按字母顺序的
 - alphanumeric [ˌælfənjuːˈmerɪk] a.含有字母和数字的、字母和数字并用的
 - alpine a.阿尔卑斯山的
@@ -224,7 +232,8 @@
 - arbitrary a.随意的、任意的、武断的
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
-- architecture 体系结构、建筑学、结构
+- architect n.建筑师
+- architecture n.体系结构、建筑学、结构
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
@@ -232,6 +241,8 @@
 - aristocracy n.贵族
 - aristocrat [ˈærɪstəkræt] n.贵族
 - arity n.(参数)数量、元数
+- arm n.手臂、袖子、武器、装备、v.武装、给...装上引信、打开...的保险
+- army n.军队、陆军、野战军
 - arouse v.引起、唤起、激起、激发
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列
@@ -248,7 +259,7 @@
 - Asia ['eɪʒə] n.亚洲
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
-- aspire v.渴望
+- aspire v.渴望、有志
 - assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构  assembly language (asm)汇编语言
@@ -297,6 +308,7 @@
 - attrition 损耗、消耗
 - auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
 - augment [ɔːɡˈment] v.扩大、增加、提高、加强
+- august [ɔːˈɡʌst] a.威严的、庄严的、n.August 八月
 - aura n.气氛、氛围
 - aural [ˈɔːrəl] a.听的、听觉的
 - authentic [ɔːˈθentɪk] a.真正的、真实的

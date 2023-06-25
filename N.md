@@ -2,7 +2,7 @@
 - narcissus [nɑːˈsɪsəs] n.水仙、水仙花
 - narrate v.讲、讲述、叙述
 - narrative n.故事、叙述、描述、a.叙述的、叙事体的
-- narrow 狭窄的、狭隘的、有限的、勉强的、目光短浅的、限制、限定、变窄、缩小、海峡、狭窄的水道
+- narrow a.狭窄的、狭隘的、有限的、勉强的、目光短浅的、v.限制、限定、变窄、缩小、n.海峡、狭窄的水道
 - nasal [ˈneɪzl] n.鼻腔、鼻音、a.鼻的、鼻音的
 - nasty a.肮脏的、恶劣的、恶意的、讨厌的、危险的、严重的
 - nation n.国家、民族、国民
@@ -17,7 +17,7 @@
 - neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视、遗漏
 - negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
-- negotiate v.谈判、协商、交涉、谈判达成、成功越过
+- negotiate [nɪˈɡəʊʃieɪt] v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的
 - nervy a.焦虑的、紧张的
@@ -40,6 +40,7 @@
 - nominate v.提名、推荐、任命、指派、指定
 - nonetheless [ˌnʌnðəˈles] ad.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
+- noodle n.面条、v.演奏
 - noop 无操作、空操作
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、师范的、n.标准、正常、常态、法线
@@ -52,6 +53,7 @@
 - notion n.观念、概念、理念、理解
 - notorious a.臭名昭著的、声名狼藉的、众所周知的
 - nourish [ˈnʌrɪʃ] v.抚养、滋养、养育、培养、助长(情绪、观点等)
+- novation n.更替、更新
 - novel n.(长篇)小说、新法、附律、a.新奇的、新颖的、与众不同的、珍奇的、异常的
 - novelist n.小说家
 - novice n.新手、初学者

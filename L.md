@@ -19,6 +19,8 @@
 - latent a.潜在的、潜伏的、隐藏的、休眠的
 - latency 延迟、潜伏、潜在因素
 - lateral [ˈlætərəl] a.侧面的、横向的
+- laugh n/v.笑、发笑、嘲笑
+- laughter n.笑、笑声
 - launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
 - launder [ˈlɔːndə(r)] v.洗、洗(钱)
 - lawsuit n.诉讼、起诉
@@ -69,6 +71,7 @@
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
+- lineup n.阵容、列队辨认
 - linger v.逗留、徘徊、继续存留
 - linguistic a.语言的、语言学的
 - link v.联系、连接、n.链接、联系、关系、纽带、环节

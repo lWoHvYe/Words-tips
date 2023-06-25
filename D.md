@@ -72,7 +72,7 @@
 - denial 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
 - dense a.密集的、稠密的、浓厚的
-- density n.密集、稠密、密度
+- density n.密集、稠密、密度、浓度
 - deny v.否定、否认、拒绝
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
@@ -89,7 +89,7 @@
 - depute v.委托、将...交给某人、委派...为代表
 - deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
 - derivation n.引导、导出、衍生、起源、派生
-- derivative n.派生词、衍生物、导数、微商、a.衍生的、导出的
+- derivative n.派生词、衍生物、衍生品、导数、微商、a.衍生的、导出的
 - derive v.得到、获得、起源于、产生、提取、派生
 - descend v.下降、降临
 - descendant n.后裔、后代、派生物
@@ -120,6 +120,7 @@
 - develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - device n.装置、设备、方法、策略、手段
+- devil [ˈdevl] n.魔鬼、恶魔  devil's bones 骰子🎲  devil's advocate 故意唱反调的人
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - devote v.致力于、奉献、投入
 - diagnose v.诊断、确诊
@@ -221,7 +222,7 @@
 - division 分开、分隔、分配、除（法）  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
-- document 公文、文件、证件、记录、记载
+- document n.公文、文件、证件、文档、v.记录、记载
 - doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
 - doctrine [ˈdɒktrɪn] n.教条、主义、学说
@@ -239,6 +240,7 @@
 - dot n.点、句点  dot-com 网络公司/互联网经济
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] n/v.怀疑、疑虑、未确定
+- downplay v.淡化、对...轻描淡写、使轻视、贬低
 - downside n.缺点、弊端、不利方面  反义:upside
 - downstream 下游的、引发的、顺流而下
 - downturn n.经济低迷、衰退、衰退期
@@ -263,6 +265,7 @@
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
 - dry [draɪ] a.干的、干燥的、v.变干、弄干、干涸
+- dual [ˈdjuːəl] a.二重的、双重的、双的
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的

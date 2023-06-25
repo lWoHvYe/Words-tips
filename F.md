@@ -74,6 +74,7 @@
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
 - financial a.金融的、财务的
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
+- fine-grained a.细粒度的、有细密纹理的
 - finger n.手指、指针、v.告发
 - finite [ˈfaɪnaɪt] a.有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术）
@@ -82,7 +83,8 @@
 - fiscal n.财政、a.财政的、国库的、税收的
 - fit n/v.安装、合身、适合、a.合适的、恰当的、健康的、突发、冲动
 - fitness n.健康、健身、适合、合情理
-- fix 修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、解决方法、困境、窘境、定位
+- fix v.修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、n.解决方法、困境、窘境、定位
+- Fixed Income & Rates 固定收益和利率
 - flag n.旗帜、v.标示、疲乏、变弱、热情衰减
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
@@ -91,7 +93,7 @@
 - flatten v.压平、变平、把...弄平、摧毁
 - flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
-- flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效
+- flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效  flawed understanding of ... 对...的理解有偏差
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
 - flexible a.灵活的、柔韧的、有弹性的
 - flight n.航班、飞行、飞翔、v.使...在空中飞行、射击
@@ -103,6 +105,7 @@
 - flu n.流行性感冒、流感
 - fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定
 - fluent a.流利的、流畅的
+- flyout n.弹出按钮
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
 - foe n.敌人、仇敌
@@ -140,7 +143,7 @@
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
 - forward [ˈfɔːwəd] ad.向前、进展、提前、a.前进的、向前的、前部的、未来的、将来的、v.发送、寄、转交、促进、增进  backwards and forwards 来来回回、往复
 - fossil [ˈfɒsl] n.化石、老顽固
-- foster v.培养、促进、抚养、代养
+- foster v.培养、促进、助长、抚养、代养
 - found v.建立、find的过去式及过去分词
 - foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
 - foundational 基础的、基本的
@@ -149,7 +152,7 @@
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织
-- franchise 特权、赋予特权、选举权、经销权
+- franchise n.特权、赋予特权、选举权、经销权
 - fraud [frɔːd] n.欺诈、骗子、伪劣品、冒牌货
 - free a.免费的、自由的、免税的、空闲的、v.释放、使自由、使解脱
 - freemium 免费增值、收费增值
@@ -161,7 +164,7 @@
 - fret v.烦躁、苦恼、n.雾气
 - fright n.惊吓、恐怖、恐惧
 - frighten v.吓唬、使惊吓、使惊恐
-- front n.前面、正面、a.前面的、正面的、v.面向、领导、代表
+- front n.前面、正面、a.前面的、正面的、v.面向、朝向、领导、代表  home front 后方
 - frontend 前端、前台、前端模块、编辑器前端
 - frown v.不赞成、反对、皱眉
 - fruition n.完成、实现、取得成功

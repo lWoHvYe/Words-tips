@@ -7,7 +7,7 @@
 - calculate [ˈkælkjuleɪt] v.计算、预测
 - calculus n.微积分、结石
 - caulk v.填、堵、n.密封剂
-- call v.呼叫、号召  call for 呼吁
+- call v.呼叫、号召  call for 呼吁  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
 - calm 平静的、镇静的、使平静、宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
 - camp n.营地、阵营、v.设营、露营
@@ -128,6 +128,7 @@
 - church [tʃɜːtʃ] n.教堂、教会
 - cinema n.电影、电影院
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
+- circle n.园、环
 - circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器
 - circular [ˈsɜːkjələ(r)] a.圆环的、环形的
 - circulation n.循环、流通、环流、发行量
@@ -150,6 +151,8 @@
 - classified a.机密的、分类的、归类的
 - classification 分类、归类
 - clause n.条款、款项、从句、子句、分句
+- claw n.爪、钳
+- clergy [ˈklɜːdʒi] n.神职人员、牧师、教士
 - clever 聪明的、灵巧的、英俊的、精巧的、精明的、油腔滑调的
 - climate  n.气候、趋势、状况、倾向、形势
 - climb n/v.攀登、升值、增加、提高地位、晋升
@@ -164,6 +167,8 @@
 - coach [kəʊtʃ] n.教练
 - coal [kəʊl] n.煤
 - coalition n.联合政府
+- coarse [kɔːs] a.粗的、粗糙的、大颗粒的
+- coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
 - coastal a.沿海的、海岸的
 - cock n.公鸡
@@ -217,6 +222,7 @@
 - committee n.委员会
 - commodity n.商品、日用品、有价值的东西
 - common a.普通的、常见的、公共的
+- commonness n.普通、平凡、平庸
 - communicate v.沟通、交流、通讯、传达、传递
 - community n.社区、群落
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
@@ -292,12 +298,13 @@
 - confident [ˈkɒnfɪdənt] a.自信的、确信的、有把握的、大胆的、过分自信的、n.知己
 - confidential a.保密的、机密的 = secret
 - confirm 证明、证实、确认、认可
-- confine v.限制、限定、监禁、禁闭、n.限制、界限、范围、边界
+- confine v.限制、限定、约束、监禁、禁闭、n.限制、界限、范围、边界
 - conflate [kənˈfleɪt] v.合并、混合
 - conflict [ˈkɒnflɪkt/kənˈflɪkt] n/v.冲突、抵触
 - confluence [ˈkɒnfluəns] n.汇合、交汇处
 - confluent a.汇合的
 - conform v.符合、遵守、相一致、相吻合
+- confront [kənˈfrʌnt] v.使面临、使面对、与...对峙
 - confuse v.困惑、迷惑、混淆
 - congest v.拥挤、使充血
 - congress n.国会、议会、代表大会、v.开会、集合
@@ -402,7 +409,7 @@
 - cosmos [ˈkɒzmɒs] n.宇宙
 - cost n.费用、花费、代价、成本、v.花费、估计成本
 - costly a.昂贵的、代价高的、豪华的
-- cotton n.棉、棉花、棉织物
+- cotton n.棉、棉花、棉线、棉织物
 - council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
@@ -413,7 +420,7 @@
 - coupon n.优惠券、礼券、息票
 - courage n.勇气
 - course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
-- court n.法院、法庭、v.试图取悦、讨好、求爱、求婚、恋爱
+- court n.法院、法庭、王宫、宫殿、王室成员、v.试图取悦、讨好、求爱、求婚、恋爱
 - covenant [ˈkʌvənənt] n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、报道、给...上保险、n.封面、掩护、覆盖物、避难所
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
@@ -428,7 +435,7 @@
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
-- crew [kruː] n.船员、乘务员
+- crew [kruː] n.船员、乘务员、全体工作人员
 - crime [kraɪm] n.罪行
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
 - crisp a.脆的、酥脆的、n.薯片、v.变脆
@@ -442,8 +449,9 @@
 - crop n.庄稼、作物
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
+- crude n.原油、石油、a.粗糙的、粗略的
 - crumb n.碎屑、v.弄碎、捏碎
-- crunch v.嚼、碾、处理信息
+- crunch [krʌntʃ] v.嚼、碾、处理信息、n.短缺、困境、紧要关头、关键时刻
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
 - crush v.压坏、压碎、捣碎、弄皱、n.热恋、迷恋
 - cry v.哭、哭泣、叫喊、呼喊
@@ -457,6 +465,7 @@
 - culture 文化、文明、培养
 - cumber n.拖累、妨害、v.阻碍、妨害、使受苦
 - cunning a.狡猾的、奸诈的、灵巧的、n.狡猾、狡黠 [jiǎo xiá]、诡诈
+- curative a.治愈的、有疗效的、n.医药
 - curb v.遏制、限制、抑制、束缚
 - cure v.治愈、矫正、解决、消除、治疗、n.药物、疗程、措施、对策
 - curiosity [ˌkjʊəriˈɒsəti] n.好奇心、求知欲、奇物、珍品
@@ -466,6 +475,7 @@
 - currency n.货币、通货、流行
 - curriculum [kəˈrɪkjələm] n.课程、全部课程、课表
 - cursor n.光标、游标
+- cursory [ˈkɜːsəri] a.粗略的、仓促的
 - curve [kɜːv] n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
 - cushion n.软垫、v.起缓冲作用、缓和冲击
 - custody 监管、拘留、羁押、抚养权、监护权

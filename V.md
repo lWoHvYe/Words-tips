@@ -1,4 +1,5 @@
 - vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
+- vacation n.假期、休假、v.度假
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
 - valentine 情人
 - valid [ˈvælɪd] a.有效的、合理的、确凿的    invalid 无效的
@@ -7,6 +8,7 @@
 - valuate v.对...作评估、对...作评价
 - valuation n.估价、估值、评估、评价
 - value n.价值、价格、用途、v.重视、珍视、给...估价
+- van n.面包车、先驱、前驱、领袖
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
@@ -49,21 +51,24 @@
 - violation n.违反、违章、侵犯
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
-- viral a.病毒的、病毒性的
+- viral a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
 - virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实
 - virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
 - virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠
 - visible a.可见的、明显的、n.现实世界
-- vision n.视力、视野、画面、幻象、观点、v.想象
-- visor n.面罩、遮阳板
+- vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、v.想象  business vision 企业愿景、经营前景
+- visor [ˈvaɪzə(r)] n.面罩、遮阳板
 - visual [ˈvɪʒuəl] a.视力的、视觉的、看得见的、n.画面、图像
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vitamin n.维生素
 - vivid a.生动的
 - vocabulary n.词汇量、词汇表
+- vocal a.声音的、嗓音的、畅所欲言的、直言不讳的、n.声乐节目
+- vocation n.职业、工作、使命
+- vocational a.职业的  vocational school 职业学校  vocational education 职业教育
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众

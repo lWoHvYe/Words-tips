@@ -7,6 +7,7 @@
 - sake n.目的、利益、缘故、缘由
 - salary n.薪金、薪水
 - sale n.出售、销售、销售量、特价销售
+- salient [ˈseɪliənt] a.突出的、显著的、n.凸角、突出部
 - salve n.药膏、软膏
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction [ˈsæŋkʃn] n.批准、认可、制裁、惩罚、约束、v.批准、许可
@@ -34,11 +35,13 @@
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
 - scheme n.方案、计划、v.策划、密谋
 - scholar n.学者
+- scholarship n.奖学金、学问、学术、学术研究
 - scientific a.科学的、有系统的
 - scissors [ˈsɪzəz] n.剪刀
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
 - scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
+- scraper n.刮刀
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - screen [skriːn] n.屏幕、v.掩藏、庇护、检查
 - script n.脚本、剧本、v.写剧本
@@ -77,7 +80,7 @@
 - semiannual 每半年的、半年的
 - semicolon [ˌsemiˈkəʊlən] n.分号
 - semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
-- seminar n.研讨会、研讨课
+- seminar [ˈsemɪnɑː(r)] n.研讨会、研讨课、(大学的)研究班
 - senate [ˈsenət] n.参议院、元老院、上院
 - senior a.级别高的、资深的
 - sensation n.感觉、感官、激动、轰动、直觉、经历、回忆
@@ -164,7 +167,7 @@
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
-- sink 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
+- sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - sip v.小口喝、抿、n.一小口的量
 - site n.地点、位置、网站、站点、v.使坐落在...
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
@@ -175,6 +178,7 @@
 - skew a.斜的、歪的、不对称的、v.偏离、偏差、歪斜
 - ski n.滑雪板、v.滑雪、a.滑雪的
 - skirt n.短裙、挡板、v.绕开、回避
+- skyscraper [ˈskaɪskreɪpə(r)] n.摩天大楼
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
 - slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
@@ -206,6 +210,7 @@
 - snip v.削减、剪去、剪断、n.片段
 - snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
 - snooze n/v.小睡
+- soak [səʊk] n/v.浸泡、浸透、湿透、v.沉浸在、向某人征收重税
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - soar [sɔː(r)] v.猛增、升腾
 - sober a.冷静的、头脑清醒的、v.变得冷静
@@ -233,11 +238,14 @@
 - sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
 - soy n.大豆
 - soybean n.大豆
+- space n.空间、太空、间隙、空白、空隙、v.把...分隔开、留间隔于...之间
+- spacecraft n.宇宙飞船
+- spacious a.宽广的、宽敞的、广阔的、广博的
 - spaghetti n.意大利面条
 - Spain [speɪn] n.西班牙
-- span 跨度、范围、持续时间、跨越、横跨、贯穿、涵盖
+- span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
-- spatial a.空间的
+- spatial [ˈspeɪʃl] a.空间的
 - speak v.交谈、说(某种语言)、说话、演说
 - speaker n.说话者、扬声器
 - special a.特殊的、特别的、专用的、n.特价商品
@@ -259,7 +267,8 @@
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spin 纺纱、吐(丝)、作(茧)、快速旋转、急转身、兜风、旋转、导向性陈述
 - spine 脊柱、脊椎、书脊、刺
-- spirit n.精神、心灵、情绪
+- spirit [ˈspɪrɪt] n.精神、灵魂、意志、心灵、情绪、pl.情绪
+- spiritual a.精神的、心灵的、宗教的
 - spit v.吐、吐出、n.唾液
 - spite n.恶意、怨恨、v.欺负、刁难  in spite of 虽然、尽管
 - split n/v.分裂、划分
@@ -273,15 +282,20 @@
 - spread v.传播、散布、展开、伸开、n.传播、蔓延、差额、差幅、a.广大的、大幅的 spreading (在金融方面可做)利息差
 - spreadsheet n.电子表格
 - spree [spriː] n.(过分的)玩乐、作乐
+- sprinkle v.喷、洒、下小雨、n.小雨
+- spring n.春天、泉水、弹簧、弹性、弹力、v.跳、越
 - sprint 冲刺、全速短跑、短跑比赛
-- spurious a.虚假的、伪造的、欺骗性的
+- spud n.土豆
+- spur [spɜː(r)] n.靴刺、刺激、激励、支线、岔线、v.促进、激励
+- spurious [ˈspjʊəriəs] a.虚假的、伪造的、欺骗性的
+- spurn n/v.拒绝、唾弃
 - sqrt 根号
-- squad n.班、小组、队
+- squad [skwɒd] n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
 - stab n/v.刺、戳
-- stable a.稳定的、牢固的、稳固的
-- stability n.稳定性、稳定、稳固
+- stable a.稳定的、牢固的、稳固的、n.马厩、养马场
+- stability n.稳定性、稳定、稳固、安定
 - stadium [ˈsteɪdiəm] n.(露天)体育场、运动场
 - staff n.员工、v.在...工作、任职于
 - stag n.雄鹿
@@ -309,7 +323,7 @@
 - status n.地位、身份、情形、状况
 - stead [sted] n.代替、用途、好处
 - steadfast a.坚定的、不动摇的
-- steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
+- steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steep a.陡峭的、急剧的
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
@@ -341,11 +355,12 @@
 - strawberry n.草莓
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
 - strength n.力量、体力、毅力、优点、长处
+- strengthen v.加强、增强、巩固
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
 - stretch [stretʃ] v.伸展、拉长、拉紧、延续、耗尽、n.(连续的)一段时间、一片、伸展
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
-- strike n/v.罢工、击、打、打击
+- strike n/v.罢工、击、打、打击  strike price 执行价格、预购价格
 - striking a.引入注目的、惊人的、显著的
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
 - strip n.带、v.剥去、除去、剥夺、跳闸
@@ -361,6 +376,8 @@
 - subconscious a.下意识的、潜意识的
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
+- submarine n.潜艇、a.水下的、海底的
+- submerge v.淹没、湮没、掩盖
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从、建议、看法、意见
 - submit v.提交、顺从、服从
@@ -388,11 +405,13 @@
 - successive a.连续的、接连的、相继的  successive governments 历届政府
 - succession n.一连串、一系列、继承、继任、继承人、继承权
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
+- suck [sʌk] v.吸、吮吸 [shǔn xī]、吸引
 - sudden a.突然的、忽然的
 - suffer [ˈsʌfə(r)] v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足
 - suffix n.后缀
+- sugar [ˈʃʊɡə(r)] n.糖、v.加糖
 - suggest v.建议、暗示、表明、启示
 - suicide [ˈsuːɪsaɪd] n/v.自杀
 - suit v.适合、合意、合身、相称、n.西装、套装、诉讼
@@ -451,11 +470,14 @@
 - symbol n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
 - symmetric a.对称的、均衡的
+- sympathy [ˈsɪmpəθi] n.同情、慰问
+- symposium [sɪmˈpəʊziəm] n.专题讨论会、研讨会
 - symptom n.症状、征兆
 - synchronize v.同步、使同步、在时间上一致
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的
 - syndicate 企业联合组织、财团、私人联合会
 - syndrome [ˈsɪndrəʊm] n.综合症
+- synergistic [ˌsɪnərˈdʒɪstɪk] a.协同作用的、协作的、增效的
 - synonym [ˈsɪnənɪm] n.同义词
 - syntax n.语法、句法、句法规则、语构
 - synthetic a.合成的、n.合成物

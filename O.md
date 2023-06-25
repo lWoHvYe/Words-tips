@@ -11,6 +11,7 @@
 - observe v.看到、注意到、观察、遵守
 - obsess [əbˈses] v.痴迷、迷恋
 - obsession n.痴迷、着魔、困扰、妄想
+- obsolescent [ˌɒbsəˈlesnt] a.逐步废弃的
 - obsolete [ˈɒbsəliːt] a.淘汰的、废弃的、过时的
 - obtain v.获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
@@ -72,6 +73,7 @@
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
 - orthogonal a.正交的、直角的、垂直的、矩形的
+- OTC Over the Counter 柜台交易/场外交易  Exchange Traded 交易所交易/场内交易
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任
 - outage n.(电力的)断供期、停电
@@ -79,6 +81,7 @@
 - outbreak n/v.爆发
 - outcome n.结果、效果、成果、出路
 - outdate v.使过时、使陈旧、使落伍
+- outlet n.出口、经销店、专营店
 - outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
 - outlook n.见解、前景、观点、景色、景观
 - outrage n.愤怒、暴行、v.使震怒、激怒

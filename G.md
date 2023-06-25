@@ -2,7 +2,7 @@
 - gallery 画廊、走廊、长廊
 - gamble [ˈɡæmbl] n/v.赌博
 - game n.游戏、比赛、猎物、v.打赌
-- gap n.缺口、间隙、分歧、隔阂、空白
+- gap n.缺口、间隙、分歧、隔阂、空白  narrow the gap 缩小差距  fill the gap 填补空白、弥合差距
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment [ˈɡɑːmənt] n.服装、(一件)衣服、v.给...穿衣服
 - gate n.门、大门、阀门
@@ -38,6 +38,7 @@
 - globe n.地球、球体、地球仪
 - glossary 术语汇编、词汇表
 - glue n.胶、胶水、v.粘合、胶合、紧附于
+- go 走、离开、进行   go short 做空、卖空  go long 做多、多头、买进
 - gold n.金、黄金、金色、a.金色的
 - gonna [ˈɡənə] n.即将、将要
 - google [ˈɡuːɡl] n.谷歌
@@ -57,6 +58,7 @@
 - granularity 粒度
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
+- grass [ɡrɑːs] n.草、v.告密、告发
 - gratify v.满足、使高兴、使满意
 - gratitude n.感谢、感激
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
@@ -64,13 +66,14 @@
 - greatness n.伟大、崇高、著名
 - greed n.贪婪
 - Greek n.希腊、希腊人
+- grey a.灰色的、灰白的
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groan [ɡrəʊn] n/v.呻吟、叹息
 - grocer n.杂货商
 - grocery [ˈɡrəʊsəri] n.杂货店
-- groom 使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、新郎、马夫
+- groom v.使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、n.新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得
 - ground n.地面、地基、基础
 - guarantee n.保证、担保、保证人、保证书、抵押品、v.保证、担保、抵押、确保

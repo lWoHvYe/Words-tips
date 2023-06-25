@@ -3,6 +3,7 @@
 - pack n.包裹、v.打包
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
+- palace [ˈpæləs] n.王宫、宫殿
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
 - panic n/v.惊恐、恐慌
@@ -40,6 +41,7 @@
 - pathway 路、道、途径、路径
 - patience n.忍耐、耐心、耐性
 - patient [ˈpeɪʃnt] a.有耐心的、能容忍的、n.病人、患者
+- patriot [ˈpætriət] n.爱国者
 - patriotism [ˈpætriətɪzəm] n.爱国主义
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - pave v.铺、铺路
@@ -75,6 +77,7 @@
 - permeate v.散布、传播、弥漫、渗透、渗入
 - permutation 序列、排列、组合、置换
 - perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、无期限的、终身的、持续的、不断的、四季开花的
+- perpetuate [pəˈpetʃueɪt] v.延续、使持续、使永存、使不朽
 - perplex v.迷惑、困惑
 - persecute v.迫害、残害、骚扰、打扰
 - persist v.坚持、保持、维持、持续存在
@@ -123,6 +126,7 @@
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
+- plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨
 - plain [pleɪn] n.平原、a.朴素的、朴实的、简朴的、清楚的、原味的、ad.简直、绝对地
 - plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
@@ -252,7 +256,7 @@
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - priest [priːst] n.牧师、神父、僧侣
 - primary a.主要的、最初的、初级的、基本的
-- prime a.主要的、首要的、优质的、典型的、基本的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点  prime number 质数、素数
+- prime a.主要的、首要的、优质的、典型的、基本的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点  prime number 质数、素数  Prime Finance 大宗金融
 - primer n.启蒙读本
 - primitive a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
@@ -342,9 +346,10 @@
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
 - psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响
-- pub n.酒吧
+- pub n.酒吧、酒馆
 - puberty n.青春期
 - publicize v.宣称、推广、宣扬、传播
+- pull v.拉、拔出、n.引力、吸引力、诱惑
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punish v.处罚、惩罚、责怪、自责
 - purchase [ˈpɜːtʃəs] n/v.购买、采购
@@ -356,5 +361,8 @@
 - purse [pɜːrs] n.钱包、资金、奖金
 - pursue v.追求、奉行、推行、致力于、贯彻
 - pursuit n.追求、追赶
+- push v.推、推动、促使  push for 急切、强烈的要求
 - puss n.咪咪、猫咪
+- put v.放、安置、说、表达、给予  sb would put it 是某人会说的  put up 建造、设立、张贴、提供、提名...为候选人
 - puzzle [ˈpʌzl] n.困惑、难题、谜语、v.迷惑、使困惑
+- pyramid [ˈpɪrəmɪd] n.金字塔、角锥状物、锥体、棱锥体

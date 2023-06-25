@@ -8,6 +8,7 @@
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹、尾流  in the wake of 随...而来、作为...的结果
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
+- war [wɔː(r)] n.战争
 - ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
 - warden n.管理人、看守人、监护人、学院院长、协会会长
 - wardrobe [ˈwɔːdrəʊb] n.衣橱
@@ -69,7 +70,9 @@
 - worse ad.更坏、更糟、a.更坏的、恶化的、严重的
 - worth a.值得的、有...价值、n.价值、财富、财产
 - worthy a.值得的、值得尊敬的、有价值的、n.杰出人物、知名人士
+- wound n.伤口、创伤、v.使受伤、伤害
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrinkle 皱纹、褶皱
+- wrist [rɪst] n.手腕
 - write-off n.勾销、注销、报废的东西
 - wrong a.错误的、不正确的、不公平的

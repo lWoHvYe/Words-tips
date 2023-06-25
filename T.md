@@ -6,6 +6,7 @@
 - tail 尾、尾巴、尾部、后部、燕尾服、尾随者、硬币反面、硬币文面、跟踪、尾随、盯梢、限定继承的
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
+- take v.拿、采取、接受  take up 占据、占用、花费  take up a post 就职
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
 - talk n/v.说话、谈话  talk of 谈论、谈及
@@ -26,6 +27,9 @@
 - technological [ˌteknəˈlɒdʒɪkl] a.技术的、科技的
 - technology [tekˈnɒlədʒi] n.技术、科技、工程技术、技术学
 - teenage a.十几岁的、青少年的
+- telegram n.电报
+- telegraph n.电报、v.打电报、用电报发送
+- telegraphy n.电报通讯技术
 - telemetry n.遥测、遥感勘测
 - teleology n.目的论
 - telescope n.望远镜
@@ -44,6 +48,7 @@
 - tendency n.趋势、倾向
 - tenor 男高音、大意、要旨、要领
 - tense a.紧张的、绷紧的
+- tension n.紧张、矛盾、对立
 - tentative a.试探性的、试验的、不确定的、n.尝试、假设、实验
 - tenure n.任期、任职、终身职位、占有期、保有权、保有期
 - term n.学期、术语、条款、期限、v.把...称为、把...叫做 in ... terms 在...方面、从...角度
@@ -56,6 +61,7 @@
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - testify v.证明、证实、作证
+- testimony [ˈtestɪməni] n.证词、证明、口供
 - text n.正文、文本、文档
 - textile n.织物、纺织品、纺织业
 - textual a.正文的、原文的、文本的、篇章的
@@ -90,6 +96,8 @@
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
 - thrust 刺、冲、逼迫
 - tick v.打上钩、n.记号、对号、信用、滴答声
+- ticker n.心脏
+- ticket n.票、入场券
 - tickle v.挠痒、愉快、逗乐、使高兴、使满足
 - tickler 棘手的问题
 - tide n.潮汐、潮流、趋势
@@ -129,6 +137,7 @@
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
+- Trade Finance 贸易融资、外汇服务
 - traditional a.传统的、惯例的、因袭的、守旧的
 - tragedy [ˈtrædʒədi] n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
@@ -175,6 +184,7 @@
 - triple a.三倍的、三方的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trivial a.不重要的、琐碎的、微不足道的
+- troop n.部队、军队、一群、一队
 - troupe [truːp] n.剧团、表演团、v.巡回演出
 - trove n.发掘出来的财宝
 - trump n.王牌、v.胜过、打败

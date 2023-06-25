@@ -18,7 +18,8 @@
 - bang n.砰的一声、巨响、猛击、猛撞、v.猛击、猛撞
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
 - bankrupt [ˈbæŋkrʌpt] a.破产、倒闭、完全缺乏、n.破产者、v.使破产
-- bar n.酒吧、条
+- bar n.酒吧、条、v.禁止、阻止
+- bare a.裸露的、赤裸的、光秃秃的、荒芜的、仅够的、最基本的、v.脱掉
 - bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
@@ -57,6 +58,7 @@
 - beyond 超过、超出、那一边、在远处
 - bias n.偏见、偏心、偏向、v.使偏向、使有偏见、a.斜的、偏动的
 - bid [bɪd] n/v.投标、出价
+- bidirectional a.双向的
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
 - billion n.十亿
@@ -65,6 +67,7 @@
 - biochemical 生物化学的、生化的
 - biography n.传记
 - biology 生物学
+- biomass n.生物量
 - biophilia n.热爱生命的天性
 - bi-temporal n.双时态
 - bitwise n.位运算
@@ -72,6 +75,7 @@
 - blame n/v.责备、责怪、指责、把...归咎于、n.责任  be to blame for sth 对...负有责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
+- blatant [ˈbleɪtnt] a.公然的、明目张胆的
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
 - bleak [bliːk] a.凄凉的、荒凉的、暗淡的、阴冷的、没有希望的  bleak economic future 暗淡的经济前景
 - bless [bles] v.祝福、赞美
@@ -106,6 +110,7 @@
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
+- bra [brɑː] n.文胸、胸罩
 - brace n.箍子、牙箍、大括弧、v.准备好、支撑
 - bracket n.支架、括号、等级、v.用括号括上、把...相提并论
 - brain [breɪn] n.脑、智力、逻辑思维能力
@@ -114,9 +119,11 @@
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
 - break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
+- breakeven n.收支平衡点、盈亏平衡点
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
 - breathe 呼吸、活着、生存
+- bride n.新娘
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
 - brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要
 - bright a.明亮的、聪明的、有希望的
@@ -152,6 +159,8 @@
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
 - burst [bɜːrst] v.爆裂、胀开、爆满  boom and burst 繁荣与破灭
 - bury [ˈberi] v.埋葬、埋藏
+- bus n.公交车、(计算机系统的)总线
+- business n.商业、生意、商务、营业额、贸易额
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏
 - buy v.买、购买、买通、收买、贿赂、相信、接受、n.购买
 - buy into 买进、入股

@@ -17,6 +17,7 @@
 - underpin v.加强、巩固、构成(...的基础)
 - understanding n.理解、理解力、a.善解人意的、通情达理的
 - undertake v.承诺、保证、承担、从事、同意、答应
+- underwire n.钢圈
 - underwrite v.认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
 - underwriting n.保险业、v.承担经济责任、承保、承销
 - undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
@@ -24,6 +25,7 @@
 - uneasy a.不安的、焦虑的、不稳定的
 - unemployment n.失业、失业率  unemployment rate 失业率  unemployment insurance 失业保险
 - unicast 点播、单播、单点传送
+- unidirectional a.单向的
 - unification n.统一、联合、一致
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致

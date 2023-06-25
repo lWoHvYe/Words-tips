@@ -26,7 +26,7 @@
 - mandatory 强制的、法定的、义务的、受托者
 - mane [meɪn] n.鬃毛
 - mania n.狂热
-- manifest 显示、表明、证明、宣言、声明、明白的、明显的、货单、旅客名单
+- manifest v.显示、表明、证明、宣言、声明、a.明白的、明显的、n.货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
 - manner n.方法、方式、态度、礼仪、规矩
 - manpower [ˈmænpaʊə(r)] n.人力、人手、劳动力
@@ -34,6 +34,8 @@
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
 - map n.地图、v.绘制
+- march [mɑːtʃ] n/v.前进、行军、n.March 三月
+- marine [məˈriːn] a.海洋的、海生的、海运的、n.水兵
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
 - marginal a.小的、微不足道的、边缘的
 - marital a.婚姻的、夫妻的
@@ -49,6 +51,7 @@
 - material n.材料、素材、a.实际的、物质的、重要的、必要的
 - materialism n.物质主义、唯物主义
 - materialize v.实现、具现化、实质化
+- maternal a.母亲的、母系的  maternal leave 产假、育婴假
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
 - matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响
@@ -72,7 +75,7 @@
 - medicine [ˈmedsn] n.医学、药物
 - medieval [ˌmediˈiːvl] a.中世纪、中世纪的(约公元1000到1450年)
 - meditative a.沉思的
-- medium a.中等的、中间的、适中的、n.媒介、手段、工具、方法、介质  cooling medium 冷却介质
+- medium a.中等的、中间的、适中的、n.媒介、手段、工具、方法、介质 复数:media  cooling medium 冷却介质  mass media 大众传媒 owned media 自媒体 earned media 媒体
 - meet v.满足、遇见、相遇、会面、会晤
 - mega a.巨大的、宏大的 = huge = great
 - megabit n.兆位 MB
@@ -84,7 +87,7 @@
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
 - mend v.修理、修补、弥补、解决、痊愈
-- mental a.思想的、内心的、心理的、智慧的、n.精神病
+- mental a.思想的、内心的、心理的、智慧的、n.精神病  mental labor 脑力劳动
 - mention n/v.提到、提及、说起
 - mentor 导师、顾问、指导
 - merchandise v.销售、买卖、n.商品、货物
@@ -105,6 +108,10 @@
 - mete v.分配、给予
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
 - metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
+- metro n.地铁、大城市、大都市
+- metrology n.计量学、度量衡学
+- metropolis [məˈtrɒpəlɪs] n.大城市、大都会、首都、首府
+- metropolitan a.大城市的、大都会的  a large metropolitan area 一座大都市
 - microphone [ˈmaɪkrəfəʊn] n.话筒
 - middleware n.中间件
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
@@ -117,7 +124,7 @@
 - mile n.英里
 - mileage n.里程、英里、好处、利益
 - milestone 重要事件、重要阶段、转折点、里程碑
-- military [ˈmɪlətri] a.军事的、军队的、武装的、n.军人、军队、军方
+- military [ˈmɪlətri] a.军事的、军用的、军队的、武装的、n.军人、军队、军方
 - mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
@@ -144,6 +151,8 @@
 - mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
 - mnemonic [nɪˈmɒnɪk] n.助记符号 
 - mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
+- mobilize v.动员、调动、组织、鼓动
+- mock [mɒk] v.嘲弄、嘲笑、模仿、仿效、a.模拟的、演习的、虚假的
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
 - model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
@@ -173,6 +182,7 @@
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - monotone n.单调、a.单调的
 - monotonic a.单调的、无变化的
+- month [mʌnθ] n.月、月份
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moral a.道德的、能辨别是非的、n.品行、道德
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)

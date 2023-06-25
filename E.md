@@ -20,6 +20,7 @@
 - egalitarian [iˌɡælɪˈteəriən] n.平等主义者、平等主义
 - ego n.自我、自负
 - egregious [ɪˈɡriːdʒiəs] a.极糟的、极坏的
+- egress n.出口、运出、外出
 - eject v.驱逐、剥夺、喷射、弹射
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elapse 逝去、消逝、流逝
@@ -52,6 +53,8 @@
 - emergency n.紧急情况、突发事件
 - emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
+- emigrate v.移民、移居国外
+- eminent [ˈemɪnənt] a.杰出的、卓越的、显著的
 - emission n.发出、排放、排放物、散发物
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
@@ -94,7 +97,7 @@
 - enrage v.激怒、触怒
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
-- enroll v.登记、注册、招收、加入
+- enroll v.登记、注册、招收、加入、录取、纳入
 - ensure v.确保、担保、保证
 - entail v.涉及、需要、牵涉、使必要、限定继承
 - enterprise n.企业、事业单位、事业、事业心、进取心
@@ -111,8 +114,9 @@
 - entry n.进入、参与、加入
 - enumerate [ɪˈnjuːməreɪt] v.枚举、列举
 - envelop v.包住、裹住、盖住
-- envelope n.信封、外壳、膜
-- envy n/v.羡慕、嫉妒
+- envelope [ˈenvələʊp] n.信封、外壳、膜
+- envision [ɪnˈvɪʒn] v.想象、展望
+- envy [ˈenvi] n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
@@ -169,6 +173,7 @@
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evil a.恶毒的、邪恶的、有害的
+- evoke v.唤起、产生、引起
 - evolution n.发展、进化、演变
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
@@ -216,7 +221,7 @@
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
 - experiment 实验、试验、尝试、试用、做实验
 - expert [ˈekspɜːt] n.专家、a.熟练的、内行的、经验丰富的
-- expire v.失效、中止、到期
+- expire v.失效、中止、到期、断气、逝世
 - explain v.解释、说明、阐明
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述、理由、原因
 - explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的

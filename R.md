@@ -18,6 +18,7 @@
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的
 - rare [reə(r)] a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
+- ratify v.正式批准、使正式生效
 - ratio [ˈreɪʃiəʊ] n.比率
 - ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
@@ -64,7 +65,7 @@
 - recovery n.恢复、痊愈、取回
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
-- recruit v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
+- recruit [rɪˈkruːt] v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
 - rectify v.矫正、纠正
 - recur v.复发、(尤指不好的事)重现
 - recursion n.递归、递推
@@ -94,8 +95,8 @@
 - regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候、n.尊敬、注意、关注  regarding 关于、相关  with regard to 对于、就...而论
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
-- region 地区、区域、行政区、管辖区、层、界、境
-- register v.登记、注册、n.登记薄、注册表、寄存器
+- region n.地区、区域、行政区、管辖区、层、界、境
+- register v.登记、注册、(仪表的)指示、n.登记薄、注册表、寄存器
 - regress 倒退、回归、退化
 - regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
 - regular a.有规律的、定期的、常规的、寻常的、普通的、一般的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式  regular job固定工作
@@ -135,6 +136,7 @@
 - remedy n.救济、治疗、补偿、公差、v.纠正、改正、改进
 - remind vt.提醒、使想起、使记起
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
+- remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴
 - rend v.撕开、撕裂
@@ -143,7 +145,9 @@
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - renew v.更新、重新开始、重申、使恢复
 - renewable a.可再生的、n.可再生资源
-- rental 租金、出租、租赁、招租
+- renewal n.更新、合同的续订、复兴、振兴
+- rent n.租金、地租、房租、v.租赁、租借、出租
+- rental n.租金、出租、租赁、招租
 - repair [rɪˈpeə(r)] n/v.修理、修补、补救、纠正
 - repay v.归还、偿还、补偿
 - repayment n.偿还、报答、归还借款、偿还债务
@@ -152,10 +156,11 @@
 - Repeater n.转发器(又称中继器或放大器)
 - repel [rɪˈpel] v.击退
 - repertoire [ˈrepətwɑː(r)] n.全部节目、全部本领、(计算机的)指令表
-- repetition 重复、反复、背诵、复制品、副本、重做的事、重说的话
+- repetition n.重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
 - reply n/v.回答、答复
+- repo 回购  Repo Market 回购市场
 - repository n.仓库
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
@@ -214,7 +219,7 @@
 - return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
 - reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
-- revelation n.启示
+- revelation n.启示、揭示、透露、新发现
 - revenge n.报仇、报复
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)
 - reversal n.颠倒、彻底转变、反转、转换、交换
@@ -238,12 +243,14 @@
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
 - rival n.竞争对手、v.与...相匹敌、比得上、a.竞争的、对立的
+- river n.河流
 - roast v.烤、n.烤肉
 - robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - robustness n.鲁棒性、健壮性
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - role n.角色、作用、地位、职能
+- rollout 首次发行、公开展示  rollout time 推出时间
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - roof n.顶部、屋顶
 - room n.房间、空间、可能性、v.租房、合住

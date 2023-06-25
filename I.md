@@ -19,6 +19,7 @@
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
+- illuminate [ɪˈluːmɪneɪt] v.照亮、阐明、解释
 - illusion [ɪˈluːʒn] n.幻觉、幻想
 - illusory a.虚幻的、幻觉的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
@@ -152,10 +153,12 @@
 - insist v.坚持、强调
 - insulate [ˈɪnsjuleɪt] v.使隔离、使孤立、使绝缘、使隔热 
 - inspect v.检查、视察
-- inspire v.鼓励、激励、启迪
+- inspiration n.灵感、鼓舞人心的人或事
+- inspiratory a.吸入的、吸气的
+- inspire v.鼓励、激励、激起、启迪、启发
 - inspite of 尽管、即使
 - installment n.分期付款、分期交付、连载
-- instant n.瞬间、此刻、a.立即的、马上的、ad.立即、立刻
+- instant n.瞬间、此刻、(某一)时刻、a.立即的、马上的、速食的、速溶的、ad.立即、立刻
 - instantiate v.实例化
 - instantiation n.实例化
 - instead ad.相反、代替、反而
@@ -185,6 +188,7 @@
 - intensity n.强烈、紧张、剧烈、强度
 - intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的  labor-intensive 劳动密集型
 - intent n.目的、意图、a.热切的、专切的
+- intention n.打算、意图、目的、计划
 - intentional a.故意的、蓄意的
 - inter v.埋葬
 - interact v.相互作用、相互影响、互动、交流、沟通、合作
@@ -244,7 +248,9 @@
 - investment n.招商、投资、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待
-- invocation 祈祷、乞求、调用、启用
+- invocate 调用
+- invocation n.祈祷、乞求、调用、启用
+- invoke v.调用(方法等)、援引、援用(法律规则等)、提及、用法术召唤
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网

@@ -14,6 +14,7 @@
 - handy a.方便的、便利的、易使用的
 - happiness n.幸福、愉快
 - hardline a.强硬的、不妥协的
+- hardship n.困难、艰难、困苦、拮据
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
 - harsh a.残酷的、恶劣的、严酷的
@@ -39,12 +40,15 @@
 - height [haɪt] n.身高、高度
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
+- heritage n.遗产
 - heroic [həˈrəʊɪk] a.英雄的、n.史诗
 - heroin [ˈherəʊɪn] n.海洛因
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
 - heuristic a.启发式的
+- hide v.躲藏、隐瞒、隐匿、n.皮革、兽皮、隐蔽处、藏身处
 - hierarchy 分层、层次、层次体系、等级制度、统治集团
+- high a.高的、高级的、高尚的、ad.在高处  be high in sth 富含某物  high school 中学、高中
 - highlight v.突出、强调、n.最好的部分、强光部分
 - hill n.山丘、斜坡
 - hinder v.阻碍、妨碍
@@ -56,6 +60,8 @@
 - hitherto [ˌhɪðərˈtuː] ad.迄(qi)今、至今、到目前为止
 - hobby n.爱好
 - hold v.持有、抓住、容纳、保留、持有、n.持、抱、拿、握、影响、控制  take hold 抓住、还可做持续  hold on 坚持、等一等、别挂电话  put on hold 搁置、暂停、延期  hold up 举起、站得住脚、成立
+- holistic [həˈlɪstɪk] a.全面的、整体的
+- holy a.神圣的、圣洁的
 - homo 高、同、人属、人类、佃户、侍从
 - hono(u)r n.尊重、荣誉、荣耀、v.尊敬、[金融]承兑、兑现
 - hood n.兜帽、篷、罩、v.罩上、覆盖
@@ -64,8 +70,18 @@
 - horizontal [ˌhɒrɪˈzɒntl] a.水平的、横的、n.水平面、水平线、横线
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
-- host n/v.主持、主办  host of 许多、大量的
+- hospital n.医院
+- hospitality n.好客、款待、食物、饮料
+- hospitalize v.就医、把...送入医院治疗
+- host n.主机、主持人、东道主、主办国、v.主持、主办  host of 许多、大量的
+- hostage n.人质
+- hostile a.敌对的、敌意的、不利的
+- hostility n.敌意、敌视、反对、抵制
 - House n.下议院
+- household n.家庭、家人、a.家庭的、家务的、家常的
+- housewife n.家庭主妇
+- housework n.家务
+- housing n.住房
 - hub n.轮轴、中心、电线插孔、集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
