@@ -32,6 +32,7 @@
 - glad a.高兴的、乐意的
 - glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
+- glass n.玻璃、镜子、杯子
 - glide n/v.滑行、滑动、滑翔
 - glitch [ɡlɪtʃ] n.差错、小故障
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
@@ -51,11 +52,13 @@
 - gradual a.逐渐的、逐步的、平缓的
 - graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、逐渐变化、进展、n.大学毕业生、学位获得者
 - grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
+- gram n.克
 - grammar n.语法、语法书 grammar/primary school 小学
 - grand a.宏伟的、宏大的、重大的
 - granny n.祖母、外祖母
 - grant [ɡrɑːnt] v.授予、承认、准许、n.拨款、补助金 take ... for granted 认为...理所当然
 - granularity 粒度
+- graph n.图、图表、曲线图
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
 - grass [ɡrɑːs] n.草、v.告密、告发
@@ -73,6 +76,7 @@
 - groan [ɡrəʊn] n/v.呻吟、叹息
 - grocer n.杂货商
 - grocery [ˈɡrəʊsəri] n.杂货店
+- grok v.通过感觉意会
 - groom v.使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、n.新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得
 - ground n.地面、地基、基础

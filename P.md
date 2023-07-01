@@ -3,6 +3,7 @@
 - pack n.包裹、v.打包
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
+- painful [ˈpeɪnfl] a.痛苦的
 - palace [ˈpæləs] n.王宫、宫殿
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
@@ -17,9 +18,11 @@
 - paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
+- paraphrase [ˈpærəfreɪz] n/v.解释、释义、译意
 - pare v.削减、削皮、逐步减少
-- parenthesis n.插入语、圆括号
+- parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
+- parliament [ˈpɑːləmənt] n.国会、议会
 - parse v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - particle n.微粒、粒子、质子、极小量
@@ -47,6 +50,7 @@
 - pave v.铺、铺路
 - payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
+- pearl [pɜːl] n.珍珠、v.采珍珠
 - peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
 - peculiarity n.个性、特色、特点、独特性、怪癖
 - peek n/v.偷看、窥视
@@ -75,6 +79,8 @@
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
 - permanent [ˈpɜːmənənt] a.永久的、永恒的、长久的、n.烫发
 - permeate v.散布、传播、弥漫、渗透、渗入
+- permission n.准许、许可、许可证
+- permit n.许可证、执照、v.允许、准许、许可
 - permutation 序列、排列、组合、置换
 - perpetual [pəˈpetʃuə] a.永久的、永恒的、长久的、无期限的、终身的、持续的、不断的、四季开花的
 - perpetuate [pəˈpetʃueɪt] v.延续、使持续、使永存、使不朽
@@ -93,6 +99,7 @@
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - pessimistic [ˌpesɪˈmɪstɪk] a.悲观的
+- petrol n.汽油
 - phantom n.幻影、幻像、幽灵、幻觉
 - pharmaceutical [ˌfɑːməˈsuːtɪkl] a.制药的、药物的
 - pharmacy [ˈfɑːməsi] n.药房
@@ -108,6 +115,8 @@
 - physicist n.物理学家
 - physics n.物理
 - physiology n.生理学
+- pick v.采、摘、挑选  pick up 拿起、捡起、获得、学会、逮捕
+- pickup n.改善、改进、好转、皮卡、a.临时拼凑的
 - picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
 - pie [paɪ] n.馅饼、派
 - piece [piːs] 块、片、段、修补、连接
@@ -131,10 +140,13 @@
 - plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
 - plant n.植物、工厂、设备、v.种植、放置、安放
+- plaster n.石膏、熟石灰、v.抹灰、用...涂抹、把(头发)梳平
 - plastic n.塑料、信用卡、a.塑料的、可塑的
+- plate n.盘子、碟子、金属板   license/number plate (车)牌照、号码牌
 - platinum n.铂、白金
 - plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
+- playhouse n.剧院
 - plead v.恳求、辩护、认罪、陈述案情
 - please int.请、v.使满意、使高兴、(as/what/where...)想、喜欢  do as you please 请便
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
@@ -159,10 +171,11 @@
 - politeness [pə'laɪtnəs] n.客气、有礼貌、殷勤
 - political a.政治的、政府的、政权的
 - politician n.政治家、政客
+- politics [ˈpɒlətɪks] n.政治
 - poll v.投票、民意调查
 - pollen n.花粉
 - pollute v.污染、弄脏
-- polyglot a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
+- polyglot [ˈpɒliɡlɒt] a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
 - pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
@@ -208,13 +221,14 @@
 - precede v.先于、优于、在...之上
 - precedent n.先例
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
+- precipitate [prɪˈsɪpɪteɪt/prɪˈsɪpɪtət] v.加速(坏事的发生)、n.沉淀物、析出物
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - precisely ad.准确地、精确地、确实、正是
 - predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
 - predominance n.优势、主导地位
-- predominant [prɪˈdɒmɪnənt] a.主要的、占优势的、占主导地位的
+- predominant [prɪˈdɒmɪnənt] a.主要的、占优势的、占主导地位的、显著的、明显的
 - preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
 - prefer v.更喜欢
@@ -280,6 +294,7 @@
 - probe n.探索、探究、探头、探针、探测器、v.探查、探测、探究、盘问、追问
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
+- proceedings n.行动、事件、诉讼、公报
 - process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - prod n/v.戳、催促、鼓动、提醒
 - produce n/v.生产、制造
@@ -297,7 +312,7 @@
 - progressive a.进步的、逐步的、n.进步人士、改革派
 - prohibit v.禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
-- projection n.预测、规划、估计、投影
+- projection n.预测、规划、估计、投影、体现、形象化
 - prominent a.重要的、著名的、杰出的、突出的
 - promise n/v.允许、许诺、承诺、保证、指望、有指望
 - promising a.有希望的、有前途的

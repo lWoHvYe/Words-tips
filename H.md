@@ -22,6 +22,8 @@
 - hash [hæʃ] n.#号
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - haste n.匆忙、仓促
+- hate n/v.厌恶、憎恨
+- hatred [ˈheɪtrɪd] n.仇恨、憎恨
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
 - head n.头、头脑、领导、主管、v.朝着...行进
 - headcount/hc 公司HR预计招聘的员工人数 
@@ -29,7 +31,7 @@
 - headquarters n.总部
 - heads-up 提醒、警告
 - heal [hiːl] v.治愈、康复
-- health n.健康、医疗
+- health n.健康、医疗、卫生、兴旺
 - healthcare n.医疗、医疗保健
 - hear [hɪə(r)] v.听见、听到、倾听
 - heart [hɑːrt] n.心、心脏、核心、中心
@@ -47,7 +49,7 @@
 - hetero 异质的、不同的
 - heuristic a.启发式的
 - hide v.躲藏、隐瞒、隐匿、n.皮革、兽皮、隐蔽处、藏身处
-- hierarchy 分层、层次、层次体系、等级制度、统治集团
+- hierarchy [ˈhaɪərɑːki] 分层、层次、层次体系、等级制度、统治集团
 - high a.高的、高级的、高尚的、ad.在高处  be high in sth 富含某物  high school 中学、高中
 - highlight v.突出、强调、n.最好的部分、强光部分
 - hill n.山丘、斜坡

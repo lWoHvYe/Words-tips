@@ -1,6 +1,8 @@
 - kebab n.烤肉串
 - kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会
 - kin n.家族、亲属、a.有亲属关系的、同类的
+- king n.国王
+- kingdom n.王国、领域
 - kinship n.亲属关系
 - kit n.成套工具、配套元件、全套衣服、v.装备
 - kitty n.猫咪、小猫

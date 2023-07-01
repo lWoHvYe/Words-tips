@@ -59,7 +59,8 @@
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
-- empirical a.来自实验或经验的、经验主义的
+- empirical [ɪmˈpɪrɪkl] a.来自实验或经验的、经验主义的
+- empire [ˈempaɪə(r)] n.帝国、大企业
 - employ v.雇用、使用
 - employee [ɪmˈplɔɪiː] n.雇员  -ee是被的一方
 - employer [ɪmˈplɔɪə(r)] n.雇主  -er是主的一方
@@ -72,6 +73,7 @@
 - enclose v.随函附上、把...装入信封、附入、围住、把...围起来
 - encode v.编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
+- encore [ˈɒŋkɔː(r)] n.安可、int.再来一个、再唱一首
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
 - encourage v.支持、鼓励、促进、激励、劝告、怂恿
 - end 末尾、结束、目的、意图
@@ -120,7 +122,7 @@
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
-- episode n.插曲、片段、一集、单集
+- episode [ˈepɪsəʊd] n.插曲、片段、一集、单集
 - epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期、(地质)世、纪、期
 - epochal a.划时代的
 - equal [ˈiːkwəl] a.相等的、平等的、胜任的、n.同等的人、相等物、v.等于、比得上
@@ -139,7 +141,7 @@
 - erupt v.爆发、喷发、突然发生
 - escalate [ˈeskəleɪt] v.逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
 - escalation n.扩大、增加、升级、价格调整
-- escape v.逃离、逃避、逃脱
+- escape n/v.逃离、逃避、逃脱
 - escapism n.逃避现实、解脱方法
 - escapist a.逃避现实的、令人解脱的
 - esoteric [ˌesəˈterɪk] a.秘传的、机密的、隐秘的
@@ -177,6 +179,7 @@
 - evolution n.发展、进化、演变
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
+- exam [ɪɡˈzæm] n.考试、测验、检查、体检
 - examine v.检查、审查、考察、调查、考试、审问
 - excavate [ˈekskəveɪt] v.挖掘、开凿
 - exceed v.超过、超越、越过...的界限
@@ -186,7 +189,7 @@
 - except v.把...除外、不计、prep.除了、conj.除了、只是
 - exception n.例外、除外、(程序中的)异常
 - exceptional a.例外的、杰出的、卓越的、罕见的
-- excess n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
+- excess [ɪkˈses/ˈekses] n.超过、过量的、放肆、无节制、a.过度的、过量的、超额的、额外的、附加的
 - excessive a.过分的、过度的
 - exchange n/v.交换、兑换、汇兑
 - exchequer n.财政部、国库、金库
@@ -207,6 +210,7 @@
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhaustive a.详尽的、彻底的、全面的
 - exhibit [ɪɡˈzɪbɪt] v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
+- exhibition [ˌeksɪˈbɪʃn] n.展览、表现
 - exist [ɪɡˈzɪst] v.存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
@@ -242,6 +246,7 @@
 - extent n.程度、限度、大小、面积、范围  to a great extent 在很大程度上
 - extension n.扩大、延伸、延期
 - extensive a.广阔的、广大的、大量的、广泛的
+- exterior n.外部、外表、a.外部的、外表的
 - external a.外面的、外部的、n.外面、外部、外观
 - externalize 外化、表达
 - extinct [ɪkˈstɪŋkt] a.灭绝的、绝种的

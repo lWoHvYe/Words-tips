@@ -47,6 +47,7 @@
 - mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
 - massive a.大量的、大规模的、严重的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
+- match v.比赛、匹配、n.火柴
 - mate n.伙伴、朋友
 - material n.材料、素材、a.实际的、物质的、重要的、必要的
 - materialism n.物质主义、唯物主义
@@ -96,7 +97,8 @@
 - mercy n.怜悯、仁慈、宽容
 - mere a.纯粹的、仅仅、只不过、小的、轻微的、n.池塘、边境
 - merge v.合并、融合、融入
-- merit n.优点、美德、价值、功绩、绩效、v.应得、值得
+- merit [ˈmerɪt] n.优点、美德、价值、功绩、绩效、v.应得、值得
+- meritocratic [ˌmerɪtəˈkrætɪk] a.精英领导的
 - mess n.混乱、困境、肮脏、v.弄脏、搞砸  mess up 弄乱、把...搞糟
 - message n.信息、要旨、要点
 - meta [ˈmɛtə] 元
@@ -136,19 +138,20 @@
 - minimum n.最小值、最低限度、极小值、a.最小的、最低的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
 - minor a.较小的、少数的、轻微的、次要的、v.辅修、n.辅修课程
-- minus n.减、减号、负号
+- minus [ˈmaɪnəs] n.减、减号、负号
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
-- misuse [ˌmɪsˈjuːs]/[ˌmɪsˈjuːz] n/v.滥用、误用
+- misuse [ˌmɪsˈjuːs/ˌmɪsˈjuːz] n/v.滥用、误用、苛待、虐待
 - mitigant a.缓和的、减轻的、n.缓解措施
 - mitigate [ˈmɪtɪɡeɪt] v.使缓和、使减轻、使平息、减轻、缓和
 - mitochondrion [ˌmaɪtəʊˈkɒndriən] n.线粒体 复数: mitochondria
 - mitre 主教法冠、斜接
-- mix 混合、掺合、调配、相容、交往、混杂、乐曲组合
+- mix n/v.混合、掺合、调配、相容、交往、混杂、n.混合体、乐曲组合  mix up 混合
+- mixture n.混合、混合物、混合体
 - mnemonic [nɪˈmɒnɪk] n.助记符号 
 - mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - mobilize v.动员、调动、组织、鼓动
@@ -171,6 +174,7 @@
 - monad n.单子（不可分割的实体）
 - monadic a.一元的、单体的
 - monarch [ˈmɒnək] n.君主、帝王
+- monarchy n.君主制、君主政体、君主国
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
@@ -184,6 +188,7 @@
 - monotonic a.单调的、无变化的
 - month [mʌnθ] n.月、月份
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
+- moola (非正式)n.钞票💵
 - moral a.道德的、能辨别是非的、n.品行、道德
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的

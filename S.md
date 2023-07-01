@@ -1,5 +1,5 @@
 - sacred [ˈseɪkrɪd] a.上帝的、神圣的、庄严的、受崇敬的
-- sacrifice n/v.牺牲、祭祀
+- sacrifice [ˈsækrɪfaɪs] n/v.牺牲、祭祀
 - sad a.悲哀的、难过的
 - safeguard [ˈseɪfɡɑːd] v.保护、维护、捍卫、n.防护装置、保护措施、安全设施
 - sage [seɪdʒ] 圣人、贤者、智者、鼠尾草、睿智的、贤明的
@@ -12,6 +12,8 @@
 - sample n.样本、样品、试样、取样、v.采样、取样、a.样品的、试样的
 - sanction [ˈsæŋkʃn] n.批准、认可、制裁、惩罚、约束、v.批准、许可
 - sanctity [ˈsæŋktəti] n.神圣
+- sand [sænd] n.沙、沙滩
+- sandal [ˈsændl] n.凉鞋
 - sanitization 消毒、卫生处理、净化、清除
 - satiate [seɪʃieɪt] v.满足
 - satire [ˈsætaɪə(r)] n.讽刺、讽刺文学
@@ -57,7 +59,7 @@
 - second a.第二的、次等的、附加的、另外的、n.第二、秒、片刻、瞬间、v.支持、赞成、附议
 - secondary a.第二的、次要的、辅助的、中等的、中学的、n.助手、副手、卫星
 - secret n.秘密、奥秘、机密、a.隐秘的、神秘的、秘密的、机密的
-- secretary n.秘书、干事、书记员
+- secretary [ˈsekrətri] n.秘书、干事、书记员、部长、大臣
 - secrete [sɪˈkriːt] v.分泌、隐藏
 - section n.部分、部门、部件、v.切开、切断、切片
 - sectional 某群体的、断面的、某阶层的、局部的、部分的
@@ -178,6 +180,9 @@
 - skew a.斜的、歪的、不对称的、v.偏离、偏差、歪斜
 - ski n.滑雪板、v.滑雪、a.滑雪的
 - skirt n.短裙、挡板、v.绕开、回避
+- sky n.天空、天
+- skylight n.天窗
+- skyline n.轮廓线
 - skyscraper [ˈskaɪskreɪpə(r)] n.摩天大楼
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
@@ -235,7 +240,8 @@
 - soul 灵魂、精神
 - sound 声音、健全、合理
 - source n.来源、出处、根源、起源、v.(从...)获得
-- sovereighty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
+- sovereign [ˈsɒvrɪn] n.君主、元首、a.有主权的、完全独立的
+- sovereignty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
 - soy n.大豆
 - soybean n.大豆
 - space n.空间、太空、间隙、空白、空隙、v.把...分隔开、留间隔于...之间
@@ -254,7 +260,7 @@
 - species n.物种、种类
 - specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药
 - specification 规格、规范、明细单、说明书
-- specify 具体说明、明确规定、详述、详列
+- specify v.具体说明、明确规定、详述、详列
 - spectacle n.壮观的景象、壮观的场面、光景、景象
 - spectrum [ˈspektrəm] n.光谱、波谱、范围、系列
 - speculate v.推测、推断、思索、猜测、投机
@@ -322,15 +328,17 @@
 - statistic a.统计的、n.统计学、统计资料
 - status n.地位、身份、情形、状况
 - stead [sted] n.代替、用途、好处
-- steadfast a.坚定的、不动摇的
+- steadfast a.坚定的、不动摇的  steadfast integrity 踏实、诚实
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steep a.陡峭的、急剧的
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
+- stenographer [stəˈnɒɡrəfə(r)] n.速记员
+- step n.步、步骤
 - steroid n.类固醇
 - stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、v.对...产生成见、把...浇筑成铅版
 - steward [ˈstjuːəd] n.乘务员、管家
-- stick v.粘贴、张贴、插入、刺入、容忍、放置、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
+- stick v.粘贴、张贴、插入、刺入、容忍、放置、卡住、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - stickness n.黏性
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋、促使
@@ -342,6 +350,7 @@
 - stitch 缝、缝合
 - stock n.股票、股份、资本、公债、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的  stock options 股票期权
 - stockpile n.库存、储备、囤积的物资、v.大量储备
+- stone n.石头
 - stop v.停止、n.车站
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
@@ -360,7 +369,7 @@
 - stretch [stretʃ] v.伸展、拉长、拉紧、延续、耗尽、n.(连续的)一段时间、一片、伸展
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
-- strike n/v.罢工、击、打、打击  strike price 执行价格、预购价格
+- strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
 - striking a.引入注目的、惊人的、显著的
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
 - strip n.带、v.剥去、除去、剥夺、跳闸
@@ -393,6 +402,7 @@
 - substance n.物质、主旨、要点、实质
 - substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
+- substrate n.底层
 - subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
 - subtract 减、减去、扣除
@@ -419,7 +429,7 @@
 - suitable a.合适、适合
 - summary 概括、总结、概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
-- summit n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
+- summit [ˈsʌmɪt] n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - super a.超级的、ad.特别、格外
 - superb a.卓越的、极佳的
 - superficial [ˌsuːpəˈfɪʃl] a.表面的、肤浅的、浅薄的

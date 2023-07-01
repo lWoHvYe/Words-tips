@@ -7,7 +7,8 @@
 - deadline n.截止时间、最后期限
 - deal n/v.处理、协议、大量、许多、待遇、交易、发牌
 - dean n.教长、学院院长、系主任
-- death n.死亡、死神
+- dearth [dɜːθ] v.缺乏、不足
+- death [deθ] n.死亡、死神
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt [det] n.债务、借款、欠款、罪、过失
 - decade 十年、十年期
@@ -61,12 +62,12 @@
 - delivery n.传送、交付、投递、分娩
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
-- democracy n.民主、民主制度
+- democracy [dɪˈmɒkrəsi] n.民主、民主制度
 - democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
 - demography n.人口统计
 - demolish [dɪˈmɒlɪʃ] v.拆除、毁坏、破坏、推翻、驳倒
-- demolition [ˌdeməˈlɪʃn] n.拆毁、拆除、摧毁
-- demon n.恶魔、魔鬼
+- demolition [ˌdeməˈlɪʃn] n.拆毁、拆除、摧毁、大败、击退
+- demon [ˈdiːmən] n.恶魔、魔鬼
 - demonstrate [ˈdemənstreɪt] v.证明、证实、表现、表达、示范、演示、表露、示威游行
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
@@ -107,9 +108,10 @@
 - despite prep.即使、尽管
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运
-- destroy v.破坏、毁坏、消灭
+- destroy v.破坏、毁坏、摧毁、消灭
 - destruct v.破坏、毁坏、a.破坏的
 - destruction n.摧毁、毁灭、破坏
+- destructive a.破坏(性)的、毁灭(性)的
 - detach v.派遣、分离、拆开、摆脱
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
 - detect v.查明、发现、探测、侦查
@@ -130,10 +132,11 @@
 - dialect 方言
 - diary n.记事簿、日志、日记
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
-- dictate v.口述、听写、命令、决定、支配、n.命令、规定
+- dictate [dɪkˈteɪt/ˈdɪkteɪt] v.口述、听写、命令、决定、支配、n.命令、规定
 - dictation n.口述、听写
 - dictator n.独裁者
 - dictatorship [ˌdɪkˈteɪtəʃɪp] n.专政、独裁
+- dictum [ˈdɪktəm] n.格言、名言
 - die v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失
 - diet 日常饮食、规定饮食、节制饮食
 - difference n.差别、差异、差数、差额
@@ -180,6 +183,7 @@
 - discuss [dɪˈskʌs] v.商量、讨论、详述、论述
 - disease [dɪˈziːz] n.疾病
 - disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
+- disgust [dɪsˈɡʌst] n/v.厌恶、反感
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
 - dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
@@ -192,6 +196,7 @@
 - dispersal [dɪˈspɜːsl] n.分散、散布、消散、驱散
 - disperse v.分散、散开、驱散
 - displace v.移动、移走、取代、置换、替换、排水、撤职
+- display n/v.陈列、展示、显示、显露、表现
 - disposable [dɪˈspəʊzəbl] a.可任意处理的、可自由处置的、一次性的
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
@@ -227,11 +232,12 @@
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
 - doctrine [ˈdɒktrɪn] n.教条、主义、学说
 - dollar n.美元
-- domain 领域、范围、领土、域、域名
-- dome 穹顶、圆屋顶、圆顶状物、加圆屋顶于...上
-- domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾
+- domain [dəˈmeɪn/doʊˈmeɪn] n.领域、范围、领土、域、域名
+- dome [dəʊm] n.穹顶、圆屋顶、圆顶状物、v.加圆屋顶于...上
+- domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾  Gross Dometic Product GDP 国内生产总值
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
-- dominate v.支配、影响、占优势
+- dominant [ˈdɒmɪnənt] a.占优势的、主导的、支配的、统治的
+- dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
 - dormant a.睡着的、休眠的、蛰伏的
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
@@ -248,8 +254,9 @@
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
 - drag [dræɡ] v.拖拽、拖累、拖延
 - drain v.排空、耗尽、n.消耗、耗竭
-- drama n.戏剧、剧本、戏剧效果
+- drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
+- dramatize v.使戏剧化、将...改编成剧本、使引人注目
 - drastic a.激烈的、猛烈的、极端的、严厉的、彻底的
 - draw v.绘画、拖、拉、吸引、提取、抽出、抽签、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税

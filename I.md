@@ -131,13 +131,14 @@
 - inherent a.固有的
 - inherit v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
-- initial [ɪˈnɪʃl] a.初始、最初的、开始的
-- initiate [ɪˈnɪʃieɪt , ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
-- initiative [ɪˈnɪʃətɪv] n.倡议、新方案、主动权、主动性、a.自发的、起始的、初步的
+- initial [ɪˈnɪʃl] a.初始、最初的、开始的、n.首字母
+- initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
+- initiative [ɪˈnɪʃətɪv] n.计划、倡议、新方案、主动权、主动性、a.自发的、起始的、初步的  individual initiative 个人主动性
 - inject v.注射、注入
 - injure v.损害、伤害
 - injury n.损伤、伤害
 - inlay v.镶嵌、嵌入
+- innate [ɪˈneɪt] a.先天的、天生的、固有的
 - inner a.内部的、内心的、n.内部、里面
 - innermost a.内心深处的
 - innocent [ˈɪnəsnt] a.清白的、无辜的、无罪的、无知的、率真的、n.无辜的人
@@ -146,6 +147,7 @@
 - innovation n.创新、革新
 - inquire v.询问、打听
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
+- insect n.昆虫
 - insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
 - insidious [ɪnˈsɪdiəs] a.阴险的、潜伏的
@@ -173,11 +175,11 @@
 - instrumented 感知化、物联化、透彻的感知、仪器化、工具性
 - insufficient [ˌɪnsəˈfɪʃnt] a.不足的、不充分的
 - insurance n.保险、保险单、保险费、保障措施、安全保证
-- insure v. 投保、承保
+- insure v. 投保、承保、确保
 - intake n.吸入、摄入、进气 intake form 登记表
 - integral a.完整的、必须的、积分的、n.积分、整体
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
-- integrity n.完整、完整性、廉正、正直、诚实、保存、健全
+- integrity [ɪnˈteɡrəti] n.完整、完整性、廉正、正直、诚实、保存、健全
 - intellectual a.智力的、有才智的、n.知识分子
 - intelligible 可理解的、易懂的
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
@@ -194,12 +196,11 @@
 - interact v.相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
-- interest [ˈɪntrəst] n.兴趣、爱好、利息、利益
+- interest [ˈɪntrəst] n.兴趣、爱好、利息、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
 - interfere v.干涉、干预、介入、妨碍
 - interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
 - intergrade n.中间形式、过度阶段
-- intergrity n.完整、完好
 - interim [ˈɪntərɪm] a.临时的、过渡的、暂时的、n.间歇、过渡期间
 - interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的
 - interject v.打断、插话
@@ -211,6 +212,7 @@
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
+- interplay n.相互作用、相互影响
 - interpolate v.插入、插话、插嘴
 - interpret [ɪnˈtɜːprət] v.解释、说明、理解、领会、翻译、诠释
 - interpretation n.理解、解释、说明、演绎
@@ -219,12 +221,11 @@
 - interrupt v.打断、中断、阻止
 - intersect v.横断、横切、相交、交叉
 - intersection n.交集
-- interest n.兴趣、爱好、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
-- interpersonal a.人际关系的、人际的
 - interval n.间隔、间歇、休息时间、音程
 - intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
 - intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友
+- intimidate [ɪnˈtɪmɪdeɪt] v.恐吓、威胁
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate a.错综复杂的、难理解的
 - intrinsic [ɪnˈtrɪnzɪk] a.固有的、内在的
@@ -254,7 +255,8 @@
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
-- iron n.铁、熨斗、v.熨、烫平
+- iron [ˈaɪən] n.铁、熨斗、v.熨、烫平
+- irony [ˈaɪrəni] n.讽刺、反语
 - irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
 - isolate v.隔离、孤立、a.隔离的、孤立的
 - issue n.问题、发行物、v.发行、公布

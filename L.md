@@ -4,6 +4,7 @@
 - lack n/v.缺乏、短缺
 - ladder n.梯子、阶梯、途径
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
+- lake n.湖、湖泊
 - lame a.蹩脚的、站不住脚的、无说服力的
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
 - landlady n.女房东、女店主
@@ -24,13 +25,16 @@
 - launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
 - launder [ˈlɔːndə(r)] v.洗、洗(钱)
 - lawsuit n.诉讼、起诉
-- lay v.放置、a.世俗的、外行的、没有经验的
+- lay v.放置、铺放、制定计划、a.世俗的、外行的、没有经验的  lay on 提供(食物等) lay off (临时)解雇、停止、休息  lay out 规划、布置、安排、展示、陈设
 - layer 层、层次
 - layoff n.解雇、裁员
 - layout n.布局、布置、设计、安排
-- leak n/v.漏、泄漏、漏洞、漏出
+- lead v.引导、领导、带路、导致
+- leader n.领袖、处于领先地位的人
+- leadership n.领导、领导层、领导地位、领导能力
+- leak [liːk] n/v.漏、泄漏、漏洞、漏出
 - leakage n.泄漏、泄漏量
-- lean v.前俯、倾斜、倚靠、a.瘦的、贫瘠的、难以赚钱的、n.瘦肉
+- lean [liːn] v.前俯、倾斜、倚靠、a.瘦的、贫瘠的、难以赚钱的、不景气的、n.瘦肉
 - leap v.跳、跳跃  leap year 闰年
 - learn v.学习、习得、得知、认识到
 - lease n.租赁、租约、v.租用、租借、出租
@@ -49,6 +53,7 @@
 - length n.长、长度 at length 最后、终于、充分地、详尽地
 - lenient a.宽大的、宽容的、仁慈的
 - lens n.透镜、镜片、镜头、(眼球的)晶状体
+- lesson n.课程、一节课
 - lest conj.免得、以免、唯恐
 - letter n.信、函、字母
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
@@ -62,12 +67,14 @@
 - liberalize v.使自由化、放宽对...限制、自由化
 - liberate v.解放、释放、使自由
 - liberty n.自由
-- license/licence [ˈlaɪsns] v.许可、n.许可证
+- license/licence [ˈlaɪsns] v.准许、许可、发许可证、n.许可证、执照
 - lie v.躺、平躺、平放、保持(某种状态)、说谎、n.位置、谎言
 - lien n.留置权、扣押权
 - lifespan 寿命、存在期、使用期、有效期
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地  过去式及过去分词:lit  come to light 为人所知、暴露
+- likelihood [ˈlaɪklihʊd] n.可能性、可能
+- likewise [ˈlaɪkwaɪz] ad.同样地、也、亦、又
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
@@ -115,6 +122,7 @@
 - lucrative a.获利多的、赚大钱的、合算的
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
 - lunar a.月亮的、月球的 Lunar New Year 农历新年
+- lunch n.午餐
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵
 - lux 勒克斯(照明单位)
 - luxury [ˈlʌkʃəri] n.奢侈、奢华、奢侈品、a.奢华的

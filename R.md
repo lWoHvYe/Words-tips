@@ -1,7 +1,8 @@
 - race n/v.赛跑、比赛、竞争、角逐、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
 - racial [ˈreɪʃl] a.种族的
-- radar n.雷达
+- radar [ˈreɪdɑː(r)] n.雷达  ground radar 地面雷达
 - radical a.根本的、彻底的、完全的、激进的
+- radiant [ˈreɪdiənt] a.辐射的、放射的、容光焕发的、喜气洋洋的  radiant matter 辐射物
 - radix n.进制、基数
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - raft n.木筏
@@ -24,6 +25,7 @@
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
 - rattle v.使紧张、使恐惧、n.咔哒声
+- ray n.射线、光束
 - reach v.到达、抵达、够到、(用电话)联系、增加到、提升到、n.影响范围
 - react v.反应、回应、起反应
 - reaction n.反应、反对、副作用、不良反应
@@ -35,7 +37,7 @@
 - realistic a.现实的、实际的、逼真的、明智的
 - reality [riˈæləti] n.事实、现实、实体、实在  virtual reality VR虚拟现实
 - realize/realise [ˈriːəlaɪz] v.理解、领会、认识到、注意到、实现、产生、发生
-- realm 领域、范围、王国、部门、界
+- realm n.领域、范围、王国、部门、界
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
@@ -106,6 +108,7 @@
 - regulatory a.监管的、调节的
 - rehab 康复、修复、修缮、恢复名誉、复职
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
+- reign [reɪn] n/v.统治、支配
 - rein n.缰绳、控制、主宰、v.控制、驾驭
 - reinforce v.增援、加强、巩固
 - reject [rɪˈdʒekt/ˈriːdʒekt] v.拒绝、驳回、排斥、排异(移植的器官)
@@ -115,7 +118,7 @@
 - relative a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
-- release v.释放、发布、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、泄露
+- release v.释放、发布、发行、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、排放、泄露
 - relevant a.相关的、有价值的、有意义的
 - reliable a.可靠的、可信赖的、n.真实可信的、可靠的人
 - reliance n.依赖、依靠、信赖、信任
@@ -124,9 +127,9 @@
 - relieve v.缓解、减轻
 - religion n.宗教
 - religious a.宗教的、虔诚的[qián chéng]
-- reluctant a.不情愿的、勉强的
+- reluctant [rɪˈlʌktənt] a.不情愿的、勉强的
 - rely v.依靠、依赖、信赖
-- remain n.剩余物、残骸、残余、遗迹、余额、v.保持、依然、留下、留待、剩余
+- remain n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
 - remark n/v.评论、谈论
@@ -155,7 +158,7 @@
 - repeat v.重复、一再、复述、背诵、重述、n.重演的事物、重复的事件
 - Repeater n.转发器(又称中继器或放大器)
 - repel [rɪˈpel] v.击退
-- repertoire [ˈrepətwɑː(r)] n.全部节目、全部本领、(计算机的)指令表
+- repertoire [ˈrepətwɑː(r)/ˈrepərtwɑːr] n.全部节目、全部本领、(计算机的)指令表
 - repetition n.重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
 - replenish v.补充、重新装满
@@ -253,7 +256,8 @@
 - rollout 首次发行、公开展示  rollout time 推出时间
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - roof n.顶部、屋顶
-- room n.房间、空间、可能性、v.租房、合住
+- room n.房间、空间、余地、可能性、v.租房、合住
+- root n.根本、v.扎根
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替
@@ -268,10 +272,11 @@
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
 - RTL Resistor Transistor Logic 电路
 - rubble n.瓦砾、碎石
-- ruin n/v.破坏、毁灭、糟蹋、破产
+- ruin n/v.破坏、毁灭、(使)堕落、糟蹋、破产、n.废墟、遗迹
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - rush n/v.冲、急促、仓促
+- rut n.车辙、惯例  ruts of procedure 惯有程序
 - ruthless a.残忍的、无情的

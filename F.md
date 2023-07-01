@@ -47,7 +47,7 @@
 - feeble a.虚弱的、无效的、无力的
 - feed v.饲养、喂养、满足、n.饲料、肥料
 - female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
-- fence n.栅栏、屏障、v.围住、隔开、搪塞、回避
+- fence n.栅栏、屏障、v.围住、隔开、搪塞、回避、击剑
 - fend v.照顾、照料、防御、保护
 - ferry n.渡船、摆渡、v.渡运、摆渡
 - fertile a.肥沃的
@@ -80,7 +80,7 @@
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术）
 - fireside 炉边、毫无拘束的
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
-- fiscal n.财政、a.财政的、国库的、税收的
+- fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
 - fit n/v.安装、合身、适合、a.合适的、恰当的、健康的、突发、冲动
 - fitness n.健康、健身、适合、合情理
 - fix v.修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、n.解决方法、困境、窘境、定位
@@ -148,18 +148,19 @@
 - foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
 - foundational 基础的、基本的
 - fractal n.分形、不规则图形
-- fraction n.小部分、少量、片段、分数、小数
+- fraction [ˈfrækʃn] n.分数、小部分、小数、少量、片段
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织
 - franchise n.特权、赋予特权、选举权、经销权
+- frank [fræŋk] a.坦白的、直率的
 - fraud [frɔːd] n.欺诈、骗子、伪劣品、冒牌货
 - free a.免费的、自由的、免税的、空闲的、v.释放、使自由、使解脱
 - freemium 免费增值、收费增值
 - freeze v.使结冰、冻结  frozen (过去分词) a.冻结的、冰封的、极冷的
 - French n.法语、a.法国的
 - frequency 频率、频繁、发生率、出现率、重复率
-- frequent a.频繁的、常见的、v.常去、常到
+- frequent a.频繁的、常见的、v.常去、常到  sb tend to frequent 经常、常去
 - fresh a.新鲜的、淡水的、无经验的、n.(一天、一年等的)开始、(河流的)暴涨
 - fret v.烦躁、苦恼、n.雾气
 - fright n.惊吓、恐怖、恐惧

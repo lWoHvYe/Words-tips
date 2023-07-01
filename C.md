@@ -26,9 +26,9 @@
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
 - capacity [kəˈpæsəti] n.容量、性能、才能、职位、职责、功率、电容、a.充其量的、最大限度的
 - capex abbr.资本支出 capital expenditures
-- capital n.首都、资本、财富、v.大写的、极好的、死刑的
+- capital n.首都、资本、财富、大写字母、v.大写的、极好的、死刑的  capital market 资本市场
 - capital n.首都、资本、资金、财富、财产、资方、大写字母、a.首都的、资本的、大写的、极好的、死刑的
-- capitalism n.资本主义
+- capitalism n.资本主义(制度)
 - captain n.船长、机长、上校、上尉、首领、队长
 - caption n.字幕、说明文字、v.加字幕
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
@@ -47,7 +47,7 @@
 - cash 现金、资金、兑现支票、现金的
 - casino [kəˈsiːnəʊ] n.赌场
 - cask n.桶、容器
-- cast 铸造、投射、造谣中伤、投、扔、脱、铸件、模子、特性
+- cast v.铸造、投射、向...投以(视线或笑容)、看...一眼、造谣中伤、使产生怀疑、投、扔、脱、n.铸件、模子、特性、演员表  cast doubts on 让人怀疑...
 - casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工
 - catalog n.目录、一览表、系列、种类、v.编目录、登记分类
 - catalogue n.目录、v.编目录、登记分类、记载
@@ -69,6 +69,7 @@
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
 - census [ˈsensəs] n.统计、人口普查、人口调查
+- cent n.分(货币单位)  per cent 百分之  red cent 很少的钱
 - center v.居中、集中、n.中心、中央、中枢
 - central [ˈsentrəl] a.中央的、中心的、首要的、主要的
 - centralize 集中、使集中、成为...的中心、集权控制
@@ -85,7 +86,7 @@
 - certainty n.确信、确定性、确定的事、必然的事
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
 - certify v.证明、证实、颁发证书
-- chain n.链条、连锁
+- chain [tʃeɪn] n.链条、连锁、v.用链条拴住
 - chair n.椅子、v.主席、主持
 - chalk n.粉笔
 - challenge n/v.挑战、质疑
@@ -128,8 +129,8 @@
 - church [tʃɜːtʃ] n.教堂、教会
 - cinema n.电影、电影院
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
-- circle n.园、环
-- circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器
+- circle [ˈsɜːkl] n.园、环、循环、周期、v.绕过  a circle of friends 一群朋友
+- circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器  short circuit 短路
 - circular [ˈsɜːkjələ(r)] a.圆环的、环形的
 - circulation n.循环、流通、环流、发行量
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
@@ -144,7 +145,7 @@
 - claimant n.索赔人、要求者、领取救济金者
 - clarify v.澄清、阐明
 - clarity n.清晰、清楚、明确、透明、清晰度
-- class n.班、班级、课、上课、阶级、等级、种类、v.把...归入某等级、把...看作、a.很好的、优秀的、出色的
+- class n.班、班级、课、上课、阶级、等级、种类、v.把...归入某等级、把...看作、a.很好的、优秀的、出色的  class action 集体诉讼
 - classic n.经典、经典作品、a.典型的、典雅的、经典的
 - classical a.传统的、古典的、经典的
 - classify v.分类、划分、界定
@@ -153,6 +154,7 @@
 - clause n.条款、款项、从句、子句、分句
 - claw n.爪、钳
 - clergy [ˈklɜːdʒi] n.神职人员、牧师、教士
+- clerk [klɑːk] n.职员、店员、文书、书记员
 - clever 聪明的、灵巧的、英俊的、精巧的、精明的、油腔滑调的
 - climate  n.气候、趋势、状况、倾向、形势
 - climb n/v.攀登、升值、增加、提高地位、晋升
@@ -183,9 +185,9 @@
 - cognize v.认识、认知
 - coherence n.连贯性、条理性
 - cohesive a.有结合力的、紧密结合的、结成一个整体的
+- coin n.硬币、v.创造(新词语)、铸(币)
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
 - coincidence n.巧合、巧事、同时存在、并存、一致
-- coin n.硬币、v.创造(新词语)、铸(币)
 - collaborate v.合作、协作、勾结、通敌
 - collapse n.崩溃、倒塌、折叠、垮掉、昏倒、v.倒塌、降价、贬值
 - collate v.整理、校对、核对、对照
@@ -410,7 +412,9 @@
 - cost n.费用、花费、代价、成本、v.花费、估计成本
 - costly a.昂贵的、代价高的、豪华的
 - cotton n.棉、棉花、棉线、棉织物
-- council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的
+- council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的、地方政府出租的  council flat 公租房
+- counsel [ˈkaʊnsl] n/v.劝告、忠告、建议、n.法律顾问、律师
+- counseling n.咨询服务
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
 - counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
@@ -426,17 +430,19 @@
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
 - crack v.破裂、开裂、崩溃、瓦解、阻止、打击、n.裂纹、裂缝、爆裂声、噼啪声、重击
 - craft n.工艺、手艺、技巧、技能、v.精心制作
-- crash n/v.崩溃、碰撞、倒闭、破产、暴跌、a.应急的、速成的
+- crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的
 - crave v.渴望、热望、恳求
 - crawl v.爬行
 - cream n.奶油、乳霜、a.奶油色的、米色的
 - crease n.折痕、褶痕、v.弄皱、压褶
+- create [kriˈeɪt] v.创建、创造、创作、引起、产生、授予、册封
 - credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
 - crew [kruː] n.船员、乘务员、全体工作人员
 - crime [kraɪm] n.罪行
+- criminal a.刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
 - crisp a.脆的、酥脆的、n.薯片、v.变脆
 - criteria (criterion 复数) n.标准、准则 
@@ -448,6 +454,7 @@
 - cron n.时间单位，等于百万年
 - crop n.庄稼、作物
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
+- cross-cutting 跨部门、跨领域
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crude n.原油、石油、a.粗糙的、粗略的
 - crumb n.碎屑、v.弄碎、捏碎
@@ -455,8 +462,10 @@
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
 - crush v.压坏、压碎、捣碎、弄皱、n.热恋、迷恋
 - cry v.哭、哭泣、叫喊、呼喊
-- crypto 加密货币
-- cryptography 密码学、密码术
+- crypto [ˈkrɪptoʊ] 加密货币
+- cryptography [krɪpˈtɒɡrəfi] 密码学、密码术
+- crystal [ˈkrɪstl] n.晶体、结晶、水晶、a.清楚的、显而易见的、晶莹的
+- crystallize [ˈkrɪstəlaɪz] v.结晶、使明确
 - cube n.立方体、立方、三次幂
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮
 - culmination n.高潮、巅峰、顶点、终点

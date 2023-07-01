@@ -6,10 +6,12 @@
 - backload v.(签订协议后)增加费用
 - bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
 - bacterium/bacteria(复数) n.细菌
+- bad a.坏的、令人不快的、错误的
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
+- ballet [ˈbæleɪ] n.芭蕾舞、芭蕾
 - ballot [ˈbælət] n/v.投票、选票、无记名投票
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
 - ban [bæn] n.禁令、v.禁止、取缔
@@ -18,9 +20,9 @@
 - bang n.砰的一声、巨响、猛击、猛撞、v.猛击、猛撞
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
 - bankrupt [ˈbæŋkrʌpt] a.破产、倒闭、完全缺乏、n.破产者、v.使破产
-- bar n.酒吧、条、v.禁止、阻止
+- bar [bɑː(r)] n.酒吧、吧台、条、棒、金属棒、障碍、律师职业、v.禁止、阻止、闩上  bar exam 司法考试
 - bare a.裸露的、赤裸的、光秃秃的、荒芜的、仅够的、最基本的、v.脱掉
-- bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判
+- bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判  bargain bin 折扣商品、折扣商品区
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
@@ -32,8 +34,9 @@
 - beacon [ˈbiːkən] n.信标
 - beam n.光波、波束、v.发射、射出、笑容满面
 - bear n.熊、v.承受、忍受、生育
-- bearing n.关系、影响、姿态、方位、轴承
+- beard [bɪəd] n.胡须
 - bearer 持票人、持有者、送信人、传授者、传播者
+- bearing n.关系、影响、姿态、方位、轴承
 - beast n.野兽
 - beastliness n.兽性
 - beauty n.美丽
@@ -62,6 +65,7 @@
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
 - billion n.十亿
+- bin [bɪn] n.箱子、v.扔掉、丢弃
 - binary a.二进制的
 - bind v.绑定、捆绑、缠绕、结合、约束、凝结、装订、n.窘境
 - biochemical 生物化学的、生化的
@@ -72,6 +76,7 @@
 - bi-temporal n.双时态
 - bitwise n.位运算
 - bizarre [bɪˈzɑːr] a.奇怪的、离奇的、极其怪诞的
+- blade n.叶片
 - blame n/v.责备、责怪、指责、把...归咎于、n.责任  be to blame for sth 对...负有责任
 - blank 空白的、空的、无信息的、未填写的、茫然的、空虚的、空白、遗忘
 - blanket n.毛毯、毯子、a.总括的、综合的、v.用毯覆盖
@@ -79,6 +84,7 @@
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
 - bleak [bliːk] a.凄凉的、荒凉的、暗淡的、阴冷的、没有希望的  bleak economic future 暗淡的经济前景
 - bless [bles] v.祝福、赞美
+- blind a.失明的、盲目的、v.使失明、使目眩、n.窗帘、幌子
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
@@ -112,7 +118,7 @@
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bra [brɑː] n.文胸、胸罩
 - brace n.箍子、牙箍、大括弧、v.准备好、支撑
-- bracket n.支架、括号、等级、v.用括号括上、把...相提并论
+- bracket [ˈbrækɪt] n.支架、括号、等级、v.用括号括上、把...相提并论
 - brain [breɪn] n.脑、智力、逻辑思维能力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)

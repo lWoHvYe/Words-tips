@@ -17,6 +17,7 @@
 - absurd [əbˈsɜːd] a.荒谬的、不合理的
 - abundant a.大量的、充裕的、丰盛的
 - abuse 滥用、恶习、侮辱、虐待、辱骂
+- abuzz [əˈbʌz] a.议论纷纷的
 - academe/academia n.学术界、学术
 - academic a.学术的、学业的、大学的、学院的、纯理论的、n.高校教师、高校科研人员
 - academy n.专科学校、学会、研究院、学院、中等学校、私立学校
@@ -90,7 +91,9 @@
 - advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
 - advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
 - advantage n.有利条件、有利因素、优势、优点、利益、好处、v.有利于、有益于、促进  take advantage of 利用、欺骗
-- adverse a.不利的、有害的、不友好的、敌对的
+- adversarial [ˌædvəˈseəriəl] a.敌对的、对立的
+- adversary [ˈædvəsəri] n.对手、敌手
+- adverse [ˈædvɜːs] a.不利的、有害的、不友好的、敌对的
 - adversity n.困境、逆境
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise v.宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
@@ -141,6 +144,7 @@
 - alienate v.使疏远、离间
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
+- alike a.同样的、相似的、ad.两者都、类似于
 - all det./a.所有的、全部的、极度的、prep.所有、全部、全体、ad.完全、十分、非常  all day long 整天  after all 毕竟、终究  above all 首先  in all 总共  all the time 总是、一直  all the way 一路、自始至终  all the more 更加、愈加
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
@@ -184,6 +188,7 @@
 - analyst [ˈænəlɪst] n.分析师、化验员
 - analytic(al) a.分析的、分解的
 - ancestry [ˈænsestri] n.祖先、祖宗
+- anchor n.锚、靠山、主播、v.抛锚、停泊、主持
 - ancient [ˈeɪnʃənt] a.古代的、古老的、n.古代人
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
 - anecdotal a.逸事的、趣闻的、传闻的
@@ -256,6 +261,7 @@
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
+- asap (as soon as possible) 尽快
 - Asia ['eɪʒə] n.亚洲
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
@@ -281,6 +287,7 @@
 - assurance n.保证、担保、保险、确信、把握
 - assure v.向...保证、使...确信、保证、确保
 - asterisk [ˈæstərɪsk] n.星号 *
+- asteroid [ˈæstərɔɪd] n.小行星
 - astonish v.使惊讶、震惊
 - astray 迷路的、堕落、误入歧途的、迷路
 - astronomy n.天文学

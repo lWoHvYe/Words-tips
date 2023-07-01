@@ -36,6 +36,8 @@
 - universal a.普遍的、通用的
 - universe n.宇宙、领域
 - unleash v.发泄、解除...的束缚
+- unlike prep.不像、与...不同
+- unlikely a.不太可能的、未必的
 - unsound a.不健全的、靠不住的、有错误的、腐烂的
 - unsurpassed a.无法超越的、无与伦比的、卓越的
 - unveil v.揭露、推出

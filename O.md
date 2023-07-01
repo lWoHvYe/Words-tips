@@ -13,6 +13,7 @@
 - obsession n.痴迷、着魔、困扰、妄想
 - obsolescent [ˌɒbsəˈlesnt] a.逐步废弃的
 - obsolete [ˈɒbsəliːt] a.淘汰的、废弃的、过时的
+- obstacle [ˈɒbstəkl] n.阻碍、障碍物
 - obtain v.获得、取得、得到、存在、流行
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occasion n.场合、时机、v.造成、导致
@@ -24,6 +25,7 @@
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
 - off v.离开、关闭、去掉
+- offence n.犯罪、罪行、冒犯
 - offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
@@ -38,7 +40,7 @@
 - ongoing a.进行(中)的、不间断的、持续存在的、n.前进、发展、行为、举止
 - onward 继续的、向前的
 - opaque [əʊˈpeɪk] a.不透明的、浑浊的、含糊的、n.不透明、难懂、模糊、隐晦
-- opera n.歌剧、歌剧院、歌剧团
+- opera n.歌剧、歌剧院、歌剧团  opera houses 歌剧院
 - operand n.操作数
 - operate v.操作、运营、运作、控制、运转
 - operation n.手术、操作、经营、行动、运算、运转
@@ -94,6 +96,7 @@
 - overdraft n.(钱)透支、透支额
 - overdue a.过期的、延误的、迟到的、早该发生的、早应完成的
 - overflow n/v.溢出
+- overhaul [ˈəʊvəhɔːl/ˌəʊvəˈhɔːl] n/v.彻底检修、大修、赶上、超过(赛跑对手)
 - overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
 - overlap 重叠、交叠、重叠时间
 - overlay v.覆盖、镀金、n.覆盖物、图层
@@ -110,7 +113,7 @@
 - overwhelm v.压倒、淹没、压垮、征服、难以承受
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的、(数量)巨大的
 - owe [əʊ] v.欠(债)、归功于、归因于
-- ownership n.产权、所有权
+- ownership n.产权、所有权、所有制
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气
 - oxytocin/pitocin [ˌɑksəˈtoʊsən] n.催产素

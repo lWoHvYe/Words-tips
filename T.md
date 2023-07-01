@@ -7,9 +7,11 @@
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
 - take v.拿、采取、接受  take up 占据、占用、花费  take up a post 就职
+- takeaway n.外卖
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
 - talk n/v.说话、谈话  talk of 谈论、谈及
+- tangent [ˈtændʒənt] n.切线、正切
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
 - tap v.轻敲、轻叩、开发、利用、汲取、n.水龙头
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
@@ -91,6 +93,8 @@
 - thrill [θrɪl] n/v.激动、兴奋
 - thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throat n.喉咙、咽喉
+- throb [θrɒb] n/v.脉搏、跳动
+- throne [θrəʊn] n.王权、君权
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
@@ -193,7 +197,7 @@
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
 - tuition n.学费
-- tune n.曲子、曲调、v.调音、调节
+- tune [tjuːn] n.曲子、曲调、v.调音、调节
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器
 - turbulence n.湍流、涡流、骚乱、动乱
