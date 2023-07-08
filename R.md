@@ -16,7 +16,7 @@
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
 - range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的
 - ransom 赎金、赎回、赎罪
-- rapid [ˈræpɪd] a.快速的、迅速的、快捷的
+- rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
 - rare [reə(r)] a.罕见的、稀少的
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ratify v.正式批准、使正式生效
@@ -25,6 +25,7 @@
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
 - rattle v.使紧张、使恐惧、n.咔哒声
+- raw a.原始的、生的、未加工的  raw material 原材料
 - ray n.射线、光束
 - reach v.到达、抵达、够到、(用电话)联系、增加到、提升到、n.影响范围
 - react v.反应、回应、起反应
@@ -41,6 +42,8 @@
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
+- reasonable a.正当的、合理的、公平的、明智的、不太贵的
+- rebel [ˈrebl/rɪˈbel] v.反抗、背叛、造反
 - rebound v.反弹
 - recall v.回忆起、召回、收回
 - recap 概括、扼要重述、简要回顾、翻新
@@ -68,7 +71,8 @@
 - recreate v.重建、重现、再创造
 - recreation n.娱乐、消遣
 - recruit [rɪˈkruːt] v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
-- rectify v.矫正、纠正
+- rectangle n.矩形、长方形
+- rectify v.矫正、纠正、修正
 - recur v.复发、(尤指不好的事)重现
 - recursion n.递归、递推
 - recursive a.递归的、循环的
@@ -115,7 +119,7 @@
 - relate v.使有联系、联系、关联、叙述、讲述、把...联系起来、讲（故事）
 - relation n.关系、联系、关联
 - relationship n.关系、联系、关联
-- relative a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
+- relative [ˈrelətɪv] a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、发行、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、排放、泄露
@@ -136,7 +140,7 @@
 - remarkable a.非凡的、显著的、杰出的
 - remedial/remediate a.治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
-- remedy n.救济、治疗、补偿、公差、v.纠正、改正、改进
+- remedy [ˈremədi] n.救济、治疗、补偿、公差、v.纠正、改正、改进
 - remind vt.提醒、使想起、使记起
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remodel v.重塑、改变...的形状或结构
@@ -179,6 +183,7 @@
 - reside v.住、居住、居住在、定居于
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
 - residual 残余物、剩余、残渣、残留的、剩余的
+- residue n.残余、残渣、剩余物
 - resign v.辞职
 - resilience/resiliency [rɪˈzɪliəns] n.弹性、弹力、快速恢复的能力、还原能力
 - resist [rɪˈzɪst] v.抵制、抵抗、忍耐、n.防腐剂、阻染剂
@@ -254,6 +259,7 @@
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - role n.角色、作用、地位、职能
 - rollout 首次发行、公开展示  rollout time 推出时间
+- roman a.罗马的、n.罗马人、罗马字体
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - roof n.顶部、屋顶
 - room n.房间、空间、余地、可能性、v.租房、合住
@@ -272,10 +278,12 @@
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
 - RTL Resistor Transistor Logic 电路
 - rubble n.瓦砾、碎石
+- rug n.小地毯、垫子
 - ruin n/v.破坏、毁灭、(使)堕落、糟蹋、破产、n.废墟、遗迹
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
+- rupture n/v.破裂、断裂
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - rush n/v.冲、急促、仓促
 - rut n.车辙、惯例  ruts of procedure 惯有程序

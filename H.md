@@ -5,6 +5,7 @@
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halo [ˈheɪləʊ] n.光环、(日月等的)晕
 - halt v.暂停、中止、停下
+- halve [hɑːv] v.减半
 - hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
 - handful n.一把(的量)、少数、难以控制的人
@@ -15,6 +16,7 @@
 - happiness n.幸福、愉快
 - hardline a.强硬的、不妥协的
 - hardship n.困难、艰难、困苦、拮据
+- hardware n.硬件、五金器具
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
 - harsh a.残酷的、恶劣的、严酷的
@@ -38,6 +40,7 @@
 - heat [hiːt] n.热、高温、激烈、v.加热
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
+- heavy a.沉的、重的、ad.大量地
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - height [haɪt] n.身高、高度
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
@@ -45,6 +48,7 @@
 - heritage n.遗产
 - heroic [həˈrəʊɪk] a.英雄的、n.史诗
 - heroin [ˈherəʊɪn] n.海洛因
+- hesitant a.犹豫的、踌躇的
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
 - heuristic a.启发式的
@@ -79,6 +83,7 @@
 - hostage n.人质
 - hostile a.敌对的、敌意的、不利的
 - hostility n.敌意、敌视、反对、抵制
+- hot a.温度高的、热的、辣的、热门的、最新的、新近的、棘手的
 - House n.下议院
 - household n.家庭、家人、a.家庭的、家务的、家常的
 - housewife n.家庭主妇

@@ -1,5 +1,6 @@
 - iconic [aɪˈkɒnɪk] a.标志性的、图标的、符号的
 - ideal a.完美的、理想的、不切实际的、n.理想、理念、看似完美的思想、完美的人
+- idealize v.理想化、使理想化  idealize body types 理想化的体型
 - idempotent 幂等、等幂、幂等的
 - identical a.完全相同的、同一的、恒等的
 - identification n.识别、鉴定、身份证明(ID)
@@ -20,7 +21,7 @@
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
 - illuminate [ɪˈluːmɪneɪt] v.照亮、阐明、解释
-- illusion [ɪˈluːʒn] n.幻觉、幻想
+- illusion [ɪˈluːʒn] n.幻觉、幻想、错觉、错误的观念
 - illusory a.虚幻的、幻觉的
 - illustrate v.解释、说明、表明、给...加插图、举例说明
 - illustration n.插图、图示、说明、图解
@@ -106,7 +107,7 @@
 - industry n.工业、行业、勤奋、勤劳
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
-- inherent a.固有的、内在的
+- inherent a.固有的、内在的  inherent worth/value 内在价值
 - inherit v.继承、接替、继任
 - initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət] v.开始、发起、创始
 - infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
@@ -120,6 +121,7 @@
 - inflict v.使承受、遭受、给予(打击)
 - inflight a.飞行中的
 - influence 影响、支配力、支配、左右
+- influx n.流入、汇集、涌入
 - inform v.知会、通知、使活跃、使充满、告发、检举
 - informal a.非正式的、不拘礼节的、日常的
 - infrared n.红外线、a.红外线的 infra- 下、低
@@ -128,7 +130,7 @@
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
 - inhale v.吸入、吸气
-- inherent a.固有的
+- inherent a.固有的、内在的、生来就有的
 - inherit v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
 - initial [ɪˈnɪʃl] a.初始、最初的、开始的、n.首字母
@@ -207,6 +209,9 @@
 - interlace v.使交错、使交织
 - intermarriage n.通婚、近亲结婚
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
+- interminable a.冗长的、没完没了的
+- intermingle v.使混合
+- intermit v.间歇、暂停、中断
 - intermittent a.间歇性的、断断续续的
 - intern 实习生、实习医生、拘留、禁闭、关押
 - internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
@@ -218,7 +223,7 @@
 - interpretation n.理解、解释、说明、演绎
 - interpreter 口译译员、解释者、解释程序、演绎的人
 - interrogate v.询问、审问、质问
-- interrupt v.打断、中断、阻止
+- interrupt v.打断、中断、阻止、打扰
 - intersect v.横断、横切、相交、交叉
 - intersection n.交集
 - interval n.间隔、间歇、休息时间、音程
@@ -233,6 +238,7 @@
 - introduction n.介绍、引进、推行、引言、序言、导论
 - introductory a.引导的、介绍的、入门的、初步的
 - introspect v.反思、内省、自省
+- introvert n.内向的人
 - intrude [ɪnˈtruːd] v.闯入、侵入、打扰、侵扰、扰乱
 - intrusive a.侵入的、侵扰的、插入的
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的

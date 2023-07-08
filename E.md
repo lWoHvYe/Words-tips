@@ -10,7 +10,7 @@
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
-- edge n.边、边缘、锋利、v.给...加边、略微增加/减少 cutting-edge 前沿的、先进的
+- edge n.边、边缘、边界、锋利、v.给...加边、略微增加/减少  cutting-edge 前沿的、先进的  edge case 边界情况
 - edit [ˈedɪt] v.编辑、校订
 - edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期  paperback edition 平装版  hardback edition 精装版
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
@@ -45,6 +45,7 @@
 - elite [eɪˈliːt] n.精英、上层集团、a.精英的、精锐的
 - ellipse [ɪˈlɪps] n.椭圆
 - ellipses n.省略号 ...
+- embark v.开始、上船、装船
 - embarrass v.窘迫、尴尬、局促不安
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
@@ -81,15 +82,16 @@
 - endeavor [ɪnˈdɛvə] n/v 努力、尽力
 - endue v.授予、赋予
 - endure v.忍受、忍耐、持续、持久
+- energetic a.有活力的、精力充沛的
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
 - engage v.从事、聘用、使加入、吸引、与...建立密切关系、接触、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - engender v.产生、引起
-- engine n.引擎、发动机
-- engineer n.工程师
-- engineering n.工程、工程学、v.设计制造
+- engine [ˈendʒɪn] n.引擎、发动机
+- engineer [ˌendʒɪˈnɪr] n.工程师
+- engineering [ˌendʒɪˈnɪərɪŋ] n.工程、工程学、v.设计制造  software engineering 软件工程
 - enhance v.增强、提高、增加
 - enhancement  n.增强、提高、增加、改善
 - enjoy v.享受、享有
@@ -114,7 +116,7 @@
 - entrepreneur [ˌɒntrəprəˈnɜː(r)] n.企业家、创业者
 - entropy n.熵
 - entry n.进入、参与、加入
-- enumerate [ɪˈnjuːməreɪt] v.枚举、列举
+- enumerate [ɪˈnjuːməreɪt/ɪˈnuːməreɪt] v.枚举、列举 Enum
 - envelop v.包住、裹住、盖住
 - envelope [ˈenvələʊp] n.信封、外壳、膜
 - envision [ɪnˈvɪʒn] v.想象、展望
@@ -130,14 +132,17 @@
 - equate v.等同、相当于、使相等
 - equation n.等式、方程、相等、均衡、影响因素
 - equator n.赤道
-- equipment 设备、装备、器材、配件、知识、素养
-- equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、(分享红利而非固定股息的)股票、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的
+- equip v.装备、配备、使有能力
+- equipment n.设备、装备、器材、配件、知识、素养
+- equity [ˈekwəti] n.公平、公正、股本、资产净值、普通股、(分享红利而非固定股息的)股票、权益 (金融上有 资本金 的意思)、产权、a.股票的、股市的  Return of Equity (ROE) 权益回报率
 - equivalent a.相等的、相当的、等效的、等价的、n.相等物、等价物、对应词
 - era [ˈɪərə] n.时代、年代
 - erase v.抹去、清除、擦掉、删除(存储器上的信息)
 - eraser n.橡皮擦、黑板擦
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
+- erroneous [ɪˈrəʊniəs] a.错误的、不正确的  erroneous nature 错误本质
+- error [ˈerə(r)] n.错误、过失、误差、谬误
 - erupt v.爆发、喷发、突然发生
 - escalate [ˈeskəleɪt] v.逐步升级、逐步扩大、逐步上升、不断恶化、加剧、升级、升高
 - escalation n.扩大、增加、升级、价格调整
@@ -157,7 +162,7 @@
 - esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
 - estimate v.估计、估算、估价、n.估计、预测、报价
 - Ethernet n.以太网
-- ethic 伦理、伦理观、道德体系
+- ethic n.伦理、伦理观、道德体系
 - ethical a.道德的、伦理的
 - ethnic a.民族的、种族的、n.少数民族的人
 - etiquette [ˈetɪkət] n.礼仪、礼节
@@ -176,7 +181,7 @@
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evil a.恶毒的、邪恶的、有害的
 - evoke v.唤起、产生、引起
-- evolution n.发展、进化、演变
+- evolution n.发展、进化、演变  biological evolution 生物进化
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - exam [ɪɡˈzæm] n.考试、测验、检查、体检
@@ -208,9 +213,11 @@
 - exert v.发挥、运用、施加
 - exfiltrate 渗出、渗漏、滤出、流出
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
+- exhaustion n.耗尽、精疲力尽、疲惫、枯竭
 - exhaustive a.详尽的、彻底的、全面的
 - exhibit [ɪɡˈzɪbɪt] v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
 - exhibition [ˌeksɪˈbɪʃn] n.展览、表现
+- exile [ˈeksaɪl] n/v.流放、放逐
 - exist [ɪɡˈzɪst] v.存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去

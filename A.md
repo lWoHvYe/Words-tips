@@ -1,10 +1,12 @@
+- abandon [əˈbændən] v.抛弃、遗弃、放弃
 - abbreviate v.缩写、缩略
 - abdicate [ˈæbdɪkeɪt] v.放弃、退位
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
 - abort n/v.中止、退出、夭折
+- abound [əˈbaʊnd] v.大量、大量存在、有许多
 - abroad n.国外、海外、ad.到国外、在国外
-- abrupt a.陡峭的、突然的、生硬的
+- abrupt a.陡峭的、突然的、唐突的、生硬的、不连贯的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
 - absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
@@ -82,10 +84,11 @@
 - administration n.管理、行政部门、(美国)政府
 - administrator n.管理人员、行政人员
 - admire v.倾佩、欣赏、赞赏、仰慕
-- admission n.承认、准许进入、加入权、进入权、招生
-- admit v.承认、允许、确认、许可进入
+- admission n.承认、准许进入、加入权、进入权、招生、录取  admission ticket 门票  admission of sth 承认某事  university-admissions process 大学录取流程
+- admit v.承认、允许、确认、许可进入、准许...加入  admit to/into 准许加入(俱乐部、组织)、接收(入学)
 - adolescent n.青少年、a.青春期的
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
+- adorn v.装饰、佩戴、修饰、使生色、使更美观  material adornment 物质装饰
 - adult n.成年人、成人、a.成人的 
 - adulthood 成年、成年期
 - advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
@@ -128,6 +131,7 @@
 - aggression n.侵略
 - aggressor n.侵略者
 - agnostic 不可知论者、不可知论的
+- agriculture [ˈæɡrɪkʌltʃər] n.农业
 - aid n/v.援助、帮助、救助
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
@@ -173,6 +177,7 @@
 - ambition n.雄心、抱负、夙愿
 - ambitious [æmˈbɪʃəs] a.有雄心的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
+- amendment n.修订、修正案
 - amicable a.友好的、友善的
 - amid prep.在...中间、在...之中
 - ammount 数量、金额、合计、等同
@@ -187,6 +192,7 @@
 - analysis [əˈnæləsɪs] n.分析、分析结果、分析报告
 - analyst [ˈænəlɪst] n.分析师、化验员
 - analytic(al) a.分析的、分解的
+- anatomy [əˈnætəmi] n.解剖、解剖学、剖析
 - ancestry [ˈænsestri] n.祖先、祖宗
 - anchor n.锚、靠山、主播、v.抛锚、停泊、主持
 - ancient [ˈeɪnʃənt] a.古代的、古老的、n.古代人
@@ -196,6 +202,8 @@
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - anniversary n.周年纪念日
+- annotate v.注释
+- annotation n.注解、注释
 - announce v.宣布、宣告、通知、声明
 - annual [ˈænjuəl] a.年度的、每年的
 - anonymous a.匿名的
@@ -265,6 +273,7 @@
 - Asia ['eɪʒə] n.亚洲
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
+- aspiration n.渴望、抱负
 - aspire v.渴望、有志
 - assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
@@ -290,6 +299,7 @@
 - asteroid [ˈæstərɔɪd] n.小行星
 - astonish v.使惊讶、震惊
 - astray 迷路的、堕落、误入歧途的、迷路
+- astronaut n.宇航员、航天员
 - astronomy n.天文学
 - asymmetric a.不对称的、不匀称的
 - asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
@@ -335,6 +345,7 @@
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
 - avail 效用、利益、有帮助、有用
 - available [əˈveɪləbl] a.可利用的、可获得的、有空的、能找到的
+- avalanche [ˈævəlɑːnʃ] n.雪崩、山崩  an avalanche of 大量的
 - avenue n.大街、大道、途径、渠道、手段
 - average a.平均的、平常的、普通的
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做

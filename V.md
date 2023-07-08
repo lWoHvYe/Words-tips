@@ -24,7 +24,7 @@
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
-- venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机
+- venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机  Venture Capital (VC)风险投资
 - venue n.地点、会场
 - verbal a.文字的、言语的、口头的、动词的
 - verbiage 用语、措辞、废话、冗余、晦涩
@@ -60,6 +60,7 @@
 - visible a.可见的、明显的、n.现实世界
 - vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、v.想象  business vision 企业愿景、经营前景
 - visor [ˈvaɪzə(r)] n.面罩、遮阳板
+- vista [ˈvɪstə] n.远景、景色、景观
 - visual [ˈvɪʒuəl] a.视力的、视觉的、看得见的、n.画面、图像
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
 - vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的

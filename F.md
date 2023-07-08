@@ -26,13 +26,15 @@
 - fantasize v.想象、幻想、白日做梦
 - far a.远的、遥远的  比较级：farther/further  最高级：farthest/furthest
 - farewell n.告别、辞行、再会
-- farm n.农场、v.饲养
+- farm n.农场、v.种田、务农、饲养、养殖
+- farmer n.农民、农场主
 - farther n.父亲、创始人、v.创立、发明
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fat [fæt] n.脂肪、a.胖的、肥胖的
 - fate n.命运、注定
 - fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
-- fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、v.发现错误
+- fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、断层、v.发现错误
+- faulty a.错误的、有缺陷的、不完美的  faulty approach 错误的方法
 - favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
 - favorable a.有利的、赞同的、讨人喜欢的、从优
 - favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
@@ -43,9 +45,9 @@
 - febrile [ˈfiːbraɪl] a.狂热的、发热的
 - federal a.联邦的、联邦制的
 - federation n.联邦、联盟、同盟 
-- fee 费用、报酬、付报酬、雇佣、聘请
-- feeble a.虚弱的、无效的、无力的
-- feed v.饲养、喂养、满足、n.饲料、肥料
+- fee n.费用、报酬、v.付报酬、雇佣、聘请
+- feeble a.虚弱的、脆弱的、无效的、无力的
+- feed v.饲养、喂养、满足、向...提供、n.饲料、肥料  feed oneself 养活自己
 - female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
 - fence n.栅栏、屏障、v.围住、隔开、搪塞、回避、击剑
 - fend v.照顾、照料、防御、保护
@@ -83,8 +85,10 @@
 - fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
 - fit n/v.安装、合身、适合、a.合适的、恰当的、健康的、突发、冲动
 - fitness n.健康、健身、适合、合情理
-- fix v.修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、n.解决方法、困境、窘境、定位
+- fix v.修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、n.解决方法、困境、窘境、定位  quick fix 权宜之计
+- fixation [fɪkˈseɪʃn] n.固着、异常依恋
 - Fixed Income & Rates 固定收益和利率
+- fixture n.固定、固定物
 - flag n.旗帜、v.标示、疲乏、变弱、热情衰减
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
@@ -139,7 +143,8 @@
 - forth ad.向前、离去
 - forthcoming a.即将到来的、即将发生的、现成
 - forthright a.直率的、直接的、直截了当的
-- fortune [ˈfɔːtʃuːn] n.财富、运气、命运、前途、v.给予财富
+- fortunate [ˈfɔːtʃənət] a.幸运的
+- fortune [ˈfɔːtʃuːn] n.财富、财产、巨款、运气、命运、前途、v.给予财富  Fortune 500 companies 《财富》五百强公司
 - forum [ˈfɔːrəm] n.论坛、研讨会、讨论会
 - forward [ˈfɔːwəd] ad.向前、进展、提前、a.前进的、向前的、前部的、未来的、将来的、v.发送、寄、转交、促进、增进  backwards and forwards 来来回回、往复
 - fossil [ˈfɒsl] n.化石、老顽固
@@ -176,7 +181,9 @@
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础
+- fur n.毛皮、软毛
 - furnish [ˈfɜːnɪʃ] v.陈设、布置、提供、供应
+- furniture [ˈfɜːnɪtʃə(r)] n.家具
 - further [ˈfɜːðə(r)] a.进一步的、更多的、附加的、ad.进一步地、v.促进、增进 far的比较级
 - furthermore ad.此外、而且、再者
 - fuse v.融合、熔化、n.保险丝、导火索

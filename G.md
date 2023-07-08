@@ -6,7 +6,7 @@
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment [ˈɡɑːmənt] n.服装、(一件)衣服、v.给...穿衣服
 - gate n.门、大门、阀门
-- gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶
+- gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
 - gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
 - gender n.性别、性
@@ -16,6 +16,7 @@
 - generic a.通用的、一般的、普通的、无商标的、n.泛型
 - generous a.慷慨的、大方的、丰盛的、大量的
 - genetic [dʒəˈnetɪk] a.遗传的、基因的、基因学的
+- Geneva [dʒɪˈniːvə] n.日内瓦
 - genital [ˈdʒenɪtl] n.外生殖器
 - genius [ˈdʒiːniəs] n.天才、天赋、创造能力、才能、本领
 - genome [ˈdʒiːnəʊm] n.基因组、染色体组

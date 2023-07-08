@@ -14,6 +14,7 @@
 - quench v.扑灭、熄灭、解渴
 - quest n/v.探索、追求
 - questionaire/questionnaire n.问卷调查、问卷、调查表
+- quick a.快的、迅速的、敏捷的
 - quickness n.机智、机敏、敏捷
 - quiescent a.静止的、静态的、休眠的
 - quintuple a.五倍的、v.变成五倍、n.五倍

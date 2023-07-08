@@ -1,7 +1,10 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
+- data n.数据
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
+- datum [ˈdeɪtəm] n.数据、资料  pl.data
+- dawn [dɔːn] n.黎明、拂晓、开端
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - dead a.死亡的、无活力的
 - deadline n.截止时间、最后期限
@@ -13,6 +16,7 @@
 - debt [det] n.债务、借款、欠款、罪、过失
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
+- deceive v.欺诈、误导
 - decent a.体面的、得体的、相称的、正派的、相当不错的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide v.决定、下决心、选定、解决、裁决
@@ -30,7 +34,7 @@
 - deduction n.演绎、推论、扣除(额)、减去(数)
 - deed n.行为、行动、契约、证书
 - deem v.认为、视为、相信
-- default 默认、违约、不履行义务
+- default n/v.默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
 - defect 缺点、缺陷、瑕疵
 - defence/defense n.防御、保护
@@ -42,8 +46,9 @@
 - define v.给...下定义、界定、明确、阐述
 - definite a.肯定的、确定的、明确的、n.肯定的人或事
 - definition n.定义、释义、解释、清晰度
-- deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
+- deficiency n.不足、缺乏、缺陷
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
+- deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
 - defy v.蔑视、违抗、反抗
 - degradation n.恶化、堕落、毁坏
 - degrade v.降低、贬低、退化、降解、分解
@@ -74,6 +79,7 @@
 - denote v.标志、预示、象征、表示、代表
 - dense a.密集的、稠密的、浓厚的
 - density n.密集、稠密、密度、浓度
+- dent n.凹陷、凹槽、v.损害、伤害、挫伤(信心、名誉等)
 - deny v.否定、否认、拒绝
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
@@ -103,11 +109,12 @@
 - desirable a.向往的、可取的、令人满意的、值得拥有的
 - desire n/v.渴望、希望、欲望、愿望
 - desist [dɪˈzɪst] v.停止、结束
+- desolate [ˈdesələt/ˈdesəleɪt] a.荒凉的、无人的
 - despair n/v.绝望、失望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的、渴望的、非常需要的、危急的、严峻的
 - despite prep.即使、尽管
 - destination n.目的地、终点
-- destiny [ˈdestəni] n.命运
+- destiny [ˈdestəni] n.命运、天数、天命
 - destroy v.破坏、毁坏、摧毁、消灭
 - destruct v.破坏、毁坏、a.破坏的
 - destruction n.摧毁、毁灭、破坏
@@ -137,7 +144,7 @@
 - dictator n.独裁者
 - dictatorship [ˌdɪkˈteɪtəʃɪp] n.专政、独裁
 - dictum [ˈdɪktəm] n.格言、名言
-- die v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失
+- die [daɪ] v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失
 - diet 日常饮食、规定饮食、节制饮食
 - difference n.差别、差异、差数、差额
 - difficult a.困难的、艰难的、麻烦的
@@ -159,7 +166,7 @@
 - direction n.方向、趋势、指点、指示
 - directive n.指示、命令、a.指示的、指导的
 - director n.导演、主管、主任、董事、理事
-- dirt n.污垢、泥土、灰尘
+- dirt n.污垢、泥土、灰尘、丑闻
 - dirty a.肮脏的、v.弄脏、玷污
 - disable v.使无效、使丧失能力
 - disability n.残疾、缺陷、障碍
@@ -185,7 +192,7 @@
 - disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
 - disgust [dɪsˈɡʌst] n/v.厌恶、反感
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
-- dismiss v.不予考虑、摒弃、消除、解雇、免职、开除
+- dismiss v.不予考虑、驳回、不予受理、摒弃、消除、解雇、免职、开除  dismiss that possibility 不考虑那种可能性
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - disparage v.贬低、轻视、批评、非难
 - disparate a.完全不同的、迥然不同的、无法比较的
@@ -201,6 +208,7 @@
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
 - disposition n.性格、性情、倾向、布置、排列、处置
+- disproportionately ad.不成比例的、不匀称、不相称
 - dispute n/v.辩论、争论、纠纷
 - disregard n/v.忽视、漠视、不顾
 - disrupt v.扰乱、打乱、中断、瓦解、击穿、使中断、a.混乱的、瓦解的、分裂的、中断的
@@ -226,6 +234,7 @@
 - dividend n.红利、股息
 - division 分开、分隔、分配、除（法）  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
+- divisor n.因子
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
 - document n.公文、文件、证件、文档、v.记录、记载
 - doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
@@ -240,6 +249,7 @@
 - dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
 - dormant a.睡着的、休眠的、蛰伏的
+- down [daʊn] 向下、停机、沮丧、失落
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
@@ -267,7 +277,7 @@
 - drill 训练、操练、演习、钻、钻头
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
-- drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示  drop out 退学、退出
+- drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示  drop out 离开、退出、退学  drop back down 放下
 - drought n.干旱、旱灾
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
@@ -283,4 +293,5 @@
 - duty [ˈdjuːti] n.责任、义务、职责、职务、税
 - dwarf n.矮子、侏儒、a.矮小的、发育不全的、v.使显得矮小、使相形见绌
 - dwell v.居住、栖身  dwelling n.住宅、住所
+- dye [daɪ] n.染料、v.染色
 - dynamic [daɪˈnæmɪk] n.动态、动力、态势、动力学、a.动态的、充满活力的、发展变化的

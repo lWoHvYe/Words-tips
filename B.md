@@ -83,13 +83,16 @@
 - blatant [ˈbleɪtnt] a.公然的、明目张胆的
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
 - bleak [bliːk] a.凄凉的、荒凉的、暗淡的、阴冷的、没有希望的  bleak economic future 暗淡的经济前景
+- bleed v.流血、放血
 - bless [bles] v.祝福、赞美
 - blind a.失明的、盲目的、v.使失明、使目眩、n.窗帘、幌子
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
+- blood n.血液
 - blow v.吹、刮、打击
 - blueprint n.蓝图
+- blunder n.愚蠢或粗心的错误、v.犯愚蠢或粗心的错误、踉踉跄跄的走  blunder into (因看不见)撞上某物、无意中陷入(困境)、偶然遇到(尴尬事)
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、变模糊
 - blurry a.模糊的
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
@@ -131,7 +134,7 @@
 - breathe 呼吸、活着、生存
 - bride n.新娘
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
-- brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要
+- brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要、简报
 - bright a.明亮的、聪明的、有希望的
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - British [ˈbrɪtɪʃ] n.英国人、a.英国的

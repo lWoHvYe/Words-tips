@@ -6,6 +6,7 @@
 - jinx 厄运、霉运、不详之人、把霉运带给、使倒霉
 - join v.加入、连接
 - joint a.共同的、联合的、共享的、n.关节、接合处
+- joke [dʒəʊk] n/v.笑话、戏弄
 - journal n.杂志、日志、报纸、刊物、期刊
 - journalism n.新闻业
 - journey n.旅行、旅程、v.旅行
@@ -16,9 +17,11 @@
 - juice n.果汁
 - junction n.连接、接合、接合点
 - junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、n.年少者、青少年、职位较低者
+- junk [dʒʌŋk] n.垃圾、v.抛弃、废弃  junk ads 垃圾广告  junk food 垃圾食品
 - jury n.陪审团
 - jurisdiction n.管辖权、管辖范围、司法权
 - just ad.只是、正好、a.公正的、合适的、恰当的、n.正直的人
 - justice n.法官、公平、公正
+- justification n.正当理由
 - justify v.证明正当、证明...正确、为...辩护、对...作出解释、整理版面
 - juvenile n.少年、a.少年的、未成年的

@@ -7,15 +7,16 @@
 - calculate [ˈkælkjuleɪt] v.计算、预测
 - calculus n.微积分、结石
 - caulk v.填、堵、n.密封剂
-- call v.呼叫、号召  call for 呼吁  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
+- call v.呼叫、号召  call for 呼吁、请求  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
 - calm 平静的、镇静的、使平静、宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
 - can modal.可以、能够、n.罐头、金属容器、密封保护外壳、一听、v.解雇、开除
+- cancel [ˈkænsl] n/v.取消、撤销、注销、约去
+- cancer [ˈkænsə(r)] n.癌症
 - canned a.罐装的、预先录制的
-- cancel [ˈkænsl] n/v.取消、撤销
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - canny a.谨慎的、精明的、狡猾的
 - canon n.原则、标准、准则
@@ -36,6 +37,7 @@
 - carbonate n.碳酸盐
 - cardinality n.基数
 - care n.照顾、照料、小心、忧虑、v.关心、关怀、在意、介意 take care of 照顾、照料、承担、处理、负责 care for 照管、关心、喜欢
+- carefree a.无忧无虑的
 - cargo n.货物
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
@@ -113,7 +115,8 @@
 - cheat n/v.欺骗、作弊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令
 - chef [ʃef] n.厨师
-- chemical [ˈkemɪkl] a.化学的、n.化学药品
+- chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
+- chemistry [ˈkemɪstri] n.化学
 - chest n.胸腔、胸部
 - chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
@@ -137,10 +140,10 @@
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
 - cite [saɪt] v.提及、引用、引证
 - citizen n.公民、居民、市民
-- civil a.公民的、国民的、民用的、文明的、有礼貌的
-- civilian [səˈvɪliən] n.平民、老百姓
+- civil [ˈsɪvl] a.公民的、国民的、民间的、民用的、文明的、有礼貌的、文职的
+- civilian [səˈvɪliən] n.平民、百姓、a.平民的、民用的
 - civilization n.文明、社会文明、文明世界
-- civilize v.教化、开化、使文明、使有教养
+- civilize [ˈsɪvəlaɪz] v.教化、开化、使文明、使有教养
 - claim [kleɪm] v/n宣称、声明、索赔、索要、所有权
 - claimant n.索赔人、要求者、领取救济金者
 - clarify v.澄清、阐明
@@ -165,6 +168,7 @@
 - closet n.壁橱、密室、a.私下的、隐蔽的、v.把...引进密室会谈
 - closure n.结束、停业、关闭、倒闭、闭合、闭包、v.使结束、使终止
 - clue n.线索、提示、v.提示
+- clumsy [ˈklʌmzi] a.笨拙的、不灵活的
 - cluster n.群、丛、簇
 - coach [kəʊtʃ] n.教练
 - coal [kəʊl] n.煤
@@ -184,6 +188,7 @@
 - cognitive a.认知的、认识的、感知的
 - cognize v.认识、认知
 - coherence n.连贯性、条理性
+- coherent a.连贯的、有条理的、有黏性的
 - cohesive a.有结合力的、紧密结合的、结成一个整体的
 - coin n.硬币、v.创造(新词语)、铸(币)
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
@@ -376,11 +381,12 @@
 - contributory a.促成的、促进的、起作用的
 - controversial a.有争议的、引起争议的
 - controversy n.争论、辩论、争议
+- controvert v.反驳、驳斥
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
 - convenient a.实用的、便利的、方便的、附近的
 - convention n.会议、惯例、习俗、规矩、公约
 - conventional a.传统的、习惯的
-- converge v.会聚、聚集、相交、会和
+- converge [kənˈvɜːdʒ] v.会聚、聚集、相交、会和、十分相似、相同
 - conversation n.会话、交流、交谈
 - converse v.谈话、交谈、a.相反的、颠倒的
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
@@ -406,8 +412,10 @@
 - correlate v.相互关联、(使)相关、n.相关的事物、相关联的人
 - correlation n.相关性、相关、关联、相互关系
 - correspond v.顺应、契合、符合、一致、通信
-- corrupt v.腐败、贪污、破坏、损坏、a.贪污的、受贿的、腐败的
+- corrupt v.腐败、贪污、破坏、损坏、a.贪污的、受贿的、腐败的、不诚实的、不道德的
 - corruption [kəˈrʌpʃn] n.腐败、贪污、贿赂、受贿
+- cos [kəz] conj.因为、abbr.余弦
+- cosine [ˈkəʊsaɪn] n.余弦
 - cosmos [ˈkɒzmɒs] n.宇宙
 - cost n.费用、花费、代价、成本、v.花费、估计成本
 - costly a.昂贵的、代价高的、豪华的
@@ -417,7 +425,7 @@
 - counseling n.咨询服务
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
-- counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一
+- counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一  over-the-counter (OTC) 非处方
 - counterpart n.对应方、职位相当的人
 - counterparty n.对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、夫妻、情侣、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对  the next couple of days 接下来的几天
@@ -425,6 +433,7 @@
 - courage n.勇气
 - course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
 - court n.法院、法庭、王宫、宫殿、王室成员、v.试图取悦、讨好、求爱、求婚、恋爱
+- cousin [ˈkʌzn] n.堂兄弟、表姐妹、远房亲戚
 - covenant [ˈkʌvənənt] n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、报道、给...上保险、n.封面、掩护、覆盖物、避难所
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
@@ -433,9 +442,11 @@
 - crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的
 - crave v.渴望、热望、恳求
 - crawl v.爬行
+- crazy [ˈkreɪzi] a.疯狂的、狂热的、发疯的
 - cream n.奶油、乳霜、a.奶油色的、米色的
 - crease n.折痕、褶痕、v.弄皱、压褶
 - create [kriˈeɪt] v.创建、创造、创作、引起、产生、授予、册封
+- creature n.造物、生物
 - credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度
@@ -452,7 +463,7 @@
 - criticism [ˈkrɪtɪsɪzəm] n.批评、批判、评论文章、评论
 - criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
 - cron n.时间单位，等于百万年
-- crop n.庄稼、作物
+- crop n.庄稼、作物、(谷类等的)一熟、一季收获(量)、v.有收成、种地  crop up 出现、发生
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - cross-cutting 跨部门、跨领域
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
@@ -473,6 +484,7 @@
 - cultivate v.培养、培育、种植、栽培、逐渐形成、建立(友谊)、结交(朋友)
 - culture 文化、文明、培养
 - cumber n.拖累、妨害、v.阻碍、妨害、使受苦
+- cumulative [ˈkjuːmjələtɪv] a.累积的、累计的
 - cunning a.狡猾的、奸诈的、灵巧的、n.狡猾、狡黠 [jiǎo xiá]、诡诈
 - curative a.治愈的、有疗效的、n.医药
 - curb v.遏制、限制、抑制、束缚
@@ -496,5 +508,6 @@
 - cyber a.计算机(网络)的、信息技术的
 - cyberspace n.网络空间、赛博空间
 - cycle n.周期、循环、v.循环、轮转、骑自行车
+- cyclomatic complexity 圈复杂度、秩复杂度
 - cylinder n.圆柱、气缸
 - czar n.沙皇

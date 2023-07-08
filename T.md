@@ -1,6 +1,6 @@
 - tablet [ˈtæblət] n.药片、平板电脑
 - tack n.方法、方针、思路、v.钉住、附加、增补
-- tackle v.解决、应付、处理、与某人交涉
+- tackle v.解决、应付、处理、与某人交涉、n.用具、器械、滑车
 - tactic n.策略、手段、战术、a.排列的、顺序的
 - tactical a.战术的、策略上的、巧妙设计的、有谋略的
 - tail 尾、尾巴、尾部、后部、燕尾服、尾随者、硬币反面、硬币文面、跟踪、尾随、盯梢、限定继承的
@@ -76,6 +76,7 @@
 - theoretical a.理论的、理论上的
 - theory n.理论、原理、学说、推测
 - therapeutic [ˌθerəˈpjuːtɪk] a.治疗的、有助治疗的、有疗效的
+- therapy [ˈθerəpi] n.治疗、疗法
 - therefor 为此、由于这样、因此
 - therefore 因此、所以、故、乃
 - thereof ad.其、它的、由此
@@ -116,6 +117,7 @@
 - tire n.轮胎、头饰、v.疲劳、疲倦
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
+- tobacco [təˈbækəʊ] n.烟草
 - toddle v.蹒跚行走
 - toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
@@ -125,6 +127,7 @@
 - tombstone n.墓碑、墓石
 - tone n.语气、语调、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
 - tongue n.舌头
+- tool [tuːl] n.工具  high-technology tools and techniques 高科技工具和技术  an underrated tool 被低估的工具
 - toolkit n.工具包、工具箱
 - top up 充值
 - topic n.话题、主题、题目
@@ -171,7 +174,7 @@
 - traverse 穿过、横贯、横切、横过、横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
 - treasury n.财政部
-- treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作
+- treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
 - treatment n.治疗、诊治  medical treatment 医疗
 - trek n.徒步旅行、长途跋涉
 - tremble n/v.颤抖

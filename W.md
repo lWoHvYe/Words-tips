@@ -9,7 +9,7 @@
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
 - want v.想要、需要、n.缺乏、不足
-- war [wɔː(r)] n.战争
+- war [wɔː(r)] n.战争  War and Navy Departments 陆军和海军部
 - ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
 - warden n.管理人、看守人、监护人、学院院长、协会会长
 - wardrobe [ˈwɔːdrəʊb] n.衣橱
@@ -27,6 +27,7 @@
 - weave v.编织、编造
 - web n.网、网络、v.在...上织网、用网缠住
 - weigh [weɪ] v.权衡、称重
+- weight n.重量、分量、砝码
 - weld v.焊接、n.焊接点
 - welfare n.福利、幸福
 - wellbeing n.健康、幸福
@@ -37,6 +38,9 @@
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
 - whilst conj/ad.同时、直到、虽然、尽管
 - whip n.鞭子、v.鞭打、鞭策、搅打(奶油、鸡蛋)
+- whish n.呼呼声
+- whisk n/v.搅拌
+- whiskey n.威士忌酒
 - white n.白色、a.白色的、v.使变白
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
@@ -68,7 +72,7 @@
 - workaround n.应变方法、变通方法
 - workforce 劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
-- worse ad.更坏、更糟、a.更坏的、恶化的、严重的
+- worse ad.更坏、更糟、a.更坏的、恶化的、严重的  sb could do worse than doSth 不如、不妨
 - worship [ˈwɜːʃɪp] n/v.崇拜、崇敬、敬奉  blind worship 盲目崇拜
 - worshipper n.礼拜者、参拜者 
 - worth a.值得的、有...价值、n.价值、财富、财产

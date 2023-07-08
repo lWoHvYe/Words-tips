@@ -55,7 +55,7 @@
 - maternal a.母亲的、母系的  maternal leave 产假、育婴假
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
-- matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响
+- matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响  a matter of ...的问题，大约、左右
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
@@ -76,7 +76,7 @@
 - medicine [ˈmedsn] n.医学、药物
 - medieval [ˌmediˈiːvl] a.中世纪、中世纪的(约公元1000到1450年)
 - meditative a.沉思的
-- medium a.中等的、中间的、适中的、n.媒介、手段、工具、方法、介质 复数:media  cooling medium 冷却介质  mass media 大众传媒 owned media 自媒体 earned media 媒体
+- medium [ˈmiːdiəm] a.中等的、中间的、适中的、n.媒介、手段、工具、方法、介质 复数:media  cooling medium 冷却介质  mass media 大众传媒 owned media 自媒体 earned media 媒体
 - meet v.满足、遇见、相遇、会面、会晤
 - mega a.巨大的、宏大的 = huge = great
 - megabit n.兆位 MB
@@ -91,6 +91,7 @@
 - mental a.思想的、内心的、心理的、智慧的、n.精神病  mental labor 脑力劳动
 - mention n/v.提到、提及、说起
 - mentor 导师、顾问、指导
+- mercenary [ˈmɜːsənəri] n.雇佣兵、a.唯利是图
 - merchandise v.销售、买卖、n.商品、货物
 - merchant n.商人
 - mercury n.汞、水银  Mercury 水星
@@ -115,6 +116,7 @@
 - metropolis [məˈtrɒpəlɪs] n.大城市、大都会、首都、首府
 - metropolitan a.大城市的、大都会的  a large metropolitan area 一座大都市
 - microphone [ˈmaɪkrəfəʊn] n.话筒
+- middleman n.中间人、中间商
 - middleware n.中间件
 - midst n.中间、当中、prep.在...中、在...期间、在...时候、在...期间
 - might modal-v.may的过去式、可能、也许、可以、n.力量、权势、可能性
@@ -162,12 +164,14 @@
 - moderate a.中等的、适度的、温和的、稳健的、v.缓和、使适中、主持
 - modern a.现代的、当代的、近代的、新式的、n.现代人、现代字体
 - modest a.谦虚的、谦逊的、适度的、适中的、些许的、朴素的、普通的
-- modify v.修改、修饰、改变
+- modification n.修改、修正、改良、改变  genetic modification 基因改变
+- modify v.修改、改变、[语法]修饰、限定
 - module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
 - moist a.潮湿的、湿润的
 - moisture n.潮湿、水分
 - moisturize v.给...增加水分、滋润
+- molecular [məˈlekjələ(r)] a.分子的  molecular structure 分子结构
 - molecule [ˈmɒlɪkjuːl] n.分子
 - moment n.片刻、时机、瞬间
 - momentum [məˈmentəm] n.动力、势头、动量
@@ -212,7 +216,8 @@
 - mutate v.变异、突变、转变、转换
 - multicast 多播、多点传送
 - multilateral a.多方面的、多国的、多边的
-- multiply 乘、相乘、复合地、多样地、多股的、多层的
+- multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的
+- multiply v.乘、相乘、ad.复合地、多样地、a.多股的、多层的
 - multiplier n.乘数、倍数
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - murmur n/v.小声说话

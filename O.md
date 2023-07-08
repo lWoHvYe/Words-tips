@@ -24,7 +24,7 @@
 - ocean n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
-- off v.离开、关闭、去掉
+- off v.离开、关闭、去掉  off plan 计划外的、期房(building)
 - offence n.犯罪、罪行、冒犯
 - offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
@@ -67,7 +67,8 @@
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标
 - organ [ˈɔːɡən] n.器官、风琴
-- orient [ˈɔːrient] 朝向、面对、适应、使适应、熟悉、东方、亚洲、东方的、上升的、新生的
+- orient [ˈɔːrient] v.朝向、面对、适应、使适应、熟悉、n.东方、亚洲、a.东方的、上升的、新生的
+- oriental [ˌɔːriˈentl] a.东方的、东亚的(尤指中国和日本)
 - orientation 方向、目标、定位、态度、观点、培训
 - origin n.起源、由来、出身、来历、原点
 - original a.原始的、最初的、独创的、新颖的、n.原件、原文、不同寻常的人、怪人
@@ -91,6 +92,7 @@
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - outward a.表面的、外表的、外出的、向外的
+- outweigh v.超过、大于、胜于、比...更有价值
 - overall [ˌəʊvərˈɔːl , ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overcome v.战胜、克服、解决
 - overdraft n.(钱)透支、透支额
@@ -110,6 +112,7 @@
 - oversight n.疏忽、失察、负责、照管
 - overtime n.加班
 - overturn v.颠覆、使垮台、推翻、撤销(判决)
+- overweight a.超重的、肥胖的
 - overwhelm v.压倒、淹没、压垮、征服、难以承受
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的、(数量)巨大的
 - owe [əʊ] v.欠(债)、归功于、归因于

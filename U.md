@@ -30,11 +30,12 @@
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
 - unilateral [ˌjuːnɪˈlætrəl] a.片面的、单方的
-- union n.同盟、联盟、联邦、协会、工会
+- union [ˈjuːniən] n.同盟、联盟、联邦、协会、工会
 - unit n.单元、单位、机构
 - unite [juˈnaɪt] v.团结、合并、统一
 - universal a.普遍的、通用的
 - universe n.宇宙、领域
+- university [ˌjuːnɪˈvɜːsəti] n.大学、高等学府
 - unleash v.发泄、解除...的束缚
 - unlike prep.不像、与...不同
 - unlikely a.不太可能的、未必的

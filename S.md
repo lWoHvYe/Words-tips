@@ -33,6 +33,8 @@
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
 - scenario n.方案、设想、场景、脚本
+- scene n.场景、地点、现场、景色、一场
+- scenery [ˈsiːnəri] n.风景、风光、景色、舞台布景
 - sceptical [ˈskeptɪkl] a.怀疑的
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
 - scheme n.方案、计划、v.策划、密谋
@@ -64,8 +66,8 @@
 - section n.部分、部门、部件、v.切开、切断、切片
 - sectional 某群体的、断面的、某阶层的、局部的、部分的
 - sector n.部门、领域、行业
-- secure v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
-- security n.安全、担保、保护措施、保证、抵押品、股票、证券、a.安全的、保密的
+- secure [sɪˈkjʊə(r)] v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
+- security [sɪˈkjʊərəti] n.安全、担保、保护措施、保证、抵押品、股票、证券、a.安全的、保密的
 - securitization 证券化
 - seek v.寻找、探求、追求、谋求 sought(过去式及过去分词)
 - seem v.似乎、好像
@@ -94,6 +96,7 @@
 - separate v.分开、分离、a.分开的、单独的、不相关的
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
+- sequential a.顺序的、按次序的
 - sera [ˈsɪərə] n.血清、血浆
 - serial a.连续的、连载的
 - serialize 连载、连播
@@ -159,7 +162,7 @@
 - signify v.代表、象征、表示
 - silence 沉默、无声、寂静、失去联系、使安静、压制、安静、静下来
 - silica [ˈsɪlɪkə] n.二氧化硅
-- silicon 硅  Silicon Valley 硅谷
+- silicon [ˈsɪlɪkən] n.硅  Silicon Valley 硅谷
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
 - silver n.银、银币、银器、银色、a.银色的、v.镀银
 - similar [ˈsɪmələr] a.相似的、相仿的、相像的、n.相似物、类似物
@@ -168,6 +171,9 @@
 - simplify v.简化、精简
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
+- sin [sɪn] n/v.罪、犯罪、罪过、abbr.正弦
+- sine [saɪn] n.正弦
+- singleton [ˈsɪŋɡltən] n.单项物
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - sip v.小口喝、抿、n.一小口的量
@@ -221,6 +227,8 @@
 - sober a.冷静的、头脑清醒的、v.变得冷静
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
+- soft a.柔和的、柔软的、无酒精的、不严厉的
+- software n.软件
 - solar [ˈsəʊlə(r)] a.太阳的、日光的、利用太阳能的、太阳能的、n.日光浴室
 - solder n.焊料、v.焊接、焊合
 - soldier [ˈsəʊldʒə(r)] n.士兵
@@ -234,6 +242,7 @@
 - sombre/somber a.忧郁的、昏暗的、阴沉的
 - somehow ad.以某种方式
 - somewhat ad.有点、稍微、有几分
+- sonata [səˈnɑːtə] n.奏鸣曲
 - sophistical a.诡辩的、强词夺理的
 - sophisticate n.老练的人、见多识广的人
 - sort n.分类、排序、种类、类别、v.分类、整理
@@ -299,6 +308,7 @@
 - squad [skwɒd] n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
 - squeeze v.榨取、挤压、消减、紧缩、n.榨取、挤压、困境
+- squid n.鱿鱼
 - stab n/v.刺、戳
 - stable a.稳定的、牢固的、稳固的、n.马厩、养马场
 - stability n.稳定性、稳定、稳固、安定
@@ -374,14 +384,14 @@
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
 - strip n.带、v.剥去、除去、剥夺、跳闸
 - stripe n.条纹、线条
-- strive 努力、力争、力求
+- strive v.努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
-- structrue n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列
+- structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列
 - struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
 - stub n.存根、票根
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
 - stun [stʌn] v.使昏迷、打晕、使震惊
-- stupid 愚蠢的、迟钝的、笨蛋
+- stupid a.愚蠢的、迟钝的、n.笨蛋
 - subconscious a.下意识的、潜意识的
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
@@ -419,7 +429,7 @@
 - sudden a.突然的、忽然的
 - suffer [ˈsʌfə(r)] v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
-- sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足
+- sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足  sufficient labor force 劳动力充足  sufficient condition 充分条件
 - suffix n.后缀
 - sugar [ˈʃʊɡə(r)] n.糖、v.加糖
 - suggest v.建议、暗示、表明、启示
@@ -437,6 +447,7 @@
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
 - supermarket n.超市
 - supersede v.取代、替代
+- supersonic a.超音速的
 - superstition n.迷信
 - supervise v.监督、管理、指导
 - supervision n.监管

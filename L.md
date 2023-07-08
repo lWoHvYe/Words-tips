@@ -58,7 +58,7 @@
 - letter n.信、函、字母
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
 - lever n.操纵杆、杠杆、v.撬动
-- leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购     leverage...to... 利用...来...
+- leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购  leverage...to... 利用...来...  Leverage Buyout (LBO)杠杆收购
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
 - lexical [ˈleksɪkl] a.词汇的
 - liability n.责任、债务、负债、债务
@@ -73,6 +73,7 @@
 - lifespan 寿命、存在期、使用期、有效期
 - lift 举起、抬起、提升、鼓舞、电梯、升降机
 - light n.光、发光体、点火器、a.轻的、明亮的、浅色的、少量的、v.点燃、照亮、ad.轻地、清楚地  过去式及过去分词:lit  come to light 为人所知、暴露
+- lightning n/v.闪电、雷电
 - likelihood [ˈlaɪklihʊd] n.可能性、可能
 - likewise [ˈlaɪkwaɪz] ad.同样地、也、亦、又
 - lime n.石灰、酸橙、v.加石灰、撒石灰
@@ -110,7 +111,8 @@
 - loop 环、环形、回路
 - loose 松的、释放
 - lord n.主、上帝
-- loss n.丧失、损失、亏损 take a loss 亏损
+- lose [luːz] v.遗失、失去、丧失、浪费(时间)、(钟表)走慢  lose weight 减肥
+- loss [lɒs] n.丧失、损失、亏损 take a loss 亏损  weight loss 减重
 - lot pron.大量、许多、n.全体、全部、命运、v.分组、划分(+ out)
 - lotion [ˈləʊʃn] n.护肤液、润肤乳、乳液
 - lottery n.抽奖、彩票
@@ -120,6 +122,7 @@
 - loyal 忠诚的、忠实的、忠心的
 - loyalty n.忠心、忠诚  loyalty card 积分卡
 - lucrative a.获利多的、赚大钱的、合算的
+- lumber n.木材
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
 - lunar a.月亮的、月球的 Lunar New Year 农历新年
 - lunch n.午餐

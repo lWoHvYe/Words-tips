@@ -1,14 +1,18 @@
 - pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏  at ... pace 以...速度
 - pacify v.安抚、平息、使平静
-- pack n.包裹、v.打包
+- pack n.包裹、一群、一副、v.打包、塞满  be packed with 塞满
+- package n.包裹、包装袋、软件包、a.一揽子的  package deal 一揽子协议
+- packet n.小包裹、信息包、小硬纸板盒  pay packets 工资袋、所得工资
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - painful [ˈpeɪnfl] a.痛苦的
 - palace [ˈpæləs] n.王宫、宫殿
+- palm [pɑːm] n.手掌、棕榈(zonglv)树
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
 - panic n/v.惊恐、恐慌
-- panorama [ˌpænəˈrɑːmə] n.全景、全景画
+- panorama [ˌpænəˈrɑːmə] n.全景、全景画、全景摄影  panorama of English society 英国社会的全景
+- pantry n.储藏室
 - paper n.纸张、资料、文件、文献、论文、报纸、试卷
 - parachute n.降落伞、保护伞、v.空降、空投
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
@@ -19,6 +23,7 @@
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
 - paraphrase [ˈpærəfreɪz] n/v.解释、释义、译意
+- parcel n.小包、包裹、v.打包  parcel out 分配、分享  part and parcel of ...的内容、...的必要部分
 - pare v.削减、削皮、逐步减少
 - parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
@@ -98,28 +103,30 @@
 - pertain v.存在、适用
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
-- pessimistic [ˌpesɪˈmɪstɪk] a.悲观的
+- pessimistic [ˌpesɪˈmɪstɪk] a.悲观的、悲观主义的  pessimistic view 悲观的看法
 - petrol n.汽油
-- phantom n.幻影、幻像、幽灵、幻觉
+- phantom [ˈfæntəm] n.幻影、幻像、幽灵、幻觉
 - pharmaceutical [ˌfɑːməˈsuːtɪkl] a.制药的、药物的
 - pharmacy [ˈfɑːməsi] n.药房
-- phase [feɪz] n.阶段、时期、相、相位、v.分阶段做、逐步做
+- phase [feɪz] n.阶段、时期、相、相位、方面、v.分阶段做、逐步做  in all phases of life 终身
 - phenomenon [fəˈnɒmɪnən] n.现象、事件、奇迹、非凡的人  phenomenona(复数)
 - philanthropic [ˌfɪlənˈθrɒpɪk] a.博爱的、慈善的
 - philosophy [fəˈlɒsəfi] n.哲学
+- phishing [ˈfɪʃɪŋ] n.网络钓鱼
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - photograph n.照片、v.拍照
 - phrase [freɪz] n.短语、习语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
 - physician n.医生、内科医生
 - physicist n.物理学家
-- physics n.物理
+- physics [ˈfɪzɪks] n.物理
 - physiology n.生理学
+- piano n.钢琴
 - pick v.采、摘、挑选  pick up 拿起、捡起、获得、学会、逮捕
 - pickup n.改善、改进、好转、皮卡、a.临时拼凑的
 - picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
 - pie [paɪ] n.馅饼、派
-- piece [piːs] 块、片、段、修补、连接
+- piece [piːs] n.块、片、段、v.修补、连接  a piece of 一块、一段、一张、一件
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
 - pillar n.支柱、v.成为...的栋梁
@@ -151,6 +158,7 @@
 - please int.请、v.使满意、使高兴、(as/what/where...)想、喜欢  do as you please 请便
 - pleasure n.高兴、愉快、有幸、荣幸、意愿、愿望、v.使高兴、使满意
 - pledge n.保证、誓言、抵押品、抵押(证券)、v.保证、使发誓、抵押、典当、质押
+- plentiful a.大量的、丰富的、充足的
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
 - plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
 - plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传
@@ -202,6 +210,7 @@
 - postpone [pəˈspəʊn] v.推迟、延期、延迟
 - postscript n.附言、后记
 - posture [ˈpɒstʃə(r)] n.姿势、态度、看法、立场、v.故作姿态、装模作样
+- potash [ˈpɒtæʃ] n.钾碱、钾肥
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
 - pound n. £ 英镑、v.砰砰的跳、反复击打、捣碎
 - pour 倾、倾泻、涌出、大雨、浇筑
@@ -287,6 +296,7 @@
 - prize n.奖、奖品、奖项、v.珍视、珍惜、估价、a.获奖的、有望获奖的
 - proactive a.积极的、主动的
 - proactivity n.积极性、主动性
+- probabilistic a.基于概率的
 - probability [ˌprɒbəˈbɪləti] n.可能性、几率、概率、可能的结果
 - probable [ˈprɒbəbl] a.可能的、大概的、n.很可能的事、可能入选者
 - probably [ˈprɒbəbli] ad.大概、也许
@@ -295,10 +305,11 @@
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - proceedings n.行动、事件、诉讼、公报
-- process n.过程、流程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - prod n/v.戳、催促、鼓动、提醒
 - produce n/v.生产、制造
 - product n.产品、乘积
+- productivity n.生产率、生产效率
 - profess [prəˈfes] v.宣称、声称、信奉
 - profession n.职业、行业、同行、宣称、声明、表白
 - professional a.职业的、专业的、n.专业人士、专家
@@ -334,6 +345,7 @@
 - propel v.推进、推动
 - propellor n.螺旋桨
 - proportion [prəˈpɔːʃn] n.比率、比例、面积、相称、平衡、v.分配、使成比例
+- proportionate a.成比例的、相称的
 - proposal n.提议、建议、求婚、投标
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
@@ -350,7 +362,9 @@
 - protrude [prəˈtruːd] v.突出、伸出、鼓出
 - proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是
+- provide v.提供、供应、给予、规定
 - provided conj.假如、如果、在...条件下
+- providing conj.假如、如果、只要
 - province n.省份、范围、领域、职责范围
 - provision n.规定、条款、提供、饮食供应、供应品
 - provocate v.激怒、刺激、挑衅
@@ -375,7 +389,7 @@
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图
 - purse [pɜːrs] n.钱包、资金、奖金
 - pursue v.追求、奉行、推行、致力于、贯彻
-- pursuit n.追求、追赶
+- pursuit [pəˈsjuːt] n.追求、追赶、工作、职业、事务  pursuit of new career goals 追求新的职业目标  in hot pursuit 穷追
 - push v.推、推动、促使  push for 急切、强烈的要求
 - puss n.咪咪、猫咪
 - put v.放、安置、说、表达、给予  sb would put it 是某人会说的  put up 建造、设立、张贴、提供、提名...为候选人

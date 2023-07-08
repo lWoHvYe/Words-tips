@@ -7,6 +7,7 @@
 - nasty a.肮脏的、恶劣的、恶意的、讨厌的、危险的、严重的
 - nation n.国家、民族、国民
 - nature n.自然、天性、本性
+- naval a.海军的  naval stores 松脂制品
 - naviagte 驾驶、航行于、导航、航行、找到正确方法
 - navy [ˈneɪvi] n.海军
 - neat [niːt] a.整洁的、整齐的、灵巧的
@@ -19,6 +20,7 @@
 - neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视、遗漏
 - negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职
 - negligible 微不足道的、可忽略不计的、不重要的、无足轻重的、不值一提的
+- negotiable [nɪˈɡəʊʃiəbl] a.可转让的、可流通的、可兑现的
 - negotiate [nɪˈɡəʊʃieɪt] v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的
@@ -44,6 +46,7 @@
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - noodle n.面条、v.演奏
 - noop 无操作、空操作
+- nope int.不、没有、不行
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、师范的、n.标准、正常、常态、法线
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
