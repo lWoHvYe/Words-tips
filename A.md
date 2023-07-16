@@ -3,9 +3,11 @@
 - abdicate [ˈæbdɪkeɪt] v.放弃、退位
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
+- aboard ad/prep.在船上、上船或飞机
+- abolish [əˈbɒlɪʃ] v.废除、废止  abolish slavery 废除奴隶制
 - abort n/v.中止、退出、夭折
 - abound [əˈbaʊnd] v.大量、大量存在、有许多
-- abroad n.国外、海外、ad.到国外、在国外
+- abroad n.国外、海外、ad.到国外、在国外、广为流传  go abroad 出国
 - abrupt a.陡峭的、突然的、唐突的、生硬的、不连贯的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
 - absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
@@ -42,7 +44,7 @@
 - account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
-- accumulate v.积累、堆积
+- accumulate [əˈkjuːmjəleɪt] v.积累、堆积
 - accuracy n.精确(程度)、准确(性)
 - accurate a.精确的、准确的、正确无误的
 - accustom v.使习惯、使适应
@@ -131,8 +133,11 @@
 - aggression n.侵略
 - aggressor n.侵略者
 - agnostic 不可知论者、不可知论的
+- agree v.同意、赞成、应允、答应
+- agreement n.同意、协定、协议
 - agriculture [ˈæɡrɪkʌltʃər] n.农业
-- aid n/v.援助、帮助、救助
+- aid [eɪd] n/v.援助、帮助、救助、辅助  financial aid 财政援助  bandaid 邦迪、创可贴
+- aide [eɪd] n.助手
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
@@ -217,7 +222,8 @@
 - anyway ad.无论如何                                      
 - apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
 - apartment n.公寓
-- apology n.道歉、致歉
+- apologize/apologise [əˈpɒlədʒaɪz] v.道歉、谢罪
+- apology [əˈpɒlədʒi] n.道歉、致歉、辩解  sincere apology 真诚的道歉  make an apology 道歉  in apology for 为...辩解
 - apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
 - appeal n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
@@ -231,7 +237,7 @@
 - application n.请求、申请、应用、涂抹、施用、应用程序
 - apply v.申请、应用、运用、适用、适合、涂、敷  apply to 适用于、运用  apply for 申请
 - appoint v.任命、委派、安排、约定、确定
-- appointment n.任命、约会、职务、职位
+- appointment n.任命、委派、约会、约定、职务、职位
 - apportion v.分配、分摊、分派
 - appraisal n.评价、估价、鉴定
 - appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
@@ -256,7 +262,7 @@
 - arity n.(参数)数量、元数
 - arm n.手臂、袖子、武器、装备、v.武装、给...装上引信、打开...的保险
 - army n.军队、陆军、野战军
-- arouse v.引起、唤起、激起、激发
+- arouse [əˈraʊz] v.引起、唤起、激起、激发、唤醒
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
@@ -355,7 +361,7 @@
 - aviator n.飞行员
 - await v.等待、期盼、即将发生
 - awake v.唤醒、醒来、唤起、a.醒着的、警觉的
-- award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、判给  an annual pay award 年度加薪
+- award n.奖品、奖项、(收入的)增加、(赔偿)裁决、v.授予、奖励、颁发、判给  an annual pay award 年度加薪
 - aware a.意识到的、知道的、察觉的
 - awareness n.察觉、意识、认知
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的

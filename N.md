@@ -39,11 +39,13 @@
 - nimbus n.雨云、光环
 - nitrogen [ˈnaɪtrədʒən] n.氮、氮气
 - NLP 自然语言处理(Natural Language Processing)
+- no [nəʊ/nəʊz] ad.不、否认、一点也没有、n.不、没有、否定
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
 - nominate v.提名、推荐、任命、指派、指定
 - nonetheless [ˌnʌnðəˈles] ad.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
+- nonverbal a.不用言辞表达的
 - noodle n.面条、v.演奏
 - noop 无操作、空操作
 - nope int.不、没有、不行

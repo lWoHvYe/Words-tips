@@ -1,6 +1,9 @@
-- vacant 空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
+- vacant a.空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
 - vacation n.假期、休假、v.度假
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
+- vacuum [ˈvækjuːm] n.真空
+- vague [veɪɡ] a.不明确的、含糊的、不详细的
+- vain [veɪn] a.徒劳的、无结果的、枉然的、自负的
 - valentine 情人
 - valid [ˈvælɪd] a.有效的、合理的、确凿的    invalid 无效的
 - validate v.验证、证实、使生效、批准、确认
@@ -9,6 +12,7 @@
 - valuation n.估价、估值、评估、评价
 - value n.价值、价格、用途、v.重视、珍视、给...估价
 - van n.面包车、先驱、前驱、领袖
+- vanish [ˈvænɪʃ] v.消失、灭绝、突然不见
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
@@ -27,6 +31,7 @@
 - venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机  Venture Capital (VC)风险投资
 - venue n.地点、会场
 - verbal a.文字的、言语的、口头的、动词的
+- verbalize v.用言语表达
 - verbiage 用语、措辞、废话、冗余、晦涩
 - verbose a.冗长的、啰嗦的、唠叨的
 - verdict n.裁定、判决
@@ -51,7 +56,7 @@
 - violation n.违反、违章、侵犯
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
-- viral a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
+- viral [ˈvaɪrəl] a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
 - virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实
 - virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
@@ -70,11 +75,13 @@
 - vocal a.声音的、嗓音的、畅所欲言的、直言不讳的、n.声乐节目
 - vocation n.职业、工作、使命
 - vocational a.职业的  vocational school 职业学校  vocational education 职业教育
+- vogue n.时尚、流行
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众
 - volume [ˈvɒljuːm] n.体积、容积、容量
 - voluntary a.自愿的、志愿的、无偿的
+- volunteer n.志愿者、志愿兵、v.自愿做
 - vote n/v.投票、表决
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

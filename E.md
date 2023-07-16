@@ -45,7 +45,7 @@
 - elite [eɪˈliːt] n.精英、上层集团、a.精英的、精锐的
 - ellipse [ɪˈlɪps] n.椭圆
 - ellipses n.省略号 ...
-- embark v.开始、上船、装船
+- embark v.开始、着手、从事、上船、装船
 - embarrass v.窘迫、尴尬、局促不安
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
@@ -79,7 +79,7 @@
 - encourage v.支持、鼓励、促进、激励、劝告、怂恿
 - end 末尾、结束、目的、意图
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
-- endeavor [ɪnˈdɛvə] n/v 努力、尽力
+- endeavo(u)r [ɪnˈdɛvə] n/v 努力、尽力、力图
 - endue v.授予、赋予
 - endure v.忍受、忍耐、持续、持久
 - energetic a.有活力的、精力充沛的
@@ -184,6 +184,7 @@
 - evolution n.发展、进化、演变  biological evolution 生物进化
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
+- exaggerate [ɪɡˈzædʒəreɪt] v.夸大、夸张
 - exam [ɪɡˈzæm] n.考试、测验、检查、体检
 - examine v.检查、审查、考察、调查、考试、审问
 - excavate [ˈekskəveɪt] v.挖掘、开凿
@@ -204,13 +205,14 @@
 - exclude v.排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
 - exclusion 拒绝、杜绝、排除、驱逐
 - exclusive a.独家的、专用的、高级的、独有的、独占的、排外的、排斥的、n.独家新闻
+- excuse [ɪkˈskjuːs/ɪkˈskjuːz] n.借口、原谅、v.为...辩解、原谅  excuse me 对不起
 - execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
 - execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
 - exemplary a.模范的、典范的、惩戒性的
 - exempt v.免除、豁免
 - exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
-- exert v.发挥、运用、施加
+- exert [ɪɡˈzɜːt] v.发挥、运用、施加
 - exfiltrate 渗出、渗漏、滤出、流出
 - exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
 - exhaustion n.耗尽、精疲力尽、疲惫、枯竭

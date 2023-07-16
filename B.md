@@ -6,7 +6,7 @@
 - backload v.(签订协议后)增加费用
 - bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
 - bacterium/bacteria(复数) n.细菌
-- bad a.坏的、令人不快的、错误的
+- bad a.坏的、令人不快的、错误的  my bad 我的错
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
@@ -28,8 +28,10 @@
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
 - basic a.基本的、初步的、必须的
 - basis n.基础、根据、原因、缘由
+- batch n.批、批量、v.分批处理
 - battery n.电池、蓄电池、一组、一套
 - battle n/v.战争、斗争
+- be v.是、有  三单:is 现在分词:being 过去式:was were(pl/第二人称) is->was are->were 过去分词:bean
 - beach n.海滩、沙滩、v.上岸
 - beacon [ˈbiːkən] n.信标
 - beam n.光波、波束、v.发射、射出、笑容满面
@@ -60,7 +62,7 @@
 - bewitch v.蛊惑、迷惑、使中魔法
 - beyond 超过、超出、那一边、在远处
 - bias n.偏见、偏心、偏向、v.使偏向、使有偏见、a.斜的、偏动的
-- bid [bɪd] n/v.投标、出价
+- bid [bɪd] n/v.投标、出价、命令、吩咐  make bids for 努力争取
 - bidirectional a.双向的
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
@@ -90,10 +92,11 @@
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
 - blood n.血液
-- blow v.吹、刮、打击
+- blow v.吹、刮、打击  
+- blower n.吹风机
 - blueprint n.蓝图
 - blunder n.愚蠢或粗心的错误、v.犯愚蠢或粗心的错误、踉踉跄跄的走  blunder into (因看不见)撞上某物、无意中陷入(困境)、偶然遇到(尴尬事)
-- blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、变模糊
+- blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、玷污、变模糊
 - blurry a.模糊的
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
 - boast [bəʊst] n/v.自夸、夸耀
@@ -132,6 +135,7 @@
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
 - breathe 呼吸、活着、生存
+- brick n.砖、砖块
 - bride n.新娘
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
 - brief a.简明的、简洁的、短暂的、v.给(某人)指示、向(某人)介绍情况、n.任务简介、指示、摘要、简报

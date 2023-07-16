@@ -5,6 +5,8 @@
 - objection [əbˈdʒekʃn] n.反对、异议
 - objective a.客观的、目标的、实体的、n.目标、目的、物镜     subjective a.主观的、个人的
 - obligate v.使负有责任或义务、a.有责任的、有义务的、必要的
+- obligation n.义务、责任
+- oblige [əˈblaɪdʒ] v.迫使、强迫、责成
 - obligor 债务人
 - obscene [əbˈsiːn] a.淫秽的、猥琐的、下流的
 - obscure [əbˈskjʊə(r)] a.模糊的、无名的、费解的、v.使模糊、使隐晦、使费解
@@ -21,7 +23,7 @@
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - occur [əˈkɜː(r)] v.出现、发生、存在于、出现在
 - occurrence n.出现、发生、事件、事变
-- ocean n.海洋
+- ocean [ˈəʊʃn] n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
 - off v.离开、关闭、去掉  off plan 计划外的、期房(building)
@@ -84,10 +86,12 @@
 - outbreak n/v.爆发
 - outcome n.结果、效果、成果、出路
 - outdate v.使过时、使陈旧、使落伍
-- outlet n.出口、经销店、专营店
+- outfit n.装备、装束、全套装备
+- outlet n.出口、经销店、专营店、折扣店  fast-food outlets 快餐店  retail outlets 零售店
 - outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
 - outlook n.见解、前景、观点、景色、景观
-- outrage n.愤怒、暴行、v.使震怒、激怒
+- output n.输出、产量、输出量、产品、v.输出
+- outrage [ˈaʊtreɪdʒ] n.愤怒、暴行、v.使震怒、激怒
 - outset n.开始、开端
 - outstand 突出、外站、离港、停留
 - outstanding a.杰出的、出色的、未完成的、未解决的、
@@ -110,6 +114,7 @@
 - oversee v.监督、监视、俯瞰
 - overshadow v.掩盖、遮蔽
 - oversight n.疏忽、失察、负责、照管
+- overstate v.夸大、言过其实
 - overtime n.加班
 - overturn v.颠覆、使垮台、推翻、撤销(判决)
 - overweight a.超重的、肥胖的

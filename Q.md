@@ -12,6 +12,7 @@
 - quasi [ˈkwɑːzi(ː)] a.准的、类似的、ad.似是、有如  quasi-automatic 半自动
 - queen [kwiːn] n.女王
 - quench v.扑灭、熄灭、解渴
+- query [ˈkwɪəri] n/v.查询、询问、疑问
 - quest n/v.探索、追求
 - questionaire/questionnaire n.问卷调查、问卷、调查表
 - quick a.快的、迅速的、敏捷的

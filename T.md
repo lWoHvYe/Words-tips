@@ -41,7 +41,7 @@
 - temperature n.温度、气温、体温
 - tempo n.速度、节拍
 - temporal a.世俗的、现世的
-- temporary 短暂的、暂时的、临时工
+- temporary a.短暂的、暂时的、n.临时工
 - tempt v.引诱、诱惑、怂恿
 - temptation n.诱惑、引诱、诱惑物
 - tenancy n.租赁、租期
@@ -110,6 +110,7 @@
 - tier n.层、级、阶层、等级、v.层层排列、层叠
 - tight a.牢固的、紧的、紧张的、严格的、紧密的、紧身的、亲密的、n.紧身衣
 - tighten v.收紧
+- tile n.瓷砖
 - timeless a.永恒的、永久的
 - tin n.锡、罐、v.镀锡
 - tiny a.极小的、微小的  tinier(比较级)
@@ -166,6 +167,7 @@
 - translate v.翻译、转化、解释
 - translator n.翻译、翻译家、译员
 - transmit [trænzˈmɪt] v.传输、传送、传播、传导、传染、发射
+- transparency n.透明、透明度
 - transparent a.透明的、清澈的、显而易见的、易识破的
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - transportation n.运输、流放

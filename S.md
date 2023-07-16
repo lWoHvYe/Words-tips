@@ -15,6 +15,7 @@
 - sand [sænd] n.沙、沙滩
 - sandal [ˈsændl] n.凉鞋
 - sanitization 消毒、卫生处理、净化、清除
+- sanity [ˈsænəti] n.理智、明智
 - satiate [seɪʃieɪt] v.满足
 - satire [ˈsætaɪə(r)] n.讽刺、讽刺文学
 - satisfaction n.满意、满足、清偿、赔偿
@@ -37,7 +38,7 @@
 - scenery [ˈsiːnəri] n.风景、风光、景色、舞台布景
 - sceptical [ˈskeptɪkl] a.怀疑的
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
-- scheme n.方案、计划、v.策划、密谋
+- scheme [skiːm] n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scholarship n.奖学金、学问、学术、学术研究
 - scientific a.科学的、有系统的
@@ -106,6 +107,7 @@
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
+- session [ˈseʃn] n.会议、环节
 - set v.设置、放置、树立、矫正、n.套、系列、a.固定不变的、确定的  
 - set aside 挑出、不理会 set off 出发、动身 set up 建立、树立、开办 set back 推迟、耽误、挫折、倒退
 - setback n.挫折、阻碍
@@ -125,6 +127,7 @@
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、分配、n.股份、一份
 - sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
+- sharpen v.锐化、使锐利、提高、改善
 - shave [ʃeɪv] v.刮胡子、剃、削减、降低
 - shear v.剪、剪切
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇  shed some light on 解释、阐明
@@ -145,6 +148,7 @@
 - shortly ad.立刻、马上
 - shortage n.不足、缺少、短缺
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
+- shove [ʃʌv] v.推、猛推、乱放
 - show n/v.显示、表示、展示、演示
 - shower n.淋浴、阵雨、小雨
 - shrink v.收缩、缩小、减少
@@ -161,6 +165,7 @@
 - significantly 重要的、重大的、明显的、显著的
 - signify v.代表、象征、表示
 - silence 沉默、无声、寂静、失去联系、使安静、压制、安静、静下来
+- silent [ˈsaɪlənt] a.沉默的、安静的
 - silica [ˈsɪlɪkə] n.二氧化硅
 - silicon [ˈsɪlɪkən] n.硅  Silicon Valley 硅谷
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
@@ -172,6 +177,7 @@
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
 - sin [sɪn] n/v.罪、犯罪、罪过、abbr.正弦
+- sincere [sɪnˈsɪə(r)] a.真诚的、诚挚的
 - sine [saɪn] n.正弦
 - singleton [ˈsɪŋɡltən] n.单项物
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
@@ -190,6 +196,7 @@
 - skylight n.天窗
 - skyline n.轮廓线
 - skyscraper [ˈskaɪskreɪpə(r)] n.摩天大楼
+- slack a.松弛的、懈怠的、萧条的  slack season 淡季
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
 - slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
@@ -259,6 +266,7 @@
 - spaghetti n.意大利面条
 - Spain [speɪn] n.西班牙
 - span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
+- Spanish [ˈspænɪʃ] a.西班牙的、n.西班牙语
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - spatial [ˈspeɪʃl] a.空间的
 - speak v.交谈、说(某种语言)、说话、演说
@@ -298,7 +306,7 @@
 - spreadsheet n.电子表格
 - spree [spriː] n.(过分的)玩乐、作乐
 - sprinkle v.喷、洒、下小雨、n.小雨
-- spring n.春天、泉水、弹簧、弹性、弹力、v.跳、越
+- spring [sprɪŋ] n.春天、泉水、弹簧、弹性、弹力、v.跳、越
 - sprint 冲刺、全速短跑、短跑比赛
 - spud n.土豆
 - spur [spɜː(r)] n.靴刺、刺激、激励、支线、岔线、v.促进、激励
@@ -367,6 +375,8 @@
 - stove [stəʊv] n.火炉、炉子
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的、正直的、简单的、易懂的
+- strain [streɪn] v.损伤、扭伤、拉伤、拉紧、尽力、过度使用、n.应力、压力、张力
+- strained a.(气氛、形势等)紧张的  strained relation 紧张的关系
 - strange a.奇怪的、陌生的、不熟悉的
 - strategic 战略的、战略性的、至关重要的
 - strategy 策略、规划
@@ -377,6 +387,7 @@
 - strengthen v.加强、增强、巩固
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性
 - stretch [stretʃ] v.伸展、拉长、拉紧、延续、耗尽、n.(连续的)一段时间、一片、伸展
+- strewn [struːn] a.布满的、v.布满、撒满
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
 - strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
@@ -392,6 +403,7 @@
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
 - stun [stʌn] v.使昏迷、打晕、使震惊
 - stupid a.愚蠢的、迟钝的、n.笨蛋
+- stylish a.时尚的、时髦的、新潮的
 - subconscious a.下意识的、潜意识的
 - subject n.主题、题材、学科、科目、研究/实验对象、a.受...支配、视...而定、服从于、取决于、vt.使服从、使顺从 be subject to 从属于、取决于、受...支配/管制/影响
 - subjective a.主观的、个人的、内省的
@@ -400,7 +412,8 @@
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从、建议、看法、意见
 - submit v.提交、顺从、服从
-- substance n.物质、实质、主旨、要点、基本内容
+- substance n.物质、实质、主旨、要点、基本内容  illegal substance 非法物质  radioactive substance 放射性物质
+- substantial a.大量的、巨大的、牢固的、n.本质
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
 - subscript n.下标
 - subsequent a.随后的、之后的、后来的
@@ -412,6 +425,7 @@
 - substance n.物质、主旨、要点、实质
 - substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
+- substraction n.减法、减去、相减
 - substrate n.底层
 - subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
@@ -468,6 +482,9 @@
 - surpass v.超过、胜过、超越、优于
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
 - surrogate [ˈsʌrəɡət] n.代理、代表、代孕、a.代理的、替代的、代用的
+- surround v.围绕、包围、环绕
+- surrounding a.周围的、附近的、n.环境、周围的事物
+- surroundings n.环境
 - surveillance [sɜːrˈveɪləns] n.监控、监视
 - survey n.调查、测量、勘测、审查、概述、v.民意调查、测量、勘测、概述
 - survival n.幸存、幸存者、残余物

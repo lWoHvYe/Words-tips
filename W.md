@@ -17,7 +17,7 @@
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
 - warrant n.许可证、授权令、执行令、凭据
 - wash [wɒʃ] n/v.洗、流动
-- waste n/v.浪费、滥用
+- waste n/v.浪费、滥用、废料、荒地、a.废弃的、荒芜的
 - watershed n.流域、分水岭、转折点
 - wave n.波动、波浪、v.挥手、招手
 - weak a.虚弱的
@@ -30,6 +30,7 @@
 - weight n.重量、分量、砝码
 - weld v.焊接、n.焊接点
 - welfare n.福利、幸福
+- well 好、很可能、相当、井、健康
 - wellbeing n.健康、幸福
 - wheat n.小麦
 - whelm v.淹没、压倒、覆盖
@@ -70,7 +71,7 @@
 - wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
 - wordy a.冗长的、啰嗦的
 - workaround n.应变方法、变通方法
-- workforce 劳动力、全体员工
+- workforce n.劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
 - worse ad.更坏、更糟、a.更坏的、恶化的、严重的  sb could do worse than doSth 不如、不妨
 - worship [ˈwɜːʃɪp] n/v.崇拜、崇敬、敬奉  blind worship 盲目崇拜

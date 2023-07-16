@@ -13,10 +13,11 @@
 - dearth [dɜːθ] v.缺乏、不足
 - death [deθ] n.死亡、死神
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
-- debt [det] n.债务、借款、欠款、罪、过失
+- debt [det] n.债务、借款、欠款、罪、过失  bad debts 坏账
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
 - deceive v.欺诈、误导
+- decelerate [ˌdiːˈseləreɪt] v.减速、减缓
 - decent a.体面的、得体的、相称的、正派的、相当不错的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
 - decide v.决定、下决心、选定、解决、裁决
@@ -74,6 +75,8 @@
 - demolition [ˌdeməˈlɪʃn] n.拆毁、拆除、摧毁、大败、击退
 - demon [ˈdiːmən] n.恶魔、魔鬼
 - demonstrate [ˈdemənstreɪt] v.证明、证实、表现、表达、示范、演示、表露、示威游行
+- demoralization n.士气低落、纪律松弛、士气消沉
+- demoralize v.使士气低落、使泄气、使意志消沉
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
@@ -91,14 +94,14 @@
 - deposit n.保证金、储蓄、存款、沉积物、v.安置、放置、寄存、寄放
 - depredation [ˌdeprəˈdeɪʃn] n.掠夺、劫掠、破坏
 - depress v.压下、压低、降低、减少、使沮丧、使消沉、使萧条、使不景气
-- depression n.抑郁、沮丧、萧条期、经济衰退、萎靡不振、低气压
+- depression n.抑郁(症)、沮丧、萧条期、经济衰退、萎靡不振、低气压
 - deprive v.剥夺、使丧失、使不能享有
 - depute v.委托、将...交给某人、委派...为代表
 - deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
 - derivation n.引导、导出、衍生、起源、派生
 - derivative n.派生词、衍生物、衍生品、导数、微商、a.衍生的、导出的
 - derive v.得到、获得、起源于、产生、提取、派生
-- descend v.下降、降临
+- descend [dɪˈsend] v.下降、降临
 - descendant n.后裔、后代、派生物
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
@@ -122,6 +125,7 @@
 - detach v.派遣、分离、拆开、摆脱
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
 - detect v.查明、发现、探测、侦查
+- detector n.探测器
 - deter v.阻止、使不敢  deter sb from doing sth
 - determine v.确定、决定、下决心、准确算出、查明、支配、影响
 - devaluation n.(货币)贬值
@@ -156,8 +160,8 @@
 - dignity n.庄严、端庄、尊严、高贵
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - dilution n.稀释
-- dim a.暗淡的、昏暗的
-- dimension [dɪˈmenʃn , daɪˈmenʃn] n.次元、度、维(度)、尺寸
+- dim a.暗淡的、昏暗的、渺茫的、v.变暗淡
+- dimension [dɪˈmenʃn/daɪˈmenʃn] n.次元、度、维(度)、尺寸
 - diminish v.减少、减弱、降低、贬低、轻视
 - diode n.二极管
 - dioxide n.二氧化物
@@ -232,11 +236,13 @@
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
 - divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异  class divide 阶级差异
 - dividend n.红利、股息
-- division 分开、分隔、分配、除（法）  division of labour 劳动分工
+- division n.分开、分隔、分配、除法、相除  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
 - divisor n.因子
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
-- document n.公文、文件、证件、文档、v.记录、记载
+- dock n.码头、船坞、v.(船)进港、靠岸、(飞船)对接、扣除(部分工资)
+- document n.公文、文件、证件、文档、v.记录、记载、用文件证明
+- documentary a.文献的、记录的、纪实的、n.纪录片
 - doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
 - doctoral a.博士的、博士学位的  PhD - Doctor of Philosophy (哲学)博士学位
 - doctrine [ˈdɒktrɪn] n.教条、主义、学说

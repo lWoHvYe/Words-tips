@@ -158,10 +158,17 @@
 - claw n.爪、钳
 - clergy [ˈklɜːdʒi] n.神职人员、牧师、教士
 - clerk [klɑːk] n.职员、店员、文书、书记员
-- clever 聪明的、灵巧的、英俊的、精巧的、精明的、油腔滑调的
+- clever a.聪明的、灵巧的、英俊的、精巧的、精明的、油腔滑调的
+- click v.(用鼠标)点击、单击、发出咔哒声、n.单击、咔哒声
+- client [ˈklaɪənt] n.客户、客户端
+- cliff n.悬崖、峭壁
 - climate  n.气候、趋势、状况、倾向、形势
 - climb n/v.攀登、升值、增加、提高地位、晋升
-- clip n.夹子、修剪、回形针
+- cling v.坚持、忠于、依附、附着、抓紧、抱紧
+- clinic [ˈklɪnɪk] n.诊所
+- clinical a.临床的、冷静的
+- clinically ad.冷静地、客观地
+- clip n.夹子、修剪、回形针、v.修剪、剪辑
 - clipboard 剪切板
 - clique [kliːk] n.小团体
 - close v.关闭、停业、倒闭、缩小、接近、n.结束、关闭、a.接近的、紧闭的、稠密的
@@ -170,7 +177,7 @@
 - clue n.线索、提示、v.提示
 - clumsy [ˈklʌmzi] a.笨拙的、不灵活的
 - cluster n.群、丛、簇
-- coach [kəʊtʃ] n.教练
+- coach [kəʊtʃ] n.教练、v.训练、辅导
 - coal [kəʊl] n.煤
 - coalition n.联合政府
 - coarse [kɔːs] a.粗的、粗糙的、大颗粒的
@@ -231,6 +238,7 @@
 - common a.普通的、常见的、公共的
 - commonness n.普通、平凡、平庸
 - communicate v.沟通、交流、通讯、传达、传递
+- communist [ˈkɒmjənɪst] a.共产党的、共产主义的、n.共产主义者
 - community n.社区、群落
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压缩、压紧、压实
@@ -258,11 +266,11 @@
 - complicate v.使复杂化、使恶化
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
 - comply vi.顺从、服从、遵守、遵从、应允、同意
-- component n.成分、组成、组成部分、要素、a.组成的、合成的、构成的
+- component n.成分、组成、组成部分、要素、电路元件、a.组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
 - composite [ˈkɒmpəzɪt/kəmˈpɑːzət] a.混合成的、复合的、合成的、混成的、n.复合材料、合成物、混合物
 - composition n.作文、作曲、创造、构图、成分、构成
-- compound n.复合物、化合物、a.复合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
+- compound n.复合物、化合物、a.复合的、化合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
 - comprehend v.理解、领悟
 - comprehension n.理解、理解力、领悟能力
 - comprehensive a.综合的、广泛的、有理解力的、悟性好的、总体担保的、n.综合中学
@@ -286,7 +294,7 @@
 - concession n.让步、妥协、特许权、优惠价格
 - conciliate [kənˈsɪlieɪt] v.平息、安抚、劝慰、和解、调解、n.安抚者、劝慰者
 - conciliatory a.调和的、调解的、抚慰的、安抚的
-- concise a.简洁的、简明的、简练的
+- concise [kənˈsaɪs] a.简洁的、简明的、简练的
 - conclude v.推断、断定、终止、结束、预定、得出结论
 - conclusion n.结论、推论、结果、结尾、结局、签订、达成、缔结
 - concrete [ˈkɒŋkriːt] a.具体的、有形的、实在的、固结成的、混凝土制的、v.用混凝土浇筑、n.混凝土
@@ -355,6 +363,7 @@
 - contain v.包含、容纳、控制、抑制、防止...蔓延/恶化
 - container [kənˈteɪnə(r)] n.容器、集装箱
 - contemplate v.沉思、考虑、思量、注视、凝视
+- contemporary a.现代的、当代的、同一时代的、n.同代人、同辈人  contemporary culture 当代文化
 - contempt n.轻蔑、轻视、鄙视
 - contend v.竞争、争夺、辩论、争辩、声称、主张、认为
 - content [ˈkɒntent/kənˈtent] n.内容、目录、主题、含量、容量、n.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意  be content to do sth 愿意做某事
@@ -363,7 +372,7 @@
 - context n.语境、上下文、背景
 - continent [ˈkɑːntɪnənt] n.大陆、陆地、洲
 - contingency 可能性、偶然性、意外事故、偶发事件
-- contingent 代表团、视情况而定的
+- contingent 代表团、视情况而定的 
 - continuation n.继续、连续、持续、续篇、附加物
 - continue v.持续、继续、连续、延伸
 - continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性
@@ -385,7 +394,7 @@
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
 - convenient a.实用的、便利的、方便的、附近的
 - convention n.会议、惯例、习俗、规矩、公约
-- conventional a.传统的、习惯的
+- conventional a.传统的、习惯的  conventional paid media 传统付费媒体
 - converge [kənˈvɜːdʒ] v.会聚、聚集、相交、会和、十分相似、相同
 - conversation n.会话、交流、交谈
 - converse v.谈话、交谈、a.相反的、颠倒的
@@ -409,9 +418,11 @@
 - Corp 公司
 - corpse n.尸体
 - corporate [ˈkɔːpərət] a.公司的、法人的、社团的、团体的、共同的
+- correct a.正确的、恰当的、得体的、v.纠正、修正、改正、批改
 - correlate v.相互关联、(使)相关、n.相关的事物、相关联的人
 - correlation n.相关性、相关、关联、相互关系
 - correspond v.顺应、契合、符合、一致、通信
+- corridor [ˈkɒrɪdɔː(r)] n.走廊、通道、过道、狭长地带
 - corrupt v.腐败、贪污、破坏、损坏、a.贪污的、受贿的、腐败的、不诚实的、不道德的
 - corruption [kəˈrʌpʃn] n.腐败、贪污、贿赂、受贿
 - cos [kəz] conj.因为、abbr.余弦
@@ -425,7 +436,9 @@
 - counseling n.咨询服务
 - count v.计数、计算总数、把...算入、包括、描述、正式接纳、正式认可、n.总数、罪状、论点 count as 认为、视为
 - countdown n.倒计时
-- counter 计数器、柜台、反驳、驳斥、逆向地、相反地、反对的、一对中之一  over-the-counter (OTC) 非处方
+- counter n.计数器、柜台、v.反驳、驳斥、抵消、ad.逆向地、相反地、反对地、一对中之一  over-the-counter (OTC) 非处方
+- counteract v.抵消、对抗
+- counterbalance n/v.(使)平衡、抵消
 - counterpart n.对应方、职位相当的人
 - counterparty n.对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、夫妻、情侣、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对  the next couple of days 接下来的几天
@@ -482,7 +495,7 @@
 - culmination n.高潮、巅峰、顶点、终点
 - culprit 罪魁祸首、罪犯、肇事者
 - cultivate v.培养、培育、种植、栽培、逐渐形成、建立(友谊)、结交(朋友)
-- culture 文化、文明、培养
+- culture n.文化、文明、v.培养
 - cumber n.拖累、妨害、v.阻碍、妨害、使受苦
 - cumulative [ˈkjuːmjələtɪv] a.累积的、累计的
 - cunning a.狡猾的、奸诈的、灵巧的、n.狡猾、狡黠 [jiǎo xiá]、诡诈

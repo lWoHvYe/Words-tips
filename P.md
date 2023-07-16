@@ -175,6 +175,7 @@
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
+- polish v.擦光、擦亮、使完美、润色、改进、n.抛光、上光剂  shoe polish 鞋油
 - polite [pəˈlaɪt] a.有礼貌的、客气的
 - politeness [pə'laɪtnəs] n.客气、有礼貌、殷勤
 - political a.政治的、政府的、政权的
@@ -381,6 +382,7 @@
 - pull v.拉、拔出、n.引力、吸引力、诱惑
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punish v.处罚、惩罚、责怪、自责
+- punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购
 - pure a.纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
 - purge 肃清、净化、清除、清洗、排除

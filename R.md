@@ -6,6 +6,7 @@
 - radix n.进制、基数
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
 - raft n.木筏
+- rage [reɪdʒ] n/v.愤怒、狂怒、暴怒
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - rain n.雨、v.下雨
 - raincheck 雨票、延期
@@ -98,7 +99,8 @@
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝
 - refuse [rɪˈfjuːz/ˈrefjuːs] v.拒绝、回绝、推却、n.垃圾、废弃物
-- regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候、n.尊敬、注意、关注  regarding 关于、相关  with regard to 对于、就...而论
+- regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候、n.尊敬、注意、关注  with regard to 对于、就...而论
+- regarding prep.关于、相关
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
 - regime n.政权、政体、政治制度
 - region n.地区、区域、行政区、管辖区、层、界、境
@@ -123,7 +125,7 @@
 - relax v.放松、休息、放宽、缓和、减轻
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、发行、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、排放、泄露
-- relevant a.相关的、有价值的、有意义的
+- relevant a.相关的、有价值的、有意义的、切题的、中肯的
 - reliable a.可靠的、可信赖的、n.真实可信的、可靠的人
 - reliance n.依赖、依靠、信赖、信任
 - relic n.遗物、遗迹、废墟
@@ -133,7 +135,7 @@
 - religious a.宗教的、虔诚的[qián chéng]
 - reluctant [rɪˈlʌktənt] a.不情愿的、勉强的
 - rely v.依靠、依赖、信赖
-- remain n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
+- remain [rɪˈmeɪn] n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
 - remark n/v.评论、谈论
@@ -141,7 +143,7 @@
 - remedial/remediate a.治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
 - remedy [ˈremədi] n.救济、治疗、补偿、公差、v.纠正、改正、改进
-- remind vt.提醒、使想起、使记起
+- remind [rɪˈmaɪnd] vt.提醒、使想起、使记起  remind of 使想起
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
@@ -209,7 +211,7 @@
 - restate v.重申、重述
 - restaurant [ˈrestrɒnt] n.餐厅、餐馆
 - restore v.修复、归还、恢复
-- restrain v.制止、阻止、管制、约束
+- restrain v.制止、阻止、管制、约束、克制、抑制
 - restrict v.限定、限制、约定、制约、束缚、妨碍
 - result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
@@ -261,6 +263,7 @@
 - rollout 首次发行、公开展示  rollout time 推出时间
 - roman a.罗马的、n.罗马人、罗马字体
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
+- Rome [rəʊm] n.罗马
 - roof n.顶部、屋顶
 - room n.房间、空间、余地、可能性、v.租房、合住
 - root n.根本、v.扎根
@@ -272,6 +275,7 @@
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
 - round/around the corner 在附近、即将发生
 - roundabout a.迂回的、拐弯抹角的、n.环形交叉口、环岛
+- rouse [raʊz] v.唤醒、激起、激怒、n.觉醒、奋起
 - route n.路径、路途、途径、渠道
 - router n.路由器
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的

@@ -36,9 +36,13 @@
 - glass n.玻璃、镜子、杯子
 - glide n/v.滑行、滑动、滑翔
 - glitch [ɡlɪtʃ] n.差错、小故障
+- glitter n/v.闪烁
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
 - globe n.地球、球体、地球仪
+- glorious [ˈɡlɔːriəs] a.光荣的、辉煌的、壮丽的
+- glory [ˈɡlɔːri] n.光荣、荣誉、荣耀、赞颂
 - glossary 术语汇编、词汇表
+- glow v.发光、发红、n.微光
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - go 走、离开、进行   go short 做空、卖空  go long 做多、多头、买进
 - gold n.金、黄金、金色、a.金色的

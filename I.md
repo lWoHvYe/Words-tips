@@ -9,6 +9,7 @@
 - identity [aɪˈdentəti] n.身份(ID)、本体、特征、同一性、相同、一致、恒等 identity card 身份证
 - ideology n.思想、意识形态、空想、空论
 - idiom [ˈɪdiəm] n.习语、成语、语法
+- idiomatic a.惯用的、符合语言习惯的
 - idiosyncracy n.特质
 - idiosyncratic [ˌɪdiəsɪŋˈkrætɪk] a.乖僻的、怪异的、特质的
 - idiot [ˈɪdiət] n.白痴、傻瓜、笨蛋
@@ -127,6 +128,7 @@
 - infrared n.红外线、a.红外线的 infra- 下、低
 - infrastructure n.基础设施、基础建设
 - ingest v.摄入、食入、咽下
+- ingredient n.组成部分、成分、原料、配料、因素、要素
 - ingress n.进入、进入权、入境权
 - inhabit v.居住于、栖息于
 - inhale v.吸入、吸气
@@ -161,6 +163,7 @@
 - inspiratory a.吸入的、吸气的
 - inspire v.鼓励、激励、激起、启迪、启发
 - inspite of 尽管、即使
+- install v.安装、安置、任命、就职
 - installment n.分期付款、分期交付、连载
 - instant n.瞬间、此刻、(某一)时刻、a.立即的、马上的、速食的、速溶的、ad.立即、立刻
 - instantiate v.实例化
@@ -258,13 +261,15 @@
 - invocate 调用
 - invocation n.祈祷、乞求、调用、启用
 - invoke v.调用(方法等)、援引、援用(法律规则等)、提及、用法术召唤
+- involuntary a.非自愿的、无意识的、不自觉的、非本意的
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
 - iron [ˈaɪən] n.铁、熨斗、v.熨、烫平
 - irony [ˈaɪrəni] n.讽刺、反语
 - irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
-- isolate v.隔离、孤立、a.隔离的、孤立的
+- island [ˈaɪlənd] n.岛、岛屿
+- isolate [ˈaɪsəleɪt] v.隔离、孤立、使绝缘、a.隔离的、孤立的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则
 - iterate v.迭代

@@ -105,7 +105,7 @@
 - meta [ˈmɛtə] 元
 - metabolism n.新陈代谢
 - metadata 元数据
-- metal n.金属、v.用金属做、a.金属制的
+- metal [ˈmetl] n.金属、v.用金属做、a.金属制的
 - metaphor [ˈmetəfə(r)] n.隐喻、暗喻、象征
 - metaphysics [ˌmetəˈfɪzɪks] n.形而上学、玄学
 - mete v.分配、给予
@@ -132,7 +132,7 @@
 - mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
-- mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力
+- mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力  bring to mind (使)记起/回忆起  keep in mind 记住
 - mindedness n.思想、心思
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
 - minimal a.最小的、极小的
@@ -144,6 +144,7 @@
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
+- misery [ˈmɪzəri] n.痛苦
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
@@ -218,11 +219,12 @@
 - multilateral a.多方面的、多国的、多边的
 - multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的
 - multiply v.乘、相乘、ad.复合地、多样地、a.多股的、多层的
+- multiplication [ˌmʌltɪplɪˈkeɪʃn] n.乘法、相乘
 - multiplier n.乘数、倍数
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - murmur n/v.小声说话
 - museum [mjuˈziːəm] n.博物馆
 - mutex 互斥、互斥对象、互斥锁
-- mutual a.相互的、彼此的、共同的、共有的
+- mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的

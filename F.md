@@ -11,6 +11,7 @@
 - fail v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
 - failover 故障转移、故障切换
 - failure n.失败、不及格、失败的人或事、故障、失灵、未做到
+- faint a.微弱的、不积极的、v.昏倒、昏厥  faint praise 轻描淡写的赞扬、明褒实贬
 - fair a.公平的、合理的、晴朗的、美丽的、ad.公平地、直接地、n.集市、商品交易会、展销会、v.顺利接合、衔接协调
 - fairly ad.公平地、适当、相当地、完全、简直、竟然
 - faith n.信任、相信、信念、int.真正
@@ -19,7 +20,7 @@
 - fallback 应变计划、退路、倒退
 - false a.错误的、不真实的、伪造的
 - fame n.声誉、名声、v.使出名、使闻名
-- fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起
+- fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起  electric fan 电风扇
 - fancy v.想象、设想、想要、n.设想、想象力、爱好、a.花哨的、精致的、优质的、昂贵的、奢华的
 - fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
 - fantasy [ˈfæntəsi] n.幻想、空想的产物、幻想作品
@@ -119,7 +120,8 @@
 - forbid v.禁止、阻止、阻碍、妨碍
 - force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - fore n.船头、前面、前部、a.在前部的
-- foremost ad.首先、a.最重要的
+- forecase [ˈfɔːkɑːst] n/v.预测、预报
+- foremost ad.首先、最重要地、a.首要的、最好的、最重要的  first and foremost 首先的是、首先
 - foresee v.预料、预知、预见
 - foreshadow 预示、预兆、先兆
 - forest n.森林、丛林
