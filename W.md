@@ -15,7 +15,8 @@
 - wardrobe [ˈwɔːdrəʊb] n.衣橱
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
-- warrant n.许可证、授权令、执行令、凭据
+- warrant n.许可证、授权令、执行令、凭据、v.保证、担保、使正当、使恰当
+- warrior n.战士、勇士、武士
 - wash [wɒʃ] n/v.洗、流动
 - waste n/v.浪费、滥用、废料、荒地、a.废弃的、荒芜的
 - watershed n.流域、分水岭、转折点
@@ -73,6 +74,7 @@
 - workaround n.应变方法、变通方法
 - workforce n.劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
+- worrisome a.令人担忧的、令人不安的
 - worse ad.更坏、更糟、a.更坏的、恶化的、严重的  sb could do worse than doSth 不如、不妨
 - worship [ˈwɜːʃɪp] n/v.崇拜、崇敬、敬奉  blind worship 盲目崇拜
 - worshipper n.礼拜者、参拜者 
@@ -80,6 +82,7 @@
 - worthy a.值得的、值得尊敬的、有价值的、n.杰出人物、知名人士
 - wound n.伤口、创伤、v.使受伤、伤害
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
+- wrapper [ˈræpə(r)] n.封装
 - wrinkle 皱纹、褶皱
 - wrist [rɪst] n.手腕
 - write-off n.勾销、注销、报废的东西

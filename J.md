@@ -24,4 +24,4 @@
 - justice n.法官、公平、公正
 - justification n.正当理由
 - justify v.证明正当、证明...正确、为...辩护、对...作出解释、整理版面
-- juvenile n.少年、a.少年的、未成年的
+- juvenile [ˈdʒuːvənaɪl] n.少年、a.少年的、未成年的

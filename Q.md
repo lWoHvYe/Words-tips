@@ -26,7 +26,7 @@
 - quiz 提问、咨询、测验、盘问、挖苦、张望
 - quo n.现状
 - quorum n.法定人数
-- quota n.定量、定额、配额、限额、指标
+- quota n.定量、定额、配额、限额、指标  reasonable quota 合理的配额
 - quote v.引用、引述、n.引用、引号
 - quotation n.引用、引号、市价、行情
 - quotient n.商

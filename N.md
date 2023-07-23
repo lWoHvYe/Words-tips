@@ -35,6 +35,7 @@
 - nevertheless ad.然而、不过、尽管如此
 - nice a.美好的、吸引人的、友好的
 - nightmare n.噩梦、梦魇
+- nihil/nil 无、虚无
 - nimble a.灵活的、敏捷的
 - nimbus n.雨云、光环
 - nitrogen [ˈnaɪtrədʒən] n.氮、氮气

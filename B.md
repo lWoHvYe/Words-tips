@@ -52,6 +52,7 @@
 - beneath prep.在下方、在下面、在底下
 - benefactor n.施主、赞助者
 - benefit n.利益、好处、成效、福利、奖金、补助、救济金、v.使受益、得益于、得利于
+- benign [bɪˈnaɪn] a.良性的、温和的
 - bequest 遗赠、遗产、遗赠物
 - bespeak v.证明、预定、展现、显示
 - bespoke a.订做的、定制的、v. bespeak的过去式
@@ -92,10 +93,12 @@
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
 - blood n.血液
+- blossom [ˈblɒsəm] v.开花、兴旺时期
 - blow v.吹、刮、打击  
 - blower n.吹风机
 - blueprint n.蓝图
 - blunder n.愚蠢或粗心的错误、v.犯愚蠢或粗心的错误、踉踉跄跄的走  blunder into (因看不见)撞上某物、无意中陷入(困境)、偶然遇到(尴尬事)
+- blunt a.迟钝的、直言的、不锋利的、v.使减弱、使变钝
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、玷污、变模糊
 - blurry a.模糊的
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机
@@ -121,15 +124,17 @@
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
+- bountiful [ˈbaʊntɪfl] a.慷慨的、大方的、大量的
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bra [brɑː] n.文胸、胸罩
 - brace n.箍子、牙箍、大括弧、v.准备好、支撑
 - bracket [ˈbrækɪt] n.支架、括号、等级、v.用括号括上、把...相提并论
 - brain [breɪn] n.脑、智力、逻辑思维能力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
-- brand n.品牌、商标、烙印、v.给...打上烙印(贬义)
+- brand n.品牌、商标、烙印、v.给...打上烙印(贬义)  brand new 全新的、崭新的
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
+- breadth [bredθ] n.宽度、(知识、兴趣等)广泛
 - break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
 - breakeven n.收支平衡点、盈亏平衡点
 - breakfast n.早餐、v.吃早餐
@@ -145,6 +150,7 @@
 - broad a.宽阔的、广阔的、概括的、明显的
 - broadcast v.广播、散布、传播
 - broaden 扩大、拓宽、增长
+- brochure [ˈbrəʊʃə(r)] n.手册、小册子
 - broker n.经纪人、中间人、代理人、v.安排、协商
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器

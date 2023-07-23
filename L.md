@@ -1,5 +1,5 @@
-- label n.标签、标记
-- labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力
+- label n.标签、标记、v.打标签、做标记
+- labor/labour n.劳动、工作、v.劳动、工作、努力争取 labor force 劳动力 labor to do sth 努力做某事
 - laboratory [ləˈbɒrətri] n.实验室
 - lack n/v.缺乏、短缺
 - ladder n.梯子、阶梯、途径
@@ -107,9 +107,9 @@
 - location n.位置、地点
 - lodge n.乡间小屋、小屋、v.正式提出、寄住、借宿、租住、寄存
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
-- logical 必然的、合乎逻辑的、合乎情理的
+- logical a.逻辑上的、必然的、合乎逻辑的、合乎情理的
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
-- loom n.织布机、纺织机、v.赫然出现、逼近
+- loom n.织布机、纺织机、v.赫然出现、逼近  loom large 挥之不去、显得突出
 - loop 环、环形、回路
 - loose 松的、释放
 - lord n.主、上帝
@@ -125,6 +125,7 @@
 - loyalty n.忠心、忠诚  loyalty card 积分卡
 - lucrative a.获利多的、赚大钱的、合算的
 - lumber n.木材
+- lumen [ˈluːmɪn] n.流明(光通量单位)
 - lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
 - lunar a.月亮的、月球的 Lunar New Year 农历新年
 - lunch n.午餐

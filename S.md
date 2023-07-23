@@ -29,6 +29,7 @@
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
 - scam n.骗局
 - scan 扫描、浏览、细看、端详
+- scandal [ˈskændl] n.丑闻
 - scarce [skeəs] a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
@@ -41,6 +42,7 @@
 - scheme [skiːm] n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scholarship n.奖学金、学问、学术、学术研究
+- science n.科学、理科
 - scientific a.科学的、有系统的
 - scissors [ˈsɪzəz] n.剪刀
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
@@ -107,7 +109,7 @@
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
-- session [ˈseʃn] n.会议、环节
+- session [ˈseʃn] n.会议、环节、一场、一节、一段时间
 - set v.设置、放置、树立、矫正、n.套、系列、a.固定不变的、确定的  
 - set aside 挑出、不理会 set off 出发、动身 set up 建立、树立、开办 set back 推迟、耽误、挫折、倒退
 - setback n.挫折、阻碍
@@ -254,7 +256,7 @@
 - sophisticate n.老练的人、见多识广的人
 - sort n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
-- sound 声音、健全、合理
+- sound n.声音、a.健全的、明智的、合理的
 - source n.来源、出处、根源、起源、v.(从...)获得
 - sovereign [ˈsɒvrɪn] n.君主、元首、a.有主权的、完全独立的
 - sovereignty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
@@ -330,7 +332,7 @@
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
 - stance n.态度、立场
-- stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍
+- stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台
 - standalone 独立的、单独的、脱机
 - standby n.备用品、可信赖的人、a.常备的、备用的
 - standing a.永久性的、长期存在的
@@ -451,7 +453,8 @@
 - suit v.适合、合意、合身、相称、n.西装、套装、诉讼
 - suitability n.适合、适宜
 - suitable a.合适、适合
-- summary 概括、总结、概要的、总结性的、草草的
+- summarize v.总结、概括
+- summary n.概括、总结、a.概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit [ˈsʌmɪt] n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
 - super a.超级的、ad.特别、格外

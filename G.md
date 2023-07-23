@@ -67,8 +67,10 @@
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形
 - grasp n/v.抓住、抓紧、理解、领会
 - grass [ɡrɑːs] n.草、v.告密、告发
+- grate v.磨碎、压碎、发出刺耳的摩擦声
+- grateful [ˈɡreɪtfl] a.感激的、表示感谢的
 - gratify v.满足、使高兴、使满意
-- gratitude n.感谢、感激
+- gratitude [ˈɡrætɪtjuːd] n.感谢、感激
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
 - greatness n.伟大、崇高、著名

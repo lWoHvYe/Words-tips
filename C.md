@@ -83,7 +83,7 @@
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
 - ceremonial a.礼仪的、礼节的、n.礼仪、礼节
 - ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套  graduation ceremony 毕业典礼
-- certain a.肯定、确定、确信、轻微的、某种的、一定的、必然的、确定的、pron.某些 to a certain extent/degree 在某种程度上、在一定程度上 far less certain 更不确定
+- certain a.肯定、确定、确信、轻微的、某种的、一定的、必然的、确定的、pron.某些 to a certain extent/degree 在某种程度上、在一定程度上 far less certain 更不确定  certain extent 一定程度上
 - certainly ad.当然、肯定、确定、无疑、行
 - certainty n.确信、确定性、确定的事、必然的事
 - certificate n.证明书、证明、合格证书、文凭、结业证书、v.发证书
@@ -214,12 +214,13 @@
 - collocate v.搭配、组合、n.搭配词、组合词
 - colon [ˈkəʊlən] n.冒号
 - colonial a.殖民的
+- colonist n.殖民者
 - colony n.殖民地
 - column [ˈkɒləm] n.栏、专栏、圆柱
 - comb [kəʊm] n/v.梳、梳理
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
-- come v.来到、到达、开始、发生、prep.到来
+- come v.来到、到达、开始、发生、prep.到来  sth come into its own 某物形成了自己的风格、某物开始流行起来
 - comedy n.喜剧
 - comic n.漫画、喜剧演员、a.滑稽的、喜剧的
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
@@ -231,7 +232,7 @@
 - commerce [ˈkɒmɜːs] n.商务、商业、贸易  e-commerce 电子商务
 - commercial [kəˈmɜːʃl] a.商业的、商务的、盈利的、v.广告
 - commission n.委员会、佣金、回扣、手续费、v.委任、授予
-- commit [kəˈmɪt] v.承诺、保证、犯罪、调配、把...学好记牢  commit oneself to sth/doing sth 承诺/保证做某事  be committed to 对...尽责
+- commit [kəˈmɪt] v.承诺、保证、犯罪、自杀、调配、把...学好记牢  commit oneself to sth/doing sth 承诺/保证做某事  be committed to 对...尽责
 - commitment n.承诺、许诺、委托、委任、致力、献身、花费、使用
 - committee n.委员会
 - commodity n.商品、日用品、有价值的东西
@@ -250,7 +251,7 @@
 - compatible v.可共用的、兼容的、相容的、和睦相处的
 - compel v.强迫、迫使
 - compensate [ˈkɒmpenseɪt] v.抵消、补偿、赔偿、报酬
-- compensation n.补偿、赔偿、薪资
+- compensation n.补偿、赔偿、报酬、薪资  compensation design 薪酬设计
 - compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
 - competent a.有能力的、能胜任的、称职的、过得去的
 - compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
@@ -430,7 +431,8 @@
 - cosmos [ˈkɒzmɒs] n.宇宙
 - cost n.费用、花费、代价、成本、v.花费、估计成本
 - costly a.昂贵的、代价高的、豪华的
-- cotton n.棉、棉花、棉线、棉织物
+- cottage n.小屋、村舍
+- cotton n.棉、棉花、棉线、棉织物  cotton fibre 棉纤维
 - council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的、地方政府出租的  council flat 公租房
 - counsel [ˈkaʊnsl] n/v.劝告、忠告、建议、n.法律顾问、律师
 - counseling n.咨询服务
@@ -465,8 +467,8 @@
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
 - crew [kruː] n.船员、乘务员、全体工作人员
-- crime [kraɪm] n.罪行
-- criminal a.刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
+- crime [kraɪm] n.罪行、犯罪  commit crime 犯罪  cyber crime 网络犯罪
+- criminal a.犯罪的、刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
 - crisp a.脆的、酥脆的、n.薯片、v.变脆
 - criteria (criterion 复数) n.标准、准则 
@@ -510,7 +512,7 @@
 - curriculum [kəˈrɪkjələm] n.课程、全部课程、课表
 - cursor n.光标、游标
 - cursory [ˈkɜːsəri] a.粗略的、仓促的
-- curve [kɜːv] n.曲线、弧形、弯曲、v.使弯曲、a.弯曲的
+- curve [kɜːv] n.曲线、弧线、弧形、弯曲、v.使弯曲、a.弯曲的
 - cushion n.软垫、v.起缓冲作用、缓和冲击
 - custody 监管、拘留、羁押、抚养权、监护权
 - custom n.习惯、惯例、海关、关税、惠顾、光顾、a.定制的、定做的

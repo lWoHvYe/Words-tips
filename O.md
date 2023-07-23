@@ -44,8 +44,8 @@
 - opaque [əʊˈpeɪk] a.不透明的、浑浊的、含糊的、n.不透明、难懂、模糊、隐晦
 - opera n.歌剧、歌剧院、歌剧团  opera houses 歌剧院
 - operand n.操作数
-- operate v.操作、运营、运作、控制、运转
-- operation n.手术、操作、经营、行动、运算、运转
+- operate v.操作、控制、运营、运作、运转
+- operation n.手术、操作、经营、行动、运算、运转、公司、企业
 - opinion n.意见、主张、看法、观点
 - opponent n.对手、竞争者
 - opportune a.恰好的、适时的、适当的、恰当的
@@ -120,7 +120,7 @@
 - overweight a.超重的、肥胖的
 - overwhelm v.压倒、淹没、压垮、征服、难以承受
 - overwhelming a.势不可挡的、压倒性的、无法抗拒的、(数量)巨大的
-- owe [əʊ] v.欠(债)、归功于、归因于
+- owe [əʊ] v.欠(债)、归功于、归因于  owing to 因为、由于
 - ownership n.产权、所有权、所有制
 - oxide n.氧化物
 - oxygen [ˈɒksɪdʒən] n.氧、氧气

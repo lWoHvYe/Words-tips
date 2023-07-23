@@ -24,6 +24,7 @@
 - undue a.不适当的、过分的、过度的
 - uneasy a.不安的、焦虑的、不稳定的
 - unemployment n.失业、失业率  unemployment rate 失业率  unemployment insurance 失业保险
+- unfold v.展现、呈现、展开、打开
 - unicast 点播、单播、单点传送
 - unidirectional a.单向的
 - unification n.统一、联合、一致

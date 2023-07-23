@@ -15,7 +15,7 @@
 - debate v.辩论、争论、讨论、仔细考虑、思考、盘算
 - debt [det] n.债务、借款、欠款、罪、过失  bad debts 坏账
 - decade 十年、十年期
-- decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落
+- decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落  beginning, growth, blossoming, and decay 开端、发展、兴盛和衰亡
 - deceive v.欺诈、误导
 - decelerate [ˌdiːˈseləreɪt] v.减速、减缓
 - decent a.体面的、得体的、相称的、正派的、相当不错的
@@ -38,8 +38,8 @@
 - default n/v.默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
 - defect 缺点、缺陷、瑕疵
-- defence/defense n.防御、保护
-- defend v.防御、保护、防卫
+- defence/defense n.防御、保护、辩护
+- defend v.防御、保护、防卫、为...辩护
 - defendant n.被告、a.被告的、辩护的
 - defensive a.防御的、保护的、辩护的
 - defer [dɪˈfɜː(r)] v.推迟、拖延、延期、服从、使推迟、使延期
@@ -138,6 +138,7 @@
 - devote v.致力于、奉献、投入
 - diagnose v.诊断、确诊
 - diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
+- diagonal [daɪˈæɡənl] n.斜线、对角线、a.斜线的、对角线的
 - diagram 图表、示意图、图解
 - dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
 - dialect 方言
@@ -158,6 +159,7 @@
 - digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
+- dilemma n.窘境、困境
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - dilution n.稀释
 - dim a.暗淡的、昏暗的、渺茫的、v.变暗淡
@@ -190,9 +192,11 @@
 - discrete a.离散的、分离的
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discretionary a.任意的、自由决定的
-- discriminate v.歧视、区别、辨别、a.有区别的
+- discriminate v.歧视、区别、辨别、a.有区别的  discriminate against 区别对待、歧视  
+- discrimination n.区别、歧视  sex discrimination 性别歧视  racial discrimination 种族歧视
 - discuss [dɪˈskʌs] v.商量、讨论、详述、论述
 - disease [dɪˈziːz] n.疾病
+- disgrace [dɪsˈɡreɪs] n.耻辱、v.使丢脸、使感到耻辱
 - disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
 - disgust [dɪsˈɡʌst] n/v.厌恶、反感
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
@@ -221,6 +225,7 @@
 - distance n.距离、间距、v.疏远、拉开距离
 - distasteful a.讨厌的、令人反感的
 - distinct a.不同的、明显的、清楚的、明白的、确切的
+- distinction n.差别、区别、卓越、荣誉
 - distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
 - distract v.分散(思想)、转移(注意力)、使分心、迷惑、扰乱

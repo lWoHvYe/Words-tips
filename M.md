@@ -3,6 +3,7 @@
 - madam [ˈmædəm] n.夫人、女士、小姐
 - magazine n.杂志、期刊、弹药库
 - magical a.神奇的、有魔力的
+- magnificent a.壮丽的、宏伟的、华丽的
 - magnify v.放大、增强、夸大、扩大
 - maid n.女仆
 - mainframe n.大型机、主机、中央处理机、主计算机
@@ -46,7 +47,8 @@
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
 - mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
 - massive a.大量的、大规模的、严重的、十分危急的、结实的
-- master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的
+- master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的、有技能的、最重要的
+- masterpiece n.杰作、名著
 - match v.比赛、匹配、n.火柴
 - mate n.伙伴、朋友
 - material n.材料、素材、a.实际的、物质的、重要的、必要的
@@ -55,7 +57,7 @@
 - maternal a.母亲的、母系的  maternal leave 产假、育婴假
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
 - matrix 矩阵、基质、模型、母体
-- matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响  a matter of ...的问题，大约、左右
+- matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响  a matter of ...的问题，大约、左右  as a matter of 出于...考虑  as a matter of fact事实上/course通常/routine按照惯例/princlple原则上
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
@@ -205,6 +207,7 @@
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
 - motor n.发动机、电动机
+- mountain n.山、山脉、许多、大量
 - mourn [mɔːn] v.哀悼、忧伤
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事

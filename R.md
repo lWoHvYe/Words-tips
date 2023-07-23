@@ -15,7 +15,7 @@
 - ramp n.斜坡、坡道
 - random a.随机的、无规则的、n.随机、随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
-- range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的
+- range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的  range from ... to ... 从...到...
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
 - rare [reə(r)] a.罕见的、稀少的
@@ -27,7 +27,7 @@
 - rationale n.根本原因，基本原理
 - rattle v.使紧张、使恐惧、n.咔哒声
 - raw a.原始的、生的、未加工的  raw material 原材料
-- ray n.射线、光束
+- ray n.射线、光束  X-ray X射线、X光
 - reach v.到达、抵达、够到、(用电话)联系、增加到、提升到、n.影响范围
 - react v.反应、回应、起反应
 - reaction n.反应、反对、副作用、不良反应
@@ -43,6 +43,7 @@
 - reap v.取得、收获、收割
 - reapply 再运用、再申请、重新申请
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
+- reason n.原因、理由、v.推理、推断
 - reasonable a.正当的、合理的、公平的、明智的、不太贵的
 - rebel [ˈrebl/rɪˈbel] v.反抗、背叛、造反
 - rebound v.反弹
@@ -174,6 +175,7 @@
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
+- republican [rɪˈpʌblɪkən] a.共和国的、共和党的
 - repute [rɪˈpjuːt] n.名誉、名声、v.把...称为、认为
 - reputation [ˌrepjuˈteɪʃn] n.名誉、名声
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
@@ -247,7 +249,7 @@
 - rewarding a.有益的、值得做的
 - rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
-- rigid a.僵硬的、严格的、顽固的、死板的
+- rigid a.僵硬的、严格的、刻板的、顽固的、死板的
 - ringtone n.铃声
 - rise n/v.上升、增加
 - risk  n.风险

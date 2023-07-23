@@ -76,6 +76,7 @@
 - inception n.开端、创始
 - incidence 发生率、影响范围、关联、接合、入射、入射角
 - incident 事件、事变、事端、摩擦、冲突、易引起的
+- incite [ɪnˈsaɪt] v.煽动、鼓动
 - inclination n.倾向、意愿、趋向、趋势
 - incline v.倾向于、有...趋势、倾斜、偏向、赞同、n.斜面、斜坡
 - inclusion 包含、包括
@@ -109,7 +110,7 @@
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
 - inherent a.固有的、内在的  inherent worth/value 内在价值
-- inherit v.继承、接替、继任
+- inherit v.继承、接替、继任、经遗传获得
 - initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət] v.开始、发起、创始
 - infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
 - infer v.推论、推理、推断、暗示、意指
@@ -207,7 +208,7 @@
 - intergradation :the act or process of intergrading or the state of being intergraded.
 - intergrade n.中间形式、过度阶段
 - interim [ˈɪntərɪm] a.临时的、过渡的、暂时的、n.间歇、过渡期间
-- interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的
+- interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的  interior detail 内部细节
 - interject v.打断、插话
 - interlace v.使交错、使交织
 - intermarriage n.通婚、近亲结婚
@@ -217,7 +218,7 @@
 - intermit v.间歇、暂停、中断
 - intermittent a.间歇性的、断断续续的
 - intern 实习生、实习医生、拘留、禁闭、关押
-- internal [ɪnˈtɜːnl] a.内部的、内心的、n.内脏、本质
+- internal [ɪnˈtɜːnl] a.内部的、内心的、国内的、n.内脏、本质
 - Internet n.互联网  surf on the Internet 网上冲浪 
 - interpersonal a.人际关系的、人际的
 - interplay n.相互作用、相互影响

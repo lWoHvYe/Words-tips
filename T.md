@@ -35,6 +35,7 @@
 - telemetry n.遥测、遥感勘测
 - teleology n.目的论
 - telescope n.望远镜
+- teletype n.电传打字机  tty 终端
 - telos 目的
 - temper n.脾气、怒气、v.使缓和、使温和
 - temperate a.温带的、温和的
@@ -62,6 +63,8 @@
 - terrible a.糟糕的、可怕的
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
+- terse a.精炼的、简洁的
+- test n/v.测试、实验🧪、试验
 - testify v.证明、证实、作证
 - testimony [ˈtestɪməni] n.证词、证明、口供
 - text n.正文、文本、文档
@@ -100,6 +103,7 @@
 - through 凭借、通过、穿过、自始至终
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
 - thrust 刺、冲、逼迫
+- thumb [θʌm] n.拇指
 - tick v.打上钩、n.记号、对号、信用、滴答声
 - ticker n.心脏
 - ticket n.票、入场券
@@ -112,8 +116,8 @@
 - tighten v.收紧
 - tile n.瓷砖
 - timeless a.永恒的、永久的
-- tin n.锡、罐、v.镀锡
-- tiny a.极小的、微小的  tinier(比较级)
+- tin [tɪn] n.锡、罐、v.镀锡
+- tiny [ˈtaɪni] a.极小的、微小的、微量的  tinier(比较级)  a tiny slice of 一小片
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - tire n.轮胎、头饰、v.疲劳、疲倦
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
@@ -122,11 +126,13 @@
 - toddle v.蹒跚行走
 - toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
-- tolerate 容许、允许、容忍
-- toll n.伤亡人数、通行费、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税
+- tolerance n.容忍、宽容、公差
+- tolerant a.容忍的、宽容的、能耐...的
+- tolerate v.容许、允许、容忍
+- toll n.通行费、伤亡人数、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税  toll on 对...产生严重影响
 - tomb 坟墓、冢、埋葬
 - tombstone n.墓碑、墓石
-- tone n.语气、语调、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
+- tone n.语气、语调、张力、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
 - tongue n.舌头
 - tool [tuːl] n.工具  high-technology tools and techniques 高科技工具和技术  an underrated tool 被低估的工具
 - toolkit n.工具包、工具箱
@@ -164,7 +170,7 @@
 - transit n.运输、中转、过境、交通运输系统、v.经过、穿过
 - transition [trænˈzɪʃn] n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
-- translate v.翻译、转化、解释
+- translate v.翻译、转化、解释、转变、变为
 - translator n.翻译、翻译家、译员
 - transmit [trænzˈmɪt] v.传输、传送、传播、传导、传染、发射
 - transparency n.透明、透明度

@@ -40,12 +40,13 @@
 - heat [hiːt] n.热、高温、激烈、v.加热
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
-- heavy a.沉的、重的、ad.大量地
+- heavy a.沉的、重的、繁忙的、ad.大量地
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - height [haɪt] n.身高、高度
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herd n.牧群、人群、v.群集
-- heritage n.遗产
+- heresy [ˈherəsi] n.异端
+- heritage n.遗产、传统
 - heroic [həˈrəʊɪk] a.英雄的、n.史诗
 - heroin [ˈherəʊɪn] n.海洛因
 - hesitant a.犹豫的、踌躇的
@@ -56,6 +57,7 @@
 - hierarchy [ˈhaɪərɑːki] 分层、层次、层次体系、等级制度、统治集团
 - high a.高的、高级的、高尚的、ad.在高处  be high in sth 富含某物  high school 中学、高中
 - highlight v.突出、强调、n.最好的部分、强光部分
+- hike n/v.徒步旅行、远足、(价格、花费等)大幅提高、猛增
 - hill n.山丘、斜坡
 - hinder v.阻碍、妨碍
 - hint n.暗示、示意、提示、征兆、迹象、v.暗示、透露、示意

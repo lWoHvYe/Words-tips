@@ -20,6 +20,9 @@
 - fallback 应变计划、退路、倒退
 - false a.错误的、不真实的、伪造的
 - fame n.声誉、名声、v.使出名、使闻名
+- familiar a.熟悉的、亲近的
+- famine [ˈfæmɪn] n.饥荒
+- famous a.著名的、出名的
 - fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起  electric fan 电风扇
 - fancy v.想象、设想、想要、n.设想、想象力、爱好、a.花哨的、精致的、优质的、昂贵的、奢华的
 - fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
@@ -32,8 +35,9 @@
 - farther n.父亲、创始人、v.创立、发明
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fat [fæt] n.脂肪、a.胖的、肥胖的
-- fate n.命运、注定
 - fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
+- fate n.命运、注定
+- fatigue [fəˈtiːɡ] n.疲劳
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、断层、v.发现错误
 - faulty a.错误的、有缺陷的、不完美的  faulty approach 错误的方法
 - favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
@@ -63,7 +67,7 @@
 - feudalism [ˈfjuːdəlɪzəm] n.封建主义
 - fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - few 很少、几乎没有
-- fiber [faɪbə] n.光纤、纤维
+- fibre/fiber [faɪbə] n.光纤、纤维
 - fictile a.陶土制的、n.陶制品
 - fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
 - ficus 无花果、榕系
@@ -94,12 +98,15 @@
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
 - flammable 易燃的、可燃的
+- flash [flæʃ] n/v.闪光
 - flat a.平的、扁平的、水平的、单调的、干脆的、断然的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
 - flatten v.压平、变平、把...弄平、摧毁
+- flatter v.奉承、讨好、使显得更漂亮、使胜过本人
 - flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
 - flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效  flawed understanding of ... 对...的理解有偏差
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
+- flesh n.肉、肉体、水果/蔬菜的可食部分、v.长胖  flesh up 长肥  flesh out 充实、具体化  flesh tone 肤色
 - flexible a.灵活的、柔韧的、有弹性的
 - flight n.航班、飞行、飞翔、v.使...在空中飞行、射击
 - flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
@@ -110,13 +117,16 @@
 - flu n.流行性感冒、流感
 - fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定
 - fluent a.流利的、流畅的
+- flush n/v.冲洗、脸红
 - flyout n.弹出按钮
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
 - foe n.敌人、仇敌
-- fold v.折叠  eightfold 八倍、八重
+- fold v.折叠、对折、n.褶痕、褶皱  eightfold 八倍、八重
 - folk n.人们、各位、大伙、大众、a.民间的、民俗的
+- footnote n.脚注
 - footprint n.脚印、足迹、踪迹 memory footprint 内存占用
+- for [fɔː(r)/fə(r)] prep.为、为了、关于、conj.因为、由于
 - forbid v.禁止、阻止、阻碍、妨碍
 - force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - fore n.船头、前面、前部、a.在前部的
@@ -180,6 +190,7 @@
 - frustration n.挫折、挫败、失意、失败
 - fuel [ˈfjuːəl] n.食物、燃料、刺激物、v.给...提供燃料、加油、增加、加强、刺激
 - fulfil/fulfill v.完成、履行、执行、实现、符合、满足、起...作用
+- full a.完全的、满的
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础

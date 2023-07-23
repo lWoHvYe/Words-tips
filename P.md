@@ -17,7 +17,7 @@
 - parachute n.降落伞、保护伞、v.空降、空投
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
 - paradigm [ˈpærədaɪm] n.模范、范例、范式
-- paradise n.天堂、乐园
+- paradise [ˈpærədaɪs] n.天堂、乐园、伊甸园
 - paradox n.悖论、矛盾的人或事物
 - paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
@@ -52,6 +52,7 @@
 - patriot [ˈpætriət] n.爱国者
 - patriotism [ˈpætriətɪzəm] n.爱国主义
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
+- pause [pɔːz] n/v.暂停、停顿
 - pave v.铺、铺路
 - payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
@@ -130,7 +131,7 @@
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
 - pillar n.支柱、v.成为...的栋梁
-- pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的
+- pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的  auto-pilot 自动驾驶
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
 - pinch [pɪntʃ] v.拧、捏、捏住
 - pink n.粉红色
@@ -166,7 +167,8 @@
 - plunge v.暴跌、骤降
 - plural [ˈplʊərəl] n.复数、复数形式、a.复数的、多元的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
-- pocket 口袋、金钱、财富
+- pocket n.口袋、金钱、财富
+- pocketbook n.皮夹、记事本
 - podcast n.播客
 - poem n.诗、韵文
 - poet n.诗人
@@ -181,7 +183,7 @@
 - political a.政治的、政府的、政权的
 - politician n.政治家、政客
 - politics [ˈpɒlətɪks] n.政治
-- poll v.投票、民意调查
+- poll n/v.投票、民意调查
 - pollen n.花粉
 - pollute v.污染、弄脏
 - polyglot [ˈpɒliɡlɒt] a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
@@ -189,6 +191,7 @@
 - pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
 - pool n.水塘、共用的资源、v.集中资源
+- pop n.流行音乐、汽水、v.突然出现、爆裂、张大、a.流行的  pop star 流行歌手  pop into one's mind 突然出现/想到
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - population n.人口
@@ -214,7 +217,7 @@
 - potash [ˈpɒtæʃ] n.钾碱、钾肥
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
 - pound n. £ 英镑、v.砰砰的跳、反复击打、捣碎
-- pour 倾、倾泻、涌出、大雨、浇筑
+- pour v.倾、倾泻、涌出、n.大雨、浇筑
 - poverty [ˈpɒvəti] n.贫困
 - power n.能力、权力、力量、电能、有影响力的大国、幂、乘方、v.驱动、推动、运转  turn the power off 关掉电源  power failure 断电
 - powerhouse n.强大的集团或组织、精力充沛的人
@@ -325,7 +328,7 @@
 - prohibit v.禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - projection n.预测、规划、估计、投影、体现、形象化
-- prominent a.重要的、著名的、杰出的、突出的
+- prominent a.重要的、著名的、杰出的、突出的  prominent figure 杰出人物
 - promise n/v.允许、许诺、承诺、保证、指望、有指望
 - promising a.有希望的、有前途的
 - promote [prəˈmoʊt] v.促进、推动、提升、晋升、晋级

@@ -158,8 +158,9 @@
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
+- allegiance [əˈliːdʒəns] n.忠诚、效忠
 - alleviate [əˈliːvieɪt] v.减轻、缓和、缓解
-- alliance n.结盟、联盟、同盟
+- alliance [əˈlaɪəns] n.结盟、联盟、同盟
 - allocate v.分配、分派、拨...(给)、划...(归)
 - allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
@@ -179,16 +180,17 @@
 - amber 琥珀、琥珀色
 - ambiguity [ˌæmbɪˈɡjuːəti] n.含糊、模棱两可、歧义
 - ambiguous [æmˈbɪɡjuəs] a.模棱两可的、含糊不清的、不明确的
-- ambition n.雄心、抱负、夙愿
-- ambitious [æmˈbɪʃəs] a.有雄心的、费力的、耗资的、耗时的
+- ambition n.雄心、抱负、夙愿  literature ambitions 文学抱负
+- ambitious [æmˈbɪʃəs] a.有雄心的、有抱负的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
 - amendment n.修订、修正案
 - amicable a.友好的、友善的
 - amid prep.在...中间、在...之中
-- ammount 数量、金额、合计、等同
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
+- amount 数量、金额、合计、等同  amount to 总计、等于、相当于
 - ampersand [ˈæmpəsænd] n. & (and符号)
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
+- amplifier n.放大器、扩音器
 - amuse v.娱乐、消遣
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogous a.相似的、类似的
@@ -198,6 +200,7 @@
 - analyst [ˈænəlɪst] n.分析师、化验员
 - analytic(al) a.分析的、分解的
 - anatomy [əˈnætəmi] n.解剖、解剖学、剖析
+- ancestor n.祖宗、祖先、原型
 - ancestry [ˈænsestri] n.祖先、祖宗
 - anchor n.锚、靠山、主播、v.抛锚、停泊、主持
 - ancient [ˈeɪnʃənt] a.古代的、古老的、n.古代人
@@ -217,7 +220,7 @@
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antique a.古时的、古老的、n.古物、古董
 - antitrust a.反垄断的、反托拉斯的
-- anxious a.焦虑的
+- anxious [ˈæŋkʃəs] a.焦虑的、渴望的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑
 - anyway ad.无论如何                                      
 - apart ad.分离、分开、相距、相隔、除外、a.分离的、隔离的、不同的
@@ -240,6 +243,7 @@
 - appointment n.任命、委派、约会、约定、职务、职位
 - apportion v.分配、分摊、分派
 - appraisal n.评价、估价、鉴定
+- appraise v.评价、估价、估量
 - appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
 - apprehension n.忧虑、担心、理解、领悟、拘捕
 - approach v.接近、靠近、探讨、处理、对待、n.方法、路径、建议、要求
@@ -264,12 +268,13 @@
 - army n.军队、陆军、野战军
 - arouse [əˈraʊz] v.引起、唤起、激起、激发、唤醒
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
-- array n.数组、阵列、大批、大量、v.布置、排列
+- array n.数组、阵列、大批、大量、v.布置、排列  an array of 一大批
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
 - arrival n.到达、到达者、到达物
 - arrive v.到达、抵达、发生、到来
 - arrogant [ˈærəɡənt] a.傲慢的、自大的
 - arrow n.箭头
+- art n.艺术、人文科学、文科
 - arthritic a.关节炎的
 - arthritis n.关节炎
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
@@ -277,6 +282,7 @@
 - artificial a.人工的、人造的、人为的、虚假的
 - asap (as soon as possible) 尽快
 - Asia ['eɪʒə] n.亚洲
+- aside ad.到一边、向一边、向旁边、(放在名词后)除...之外  set aside 放弃、留出、空出
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
 - aspiration n.渴望、抱负
@@ -352,6 +358,7 @@
 - avail 效用、利益、有帮助、有用
 - available [əˈveɪləbl] a.可利用的、可获得的、有空的、能找到的
 - avalanche [ˈævəlɑːnʃ] n.雪崩、山崩  an avalanche of 大量的
+- avenge v.复仇
 - avenue n.大街、大道、途径、渠道、手段
 - average a.平均的、平常的、普通的
 - averse a.讨厌、厌恶、不喜欢、不想做、反对做

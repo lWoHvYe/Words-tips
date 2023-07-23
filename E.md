@@ -7,6 +7,7 @@
 - eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
 - eavesdrop v.偷听、窃听
 - echo [ˈekəʊ] n/v.回声、回响、共鸣
+- eclipse [ɪˈklɪps] n.蚀、日食、月食、v.使相形见绌、遮住...的光
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -46,7 +47,7 @@
 - ellipse [ɪˈlɪps] n.椭圆
 - ellipses n.省略号 ...
 - embark v.开始、着手、从事、上船、装船
-- embarrass v.窘迫、尴尬、局促不安
+- embarrass [ɪmˈbærəs] v.窘迫、尴尬、局促不安
 - embed [ɪmˈbed] v.把...嵌入、嵌入、派遣
 - embody v.象征、体现、包含、包括、使具体化
 - embrace v.拥抱、接受、乐意采纳、信奉、n.拥抱
@@ -55,7 +56,7 @@
 - emerging v.emerge的现在分词、a.新兴的
 - emigrant n.移民、移居外国的人
 - emigrate v.移民、移居国外
-- eminent [ˈemɪnənt] a.杰出的、卓越的、显著的
+- eminent [ˈemɪnənt] a.杰出的、卓越的、显著的、有声望的
 - emission n.发出、排放、排放物、散发物
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
@@ -107,6 +108,9 @@
 - enterprise n.企业、事业单位、事业、事业心、进取心
 - entertain [ˌentəˈteɪn] v.招待、款待、使快乐、娱乐、抱有、怀有
 - entertainment n.娱乐节目、娱乐、消遣、招待、款待
+- enthus [ɪnˈθjuːz] v.使热心、使热情
+- enthusiasm n.热情、热心、热衷的事物  display great enthusiasm for 对...表现出极大的热情
+- enthusiastic a.热心的、热情的、狂热的
 - entire a.整个的、全部的、完全的、n.全体、整体
 - entitle v.授权，赋予权利、使享有权利、使符合资格、给...题名
 - entitlement n.权利、资格、津贴
@@ -162,8 +166,9 @@
 - esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
 - estimate v.估计、估算、估价、n.估计、预测、报价
 - Ethernet n.以太网
-- ethic n.伦理、伦理观、道德体系
+- ethic n.伦理、伦理观、道德体系、道德规范、行为准则  work ethic 职业道德
 - ethical a.道德的、伦理的
+- ethically ad.道德上、伦理上
 - ethnic a.民族的、种族的、n.少数民族的人
 - etiquette [ˈetɪkət] n.礼仪、礼节
 - euro [ˈjʊərəʊ] € 欧元
@@ -214,7 +219,7 @@
 - exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
 - exert [ɪɡˈzɜːt] v.发挥、运用、施加
 - exfiltrate 渗出、渗漏、滤出、流出
-- exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、是精疲力尽、用完、花光、详尽讨论、排气、废气、排气管
+- exhaust [ɪɡˈzɔːst] v.排出、用尽、耗尽、使精疲力尽、用完、花光、详尽讨论、排气、n.废气、排气管
 - exhaustion n.耗尽、精疲力尽、疲惫、枯竭
 - exhaustive a.详尽的、彻底的、全面的
 - exhibit [ɪɡˈzɪbɪt] v.展览、展出、表现、呈现、证明、n.展览、陈列、物证、证据
@@ -256,7 +261,7 @@
 - extension n.扩大、延伸、延期
 - extensive a.广阔的、广大的、大量的、广泛的
 - exterior n.外部、外表、a.外部的、外表的
-- external a.外面的、外部的、n.外面、外部、外观
+- external a.外面的、外部的、n.外面、外部、外观  external impact 外在影响  external sources 外部来源
 - externalize 外化、表达
 - extinct [ɪkˈstɪŋkt] a.灭绝的、绝种的
 - extra a.额外的、附加的、ad.额外、另外
@@ -265,4 +270,4 @@
 - extranet n.外联网、外部网络
 - extraordinary a.特别的、非凡的、意想不到的
 - extravagant a.奢侈的、过度的、过分的、放肆的
-- extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的
+- extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的  take ... to extreme 把...发挥到极致
