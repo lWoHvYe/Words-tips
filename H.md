@@ -1,6 +1,6 @@
 - habit n.习惯、习性
 - habitat n.产地、栖息地
-- hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的
+- hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的  phone hacking 电话窃听
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halo [ˈheɪləʊ] n.光环、(日月等的)晕
@@ -19,7 +19,7 @@
 - hardware n.硬件、五金器具
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
-- harsh a.残酷的、恶劣的、严酷的
+- harsh a.残酷的、恶劣的、严酷的、粗糙的、刺耳的  harsh reality 残酷的现实
 - harvest 收割、收获
 - hash [hæʃ] n.#号
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
@@ -27,6 +27,7 @@
 - hate n/v.厌恶、憎恨
 - hatred [ˈheɪtrɪd] n.仇恨、憎恨
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
+- hawk [hɔːk] n.鹰、主站分子、v.沿街叫卖、兜售
 - head n.头、头脑、领导、主管、v.朝着...行进
 - headcount/hc 公司HR预计招聘的员工人数 
 - headline n.大字标题、新闻摘要
@@ -74,7 +75,7 @@
 - hono(u)r n.尊重、荣誉、荣耀、v.尊敬、[金融]承兑、兑现
 - hood n.兜帽、篷、罩、v.罩上、覆盖
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
-- horizon n.地平线
+- horizon [həˈraɪzn] n.地平线、范围、眼界、见识
 - horizontal [ˌhɒrɪˈzɒntl] a.水平的、横的、n.水平面、水平线、横线
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
@@ -86,7 +87,7 @@
 - hostile a.敌对的、敌意的、不利的
 - hostility n.敌意、敌视、反对、抵制
 - hot a.温度高的、热的、辣的、热门的、最新的、新近的、棘手的
-- House n.下议院
+- House n.众议院、下议院
 - household n.家庭、家人、a.家庭的、家务的、家常的
 - housewife n.家庭主妇
 - housework n.家务

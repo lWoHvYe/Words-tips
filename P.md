@@ -1,4 +1,4 @@
-- pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏  at ... pace 以...速度
+- pace n.一步、步幅、步调、步伐、踱步、节奏、v.调整节奏、踱步、用步测  at ... pace 以...速度
 - pacify v.安抚、平息、使平静
 - pack n.包裹、一群、一副、v.打包、塞满  be packed with 塞满
 - package n.包裹、包装袋、软件包、a.一揽子的  package deal 一揽子协议
@@ -54,6 +54,7 @@
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - pause [pɔːz] n/v.暂停、停顿
 - pave v.铺、铺路
+- paw n.爪子
 - payment n.付款、支付、收款、款项
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - pearl [pɜːl] n.珍珠、v.采珍珠
@@ -83,6 +84,7 @@
 - periodic 周期的、定期的、时而发生的、间歇的
 - periodical [ˌpɪəriˈɒdɪkl] n.期刊、杂志
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
+- perish [ˈperɪʃ] v.死亡、湮灭、老化
 - permanent [ˈpɜːmənənt] a.永久的、永恒的、长久的、n.烫发
 - permeate v.散布、传播、弥漫、渗透、渗入
 - permission n.准许、许可、许可证
@@ -123,7 +125,7 @@
 - physics [ˈfɪzɪks] n.物理
 - physiology n.生理学
 - piano n.钢琴
-- pick v.采、摘、挑选  pick up 拿起、捡起、获得、学会、逮捕
+- pick v.采、摘、挑选  pick up 拿起、捡起、获得、学会、逮捕、(经济)好转
 - pickup n.改善、改进、好转、皮卡、a.临时拼凑的
 - picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
 - pie [paɪ] n.馅饼、派
@@ -231,12 +233,14 @@
 - pray v.祈祷、祷告
 - prayer n.祈祷、祈祷文、经文
 - preach n/v.宣讲、布道、说教
+- precautionary a.预防的
 - precede v.先于、优于、在...之上
 - precedent n.先例
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precipitate [prɪˈsɪpɪteɪt/prɪˈsɪpɪtət] v.加速(坏事的发生)、n.沉淀物、析出物
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - precisely ad.准确地、精确地、确实、正是
+- precision n.精确、准确
 - predatory a.捕食性的、食肉的
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
@@ -251,9 +255,10 @@
 - prejudice n.偏见、成见、v.使有偏见、损害
 - preliminary a.预备的、初步的、n.序言、开场白、预赛
 - premature a.过早地、早产的、提前的、草率的
+- premia n.溢价、风险溢价
 - premier a.首要的、最先的、最早的、n.总理、首相
-- premise n/v.前提、假定
-- premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的
+- premise n/v.前提、假定  a basic premise 基本前提
+- premium [ˈpriːmiəm] n.保险费、额外费用、附加费、a.优质的、高昂的  put a premium on 重视、珍视
 - preparation [ˌprepəˈreɪʃn] n.准备、准备工作、配制品、制剂
 - prepare [prɪˈpeə(r)] v.准备、筹备
 - prerequisite n.前提、先决条件、a.必要的
@@ -343,7 +348,7 @@
 - propaganda [ˌprɒpəˈɡændə] n.宣称、鼓吹
 - propagate v.传播、宣传、繁衍、增殖
 - proper a.适当的、正确的、恰当的、正当的、规矩的、ad.非常、完完全全地、彻底地
-- properly 正确的、适当的、恰当的、完全、非常
+- properly a.正确的、适当的、恰当的、ad.完全、非常
 - property [ˈprɒpəti] n.财产、资产、所有物、性质、特性、属性
 - propagate 传播、宣传、繁殖、增值
 - propel v.推进、推动
@@ -354,10 +359,11 @@
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
 - prose n.散文、白话文
-- prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、继续从事
+- prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、告发、继续从事
+- prosecutor n.公诉人、检察官、原告律师
 - prospect n.展望、设想、前景、可能性、景色、v.探矿、勘探
-- prosper v.繁荣、兴旺、成功、发达
-- prosperity n.兴旺、繁荣、成功、昌盛
+- prosper [ˈprɒspə(r)] v.繁荣、兴旺、成功、发达
+- prosperity [prɒˈsperəti] n.兴旺、繁荣、成功、昌盛  prosperity and security 繁荣与稳定
 - protect v.保护、防护、实行贸易保护 protect...from... 保护...免受...
 - protein [ˈprəʊtiːn] n.蛋白质
 - protest n/v.抗议、反对
@@ -375,6 +381,7 @@
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
+- prudent [ˈpruːdnt] a.小心的、谨慎的、慎重的
 - pry n/v.窥探、探听
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗

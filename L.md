@@ -78,10 +78,12 @@
 - likewise [ˈlaɪkwaɪz] ad.同样地、也、亦、又
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
+- line n.线、路线、排列、纵列
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - lineup n.阵容、列队辨认
 - linger v.逗留、徘徊、继续存留
-- linguistic a.语言的、语言学的
+- linguistic [lɪŋˈɡwɪstɪk] a.语言的、语言学的
+- lining [ˈlaɪnɪŋ] n.衬里、内衬、膜
 - link v.联系、连接、n.链接、联系、关系、纽带、环节
 - linkage n.联系、连锁、联动
 - linux ['lɪnəks] 

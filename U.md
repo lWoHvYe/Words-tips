@@ -31,6 +31,7 @@
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
 - unilateral [ˌjuːnɪˈlætrəl] a.片面的、单方的
+- unintentional a.无意的、非故意的
 - union [ˈjuːniən] n.同盟、联盟、联邦、协会、工会
 - unit n.单元、单位、机构
 - unite [juˈnaɪt] v.团结、合并、统一

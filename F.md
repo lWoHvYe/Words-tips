@@ -104,7 +104,7 @@
 - flatter v.奉承、讨好、使显得更漂亮、使胜过本人
 - flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
-- flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效  flawed understanding of ... 对...的理解有偏差
+- flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效、使破裂  flawed understanding of ... 对...的理解有偏差
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
 - flesh n.肉、肉体、水果/蔬菜的可食部分、v.长胖  flesh up 长肥  flesh out 充实、具体化  flesh tone 肤色
 - flexible a.灵活的、柔韧的、有弹性的
@@ -112,7 +112,7 @@
 - flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
 - flock n.群、聚集、群集
 - flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
-- flourish 茂盛、繁荣、活跃、挥舞
+- flourish v.茂盛、繁荣、活跃、挥舞
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感
 - fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定
@@ -166,6 +166,7 @@
 - foundational 基础的、基本的
 - fractal n.分形、不规则图形
 - fraction [ˈfrækʃn] n.分数、小部分、小数、少量、片段
+- fracture n.骨折、v.断裂、破裂
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织

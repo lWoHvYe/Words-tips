@@ -12,6 +12,7 @@
 - valuation n.估价、估值、评估、评价
 - value n.价值、价格、用途、v.重视、珍视、给...估价
 - van n.面包车、先驱、前驱、领袖
+- vanilla [vəˈnɪlə] n.香草、香草香精、a.香草味的
 - vanish [ˈvænɪʃ] v.消失、灭绝、突然不见
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
@@ -42,6 +43,7 @@
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
+- vessel n.容器、血管、船
 - vet v.审查、仔细检查、n.兽医
 - veto [ˈviːtəʊ] n.否决权、v.否决
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
@@ -57,11 +59,14 @@
 - violence n.暴力、暴行
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
 - viral [ˈvaɪrəl] a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
-- virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实
+- virgin [ˈvɜːdʒɪn] n.处女、新手、无经验的人、a.处女的、未经开发的、未经使用的、原始状态的
+- virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实  virtual currency 虚拟货币
 - virtually ad.几乎、差不多、事实上、实际上
 - virtue [ˈvɜːtʃuː] n.美德、德行、良好习惯、优点、长处
+- virtuosity n.精湛技艺
+- virtuoso [ˌvɜːtʃuˈəʊsəʊ] n.大师、演奏家、a.技艺精湛的、技艺超群的
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
-- virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠
+- virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠  Coronavirus disease [kəˈrəʊnəvaɪrəs] COVID-19 2019冠状病毒疾病/新冠
 - visible a.可见的、明显的、n.现实世界
 - vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、v.想象  business vision 企业愿景、经营前景
 - visor [ˈvaɪzə(r)] n.面罩、遮阳板

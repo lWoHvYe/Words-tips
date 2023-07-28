@@ -6,7 +6,7 @@
 - aboard ad/prep.在船上、上船或飞机
 - abolish [əˈbɒlɪʃ] v.废除、废止  abolish slavery 废除奴隶制
 - abort n/v.中止、退出、夭折
-- abound [əˈbaʊnd] v.大量、大量存在、有许多
+- abound [əˈbaʊnd] v.大量、大量存在、有许多、充足
 - abroad n.国外、海外、ad.到国外、在国外、广为流传  go abroad 出国
 - abrupt a.陡峭的、突然的、唐突的、生硬的、不连贯的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
@@ -65,7 +65,7 @@
 - activity [ækˈtɪvəti] n.活动、活跃、行为
 - actual a.实际的、真实的、现在的、现行的  actual needs 实际需要
 - actuator 致动器、传动、执行机构
-- acute 严重的、急性的、灵敏的、敏锐的、锐角的
+- acute a.严重的、急性的、灵敏的、敏锐的、锐角的  acute crisis 严重的危机
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - Adam n.亚当
 - adapt v.使适应、使适合、改编、改写  adapt to 适应...
@@ -117,6 +117,7 @@
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
 - afford v.提供、给予、负担得起、买得起、有能力做
+- afloat [əˈfləʊt] ad.漂浮、能维持下去、有偿债能力
 - afresh ad.重新开始、重新、从头
 - afterward ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
@@ -127,6 +128,7 @@
 - agile [ˈædʒaɪl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
 - agitate 鼓动、煽动、使焦虑、使不安、搅动
+- aggravate [ˈæɡrəveɪt] v.使恶化、加剧
 - aggregate a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - aggress v.攻击、侵略
@@ -187,7 +189,7 @@
 - amicable a.友好的、友善的
 - amid prep.在...中间、在...之中
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
-- amount 数量、金额、合计、等同  amount to 总计、等于、相当于
+- amount 数量、金额、合计、等同  amount to 总计、等于、相当于、接近、充其量
 - ampersand [ˈæmpəsænd] n. & (and符号)
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amplifier n.放大器、扩音器
@@ -277,6 +279,7 @@
 - art n.艺术、人文科学、文科
 - arthritic a.关节炎的
 - arthritis n.关节炎
+- article n.文章、报道、冠词
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
@@ -336,6 +339,8 @@
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
 - auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
+- audience n.观众
+- audit n/v.审计、旁听
 - augment [ɔːɡˈment] v.扩大、增加、提高、加强
 - august [ɔːˈɡʌst] a.威严的、庄严的、n.August 八月
 - aura n.气氛、氛围

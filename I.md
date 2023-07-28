@@ -18,9 +18,11 @@
 - if conj.如果、假设、是否
 - ignorant [ˈɪɡnərənt] a.不了解的、不知道的、无知的、愚昧的
 - ignore v.忽略、忽视、不顾、驳回
+- ill a.生病的、不好的
 - illegal a.不合法的、非法的、违法的
 - illiberal a.不自由的、吝啬的
 - illiquid a.流动性差的、非流动的
+- illness n.疾病
 - illuminate [ɪˈluːmɪneɪt] v.照亮、阐明、解释
 - illusion [ɪˈluːʒn] n.幻觉、幻想、错觉、错误的观念
 - illusory a.虚幻的、幻觉的
@@ -65,6 +67,8 @@
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
 - impressive a.给人印象深刻的
+- imprison [ɪmˈprɪzn] v.监禁、关押、禁锢、束缚  imprison the mind 禁锢思想
+- imprisonment n.囚禁、服刑、刑期
 - improper 不合适的、不正确的、不道德的、不合礼仪的
 - improve 提高、改进、改善
 - improvise v.即兴创作、临时拼凑
@@ -106,6 +110,7 @@
 - industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司
 - industrialist n.工业家、实业家
 - industrialize/industrialise v.工业化
+- industrious a.勤奋的、勤劳的  industriousness and thrift 勤俭节约
 - industry n.工业、行业、勤奋、勤劳
 - inevitable a.不可避免的、必然发生的、n.必然发生的事
 - inexorable [ɪnˈeksərəb] a.无情的、不可阻挡的、不可逆转的、无法改变的
@@ -184,7 +189,7 @@
 - insure v. 投保、承保、确保
 - intake n.吸入、摄入、进气 intake form 登记表
 - integral a.完整的、必须的、积分的、n.积分、整体
-- integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的
+- integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的  integration with 集成
 - integrity [ɪnˈteɡrəti] n.完整、完整性、廉正、正直、诚实、保存、健全
 - intellectual a.智力的、有才智的、n.知识分子
 - intelligible 可理解的、易懂的
@@ -197,7 +202,7 @@
 - intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的  labor-intensive 劳动密集型
 - intent n.目的、意图、a.热切的、专切的
 - intention n.打算、意图、目的、计划
-- intentional a.故意的、蓄意的
+- intentional a.有意的、故意的、蓄意的
 - inter v.埋葬
 - interact v.相互作用、相互影响、互动、交流、沟通、合作
 - intercept 拦截、截住、截听、拦截者

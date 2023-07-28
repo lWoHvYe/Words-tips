@@ -55,6 +55,7 @@
 - reception n.接待、招待、招待会、反应、反响
 - recession n.经济衰退、经济萧条、经济萎缩、不景气、后退、撤回
 - recipe n.配方、食谱、处方、秘诀
+- recipient [rɪˈsɪpiənt] n.收件人、接收方
 - reciprocal [rɪˈsɪprəkl] a.互惠的
 - reciprocate v.回应、回报
 - reciprocity [ˌresɪˈprɒsəti] n.互惠、互助
@@ -203,6 +204,8 @@
 - respectable a.正派的、体面的、可敬的
 - respectful a.有礼貌的
 - respective a.分别的、各自的、单独的
+- respirator [ˈrespəreɪtə(r)] n.口罩、面罩
+- respiratory a.呼吸的  SARS Severe Acute Respiratory Syndrome 非典型肺炎
 - respire v.呼吸
 - respond v.回应、响应、作出反应
 - response n.回答、答复、反应、响应
@@ -262,6 +265,7 @@
 - robustness n.鲁棒性、健壮性
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
 - role n.角色、作用、地位、职能
+- roll n.卷、卷轴、一卷、v.滚动、卷起、把...轧(ya)平  roll into one 合二为一
 - rollout 首次发行、公开展示  rollout time 推出时间
 - roman a.罗马的、n.罗马人、罗马字体
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的

@@ -61,7 +61,7 @@
 - beware v.当心、提防
 - bewilder v.使困惑、使迷惑
 - bewitch v.蛊惑、迷惑、使中魔法
-- beyond 超过、超出、那一边、在远处
+- beyond prep.超过、超出、ad.那一边、在远处
 - bias n.偏见、偏心、偏向、v.使偏向、使有偏见、a.斜的、偏动的
 - bid [bɪd] n/v.投标、出价、命令、吩咐  make bids for 努力争取
 - bidirectional a.双向的
@@ -94,7 +94,7 @@
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
 - blood n.血液
 - blossom [ˈblɒsəm] v.开花、兴旺时期
-- blow v.吹、刮、打击  
+- blow v.吹、刮、打击
 - blower n.吹风机
 - blueprint n.蓝图
 - blunder n.愚蠢或粗心的错误、v.犯愚蠢或粗心的错误、踉踉跄跄的走  blunder into (因看不见)撞上某物、无意中陷入(困境)、偶然遇到(尴尬事)
@@ -122,7 +122,7 @@
 - born v.出生、形成、a.天生的
 - borrow v.借入、借贷
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
-- bound 跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、正旅行去 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
+- bound n/v.跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、受约束的、有义务的、开往...的 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
 - bountiful [ˈbaʊntɪfl] a.慷慨的、大方的、大量的
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
@@ -132,6 +132,7 @@
 - brain [breɪn] n.脑、智力、逻辑思维能力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)  brand new 全新的、崭新的
+- brave a.勇敢的、无畏的
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
 - breadth [bredθ] n.宽度、(知识、兴趣等)广泛
@@ -140,6 +141,8 @@
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
 - breathe 呼吸、活着、生存
+- bribe [braɪb] n/v.贿赂、行贿
+- bribery n.行贿、[法]贿赂
 - brick n.砖、砖块
 - bride n.新娘
 - bridge n.桥、桥梁、纽带、v.在...建桥、跨过、度过 bridge loan 过渡性贷款、临时性贷款
@@ -147,7 +150,7 @@
 - bright a.明亮的、聪明的、有希望的
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - British [ˈbrɪtɪʃ] n.英国人、a.英国的
-- broad a.宽阔的、广阔的、概括的、明显的
+- broad a.宽阔的、广阔的、宽泛的、概括的、明显的
 - broadcast v.广播、散布、传播
 - broaden 扩大、拓宽、增长
 - brochure [ˈbrəʊʃə(r)] n.手册、小册子

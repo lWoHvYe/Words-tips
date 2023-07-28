@@ -55,7 +55,7 @@
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
 - deify [ˈdeɪɪfaɪ] v.神化
-- delay n/v.延迟、推迟、延期
+- delay n/v.延迟、推迟、延期、耽搁
 - delegate v.代表、把...委派、选派、n.代表
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
@@ -177,6 +177,7 @@
 - disable v.使无效、使丧失能力
 - disability n.残疾、缺陷、障碍
 - disaster [dɪˈzɑːstə(r)] n.灾难、灾害、不幸
+- disastrous [dɪˈzɑːstrəs] a.灾难性的、极糟糕的  disastrous impact 灾难性的影响
 - discard v.丢弃
 - discern v.看出、理解、识别、辨别、分辨出、听出
 - discharge v.准许离开、解雇、免除、释放、n.履行、执行、清偿
@@ -233,7 +234,7 @@
 - distribute v.分配、分布、分销、使散开、使分散
 - distribution n.分配、分布、经销、分销、配送
 - district n.地区、区域、区、行政区
-- disturb 打扰、干扰、使焦虑、使不安
+- disturb v.打扰、干扰、使焦虑、使不安
 - diverge v.偏离、分歧
 - divergent a.发散的、有分歧的、不同的、相异的
 - diverse [daɪˈvɜːrs] a.多种多样的、不用的
@@ -260,13 +261,14 @@
 - dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
 - dormant a.睡着的、休眠的、蛰伏的
-- down [daʊn] 向下、停机、沮丧、失落
+- down [daʊn] 向下、停机、沮丧、失落、击落
 - denominate [dɪˈnɑːmɪneɪt] 命名、称呼
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
 - dot n.点、句点  dot-com 网络公司/互联网经济
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] n/v.怀疑、疑虑、未确定
+- dove n.鸽子
 - downplay v.淡化、对...轻描淡写、使轻视、贬低
 - downside n.缺点、弊端、不利方面  反义:upside
 - downstream 下游的、引发的、顺流而下
@@ -278,11 +280,13 @@
 - drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - dramatize v.使戏剧化、将...改编成剧本、使引人注目
-- drastic a.激烈的、猛烈的、极端的、严厉的、彻底的
+- drastic a.激烈的、猛烈的、极端的、严厉的、彻底的  drastic change 剧变
 - draw v.绘画、拖、拉、吸引、提取、抽出、抽签、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税
 - drawn a.憔悴的、苍白的
 - drawn-out 持久的
+- dread [dred] v.畏惧、非常害怕、敬畏
+- dreadful a.可怕的、糟糕透顶的、极严重的
 - dress [dres] n.连衣裙、礼服、v.穿衣、打扮
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill 训练、操练、演习、钻、钻头

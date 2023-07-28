@@ -8,7 +8,7 @@
 - calculus n.微积分、结石
 - caulk v.填、堵、n.密封剂
 - call v.呼叫、号召  call for 呼吁、请求  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
-- calm 平静的、镇静的、使平静、宁静的状态
+- calm [kɑːm] a.平静的、镇静的、v.使平静、n.宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
@@ -37,6 +37,7 @@
 - carbonate n.碳酸盐
 - cardinality n.基数
 - care n.照顾、照料、小心、忧虑、v.关心、关怀、在意、介意 take care of 照顾、照料、承担、处理、负责 care for 照管、关心、喜欢
+- career [kəˈrɪə(r)] n.职业、生涯
 - carefree a.无忧无虑的
 - cargo n.货物
 - carnival 嘉年华、狂欢节、节日、联欢
@@ -54,7 +55,7 @@
 - catalog n.目录、一览表、系列、种类、v.编目录、登记分类
 - catalogue n.目录、v.编目录、登记分类、记载
 - catalyst n.催化剂
-- catastrophe [kəˈtæstrəfi] 大灾难、悲剧的结局、灾变
+- catastrophe [kəˈtæstrəfi] n.大灾难、悲剧的结局、灾变
 - catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  过去式/过去分词caught  catch up 追上、赶上
 - category n.类型、类别、种类
 - cater v.满足需要、迎合、提供饮食  cater to/for 
@@ -62,7 +63,7 @@
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
 - caution n/v.警告、告诫、小心、慎重
-- cautious a.小心的、谨慎的
+- cautious a.小心的、谨慎的  be cautious about 小心...
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
 - cease [siːs] v.停止、结束
@@ -117,6 +118,7 @@
 - chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
 - chemistry [ˈkemɪstri] n.化学
+- cherish [ˈtʃerɪʃ] v.珍爱、珍惜、怀有
 - chest n.胸腔、胸部
 - chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
@@ -126,7 +128,7 @@
 - choreography [ˌkɒriˈɒɡrəfi] n.编舞、舞蹈编排、编舞艺术
 - chose v.选择、挑选、决定、情愿
 - chromosome [ˈkrəʊməsəʊm] n.染色体
-- chronic 慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的
+- chronic a.慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的  chronic illness 慢性病
 - chronicle n.编年史、历史、v.按事件发生顺序记述、把...载入编年史
 - chunk 大块、厚块、组块
 - church [tʃɜːtʃ] n.教堂、教会
@@ -174,6 +176,7 @@
 - close v.关闭、停业、倒闭、缩小、接近、n.结束、关闭、a.接近的、紧闭的、稠密的
 - closet n.壁橱、密室、a.私下的、隐蔽的、v.把...引进密室会谈
 - closure n.结束、停业、关闭、倒闭、闭合、闭包、v.使结束、使终止
+- cloud n.云、阴影、v.给...蒙上阴影  cloud sb's reputation 破坏名誉
 - clue n.线索、提示、v.提示
 - clumsy [ˈklʌmzi] a.笨拙的、不灵活的
 - cluster n.群、丛、簇
@@ -197,11 +200,13 @@
 - coherence n.连贯性、条理性
 - coherent a.连贯的、有条理的、有黏性的
 - cohesive a.有结合力的、紧密结合的、结成一个整体的
+- coil [kɔɪl] n.卷、线圈、v.卷、盘绕
 - coin n.硬币、v.创造(新词语)、铸(币)
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
 - coincidence n.巧合、巧事、同时存在、并存、一致
 - collaborate v.合作、协作、勾结、通敌
 - collapse n.崩溃、倒塌、折叠、垮掉、昏倒、v.倒塌、降价、贬值
+- collar n.衣领、领子
 - collate v.整理、校对、核对、对照
 - collateral n.抵押品、a.附属的
 - collateralize v.以...作抵押
@@ -279,7 +284,7 @@
 - comprise v.包含、包括、由...组成、由...构成
 - compromise [ˈkɒmprəmaɪz] n/v.妥协、折中、互让、让步、和解、达成妥协、损害、伤害
 - comptroller n.审核员、审计官
-- compulsory [kəmˈpʌlsəri] a.强制的、义务的
+- compulsory [kəmˈpʌlsəri] a.强制的、义务的、必须做的
 - compute v.计算、估算、推断、n.计算机技术  cloud computing 云计算
 - concatenate v.连接、连锁、串级、a.连锁的
 - conceal [kənˈsiːl] v.隐藏、隐瞒、掩盖
@@ -412,9 +417,13 @@
 - cope v.对付、处理 cope with 对付
 - copilot [ˈkəʊˌpaɪlət] n.副驾驶
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
+- copy v.复制、复印、临摹、仿造、n.复印件、(书、报纸等的)一本、一册、(可用于报纸或广告的)消息、信息、(报纸的)稿件、作业本
+- copyright n.版权、v.获得...的版权
 - core n.核心、中心部分、核心成员、a.主要的、基本的、核心的、骨干的  inner core 内核
 - corn n.玉米、谷物
 - corner 角落、拐角、垄断
+- corona [kəˈrəʊnə] n.日冕、日华
+- coronal n.冠、冕、花冠、a.冠状的
 - coroutine n.协同程序、联立程序
 - Corp 公司
 - corpse n.尸体
@@ -467,6 +476,7 @@
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
 - crew [kruː] n.船员、乘务员、全体工作人员
+- cricket [ˈkrɪkɪt] n.板球、蟋蟀
 - crime [kraɪm] n.罪行、犯罪  commit crime 犯罪  cyber crime 网络犯罪
 - criminal a.犯罪的、刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点

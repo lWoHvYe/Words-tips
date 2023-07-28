@@ -33,6 +33,7 @@
 - glad a.高兴的、乐意的
 - glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
+- glaring a.显眼的
 - glass n.玻璃、镜子、杯子
 - glide n/v.滑行、滑动、滑翔
 - glitch [ɡlɪtʃ] n.差错、小故障
@@ -73,6 +74,7 @@
 - gratitude [ˈɡrætɪtjuːd] n.感谢、感激
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
 - graveyard n.墓地、垃圾场、收容所
+- gravity [ˈɡrævəti] n.重力G、万有引力
 - greatness n.伟大、崇高、著名
 - greed n.贪婪
 - Greek n.希腊、希腊人

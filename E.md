@@ -102,7 +102,7 @@
 - enrage v.激怒、触怒
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
-- enroll v.登记、注册、招收、加入、录取、纳入
+- enroll v.登记、注册、招收、加入、录取、纳入  the newly-enrolled international students 新招收的留学生
 - ensure v.确保、担保、保证
 - entail v.涉及、需要、牵涉、使必要、限定继承
 - enterprise n.企业、事业单位、事业、事业心、进取心
@@ -237,7 +237,7 @@
 - expense n.费用、开销、花销、v.向...收取费用  at the expense of 以...为代价
 - expensive a.昂贵的、花钱多的、豪华的
 - experience n.经验、经历、体验、阅历、v.经历、体验、感受
-- experiment 实验、试验、尝试、试用、做实验
+- experiment [ɪkˈsperɪmənt] n.实验、试验、尝试、试用、做实验
 - expert [ˈekspɜːt] n.专家、a.熟练的、内行的、经验丰富的
 - expire v.失效、中止、到期、断气、逝世
 - explain v.解释、说明、阐明

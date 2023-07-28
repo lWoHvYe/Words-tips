@@ -29,7 +29,7 @@
 - mania n.狂热
 - manifest v.显示、表明、证明、宣言、声明、a.明白的、明显的、n.货单、旅客名单
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
-- manner n.方法、方式、态度、礼仪、规矩
+- manner [ˈmænə(r)] n.方法、方式、态度、举止、礼仪、规矩
 - manpower [ˈmænpaʊə(r)] n.人力、人手、劳动力
 - manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
@@ -91,6 +91,7 @@
 - memory n.记忆、回忆、存储器、内存
 - mend v.修理、修补、弥补、解决、痊愈
 - mental a.思想的、内心的、心理的、智慧的、n.精神病  mental labor 脑力劳动
+- mentality n.心态、思想
 - mention n/v.提到、提及、说起
 - mentor 导师、顾问、指导
 - mercenary [ˈmɜːsənəri] n.雇佣兵、a.唯利是图
@@ -148,6 +149,7 @@
 - misconception 误解、错觉、错误认识
 - misery [ˈmɪzəri] n.痛苦
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
+- missile [ˈmɪsaɪl] n.导弹
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
 - misuse [ˌmɪsˈjuːs/ˌmɪsˈjuːz] n/v.滥用、误用、苛待、虐待
@@ -196,11 +198,13 @@
 - month [mʌnθ] n.月、月份
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moola (非正式)n.钞票💵
-- moral a.道德的、能辨别是非的、n.品行、道德
+- moral a.道德的、能辨别是非的、n.品行、道德  moral code 道德准则
+- morality n.道德、道义  the morality of career 职业道德  work ethic 职业道德
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
+- mortem 事后剖析
 - moth n.蛾、飞蛾
 - motion n.运动、行动、意图、动机、v.示意
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机

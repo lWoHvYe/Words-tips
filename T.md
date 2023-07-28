@@ -36,6 +36,8 @@
 - teleology n.目的论
 - telescope n.望远镜
 - teletype n.电传打字机  tty 终端
+- tell v.讲诉、告诉
+- teller n.出纳员、提款机🏧  Automatic Teller Machine 自动取款机
 - telos 目的
 - temper n.脾气、怒气、v.使缓和、使温和
 - temperate a.温带的、温和的
@@ -55,7 +57,8 @@
 - tentative a.试探性的、试验的、不确定的、n.尝试、假设、实验
 - tenure n.任期、任职、终身职位、占有期、保有权、保有期
 - term n.学期、术语、条款、期限、v.把...称为、把...叫做 in ... terms 在...方面、从...角度
-- terminate 终止、停止、结束、解雇、到达终点站、终止的、有限的
+- terminal n.终点站、终端、末端、极限  tty
+- terminate v.终止、停止、结束、解雇、到达终点站、a.终止的、有限的
 - terminology n.术语、专有名词
 - terminus n.终点
 - ternary a.三元的
@@ -63,6 +66,7 @@
 - terrible a.糟糕的、可怕的
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
+- terrorist n.恐怖分子、恐怖主义者
 - terse a.精炼的、简洁的
 - test n/v.测试、实验🧪、试验
 - testify v.证明、证实、作证
@@ -94,8 +98,8 @@
 - threaten v.威胁、恐吓、危及、有...危险、对...构成威胁
 - threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
 - thrift n.节约、节俭
-- thrill [θrɪl] n/v.激动、兴奋
-- thrive 兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
+- thrill [θrɪl] n/v.激动、兴奋、紧张
+- thrive v.兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throat n.喉咙、咽喉
 - throb [θrɒb] n/v.脉搏、跳动
 - throne [θrəʊn] n.王权、君权
@@ -140,6 +144,7 @@
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
+- total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
 - touch [tʌtʃ] v.触摸、接触、感动、涉及、n.触摸、触觉、轻微、一点  touch on 关系到、涉及  in touch with 联系、联络、了解最新情况
 - tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - tour [tʊə(r)] n/v.旅行、游览、观光
@@ -153,6 +158,7 @@
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - Trade Finance 贸易融资、外汇服务
 - traditional a.传统的、惯例的、因袭的、守旧的
+- traffic n.交通、交通量、通信量
 - tragedy [ˈtrædʒədi] n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
@@ -181,7 +187,7 @@
 - traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
-- treasury n.财政部
+- treasury n.财政部、宝库、珍藏室
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
 - treatment n.治疗、诊治  medical treatment 医疗
 - trek n.徒步旅行、长途跋涉
@@ -196,7 +202,7 @@
 - trillion n.万亿、兆
 - trinal a.三元的、三重的
 - trip 旅行、摔倒、绊倒、错误、过失
-- triple a.三倍的、三方的、v.增至三倍、n.三元组
+- triple a.三倍的、三方的、三重的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trivial a.不重要的、琐碎的、微不足道的
 - troop n.部队、军队、一群、一队
@@ -207,15 +213,16 @@
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
-- tuition n.学费
+- tuition [tjuˈɪʃn] n.学费、教学、讲授
 - tune [tjuːn] n.曲子、曲调、v.调音、调节
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器
-- turbulence n.湍流、涡流、骚乱、动乱
+- turbulence n.湍流、涡流、气流、骚乱、动乱
 - turbulent [ˈtɜːrbjələnt] a.骚乱的、动荡的、激流的
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是  trun around 转动、转身、好转、改变意见
 - turnaround n.周转、时限、转机
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转
+- tutor n.导师、家庭教师
 - tutorial [tjuːˈtɔːriəl] 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文

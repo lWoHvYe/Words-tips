@@ -45,6 +45,7 @@
 - science n.科学、理科
 - scientific a.科学的、有系统的
 - scissors [ˈsɪzəz] n.剪刀
+- scold v.责骂、训斥
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
 - scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
@@ -103,7 +104,7 @@
 - sera [ˈsɪərə] n.血清、血浆
 - serial a.连续的、连载的
 - serialize 连载、连播
-- series 系列、连续、接连、串联、级数、系列节目
+- series n.一系列、一连串、连续、接连、串联、级数、系列节目
 - serious a.严肃的、认真的、重要的、严重的、危险的
 - sermon n.布道、讲道
 - servant n.仆人、佣人、雇员、职员
@@ -118,7 +119,7 @@
 - settlement n.解决、处理、协议、支付、偿付、定居点、移民、和解
 - sever [ˈsevə(r)] v.切断、中断
 - several 几个的、专有的、各自的、一些、几个、数个
-- severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的
+- severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的、剧烈的
 - severity 严重、严厉、苛刻
 - shadow n.阴影、影子、v.跟踪、尾随
 - shake v.动摇、摇动、握手、n.摇动、颤抖
@@ -128,12 +129,15 @@
 - shame 羞耻、羞愧、惭愧、耻辱、使丢脸、使羞愧、真可惜、太遗憾了、好极了、真棒
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、分配、n.股份、一份
-- sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的
+- shark n.鲨鱼
+- sharp a.锋利的、急剧的、骤然的、清晰的、鲜明的、ad.(用于表示时间的词语后)...整、向左/右急转  sharp hit 重创
 - sharpen v.锐化、使锐利、提高、改善
+- sharpness n.锐利、锐度、清晰度
 - shave [ʃeɪv] v.刮胡子、剃、削减、降低
 - shear v.剪、剪切
 - shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇  shed some light on 解释、阐明
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
+- sheep n.羊、绵羊
 - shelf n.架子
 - shelter n.避难所、v.保护、掩蔽
 - shelve v.搁置
@@ -155,7 +159,7 @@
 - shower n.淋浴、阵雨、小雨
 - shrink v.收缩、缩小、减少
 - shuffle n/v.洗牌
-- shut n/v.关闭、停业、关门  shut down 关闭、停业
+- shut n/v.关闭、停业、关门  shut down 关闭、停业  shut out 把...排除在外、克制某种感情 shut up 闭嘴、住口
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
@@ -171,7 +175,7 @@
 - silica [ˈsɪlɪkə] n.二氧化硅
 - silicon [ˈsɪlɪkən] n.硅  Silicon Valley 硅谷
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
-- silver n.银、银币、银器、银色、a.银色的、v.镀银
+- silver [ˈsɪlvə(r)] n.银、银币、银器、银色、a.银色的、v.镀银  silver lining 一线希望
 - similar [ˈsɪmələr] a.相似的、相仿的、相像的、n.相似物、类似物
 - similarity n.相似性、相似之处
 - simile [ˈsɪməli] n.明确
@@ -274,8 +278,9 @@
 - speak v.交谈、说(某种语言)、说话、演说
 - speaker n.说话者、扬声器
 - special a.特殊的、特别的、专用的、n.特价商品
-- specialize/specialise v.专攻、专门从事、详细说明、列举
-- specialist n.专家、a.专业的、专家的
+- specialize/specialise v.专攻、专门从事、详细说明、列举  specialize in... 专门从事...
+- specialist [ˈspeʃəlɪst] n.专家、a.专业的、专家的
+- speciality [ˌspeʃiˈæləti] n.专业、专长、特产
 - species n.物种、种类
 - specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药
 - specification 规格、规范、明细单、说明书
@@ -287,6 +292,7 @@
 - speech n.演讲、发言
 - spell v.拼写、招致、顶替、n.一段时间、咒语、魔法
 - spend n/v.花费、开销
+- spendthrift a.挥霍的、n.花钱无度的人
 - sperm [spɜːm] n.精子、精液
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
@@ -301,6 +307,7 @@
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
 - sporadic [spəˈrædɪk] a.零星的、偶尔发生的、阵发性的
+- sport n.体育
 - spot 点、斑点、污点、地点、认出、认清、发现
 - spouse [spaʊs] n.配偶
 - spray n.喷雾、浪花、喷雾器、v.喷洒、喷射
@@ -350,7 +357,7 @@
 - stead [sted] n.代替、用途、好处
 - steadfast a.坚定的、不动摇的  steadfast integrity 踏实、诚实
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
-- steep a.陡峭的、急剧的
+- steep a.陡峭的、急剧的、大幅度的
 - steer v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - stenographer [stəˈnɒɡrəfə(r)] n.速记员
@@ -374,6 +381,7 @@
 - stop v.停止、n.车站
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
+- storm [stɔːm] n.暴风雨、v.猛攻、暴怒
 - stove [stəʊv] n.火炉、炉子
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的、正直的、简单的、易懂的
@@ -394,11 +402,12 @@
 - stright 直的、连续的、直率的、整齐的、立即、直线
 - strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
 - striking a.引入注目的、惊人的、显著的
-- string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列
+- string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列  no strings attached 无附加条件
 - strip n.带、v.剥去、除去、剥夺、跳闸
 - stripe n.条纹、线条
 - strive v.努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
+- stroll [strəʊl] n/v.散步、闲逛、轻松获胜
 - structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列
 - struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
 - stub n.存根、票根
