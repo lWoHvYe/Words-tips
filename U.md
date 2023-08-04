@@ -52,6 +52,7 @@
 - upheaval [ʌpˈhiːvl] n.剧变、动荡、动乱、激变
 - uphold v.维护、支持
 - upon 在...上面、当...时候
+- upright a.直立的
 - upset v.打翻、扰乱、使...心烦意乱、n.混乱、困扰、麻烦、a.难过、沮丧、不高兴
 - upside n.好处、好的一面、上边、提高、上涨   反义:downside
 - upward a.向上的、上升的、朝上的、上涨的、增长的

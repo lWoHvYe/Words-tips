@@ -5,7 +5,7 @@
 - vague [veɪɡ] a.不明确的、含糊的、不详细的
 - vain [veɪn] a.徒劳的、无结果的、枉然的、自负的
 - valentine 情人
-- valid [ˈvælɪd] a.有效的、合理的、确凿的    invalid 无效的
+- valid [ˈvælɪd] a.有效的、合理的、确凿的    
 - validate v.验证、证实、使生效、批准、确认
 - valley n.山谷、峡谷
 - valuate v.对...作评估、对...作评价
@@ -38,8 +38,9 @@
 - verdict n.裁定、判决
 - verify v.证明、证实、核实、查证
 - versa 反之亦然  vice versa ad.反之亦然
+- verse n.诗、韵文
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
-- versus prep.对、对抗、与...相对
+- versus [ˈvɜːsəs] prep.对、对抗、与...相对、与...相比  VS
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
@@ -73,9 +74,9 @@
 - vista [ˈvɪstə] n.远景、景色、景观
 - visual [ˈvɪʒuəl] a.视力的、视觉的、看得见的、n.画面、图像
 - visualise/visualize [ˈvɪʒuəlaɪz] v.可视化、想象、设想、构思
-- vital a.至关重要的、必不可少的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
+- vital a.至关重要的、必不可少的、生死攸关的、生命的、对…极重要的、维持生命所必需的、生气勃勃的、充满生机的、热情洋溢的
 - vitamin n.维生素
-- vivid a.生动的
+- vivid a.鲜艳的、生动的、生气勃勃的
 - vocabulary n.词汇量、词汇表
 - vocal a.声音的、嗓音的、畅所欲言的、直言不讳的、n.声乐节目
 - vocation n.职业、工作、使命

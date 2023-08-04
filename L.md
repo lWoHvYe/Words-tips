@@ -18,7 +18,7 @@
 - lasting a.持久的、耐久的、v.持续、继续、继续存在、持续起作用
 - latch n.门闩、锁
 - latent a.潜在的、潜伏的、隐藏的、休眠的
-- latency 延迟、潜伏、潜在因素
+- latency n.延迟、潜伏、潜在因素
 - lateral [ˈlætərəl] a.侧面的、横向的
 - laugh n/v.笑、发笑、嘲笑
 - laughter n.笑、笑声
@@ -39,9 +39,10 @@
 - learn v.学习、习得、得知、认识到
 - lease n.租赁、租约、v.租用、租借、出租
 - least [liːst] little的最高级 a.最小的、最少的
-- leave v.离开、保留、交付、使得、n.休假、假期、准许  leave sth+adj. 让...处于某种状态
+- leave v.离开、保留、交付、使得、n.休假、假期、准许  leave sth+adj. 让...处于某种状态  leave to 留给
 - lecture n/v.演讲、训诫
 - ledger n.账簿、账本
+- left 左边
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
 - legal a.法律的、合法的、法定的、n.法定权利
 - legend n.传奇、传说、图例、说明、铭文
@@ -66,7 +67,8 @@
 - liberal a.自由的、开明的、慷慨的、n.自由的人、开明的人、自由党成员
 - liberalize v.使自由化、放宽对...限制、自由化
 - liberate v.解放、释放、使自由
-- liberty n.自由
+- liberty [ˈlɪbəti] n.自由
+- library [ˈlaɪbrəri] n.图书馆、书库
 - license/licence [ˈlaɪsns] v.准许、许可、发许可证、n.许可证、执照
 - lie v.躺、平躺、平放、保持(某种状态)、说谎、n.位置、谎言
 - lien n.留置权、扣押权
@@ -76,6 +78,7 @@
 - lightning n/v.闪电、雷电
 - likelihood [ˈlaɪklihʊd] n.可能性、可能
 - likewise [ˈlaɪkwaɪz] ad.同样地、也、亦、又
+- limb [lɪm] n.肢干、大树枝
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - line n.线、路线、排列、纵列
@@ -108,8 +111,10 @@
 - locate v.定位、找到、使...坐落于
 - location n.位置、地点
 - lodge n.乡间小屋、小屋、v.正式提出、寄住、借宿、租住、寄存
+- log n.日志、对数、原木、v.记录(日志)
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
 - logical a.逻辑上的、必然的、合乎逻辑的、合乎情理的
+- login n.登录、注册
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
 - loom n.织布机、纺织机、v.赫然出现、逼近  loom large 挥之不去、显得突出
 - loop 环、环形、回路

@@ -11,7 +11,7 @@
 - rain n.雨、v.下雨
 - raincheck 雨票、延期
 - raise [reɪz] v.提升、举起、提出、提及、增加、筹募、抚养、饲养、终止、解除、n.上升、加薪
-- rally v.召集、集合、n.集会
+- rally v.召集、集合、价格回升、振作精神、n.集会、拉力赛
 - ramp n.斜坡、坡道
 - random a.随机的、无规则的、n.随机、随意、偶然的行动
 - rank n.等级、军衔、级别、次序、行列、v.排列、把...分等级
@@ -75,6 +75,7 @@
 - recreation n.娱乐、消遣
 - recruit [rɪˈkruːt] v.招聘、招募、吸收、征募、组建、n.新人、新兵、新成员
 - rectangle n.矩形、长方形
+- rectangular a.矩形的、长方形的
 - rectify v.矫正、纠正、修正
 - recur v.复发、(尤指不好的事)重现
 - recursion n.递归、递推
@@ -96,6 +97,7 @@
 - reflexion n.反射、反射光、反射作用
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain v.抑制、避免、克制、节制、n.反复说的话、迭句
+- refresh v.刷新、翻新、(使)精神振作、n.刷新
 - refuge n/v.庇护、避难
 - refugee n.难民
 - refund n/v.退款、退还
@@ -149,7 +151,7 @@
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
-- renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴
+- renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
 - rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - rendezvous [ˈrɒndɪvuː] n/v.约会、会面、会合、集合
@@ -165,7 +167,7 @@
 - repeal [rɪˈpiːl] n/v.废除、撤销
 - repeat v.重复、一再、复述、背诵、重述、n.重演的事物、重复的事件
 - Repeater n.转发器(又称中继器或放大器)
-- repel [rɪˈpel] v.击退
+- repel [rɪˈpel] v.击退、排斥、抗拒、使厌恶
 - repertoire [ˈrepətwɑː(r)/ˈrepərtwɑːr] n.全部节目、全部本领、(计算机的)指令表
 - repetition n.重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
@@ -254,6 +256,7 @@
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
 - rigid a.僵硬的、严格的、刻板的、顽固的、死板的
 - ringtone n.铃声
+- rip v.撕破、裂开、扯开、n.裂口、裂缝  rip off 扯掉  let rip 自由的做
 - rise n/v.上升、增加
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
@@ -285,6 +288,7 @@
 - route n.路径、路途、途径、渠道
 - router n.路由器
 - routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
+- row n.一排、一行、划船、争吵、纠纷、v.划(船)、吵架
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
 - RTL Resistor Transistor Logic 电路
 - rubble n.瓦砾、碎石

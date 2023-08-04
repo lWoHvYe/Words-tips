@@ -88,7 +88,7 @@
 - income n.收入、收益、所得
 - inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
 - incorporate v.包含、合并、吸收、使并入、使混合、注册成立、a.具体化了的
-- incredible a.难以置信的、不可思议的
+- incredible [ɪnˈkredəbl] a.难以置信的、不可思议的、极好的、惊人的
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
@@ -107,7 +107,7 @@
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、感应、诱使、劝说、导致
 - induction 就职、催生、电磁感应
-- industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司
+- industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司  industrial revolution 工业革命
 - industrialist n.工业家、实业家
 - industrialize/industrialise v.工业化
 - industrious a.勤奋的、勤劳的  industriousness and thrift 勤俭节约
@@ -252,8 +252,9 @@
 - intrusive a.侵入的、侵扰的、插入的
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invade v.入侵、侵略
-- invasion n.侵略、侵犯
+- invalid a.无效的、作废的、n.病人、伤残者 
 - invalidate v.使无效、使作废、证明...错误、使站不住脚
+- invasion n.侵略、侵犯
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
 - inventory n.存货、库存、清单、财产目录、开列清单

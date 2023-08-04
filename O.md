@@ -29,6 +29,8 @@
 - odds [ɒdz] n.可能性、概率、几率
 - off v.离开、关闭、去掉  off plan 计划外的、期房(building)
 - offence n.犯罪、罪行、冒犯
+- offend v.冒犯、得罪、使反感、违反、违犯
+- offensive a.冒犯的、无礼的、攻击性的、n.进攻、攻势  offensive acts 攻击性行为
 - offer v.提供、给予、提出、n.报价、出价、建议、邀约 offer letter 录用函
 - officer [ˈɒfɪsə(r)] n.官员、高级职员 Chief Executive Officer - CEO  Chief Operating Officer - COO
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
@@ -64,7 +66,7 @@
 - optional 可选的、随意的、任意的、选修的、选修科目
 - opus n.作品、作曲 复数：opera
 - oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试  oral English 英语口语
-- orchestra n.管弦乐队
+- orchestra n.管弦乐队  orchestral music 管弦乐
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
@@ -76,6 +78,7 @@
 - origin n.起源、由来、出身、来历、原点
 - original a.原始的、最初的、独创的、新颖的、n.原件、原文、不同寻常的人、怪人
 - originate v.起源、发源、创立、创建、发明
+- ornament n/v.装饰、点缀
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
 - orthogonal a.正交的、直角的、垂直的、矩形的

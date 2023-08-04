@@ -16,6 +16,7 @@
 - necessity n.必要性、必然性、必要、必然、需要、必需品
 - neck [nek] n.颈部、脖子
 - necklace [ˈnekləs] n.项链
+- negate [nɪˈɡeɪt] v.否定、否认、使无效、取消
 - negative a.消极的、负面的、否定的、负极的、阴性的、v.否定、拒绝、n.负数、底片、负片、证伪
 - neglect v.忽略、忽视、疏忽、遗漏、n.忽略、忽视、遗漏
 - negligence [ˈneɡlɪdʒəns] n.疏忽、过失、失误、失职

@@ -34,11 +34,13 @@
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
 - scatter v.散开、分散、驱散、n.散落
+- scavenge v.拾荒、觅食
 - scenario n.方案、设想、场景、脚本
 - scene n.场景、地点、现场、景色、一场
 - scenery [ˈsiːnəri] n.风景、风光、景色、舞台布景
 - sceptical [ˈskeptɪkl] a.怀疑的
 - schedule [ˈʃedjuːl/ˈskedʒuːl] n.工作计划、日程安排、节目单、明细表、清单、v.安排、预定、为...安排时间
+- schema [ˈskiːmə] n.概要、纲要、图表
 - scheme [skiːm] n.方案、计划、v.策划、密谋
 - scholar n.学者
 - scholarship n.奖学金、学问、学术、学术研究
@@ -73,6 +75,7 @@
 - secure [sɪˈkjʊə(r)] v.保护、取得、获得、关牢、抵押、a.安全的、可靠的、牢固的  secured loan 担保贷款、抵押贷款
 - security [sɪˈkjʊərəti] n.安全、担保、保护措施、保证、抵押品、股票、证券、a.安全的、保密的
 - securitization 证券化
+- sedition [sɪˈdɪʃn] n.煽动叛乱的言论
 - seek v.寻找、探求、追求、谋求 sought(过去式及过去分词)
 - seem v.似乎、好像
 - seep v.渗透
@@ -209,8 +212,8 @@
 - slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
 - slavery n.奴隶制度、奴隶身份
 - sleuth 足迹、警犬、侦探
-- slice 切成片、切片、切下、划分、薄片、一部分、部分、份额、锅铲、曲线球
-- slide 滑落、下跌、滑行、贬值、衰落
+- slice v.切成片、切片、切下、划分、n.薄片、一部分、部分、份额、锅铲、曲线球
+- slide v.滑落、下跌、滑行、贬值、衰落、n.幻灯片
 - slight a.轻微的、略微的、微小的、细小的、无需重视的、不足为道的、v.轻蔑、忽视、怠慢、冷落
 - slink v.溜走、溜
 - slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
@@ -274,6 +277,7 @@
 - span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
 - Spanish [ˈspænɪʃ] a.西班牙的、n.西班牙语
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
+- sparse [spɑːs] a.稀疏的、稀少的
 - spatial [ˈspeɪʃl] a.空间的
 - speak v.交谈、说(某种语言)、说话、演说
 - speaker n.说话者、扬声器
@@ -321,6 +325,7 @@
 - spur [spɜː(r)] n.靴刺、刺激、激励、支线、岔线、v.促进、激励
 - spurious [ˈspjʊəriəs] a.虚假的、伪造的、欺骗性的
 - spurn n/v.拒绝、唾弃
+- spy n.间谍
 - sqrt 根号
 - squad [skwɒd] n.班、小组、队
 - square n.方形、正方形、方格、广场、二次幂、a.方的、(生意上)公平的、v.使成方形、打平
@@ -345,7 +350,10 @@
 - standing a.永久性的、长期存在的
 - staple n.主食、主要产品、订书钉、v.装订、a.主要的、基本的、重要的
 - star n.明星、星号、v.主演、标星号
-- starvation 饥饿、挨饿、饿死、绝食
+- stare v.注视、凝视
+- startle [ˈstɑːtl] n/v.吃惊、震惊
+- starvation n.饥饿、挨饿、饿死、绝食
+- starve v.饿死、挨饿  starve to death 饿死
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
 - static a.静止的、静态的、n.静电
@@ -373,7 +381,7 @@
 - stimuli [ˈstɪmjʊlaɪ] n. stimulus的复数
 - stimulus [ˈstɪmjələs] n.刺激、刺激物、促进因素、刺激因素
 - sting v.叮、刺痛
-- stir v.搅拌、n.搅拌、震动
+- stir v.搅拌、n.搅拌、震动  stirring 激动人心的
 - stitch 缝、缝合
 - stock n.股票、股份、资本、公债、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的  stock options 股票期权
 - stockpile n.库存、储备、囤积的物资、v.大量储备
@@ -381,6 +389,7 @@
 - stop v.停止、n.车站
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
+- story n.故事、楼层
 - storm [stɔːm] n.暴风雨、v.猛攻、暴怒
 - stove [stəʊv] n.火炉、炉子
 - straight a.直的、连续的、直率的、n.直线
@@ -466,6 +475,7 @@
 - summary n.概括、总结、a.概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
 - summit [ˈsʌmɪt] n.首脑会议、峰会、山顶、顶峰、a.最高级的、v.参加峰会
+- summon v.传唤、传讯、鼓起(勇气)、振作(精神)
 - super a.超级的、ad.特别、格外
 - superb a.卓越的、极佳的
 - superficial [ˌsuːpəˈfɪʃl] a.表面的、肤浅的、浅薄的
@@ -521,6 +531,7 @@
 - symbolic a.象征的、象征性的
 - symmetric a.对称的、均衡的
 - sympathy [ˈsɪmpəθi] n.同情、慰问
+- symphony n.交响乐、交响曲
 - symposium [sɪmˈpəʊziəm] n.专题讨论会、研讨会
 - symptom n.症状、征兆
 - synchronize v.同步、使同步、在时间上一致

@@ -64,6 +64,7 @@
 - ternary a.三元的
 - terrain n.地形、地势、地带
 - terrible a.糟糕的、可怕的
+- terrify v.使恐怖、使惊吓、恐吓、威胁
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
 - territory n.领地、领土、版领域、范围
 - terrorist n.恐怖分子、恐怖主义者
@@ -106,6 +107,7 @@
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门
 - through 凭借、通过、穿过、自始至终
 - throughout prep.遍及、自始至终、ad.始终、在所有方面
+- throughput n.吞吐量
 - thrust 刺、冲、逼迫
 - thumb [θʌm] n.拇指
 - tick v.打上钩、n.记号、对号、信用、滴答声
@@ -119,6 +121,7 @@
 - tight a.牢固的、紧的、紧张的、严格的、紧密的、紧身的、亲密的、n.紧身衣
 - tighten v.收紧
 - tile n.瓷砖
+- till prep./conj.直到...为止
 - timeless a.永恒的、永久的
 - tin [tɪn] n.锡、罐、v.镀锡
 - tiny [ˈtaɪni] a.极小的、微小的、微量的  tinier(比较级)  a tiny slice of 一小片
@@ -136,7 +139,7 @@
 - toll n.通行费、伤亡人数、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税  toll on 对...产生严重影响
 - tomb 坟墓、冢、埋葬
 - tombstone n.墓碑、墓石
-- tone n.语气、语调、张力、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
+- tone n.语气、语调、(肌肉)张力、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
 - tongue n.舌头
 - tool [tuːl] n.工具  high-technology tools and techniques 高科技工具和技术  an underrated tool 被低估的工具
 - toolkit n.工具包、工具箱
@@ -144,6 +147,7 @@
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
 - tort n.侵权行为
+- torture [ˈtɔːtʃə(r)] n.酷刑、痛苦、拷打、v.使痛苦
 - total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
 - touch [tʌtʃ] v.触摸、接触、感动、涉及、n.触摸、触觉、轻微、一点  touch on 关系到、涉及  in touch with 联系、联络、了解最新情况
 - tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
@@ -214,7 +218,7 @@
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
-- tune [tjuːn] n.曲子、曲调、v.调音、调节
+- tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器
 - turbulence n.湍流、涡流、气流、骚乱、动乱
@@ -226,7 +230,7 @@
 - tutorial [tjuːˈtɔːriəl] 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
-- twist v.扭曲、使弯曲
+- twist [twɪst] v.扭曲、使弯曲、捻、n.搓、捻、转弯处、(故事、情况的)转折
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
 - type n.种类、类型、字体、字形、v.打字
 - typewriter n.打字机

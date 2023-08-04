@@ -1,9 +1,9 @@
-- fabric n.织物、布料、结构
+- fabric n.织物、布料、结构、(社会或体系的)基本结构  fabric softener 衣物柔顺剂  social fabric 社会结构
 - fabulous a.极好的、难以置信的
 - facade 外观、正面、表明、外表
 - face v.面临、面对、n.面部、表面 crisis/problem facing sth ...所面临的危机/问题
-- facilitate v.帮助、促进、使容易
-- facility [fəˈsɪləti] 设施、设备、容易、能力、灵巧、天资、才能、（金融方面有做）出借物；facility letter 贷款确认函；facility value 难易度
+- facilitate [fəˈsɪlɪteɪt] v.帮助、促进、使容易
+- facility [fəˈsɪləti] n.设施、设备、容易、能力、灵巧、天资、才能、（金融机构向客户提供的）金融产品或服务/出借物 facility letter 贷款确认函  loan facility 贷款  credit facility 信用额度  facility value 难易度
 - fact n.事实、真相、证据
 - factor n.因素、因子、要素、数量、倍数、系数、v.把...要素包括进去、分解质因数
 - factual a.事实的、真实的
@@ -24,19 +24,20 @@
 - famine [ˈfæmɪn] n.饥荒
 - famous a.著名的、出名的
 - fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起  electric fan 电风扇
-- fancy v.想象、设想、想要、n.设想、想象力、爱好、a.花哨的、精致的、优质的、昂贵的、奢华的
-- fantastic 极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的、古怪的人
-- fantasy [ˈfæntəsi] n.幻想、空想的产物、幻想作品
+- fancy [ˈfænsi] v.想象、设想、想要、n.设想、想象力、爱好、迷恋、a.花哨的、精致的、优质的、昂贵的、奢华的  fancy car 豪车
+- fantastic a.奇异的、幻想的、异想天开的、极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的  fantastic idea 奇思妙想
+- fantasy [ˈfæntəsi] n.幻想、想象、空想的产物、幻想作品  various fantasy elements 许多奇幻的元素
 - fantasize v.想象、幻想、白日做梦
 - far a.远的、遥远的  比较级：farther/further  最高级：farthest/furthest
 - farewell n.告别、辞行、再会
 - farm n.农场、v.种田、务农、饲养、养殖
 - farmer n.农民、农场主
-- farther n.父亲、创始人、v.创立、发明
+- farther ad.进一步、更远地
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fat [fæt] n.脂肪、a.胖的、肥胖的
 - fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
 - fate n.命运、注定
+- father n.父亲、创始人、v.创立、发明
 - fatigue [fəˈtiːɡ] n.疲劳
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、断层、v.发现错误
 - faulty a.错误的、有缺陷的、不完美的  faulty approach 错误的方法
@@ -107,9 +108,11 @@
 - flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效、使破裂  flawed understanding of ... 对...的理解有偏差
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
 - flesh n.肉、肉体、水果/蔬菜的可食部分、v.长胖  flesh up 长肥  flesh out 充实、具体化  flesh tone 肤色
+- flexibility n.可变性、灵活性
 - flexible a.灵活的、柔韧的、有弹性的
 - flight n.航班、飞行、飞翔、v.使...在空中飞行、射击
 - flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
+- float [fləʊt] v.浮动、n.浮点数
 - flock n.群、聚集、群集
 - flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
 - flourish v.茂盛、繁荣、活跃、挥舞
@@ -167,6 +170,7 @@
 - fractal n.分形、不规则图形
 - fraction [ˈfrækʃn] n.分数、小部分、小数、少量、片段
 - fracture n.骨折、v.断裂、破裂
+- fragile [ˈfrædʒaɪl] a.脆弱的、易碎的、虚弱的、精致的
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
 - frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定
 - framework n.框架、架构、结构、机构、组织

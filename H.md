@@ -48,7 +48,8 @@
 - herd n.牧群、人群、v.群集
 - heresy [ˈherəsi] n.异端
 - heritage n.遗产、传统
-- heroic [həˈrəʊɪk] a.英雄的、n.史诗
+- hero [ˈhɪərəʊ] n.英雄、勇士、男主角、男主人公
+- heroic [həˈrəʊɪk] a.英雄的、英勇的、n.史诗
 - heroin [ˈherəʊɪn] n.海洛因
 - hesitant a.犹豫的、踌躇的
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑

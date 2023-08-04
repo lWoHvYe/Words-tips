@@ -60,13 +60,14 @@
 - pearl [pɜːl] n.珍珠、v.采珍珠
 - peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
 - peculiarity n.个性、特色、特点、独特性、怪癖
+- pedal [ˈpedl] n.踏板、v.骑自行车
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
 - peer n.同辈人、同行、v.仔细看、仔细检查、端详
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
-- penny n.便士、一分钱、少量的钱
+- penny n.便士、分币、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的  pension fund 养老基金
 - pensive a.沉思的
 - people n.人(不可数)、民族(可数)
@@ -141,7 +142,7 @@
 - pipeline n.管道、管线 in the pipeline 在筹备中
 - pit n.矿井
 - pitfall n.陷阱、诱惑、圈套、困境、危险、隐患
-- pivot n.枢轴、中心点、支点
+- pivot n.枢轴、中心点、支点、v.扭转
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名
 - placeholder 占位符
@@ -154,7 +155,7 @@
 - plastic n.塑料、信用卡、a.塑料的、可塑的
 - plate n.盘子、碟子、金属板   license/number plate (车)牌照、号码牌
 - platinum n.铂、白金
-- plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的
+- plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的、貌似真实的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - playhouse n.剧院
 - plead v.恳求、辩护、认罪、陈述案情
@@ -177,6 +178,7 @@
 - poetry [ˈpəʊətri] n.诗、诗歌、诗意
 - poke n/v.捅、戳、刺、挑(出)
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
+- polar a.两极的、截然相反的
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - policy  政策、策略
 - polish v.擦光、擦亮、使完美、润色、改进、n.抛光、上光剂  shoe polish 鞋油
@@ -190,6 +192,7 @@
 - pollute v.污染、弄脏
 - polyglot [ˈpɒliɡlɒt] a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
+- polynomial [ˌpɒli'nəʊmiəl] n.多项式
 - pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
 - pool n.水塘、共用的资源、v.集中资源
@@ -216,8 +219,10 @@
 - postpone [pəˈspəʊn] v.推迟、延期、延迟
 - postscript n.附言、后记
 - posture [ˈpɒstʃə(r)] n.姿势、态度、看法、立场、v.故作姿态、装模作样
+- pot n.锅、容器
 - potash [ˈpɒtæʃ] n.钾碱、钾肥
 - potential [pəˈtenʃl] a.潜在的、可能的、n.可能性、潜力、潜能、潜质、电位、电势、电压
+- pottery [ˈpɒtəri] n.陶器
 - pound n. £ 英镑、v.砰砰的跳、反复击打、捣碎
 - pour v.倾、倾泻、涌出、n.大雨、浇筑
 - poverty [ˈpɒvəti] n.贫困
@@ -338,7 +343,7 @@
 - promising a.有希望的、有前途的
 - promote [prəˈmoʊt] v.促进、推动、提升、晋升、晋级
 - promotion [prəˈməʊʃn] n.晋升、提升、提拔、推广
-- prompt [prɒmpt] a.迅速的、敏捷的、立刻的、准时的、v.提示、促使、导致、n.提示、提示符
+- prompt [prɒmpt] a.迅速的、敏捷的、立刻的、及时的、准时的、v.提示、促使、激励、推动、导致、n.提示、提示符
 - prone a.有...倾向的、俯卧的、易于遭受的
 - prong n.部分、方面
 - pronoun n.代词
@@ -351,7 +356,7 @@
 - properly a.正确的、适当的、恰当的、ad.完全、非常
 - property [ˈprɒpəti] n.财产、资产、所有物、性质、特性、属性
 - propagate 传播、宣传、繁殖、增值
-- propel v.推进、推动
+- propel v.推进、推动、驱使
 - propellor n.螺旋桨
 - proportion [prəˈpɔːʃn] n.比率、比例、面积、相称、平衡、v.分配、使成比例
 - proportionate a.成比例的、相称的

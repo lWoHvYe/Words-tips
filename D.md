@@ -148,8 +148,10 @@
 - dictation n.口述、听写
 - dictator n.独裁者
 - dictatorship [ˌdɪkˈteɪtəʃɪp] n.专政、独裁
+- diction n.用语、措辞、文辞、发音法
+- dictionary n.词典、字典、专业术语大全
 - dictum [ˈdɪktəm] n.格言、名言
-- die [daɪ] v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失
+- die [daɪ] v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失  die down 减弱、逐渐平息
 - diet 日常饮食、规定饮食、节制饮食
 - difference n.差别、差异、差数、差额
 - difficult a.困难的、艰难的、麻烦的
@@ -229,6 +231,7 @@
 - distinction n.差别、区别、卓越、荣誉
 - distinctive a.独特的、特别的、有特色的
 - distinguish v.区分、辨别、分清、认出、听出、引人注目
+- distort v.歪曲、扭曲、曲解
 - distract v.分散(思想)、转移(注意力)、使分心、迷惑、扰乱
 - distraction n.分散注意力、娱乐、消遣  limit distraction 限制干扰
 - distribute v.分配、分布、分销、使散开、使分散
@@ -262,7 +265,7 @@
 - donate v.捐赠、捐献
 - dormant a.睡着的、休眠的、蛰伏的
 - down [daʊn] 向下、停机、沮丧、失落、击落
-- denominate [dɪˈnɑːmɪneɪt] 命名、称呼
+- denominate [dɪˈnɑːmɪneɪt] v.命名、称呼
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
 - dot n.点、句点  dot-com 网络公司/互联网经济
@@ -275,7 +278,7 @@
 - downturn n.经济低迷、衰退、衰退期
 - dozen n.十几个
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
-- drag [dræɡ] v.拖拽、拖累、拖延
+- drag [dræɡ] v.阻力、拖拽、拖累、拖延
 - drain v.排空、耗尽、n.消耗、耗竭
 - drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
@@ -310,3 +313,5 @@
 - dwell v.居住、栖身  dwelling n.住宅、住所
 - dye [daɪ] n.染料、v.染色
 - dynamic [daɪˈnæmɪk] n.动态、动力、态势、动力学、a.动态的、充满活力的、发展变化的
+- dynamics n.动态、力度、力度变化、动力学
+- dynamite n.炸药、引起轰动的事物

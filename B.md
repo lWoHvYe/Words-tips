@@ -1,5 +1,5 @@
 - bachelor [ˈbætʃələ(r)] n.学士、未婚男子、单身汉
-- back n.背部、反面、v.后退、支持、a.后面的、过去的、拖欠的
+- back n.背部、后背、反面、v.后退、支持、a.后面的、过去的、拖欠的
 - backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward a.落后的、向后的、反向的、倒退的、进步缓慢的、v.向后、倒
@@ -76,7 +76,9 @@
 - biology 生物学
 - biomass n.生物量
 - biophilia n.热爱生命的天性
+- bipedal a.双足行走的
 - bi-temporal n.双时态
+- bit [bɪt] n.比特
 - bitwise n.位运算
 - bizarre [bɪˈzɑːr] a.奇怪的、离奇的、极其怪诞的
 - blade n.叶片
@@ -92,6 +94,7 @@
 - blink v.眨眼、闪烁
 - bloat v.膨胀、肿胀
 - block n.块、大块、立方体、街区、大楼、障碍物、阻碍、v.阻止、阻塞、阻碍、限制、妨碍、封锁  trading block 贸易区
+- blog n.博客
 - blood n.血液
 - blossom [ˈblɒsəm] v.开花、兴旺时期
 - blow v.吹、刮、打击
@@ -155,6 +158,7 @@
 - broaden 扩大、拓宽、增长
 - brochure [ˈbrəʊʃə(r)] n.手册、小册子
 - broker n.经纪人、中间人、代理人、v.安排、协商
+- brook n.溪、小河、v.(不)允许(某事)
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器
 - brush n.刷子、画笔、v.刷、掠过、轻触  hair brushing 梳头
@@ -189,3 +193,4 @@
 - buy up 买断、囤积、全部买下某物、收购
 - buyout 全部买下、买下、控制股权收购
 - bypass n.旁路、旁道、心脏搭桥手术、v.绕过、避开  bypass operation 心脏搭桥手术
+- byte [baɪt] n.字节

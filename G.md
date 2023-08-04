@@ -31,6 +31,7 @@
 - gist 主旨、要点、大意
 - giveaway n.赠品
 - glad a.高兴的、乐意的
+- glamour [ˈɡlæmə(r)] n.魅力、v.迷惑
 - glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
 - glaring a.显眼的

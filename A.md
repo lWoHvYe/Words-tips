@@ -11,7 +11,7 @@
 - abrupt a.陡峭的、突然的、唐突的、生硬的、不连贯的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
 - absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
-- absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理
+- absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理  absolute cost 绝对成本
 - absolutism n.专制主义
 - absorb [əbˈzɔːb] v.吸收、吸引、使全神贯注、理解、掌握、承受、承担  absorb hardships 承受磨难
 - absorbed a.专心的、全神贯注的
@@ -41,7 +41,7 @@
 - accomplish v.完成、达到、实现
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
 - accordingly 因此、于是、依照、照着、相应地
-- account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任
+- account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任  vivid account 生动的描述
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
 - accumulate [əˈkjuːmjəleɪt] v.积累、堆积
@@ -58,14 +58,14 @@
 - acre [ˈeɪkə(r)] n.英亩
 - acreage [ˈeɪkərɪdʒ] n.面积、英亩数
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
-- act n.行为、法令、法案、表演、假装、v.行动、表演、起作用
+- act n.行为、法令、法案、表演、假装、v.行动、表演、起作用  Act 法案
 - action n.行动、行为、作用、诉讼
 - activate [ˈæktɪveɪt] v.使运作、使起作用、使活化、激活
 - active [ˈæktɪv] a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity [ækˈtɪvəti] n.活动、活跃、行为
 - actual a.实际的、真实的、现在的、现行的  actual needs 实际需要
 - actuator 致动器、传动、执行机构
-- acute a.严重的、急性的、灵敏的、敏锐的、锐角的  acute crisis 严重的危机
+- acute a.严重的、急性的、灵敏的、敏锐的、锐角的、强烈的  acute crisis 严重的危机
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - Adam n.亚当
 - adapt v.使适应、使适合、改编、改写  adapt to 适应...
@@ -78,7 +78,7 @@
 - adequate a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
-- adjoin v.邻近、毗邻
+- adjoin v.邻近、毗连、紧挨
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
 - administer v.管理、治理、施用
@@ -143,7 +143,8 @@
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
-- alarm n.警报、闹钟
+- alarm n.警报、闹钟、v.使惊恐、向...报警、使警觉、警告
+- alarmist a.危言耸听的、n.杞人忧天者
 - albeit [ˌɔːlˈbiːɪt] conj.虽然、即使、尽管
 - album n.相册
 - alcohol [ˈælkəhɒl] n.乙醇、酒精
@@ -177,6 +178,7 @@
 - alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
 - alternative a.替代的、另类的、备选的、其他的、 n.可供选择的事物
 - altitude n.海拔
+- amass v.积累、积聚
 - amateur [ˈæmətə(r)] a.业余的、n.业余爱好者、外行、生手
 - Amazon [ˈæməzən] n.亚马逊
 - amber 琥珀、琥珀色
@@ -209,6 +211,8 @@
 - ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
 - anecdotal a.逸事的、趣闻的、传闻的
 - anecdote n.轶事、奇闻、逸事
+- angel [ˈeɪndʒl] n.天使
+- angle n.角
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - anniversary n.周年纪念日
@@ -216,6 +220,7 @@
 - annotation n.注解、注释
 - announce v.宣布、宣告、通知、声明
 - annual [ˈænjuəl] a.年度的、每年的
+- anonymity n.匿名
 - anonymous a.匿名的
 - antenna n.天线、触角
 - anthropology [ˌænθrəˈpɒlədʒi] n.人类学
@@ -283,6 +288,7 @@
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
+- artistic a.艺术的、艺术家的、美术的
 - asap (as soon as possible) 尽快
 - Asia ['eɪʒə] n.亚洲
 - aside ad.到一边、向一边、向旁边、(放在名词后)除...之外  set aside 放弃、留出、空出

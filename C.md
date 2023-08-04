@@ -42,16 +42,17 @@
 - cargo n.货物
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
-- carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售    carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干
+- carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.
 - cart n.手推车
 - carve v.雕刻
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
-- cash 现金、资金、兑现支票、现金的
+- cash n.现金、资金、v.兑现支票、a.现金的
 - casino [kəˈsiːnəʊ] n.赌场
 - cask n.桶、容器
 - cast v.铸造、投射、向...投以(视线或笑容)、看...一眼、造谣中伤、使产生怀疑、投、扔、脱、n.铸件、模子、特性、演员表  cast doubts on 让人怀疑...
-- casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工
+- casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工  casual leave 事假
+- casualty n.伤亡(人数)、伤员
 - catalog n.目录、一览表、系列、种类、v.编目录、登记分类
 - catalogue n.目录、v.编目录、登记分类、记载
 - catalyst n.催化剂
@@ -67,6 +68,7 @@
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
 - cease [siːs] v.停止、结束
+- ceiling [ˈsiːlɪŋ] n.天花板
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美、烘托
 - celebrity [səˈlebrəti] n.名人、名望、著名
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
@@ -114,7 +116,7 @@
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
-- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令
+- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票
 - chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
 - chemistry [ˈkemɪstri] n.化学
@@ -192,6 +194,7 @@
 - code n.密码、电码、代码、编码、道德准则、行为规范、法典、v.为...编码、编程序  code of conduct 行为准则  QR Code - Quick Response Code 二维码
 - codec 编解码器
 - codify v.编撰、把...编成法典
+- coefficient [ˌkəʊɪˈfɪʃnt] n.系数
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
 - coexistence n.共存、共处 co existence(存在、生存)
 - cognition n.认知、感知
@@ -254,7 +257,7 @@
 - comparative a.相对的、比较的、比较级的
 - compass n.罗盘、指南针、圆规、范围、界限
 - compatible v.可共用的、兼容的、相容的、和睦相处的
-- compel v.强迫、迫使
+- compel v.强迫、迫使  be compelled to 被迫(做某事)  feel compelled to 感到必须(做某事)
 - compensate [ˈkɒmpenseɪt] v.抵消、补偿、赔偿、报酬
 - compensation n.补偿、赔偿、报酬、薪资  compensation design 薪酬设计
 - compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
@@ -410,6 +413,7 @@
 - convict [kənˈvɪkt/ˈkɒnvɪkt] n.罪犯、v.定罪、宣判...有罪
 - conviction n.判罪、定罪、信念、确信、说服
 - convince v.说服、劝说、使确信、使信服
+- convolute n.旋、盘旋、a.回旋的
 - cooperate [kəʊˈɒpəreɪt] v.合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
@@ -467,11 +471,12 @@
 - crave v.渴望、热望、恳求
 - crawl v.爬行
 - crazy [ˈkreɪzi] a.疯狂的、狂热的、发疯的
-- cream n.奶油、乳霜、a.奶油色的、米色的
+- cream n.奶油、乳霜、精华、a.奶油色的、米色的
 - crease n.折痕、褶痕、v.弄皱、压褶
 - create [kriˈeɪt] v.创建、创造、创作、引起、产生、授予、册封
 - creature n.造物、生物
 - credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书
+- credibility n.可信性
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生
@@ -503,9 +508,10 @@
 - crystal [ˈkrɪstl] n.晶体、结晶、水晶、a.清楚的、显而易见的、晶莹的
 - crystallize [ˈkrɪstəlaɪz] v.结晶、使明确
 - cube n.立方体、立方、三次幂
+- cucumber [ˈkjuːkʌmbə(r)] n.黄瓜
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮
 - culmination n.高潮、巅峰、顶点、终点
-- culprit 罪魁祸首、罪犯、肇事者
+- culprit n.罪魁祸首、罪犯、肇事者
 - cultivate v.培养、培育、种植、栽培、逐渐形成、建立(友谊)、结交(朋友)
 - culture n.文化、文明、v.培养
 - cumber n.拖累、妨害、v.阻碍、妨害、使受苦

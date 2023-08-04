@@ -11,7 +11,7 @@
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
-- edge n.边、边缘、边界、锋利、v.给...加边、略微增加/减少  cutting-edge 前沿的、先进的  edge case 边界情况
+- edge [edʒ] n.边、边缘、边界、锋利、v.给...加边、略微增加/减少、渐渐移动  cutting-edge 前沿的、先进的  edge case 边界情况
 - edit [ˈedɪt] v.编辑、校订
 - edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期  paperback edition 平装版  hardback edition 精装版
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
@@ -39,7 +39,7 @@
 - element [ˈelɪmənt] n.要素、元素、电热元件、电阻丝、自然环境、适宜的环境、pl.(学科的)基础原理/基础/纲要
 - elemental n.元素、基本原理、a.基本的、主要的
 - elementary a.初级的、基本的
-- elevate [ˈelɪveɪts] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- elevate [ˈelɪveɪt] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
@@ -82,7 +82,8 @@
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavo(u)r [ɪnˈdɛvə] n/v 努力、尽力、力图
 - endue v.授予、赋予
-- endure v.忍受、忍耐、持续、持久
+- endure v.忍受、忍耐、持续、持久、持续存在
+- enemy n.敌人
 - energetic a.有活力的、精力充沛的
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
@@ -123,6 +124,7 @@
 - enumerate [ɪˈnjuːməreɪt/ɪˈnuːməreɪt] v.枚举、列举 Enum
 - envelop v.包住、裹住、盖住
 - envelope [ˈenvələʊp] n.信封、外壳、膜
+- envisage [ɪnˈvɪzɪdʒ] v.设想、想象、展望
 - envision [ɪnˈvɪʒn] v.想象、展望
 - envy [ˈenvi] n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
@@ -145,6 +147,7 @@
 - eraser n.橡皮擦、黑板擦
 - erasure n.擦掉、抹掉、消除、删除
 - erect a.垂直的、直立的、勃起的、坚挺的、v.建立、创立、设立
+- ergonomic a.工效学的、人类工程学的
 - erroneous [ɪˈrəʊniəs] a.错误的、不正确的  erroneous nature 错误本质
 - error [ˈerə(r)] n.错误、过失、误差、谬误
 - erupt v.爆发、喷发、突然发生
@@ -190,6 +193,7 @@
 - evolve v.发展、进化、演变
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - exaggerate [ɪɡˈzædʒəreɪt] v.夸大、夸张
+- exaggeration n.夸张、夸大、言过其实
 - exam [ɪɡˈzæm] n.考试、测验、检查、体检
 - examine v.检查、审查、考察、调查、考试、审问
 - excavate [ˈekskəveɪt] v.挖掘、开凿
@@ -231,6 +235,7 @@
 - expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
+- expedition [ˌekspəˈdɪʃn] n.探险、远征、考察
 - expel v.驱逐、开除、排出
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光
 - expenditure n.支出、花费、费用、经费、耗费、消耗  public expenditure 公共支出  infrastructure expenditure 基础设施支出
@@ -248,6 +253,7 @@
 - explore [ɪkˈsplɔː(r)] v.勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
 - explosion n.爆发、爆炸、炸裂、突增、激增
+- explosive a.易爆炸的、爆炸性的、暴躁的、激增的、n.炸药、爆炸物
 - exponent [ɪkˈspəʊnənt] n.指数、幂、拥护者、倡导者、a.说明的、讲解的
 - exponential [ˌekspəˈnenʃl] a.指数的、幂的、越来越快的
 - export n/v.出口、输出

@@ -6,6 +6,7 @@
 - waitress [ˈweɪtrəs] n.女侍者、女服务员
 - waiver 放弃、弃权、弃权声明
 - wake v.醒来、唤醒、唤起、复活、n.守夜、守灵、航迹、尾流  in the wake of 随...而来、作为...的结果
+- walk v.行走
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
 - want v.想要、需要、n.缺乏、不足
@@ -64,8 +65,12 @@
 - wise a.聪明的、明智的、有智慧的、博学的、v.使知道、使懂得、教导
 - wist wit的过去式和过去分词 v.风趣、心智、才智
 - wistful a.渴望的、伤感的
-- wit n.机智、才智、智慧、头脑、v.知道 wist
+- wit n.机智、才智、智慧、头脑、v.知道  过去式及过去分词:wist
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
+- withdrawal n.撤回、收回、退出、提款、取款
+- withhold v.阻止、拒绝给予、扣留
+- withstand v.经受、承受、顶住
+- witness [ˈwɪtnəs] n.目击者、证人、证据、证言、v.见证、目击、是发生...的地方/时间、为...作证
 - woman [ˈwʊmən] n.妇女、女人
 - women [ˈwɪmɪn] n. woman的复数
 - wonder [ˈwʌndə(r)] v.想知道、想弄明白、好奇、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的

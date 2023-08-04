@@ -2,9 +2,11 @@
 - macro n.宏、宏指令、a.广大的、宏观的、巨大的、极厚的、特别突出的、大量使用的
 - madam [ˈmædəm] n.夫人、女士、小姐
 - magazine n.杂志、期刊、弹药库
-- magical a.神奇的、有魔力的
+- magic [ˈmædʒɪk] n.魔法、魔术、a.有魔力的、魔术的、不可思议的
+- magical a.神奇的、有魔力的、美妙的
 - magnificent a.壮丽的、宏伟的、华丽的
 - magnify v.放大、增强、夸大、扩大
+- magnitude n.量级、震级
 - maid n.女仆
 - mainframe n.大型机、主机、中央处理机、主计算机
 - maintain [meɪnˈteɪn] v.维持、保持、维修、保养、坚持、固执己见
@@ -37,8 +39,9 @@
 - map n.地图、v.绘制
 - march [mɑːtʃ] n/v.前进、行军、n.March 三月
 - marine [məˈriːn] a.海洋的、海生的、海运的、n.水兵
-- margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资
+- margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资  profit margins 利润率
 - marginal a.小的、微不足道的、边缘的
+- marginalize v.边缘化、排斥
 - marital a.婚姻的、夫妻的
 - marriage n.结婚仪式、婚姻、婚礼
 - marry v.结婚、嫁、娶、为...举行婚礼
@@ -66,6 +69,7 @@
 - meal [miːl] n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
 - means n.手段、方法、方式、途径、mean第三人称单数和复数
+- meantime n.其间、ad.与此同时、在...期间
 - meanwhile ad.其间、与此同时
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
 - meat n.肉、重要的部分
@@ -200,6 +204,7 @@
 - moola (非正式)n.钞票💵
 - moral a.道德的、能辨别是非的、n.品行、道德  moral code 道德准则
 - morality n.道德、道义  the morality of career 职业道德  work ethic 职业道德
+- moreover ad.此外、而且
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
@@ -220,6 +225,9 @@
 - mud [mʌd] 泥、泥浆
 - muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
 - muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的
+- music n.音乐、乐曲
+- musical a.音乐的、悦耳的、n.音乐剧
+- musician n.音乐家
 - mutable [ˈmjuːtəbl] a.可变的、会变的
 - mutate v.变异、突变、转变、转换
 - multicast 多播、多点传送
@@ -235,3 +243,4 @@
 - mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的
+- mystical [ˈmɪstɪkl] a.神秘的
