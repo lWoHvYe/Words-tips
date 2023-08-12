@@ -29,11 +29,13 @@
 - fantasy [ˈfæntəsi] n.幻想、想象、空想的产物、幻想作品  various fantasy elements 许多奇幻的元素
 - fantasize v.想象、幻想、白日做梦
 - far a.远的、遥远的  比较级：farther/further  最高级：farthest/furthest
+- fare [feə(r)] n.票价、饭菜
 - farewell n.告别、辞行、再会
 - farm n.农场、v.种田、务农、饲养、养殖
 - farmer n.农民、农场主
 - farther ad.进一步、更远地
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
+- fasten v.系牢  Fasten your seatbelts, please 请系好安全带
 - fat [fæt] n.脂肪、a.胖的、肥胖的
 - fatal [ˈfeɪtl] a.致命的(危险)、严重的、毁灭性的
 - fate n.命运、注定
@@ -99,8 +101,8 @@
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
 - flammable 易燃的、可燃的
-- flash [flæʃ] n/v.闪光
-- flat a.平的、扁平的、水平的、单调的、干脆的、断然的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
+- flash [flæʃ] n/v.闪光、用光发出信号
+- flat a.平的、扁平的、水平的、单调的、干脆的、断然的、(费率、价格、百分比)固定的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
 - flatten v.压平、变平、把...弄平、摧毁
 - flatter v.奉承、讨好、使显得更漂亮、使胜过本人
 - flattery n.阿谀、奉承、讨好、恭维
@@ -133,7 +135,7 @@
 - forbid v.禁止、阻止、阻碍、妨碍
 - force n.武力、暴力、权利、力量、v.强迫、迫使、强作
 - fore n.船头、前面、前部、a.在前部的
-- forecase [ˈfɔːkɑːst] n/v.预测、预报
+- forecast [ˈfɔːkɑːst] n/v.预测、预报
 - foremost ad.首先、最重要地、a.首要的、最好的、最重要的  first and foremost 首先的是、首先
 - foresee v.预料、预知、预见
 - foreshadow 预示、预兆、先兆

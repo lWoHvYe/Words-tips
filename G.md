@@ -8,6 +8,7 @@
 - gate n.门、大门、阀门
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
 - gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
+- gay [ɡeɪ] n.同性恋者、a.同性恋的
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
 - gender n.性别、性
 - gene [dʒiːn] n.基因、遗传因子
@@ -25,6 +26,7 @@
 - geography 地理、地形、地势
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - Germany [ˈdʒɜːməni] n.德国
+- gesture [ˈdʒestʃə(r)] n.姿势、手势、v.做手势、用动作示意
 - giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
 - gift n.礼物、赠品、天赋、v.白送、白给
 - gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
@@ -48,6 +50,7 @@
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - go 走、离开、进行   go short 做空、卖空  go long 做多、多头、买进
 - gold n.金、黄金、金色、a.金色的
+- golf [ɡɒlf] n.高尔夫球、v.打高尔夫球
 - gonna [ˈɡənə] n.即将、将要
 - google [ˈɡuːɡl] n.谷歌
 - gossip n.流言蜚语、闲言碎语、v.说三道四、说长道短
@@ -98,6 +101,9 @@
 - guess n/v.猜测、猜想
 - guideline 指南、准则、指导方针
 - guilty a.有罪的、内疚的
-- gum n.口香糖、牙龈、黏胶
+- gulf [ɡʌlf] n.海湾
+- gull [ɡʌl] n.海鸥
+- gum n.口香糖、牙龈、黏胶、牙龈  chewing gum 口香糖
 - gutter n.槽沟、排水沟、v.忽明忽暗、摇曳不定
+- guy [ɡaɪ] n.家伙、伙计  average guy 普通人
 - gym/gymnasium [dʒɪmˈneɪziəm] n.体育馆、健身房

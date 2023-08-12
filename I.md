@@ -34,7 +34,7 @@
 - imagine v.想象、设想、猜测、猜想
 - imitate v.模仿、仿造
 - immeasurable a.不可估量的、无限的、无穷的  imxxxable 不可...的
-- immediate 立即的、立刻的、目前的、当前的、迫切的、直接的
+- immediate [ɪˈmiːdiət] a.立即的、立刻的、目前的、当前的、迫切的、直接的
 - immersive (计算机系统或图像)沉浸式虚拟现实的
 - immigrate [ˈɪmɪɡreɪt] vi.移入、移民  emigrate [ˈemɪɡreɪt] vi.移居国外、移民
 - imminent z.迫在眉睫的、即将发生的、临近的
@@ -43,7 +43,7 @@
 - immerse v.沉浸在、深陷于
 - immersive a.沉浸式虚拟现实的
 - immortal a.不死的、永恒的、n.神
-- immune a.有免疫力的、不受影响的
+- immune a.有免疫力的、不受影响的  immune system 免疫系统
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact n/v.影响、撞击、冲击、挤入、冲击力
@@ -61,7 +61,7 @@
 - implement v.实施、执行、使生效、实现、落地、n.工具、器具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
 - implication n.蕴含、含意、牵涉、牵连、影响
-- implict [ɪmˈplɪsɪt] a.含蓄的、内含的、不直接的、隐示的
+- implicit [ɪmˈplɪsɪt] a.含蓄的、内含的、不直接的、隐示的、固有的、无疑问的、无保留的
 - implode v.内爆、突然崩溃
 - imply v.暗示、意味、隐含、说明、意味着
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
@@ -105,8 +105,9 @@
 - indifference n.冷漠、中立
 - indispensable a.不可或缺的、必不可少的
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
-- induce v.引起、归纳、引诱、感应、诱使、劝说、导致
+- induce v.引起、归纳、引诱、[电]感应、诱使、劝说、导致  induce resentment 引起怨恨
 - induction 就职、催生、电磁感应
+- indulge [ɪnˈdʌldʒ] v.放纵、纵容、沉溺、听任、容许...延期付款
 - industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司  industrial revolution 工业革命
 - industrialist n.工业家、实业家
 - industrialize/industrialise v.工业化
@@ -159,6 +160,7 @@
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
 - insect n.昆虫
 - insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
+- insincere a.不诚恳的、虚伪的
 - inside 在..内、少于、被监禁、里面、内部、内部的、里面的
 - insidious [ɪnˈsɪdiəs] a.阴险的、潜伏的
 - insight n.眼光、洞察力、洞悉、领悟、见解
@@ -196,10 +198,10 @@
 - intelligence n.智力、才智、情报  artificial intelligence AI 人工智能
 - intellisense n.智能感知、智能感应
 - intend v.计划、打算、想要、意指、意欲
-- intense a.强烈的、激烈的
+- intense a.强烈的、激烈的、剧烈的、紧张的、热切的
 - intensify v.强化、加强、增强
 - intensity n.强烈、紧张、剧烈、强度
-- intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的  labor-intensive 劳动密集型
+- intensive a.密集的、彻底地、十分细致的、集约的、加强的、强烈的  labor-intensive 劳动密集型  Intensive Care Unit - ICU
 - intent n.目的、意图、a.热切的、专切的
 - intention n.打算、意图、目的、计划
 - intentional a.有意的、故意的、蓄意的
@@ -238,7 +240,8 @@
 - interval n.间隔、间歇、休息时间、音程
 - intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
-- intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友
+- intimacy n.亲密、亲切
+- intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友  intimate grouping 亲密团体
 - intimidate [ɪnˈtɪmɪdeɪt] v.恐吓、威胁
 - intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
 - intricate a.错综复杂的、难理解的

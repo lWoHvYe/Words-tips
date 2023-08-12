@@ -30,6 +30,7 @@
 - web n.网、网络、v.在...上织网、用网缠住
 - weigh [weɪ] v.权衡、称重
 - weight n.重量、分量、砝码
+- weird a.奇怪的、诡异的、离奇的
 - weld v.焊接、n.焊接点
 - welfare n.福利、幸福
 - well 好、很可能、相当、井、健康
@@ -48,6 +49,7 @@
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
 - wholesome a.卫生的、健康的、有益的
+- wide a.宽的、广泛的
 - widespread a.普遍的、广泛的
 - widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  
@@ -58,6 +60,7 @@
 - windfall [ˈwɪndfɔːl] n.意外之财
 - window n.窗、窗口
 - wing n.翼、翅膀、机翼、派系、派别、厢房
+- wingtip n.翼梢、翼尖
 - wipe n.擦去、消除、抹去、n.抹布、纸巾
 - wire n.金属丝、电线、导线、v.用导线给(设备)接通电源、将....连接到(设备)
 - wireframe n.线框图
@@ -66,6 +69,7 @@
 - wist wit的过去式和过去分词 v.风趣、心智、才智
 - wistful a.渴望的、伤感的
 - wit n.机智、才智、智慧、头脑、v.知道  过去式及过去分词:wist
+- witch [wɪtʃ] n.女巫、巫婆
 - withdraw v.撤退、撤回、退出、(从银行) 取 (钱)、提取
 - withdrawal n.撤回、收回、退出、提款、取款
 - withhold v.阻止、拒绝给予、扣留

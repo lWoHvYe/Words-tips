@@ -38,12 +38,13 @@
 - party n.聚会、政党、v.举行聚会
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
 - pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
-- passage n.通过、走廊、管路、通道、段落、乐段、流逝、旅程、行程
+- passage n.通过、走廊、管路、通道、段落、乐段、乐章、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、激怒、大怒、v.表露强烈感情
 - passionate a.热情的、热诚的、狂热的、易怒的
 - passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
+- pathetic a.可怜的、可悲的
 - pathogen n.病原体
 - pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
 - pathway 路、道、途径、路径
@@ -144,7 +145,7 @@
 - pitfall n.陷阱、诱惑、圈套、困境、危险、隐患
 - pivot n.枢轴、中心点、支点、v.扭转
 - pivotal 关键性的、核心的
-- place n.地方、职位、座位、v.放置、安放、归类、划分、排名
+- place n.地方、职位、座位、v.放置、安放、归类、划分、排名  in place of 代替、取代
 - placeholder 占位符
 - plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨
 - plain [pleɪn] n.平原、a.朴素的、朴实的、简朴的、清楚的、原味的、ad.简直、绝对地
@@ -153,7 +154,9 @@
 - plant n.植物、工厂、设备、v.种植、放置、安放
 - plaster n.石膏、熟石灰、v.抹灰、用...涂抹、把(头发)梳平
 - plastic n.塑料、信用卡、a.塑料的、可塑的
-- plate n.盘子、碟子、金属板   license/number plate (车)牌照、号码牌
+- plate n.盘子、碟子、金属板、v.电镀   license/number plate (车)牌照、号码牌
+- plateau n.高原、稳定期、停滞期  hit a plateau 进入停滞期
+- platform n.平台、站台、月台、纲领、政纲
 - platinum n.铂、白金
 - plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的、貌似真实的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
@@ -196,6 +199,7 @@
 - pond n.(人工的)池塘、水塘
 - ponder 思考、琢磨
 - pool n.水塘、共用的资源、v.集中资源
+- poor a.贫穷的、贫寒的、n.穷人  poorly educated 受教育程度低的
 - pop n.流行音乐、汽水、v.突然出现、爆裂、张大、a.流行的  pop star 流行歌手  pop into one's mind 突然出现/想到
 - popular 受欢迎的、流行的、大众的、通俗的
 - populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
@@ -240,13 +244,15 @@
 - preach n/v.宣讲、布道、说教
 - precautionary a.预防的
 - precede v.先于、优于、在...之上
-- precedent n.先例
+- precedent n.先例、范例、惯例
+- preceding a.在前的、在先的
 - precious a.珍贵的、宝贵的、可爱的、宝贝的、矫揉造作的、n.可爱的人
 - precipitate [prɪˈsɪpɪteɪt/prɪˈsɪpɪtət] v.加速(坏事的发生)、n.沉淀物、析出物
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - precisely ad.准确地、精确地、确实、正是
 - precision n.精确、准确
 - predatory a.捕食性的、食肉的
+- predecessor n.前任、前身、前辈
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
 - predict v.预言、预测、预报、预告
 - predominance n.优势、主导地位
@@ -276,7 +282,7 @@
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
 - preside v.主持、指挥、担任主席
-- president n.总统、国家主席、会长、院长、银行行长、董事长、总裁
+- president [ˈprezɪdənt] n.总统、国家主席、会长、院长、银行行长、负责人、董事长、总裁
 - press v.按、压、逼迫、催促、坚持、n.报刊、出版机构、压榨机
 - pressure n.压力、压强、气压、v.施加压力、迫使、增压
 - prestige [preˈstiːʒ] n.威信、威望、显赫
@@ -289,6 +295,7 @@
 - prevent [prɪˈvent] v.防止、阻止、阻碍、阻挠
 - previous a.先前的、以前的
 - prevision n.预见、远见、预知、先见
+- prey n.猎物、v.捕食
 - price n.价格、代价、v.给...定价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - priest [priːst] n.牧师、神父、僧侣
@@ -396,6 +403,7 @@
 - publicize v.宣称、推广、宣扬、传播
 - pull v.拉、拔出、n.引力、吸引力、诱惑
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
+- punch [pʌntʃ] v.打孔、穿孔、冲孔、n.冲床、打孔机  beat sb to the punch 抢在某人前面
 - punish v.处罚、惩罚、责怪、自责
 - punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购

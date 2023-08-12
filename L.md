@@ -78,13 +78,13 @@
 - lightning n/v.闪电、雷电
 - likelihood [ˈlaɪklihʊd] n.可能性、可能
 - likewise [ˈlaɪkwaɪz] ad.同样地、也、亦、又
-- limb [lɪm] n.肢干、大树枝
+- limb [lɪm] n.肢干、肢体、大树枝
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - line n.线、路线、排列、纵列
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - lineup n.阵容、列队辨认
-- linger v.逗留、徘徊、继续存留
+- linger v.逗留、徘徊、继续存留、拖延、留恋、苟延残喘  linger on 徘徊
 - linguistic [lɪŋˈɡwɪstɪk] a.语言的、语言学的
 - lining [ˈlaɪnɪŋ] n.衬里、内衬、膜
 - link v.联系、连接、n.链接、联系、关系、纽带、环节
@@ -116,9 +116,10 @@
 - logical a.逻辑上的、必然的、合乎逻辑的、合乎情理的
 - login n.登录、注册
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
-- loom n.织布机、纺织机、v.赫然出现、逼近  loom large 挥之不去、显得突出
+- loom n.织布机、纺织机、v.赫然出现、逼近、迫、迫近近  loom large 挥之不去、显得突出
 - loop 环、环形、回路
-- loose 松的、释放
+- loose a.宽松的、v.松开、释放
+- loosen [ˈluːsn] v.松开、解开
 - lord n.主、上帝
 - lose [luːz] v.遗失、失去、丧失、浪费(时间)、(钟表)走慢  lose weight 减肥
 - loss [lɒs] n.丧失、损失、亏损 take a loss 亏损  weight loss 减重

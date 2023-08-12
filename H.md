@@ -4,7 +4,7 @@
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halo [ˈheɪləʊ] n.光环、(日月等的)晕
-- halt v.暂停、中止、停下
+- halt v.暂停、中止、停下  Halting Problem 停机问题
 - halve [hɑːv] v.减半
 - hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
@@ -17,6 +17,7 @@
 - hardline a.强硬的、不妥协的
 - hardship n.困难、艰难、困苦、拮据
 - hardware n.硬件、五金器具
+- hare [heə(r)] n.野兔
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
 - harsh a.残酷的、恶劣的、严酷的、粗糙的、刺耳的  harsh reality 残酷的现实
@@ -31,6 +32,7 @@
 - head n.头、头脑、领导、主管、v.朝着...行进
 - headcount/hc 公司HR预计招聘的员工人数 
 - headline n.大字标题、新闻摘要
+- headlong ad.轻率地、急速地、慌张地、a.轻率的、急速的
 - headquarters n.总部
 - heads-up 提醒、警告
 - heal [hiːl] v.治愈、康复
@@ -62,7 +64,7 @@
 - hike n/v.徒步旅行、远足、(价格、花费等)大幅提高、猛增
 - hill n.山丘、斜坡
 - hinder v.阻碍、妨碍
-- hint n.暗示、示意、提示、征兆、迹象、v.暗示、透露、示意
+- hint n.暗示、示意、提示、征兆、迹象、线索、v.暗示、透露、示意
 - hire v.雇用、聘用、租用、租借、n.租借、租用、租赁、租金、酬金
 - histogram 柱状图、直方图
 - historian n.历史学家
@@ -95,8 +97,10 @@
 - housing n.住房
 - hub n.轮轴、中心、电线插孔、集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
+- humanity n.人类、人性
 - humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
 - humor n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
+- hurl v.投掷
 - hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
 - hydrochloride n.盐酸、盐酸盐、氯化氢

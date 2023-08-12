@@ -165,6 +165,7 @@
 - alleviate [əˈliːvieɪt] v.减轻、缓和、缓解
 - alliance [əˈlaɪəns] n.结盟、联盟、同盟
 - allocate v.分配、分派、拨...(给)、划...(归)
+- allot v.分配、分派、配给
 - allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
 - ally n.联盟、同盟国、v.与...结盟
@@ -188,6 +189,7 @@
 - ambitious [æmˈbɪʃəs] a.有雄心的、有抱负的、费力的、耗资的、耗时的
 - amend v.修正、修订、改良、修改
 - amendment n.修订、修正案
+- amiable a.友善的、亲切的、和蔼的
 - amicable a.友好的、友善的
 - amid prep.在...中间、在...之中
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
@@ -197,7 +199,7 @@
 - amplifier n.放大器、扩音器
 - amuse v.娱乐、消遣
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
-- analogous a.相似的、类似的
+- analogous [əˈnæləɡəs] a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
 - analyse/analyze [ˈænəlaɪz] v.分析
 - analysis [əˈnæləsɪs] n.分析、分析结果、分析报告
@@ -309,7 +311,7 @@
 - assimilate [əˈsɪməleɪt] v.同化、消化、吸收
 - assist v.帮助、援助
 - assistance n.帮助、援助、支持
-- assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP
+- assistant n.助手、助理、a.助理的、辅助的、副的  Assistant Vice President - AVP  Senior Vice President - SVP
 - associate [əˈsoʊsieɪt]/[əˈsoʊsiət] v.联合、联想、联系、交往、a.非正式的、准的、副的、n.伙伴、同事、合伙人
 - association n.协会、社团、联盟
 - assume [əˈsjuːm] v.假定、假设、承担、担任、呈现

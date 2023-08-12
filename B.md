@@ -31,6 +31,7 @@
 - batch n.批、批量、v.分批处理
 - battery n.电池、蓄电池、一组、一套
 - battle n/v.战争、斗争
+- bazaar [bəˈzɑː(r)] n.集市、义卖
 - be v.是、有  三单:is 现在分词:being 过去式:was were(pl/第二人称) is->was are->were 过去分词:bean
 - beach n.海滩、沙滩、v.上岸
 - beacon [ˈbiːkən] n.信标
@@ -38,25 +39,29 @@
 - bear n.熊、v.承受、忍受、生育
 - beard [bɪəd] n.胡须
 - bearer 持票人、持有者、送信人、传授者、传播者
-- bearing n.关系、影响、姿态、方位、轴承
+- bearing n.关系、影响、姿态、(用罗盘测量的)方位、轴承
 - beast n.野兽
 - beastliness n.兽性
+- beat [biːt] n.节拍、跳动、v.打、搏动
 - beauty n.美丽
 - behalf n.利益、代表  on behalf of 代表
 - behave v.表现、举止得体
 - behavio(u)r n.行为、举止、特性、表现方式、活动方式
 - belief n.相信、信心、信念、理念
-- belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰
+- belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰  green belts 绿化带
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
 - beneath prep.在下方、在下面、在底下
 - benefactor n.施主、赞助者
 - benefit n.利益、好处、成效、福利、奖金、补助、救济金、v.使受益、得益于、得利于
-- benign [bɪˈnaɪn] a.良性的、温和的
+- benevolent a.慈善的、仁慈的
+- benign [bɪˈnaɪn] a.(肿瘤等)良性的、(疾病等)无危险的、温和的
 - bequest 遗赠、遗产、遗赠物
 - bespeak v.证明、预定、展现、显示
 - bespoke a.订做的、定制的、v. bespeak的过去式
+- betray v.背叛、出卖、泄露
 - between [bɪˈtwiːn] prep.在...中间、介于...之间 between jobs 工作之间、待业中、暂时失业中
+- beverage n.饮料
 - bewail v.悲哀、哀悼
 - beware v.当心、提防
 - bewilder v.使困惑、使迷惑
@@ -124,10 +129,12 @@
 - bore v.令人厌烦、钻孔、盯着看、n.令人厌烦的人或事、孔、内径、口径
 - born v.出生、形成、a.天生的
 - borrow v.借入、借贷
+- bottle n.瓶子、瓶装、v.用瓶子装
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound n/v.跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、受约束的、有义务的、开往...的 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
 - boundary n.边界、界限、分界线
 - bountiful [ˈbaʊntɪfl] a.慷慨的、大方的、大量的
+- bourgeois [ˈbʊəʒwɑː] a.世俗的、资产阶级的、中产阶级的
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bra [brɑː] n.文胸、胸罩
 - brace n.箍子、牙箍、大括弧、v.准备好、支撑
@@ -135,6 +142,7 @@
 - brain [breɪn] n.脑、智力、逻辑思维能力
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)  brand new 全新的、崭新的
+- brass n.黄铜
 - brave a.勇敢的、无畏的
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
@@ -158,6 +166,7 @@
 - broaden 扩大、拓宽、增长
 - brochure [ˈbrəʊʃə(r)] n.手册、小册子
 - broker n.经纪人、中间人、代理人、v.安排、协商
+- bronze n.青铜、铜(牌)
 - brook n.溪、小河、v.(不)允许(某事)
 - brow n.额头、眉毛、表情、山脊
 - browser n.浏览程序、浏览器
@@ -174,7 +183,7 @@
 - budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的  on a budget 节省费用、避免不必要的开支
 - bulk [bʌlk] 体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离
-- bullet n.子弹
+- bullet n.子弹  silver bullet 银弹
 - bump 碰撞、突然的；bump up 突然增加、提高
 - bundle n.捆、包
 - buoy [bɔɪ] n.浮标、航标、v.鼓舞、鼓励、使浮起、使(价格)上浮
@@ -182,6 +191,7 @@
 - burden [ˈbɜːdn] n.负担、包袱、责任、义务、v.使担负...
 - burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
+- bureaucracy [bjʊəˈrɒkrəsi] n.官僚主义、官僚机构、官僚作风
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
 - burst [bɜːrst] v.爆裂、胀开、爆满  boom and burst 繁荣与破灭
 - bury [ˈberi] v.埋葬、埋藏

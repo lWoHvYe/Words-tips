@@ -179,7 +179,7 @@
 - closet n.壁橱、密室、a.私下的、隐蔽的、v.把...引进密室会谈
 - closure n.结束、停业、关闭、倒闭、闭合、闭包、v.使结束、使终止
 - cloud n.云、阴影、v.给...蒙上阴影  cloud sb's reputation 破坏名誉
-- clue n.线索、提示、v.提示
+- clue n.线索、提示、v.提示  offer clues 提供线索
 - clumsy [ˈklʌmzi] a.笨拙的、不灵活的
 - cluster n.群、丛、簇
 - coach [kəʊtʃ] n.教练、v.训练、辅导
@@ -274,7 +274,7 @@
 - compliant a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
-- comply vi.顺从、服从、遵守、遵从、应允、同意
+- comply vi.顺从、服从、遵守、遵从、应允、同意  comply with 依从、遵从、顺从
 - component n.成分、组成、组成部分、要素、电路元件、a.组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
 - composite [ˈkɒmpəzɪt/kəmˈpɑːzət] a.混合成的、复合的、合成的、混成的、n.复合材料、合成物、混合物
@@ -327,7 +327,7 @@
 - conflict [ˈkɒnflɪkt/kənˈflɪkt] n/v.冲突、抵触
 - confluence [ˈkɒnfluəns] n.汇合、交汇处
 - confluent a.汇合的
-- conform v.符合、遵守、相一致、相吻合
+- conform v.符合、遵守、相一致、相吻合  conform to 
 - confront [kənˈfrʌnt] v.使面临、使面对、与...对峙
 - confuse v.困惑、迷惑、混淆
 - congest v.拥挤、使充血
@@ -356,6 +356,7 @@
 - consistent a.一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consolidate v.巩固、使加强、合并、统一、联合  be consolidated to 被合并到...
 - conspicuous [kənˈspɪkjuəs] a.明显的、显而易见的、引入注目的
+- conspire v.阴谋、密谋、图谋
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
 - constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
 - constitute v.组成、构成、制定、设立、成立、指派
@@ -373,7 +374,8 @@
 - container [kənˈteɪnə(r)] n.容器、集装箱
 - contemplate v.沉思、考虑、思量、注视、凝视
 - contemporary a.现代的、当代的、同一时代的、n.同代人、同辈人  contemporary culture 当代文化
-- contempt n.轻蔑、轻视、鄙视
+- contempt n.轻蔑、轻视、鄙视  contempt for 对...的轻视
+- contemptuous a.蔑视的、鄙视的、表示轻蔑的
 - contend v.竞争、争夺、辩论、争辩、声称、主张、认为
 - content [ˈkɒntent/kənˈtent] n.内容、目录、主题、含量、容量、n.满意、满足、愿意、a.满足的、满意的、v.使满足、使满意  be content to do sth 愿意做某事
 - contention n.竞争、争论、看法、观点
@@ -498,6 +500,7 @@
 - cross-cutting 跨部门、跨领域
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crude n.原油、石油、a.粗糙的、粗略的
+- cruise [kruːz] n/v.航行、巡航、巡逻、游览
 - crumb n.碎屑、v.弄碎、捏碎
 - crunch [krʌntʃ] v.嚼、碾、处理信息、n.短缺、困境、紧要关头、关键时刻
 - crup 庄稼、作物、收成、产量、一群人、一批人、平头、剪短、剪裁、裁切
@@ -522,6 +525,7 @@
 - cure v.治愈、矫正、解决、消除、治疗、n.药物、疗程、措施、对策
 - curiosity [ˌkjʊəriˈɒsəti] n.好奇心、求知欲、奇物、珍品
 - curious [ˈkjʊəriəs] a.好奇的
+- curl [kɜːl] v.卷曲、弯曲、蜷缩、n.鬈(quan)发、螺旋状物、A command line tool and library for transferring data with URL syntax
 - curly a.卷曲的
 - current a.现在的、当前的、通用的、流通的、流行的、n.电流、水流、气流、思潮、潮流、趋势
 - currency n.货币、通货、流行

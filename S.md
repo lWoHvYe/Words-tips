@@ -50,6 +50,7 @@
 - scold v.责骂、训斥
 - scoop [skuːp] n.勺、铲子、独家新闻、v.抱起、拿起、捡起、抢先报道、赢得、获得
 - scope [skəʊp] n.范围、边界、眼界、见识、机会、能力、v.仔细看、彻底检查
+- scorn [skɔːn] n/v.轻蔑、蔑视
 - scrape v.擦、刮、擦去、擦伤、n.刮、擦伤、擦痕
 - scraper n.刮刀
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
@@ -142,6 +143,7 @@
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - sheep n.羊、绵羊
 - shelf n.架子
+- shell n.贝壳、外壳、炮弹、v.去壳、炮击  shell script shell脚本  shell out for 为...付费
 - shelter n.避难所、v.保护、掩蔽
 - shelve v.搁置
 - shield 盾、护罩、保护、掩护、屏蔽
@@ -185,7 +187,7 @@
 - simplify v.简化、精简
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
-- sin [sɪn] n/v.罪、犯罪、罪过、abbr.正弦
+- sin [sɪn] n/v.罪、犯罪、罪过、原罪、abbr.正弦
 - sincere [sɪnˈsɪə(r)] a.真诚的、诚挚的
 - sine [saɪn] n.正弦
 - singleton [ˈsɪŋɡltən] n.单项物
@@ -211,13 +213,15 @@
 - slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
 - slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
 - slavery n.奴隶制度、奴隶身份
+- slender a.纤细的、苗条的、柔弱的
 - sleuth 足迹、警犬、侦探
 - slice v.切成片、切片、切下、划分、n.薄片、一部分、部分、份额、锅铲、曲线球
 - slide v.滑落、下跌、滑行、贬值、衰落、n.幻灯片
 - slight a.轻微的、略微的、微小的、细小的、无需重视的、不足为道的、v.轻蔑、忽视、怠慢、冷落
+- slim a.苗条的、纤细的、薄的、少的、v.减轻体重、减肥、变苗条
 - slink v.溜走、溜
 - slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
-- sliver n.薄片、小块、v.切薄片
+- sliver [ˈslɪvə(r)] n.薄片、小块、v.切薄片
 - slogan n.标语、口号
 - slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
 - sloppy a.马虎的、凌乱的、草率的、宽松的
@@ -300,13 +304,13 @@
 - sperm [spɜːm] n.精子、精液
 - sphere n.球、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
-- spin 纺纱、吐(丝)、作(茧)、快速旋转、急转身、兜风、旋转、导向性陈述
+- spin v.旋转、纺纱、吐(丝)、作(茧)、急转身、兜风、n.旋转、自转、导向性陈述  spin out 衍生出、派生出
 - spine 脊柱、脊椎、书脊、刺
 - spirit [ˈspɪrɪt] n.精神、灵魂、意志、心灵、情绪、pl.情绪
 - spiritual a.精神的、心灵的、宗教的
 - spit v.吐、吐出、n.唾液
 - spite n.恶意、怨恨、v.欺负、刁难  in spite of 虽然、尽管
-- split n/v.分裂、划分
+- split n/v.分裂、划分、裂口
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
@@ -442,6 +446,7 @@
 - subside v.减弱、平息、退去、消退
 - subsidise ['sʌbsɪdaɪz] v.补助、资助、给...发津贴
 - subsidy n.津贴、补贴、补助
+- subsist v.(靠有限的食物或钱)维持生活、度日、(合同)有效
 - substance n.物质、主旨、要点、实质
 - substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
@@ -502,6 +507,7 @@
 - surf v.冲浪、(互联网上)浏览、n.海浪、浪花
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surpass v.超过、胜过、超越、优于
+- surplus [ˈsɜːpləs] n.盈余、顺差、剩余、过剩、a.剩余的、过剩的、多余的
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
 - surrogate [ˈsʌrəɡət] n.代理、代表、代孕、a.代理的、替代的、代用的
 - surround v.围绕、包围、环绕
@@ -530,7 +536,8 @@
 - symbol n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
 - symmetric a.对称的、均衡的
-- sympathy [ˈsɪmpəθi] n.同情、慰问
+- sympathetic [ˌsɪmpəˈθetɪk] a.同情的、赞同的
+- sympathy [ˈsɪmpəθi] n.同情、慰问、赞同
 - symphony n.交响乐、交响曲
 - symposium [sɪmˈpəʊziəm] n.专题讨论会、研讨会
 - symptom n.症状、征兆

@@ -1,3 +1,4 @@
+- rabbit n.兔子
 - race n/v.赛跑、比赛、竞争、角逐、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
 - racial [ˈreɪʃl] a.种族的
 - radar [ˈreɪdɑː(r)] n.雷达  ground radar 地面雷达
@@ -5,6 +6,7 @@
 - radiant [ˈreɪdiənt] a.辐射的、放射的、容光焕发的、喜气洋洋的  radiant matter 辐射物
 - radix n.进制、基数
 - radio n.无线电、v.(用无线电)发送/传送 radio button n.单选按钮
+- radius n.半径
 - raft n.木筏
 - rage [reɪdʒ] n/v.愤怒、狂怒、暴怒
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
@@ -151,12 +153,13 @@
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
+- remote a.远程的、遥远的、偏僻的、久远的、n.远程、遥控器  remote education 远程教育  remote control 遥控
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
 - rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
 - rendezvous [ˈrɒndɪvuː] n/v.约会、会面、会合、集合
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
-- renew v.更新、重新开始、重申、使恢复
+- renew v.更新、重新开始、重申、使恢复、延长...的期限
 - renewable a.可再生的、n.可再生资源
 - renewal n.更新、合同的续订、复兴、振兴
 - rent n.租金、地租、房租、v.租赁、租借、出租
@@ -228,8 +231,9 @@
 - retarget 重定向、重构、把...作为新目标
 - retention n.保持、维持、保留、阻滞、记忆、记忆力
 - retire v.退休、撤退、后退
-- retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处
-- retrieval n.检索、取回、挽回
+- retract [rɪˈtrækt] v.撤回、撤销、收回、缩进
+- retreat v.撤退、后退、撤销、作罢、n.撤退、退却、逃避、僻静处、隐居地、静养所
+- retrieval [rɪˈtriːvl] n.(计算机系统信息的)检索、取回、挽回
 - retrieve v.检索、取回、挽回、恢复
 - retrograde v.逆行、倒退、a.倒退的、退化的、退步的
 - retrospect [ˈretrəspekt] n.回顾、回想  in retrospect 回顾、回想
@@ -253,6 +257,7 @@
 - reward n.奖励、回报、报酬、v.奖励、奖赏、给予报酬
 - rewarding a.有益的、值得做的
 - rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
+- ride [raɪd] n.骑、乘坐、旅行、旅程、v.骑、乘坐、搭乘
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
 - rigid a.僵硬的、严格的、刻板的、顽固的、死板的
 - ringtone n.铃声
@@ -261,6 +266,7 @@
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
 - rival n.竞争对手、v.与...相匹敌、比得上、a.竞争的、对立的
+- rivalry [ˈraɪvlri] n.竞争、较量
 - river n.河流
 - roast v.烤、n.烤肉
 - robot n.机器人
@@ -299,6 +305,6 @@
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
 - rupture n/v.破裂、断裂
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
-- rush n/v.冲、急促、仓促
+- rush n/v.冲、急促、仓促  rush through 快速通过
 - rut n.车辙、惯例  ruts of procedure 惯有程序
 - ruthless a.残忍的、无情的

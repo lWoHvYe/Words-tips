@@ -6,9 +6,10 @@
 - nasal [ˈneɪzl] n.鼻腔、鼻音、a.鼻的、鼻音的
 - nasty a.肮脏的、恶劣的、恶意的、讨厌的、危险的、严重的
 - nation n.国家、民族、国民
-- nature n.自然、天性、本性
+- nature [ˈneɪtʃə(r)] n.自然、天性、本性
 - naval a.海军的  naval stores 松脂制品
-- naviagte 驾驶、航行于、导航、航行、找到正确方法
+- navigate v.导航、驾驶、航行、浏览(网站)、找到正确方法、(艰难)走过
+- nabigation n.航海、航空、导航、领航
 - navy [ˈneɪvi] n.海军
 - neat [niːt] a.整洁的、整齐的、灵巧的
 - necessary a.必要的、必然的、强制的、不可避免的
@@ -34,6 +35,7 @@
 - neurotic [njʊəˈrɒtɪk] a.神经质的
 - neutral [ˈnjuːtrəl] a.中立的、中性的、不带电的、空档的、n.中立者、中和色
 - nevertheless ad.然而、不过、尽管如此
+- new a.新的、初次的、生疏的
 - nice a.美好的、吸引人的、友好的
 - nightmare n.噩梦、梦魇
 - nihil/nil 无、虚无
@@ -70,8 +72,12 @@
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站  nuclear power plant 核电站
 - nudge [nʌdʒ] n/v.轻推、推动、鼓励
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为
-- numerical 数字的、用数字表示的、数值的
+- number [ˈnʌmbə(r)] n.数值、编号、号码、v.给...编号、把...算作
+- numerical [njuːˈmerɪkl] a.数字的、用数字表示的、数值的
 - numerous [ˈnjuːmərəs] a.很多的、许多的、众多的
 - nurse n.护士、v.看护、照料
+- nursery n.托儿所、育儿室
+- nurture [ˈnɜːtʃə(r)] n/v.培养、养育、养护、抚养
 - nut n.螺帽、螺母、坚果
+- nutrition [njuˈtrɪʃn] n.营养、滋养  under-nutrition 营养不良  over-nutrition 营养过剩  nutrition and health care 营养与保健
 - nuts a.疯狂、执着、迷恋、狂热

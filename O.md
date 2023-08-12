@@ -1,5 +1,5 @@
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
-- obey v.服从、听从、遵守
+- obey v.服从、听从、遵守  obey the law 遵守法律
 - obfuscate v.混淆、使困惑、使模糊不清
 - object [ˈɒbdʒɪkt/əbˈdʒekt] n.物品、对象、目标、宾语、v.反对、不赞成  visualize the object 可视化对象
 - objection [əbˈdʒekʃn] n.反对、异议

@@ -59,12 +59,15 @@
 - materialize v.实现、具现化、实质化
 - maternal a.母亲的、母系的  maternal leave 产假、育婴假
 - maternity [məˈtɜːnəti] n.怀孕、a.产妇用的
+- math/mathematics [ˌmæθəˈmætɪks] n.数学、运算、计算
+- mathematical a.数学的、精确的
 - matrix 矩阵、基质、模型、母体
 - matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响  a matter of ...的问题，大约、左右  as a matter of 出于...考虑  as a matter of fact事实上/course通常/routine按照惯例/princlple原则上
 - mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
 - maturity 成熟、成年、到期
 - maven 专家、内行
 - may aux./modal 可能、也许、但愿、n.May 五月、山楂花
+- McDonald's [məkˈdɒnldz] n.麦当劳
 - meadow n.草地、牧场
 - meal [miːl] n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
@@ -210,6 +213,7 @@
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
 - mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
 - mortem 事后剖析
+- moster n.怪兽、怪物
 - moth n.蛾、飞蛾
 - motion n.运动、行动、意图、动机、v.示意
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
@@ -218,6 +222,8 @@
 - motor n.发动机、电动机
 - mountain n.山、山脉、许多、大量
 - mourn [mɔːn] v.哀悼、忧伤
+- mouse [maʊs] n.老鼠、鼠标  pl.mice
+- mouth [maʊθ/maʊð] n.嘴、口腔
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - movement n.运动、转动、迁移
@@ -243,4 +249,5 @@
 - mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的
+- mystery [ˈmɪstri] n.神秘、奥秘、秘密
 - mystical [ˈmɪstɪkl] a.神秘的

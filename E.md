@@ -60,6 +60,7 @@
 - emission n.发出、排放、排放物、散发物
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
+- empathy [ˈempəθi] n.同感、共鸣、同情
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical [ɪmˈpɪrɪkl] a.来自实验或经验的、经验主义的
 - empire [ˈempaɪə(r)] n.帝国、大企业
@@ -187,7 +188,7 @@
 - evict v.驱逐、赶出、逐出
 - evident a.明显的、显而易见的
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
-- evil a.恶毒的、邪恶的、有害的
+- evil a.恶毒的、邪恶的、有害的、n.邪恶、罪恶
 - evoke v.唤起、产生、引起
 - evolution n.发展、进化、演变  biological evolution 生物进化
 - evolve v.发展、进化、演变
@@ -247,7 +248,7 @@
 - expire v.失效、中止、到期、断气、逝世
 - explain v.解释、说明、阐明
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述、理由、原因
-- explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的
+- explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的  implicit or explicit reference 隐式或显式引用
 - explode v.爆炸、突然爆发、迸发、突增、激增
 - exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩
 - explore [ɪkˈsplɔː(r)] v.勘查、探测、探索、研究、探讨

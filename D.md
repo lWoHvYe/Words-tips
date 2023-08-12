@@ -31,7 +31,8 @@
 - decouple v.分离、隔断、解耦
 - dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
-- deduce v.推论、推断、演绎
+- deduce v.推论、推断、演绎  deduce a numerical sequence 推导一个数列
+- deduct v.扣除、扣减、减去
 - deduction n.演绎、推论、扣除(额)、减去(数)
 - deed n.行为、行动、契约、证书
 - deem v.认为、视为、相信
@@ -115,6 +116,7 @@
 - desolate [ˈdesələt/ˈdesəleɪt] a.荒凉的、无人的
 - despair n/v.绝望、失望
 - desperate [ˈdespərət] a.绝望的、孤注一掷的、不顾一切的、渴望的、非常需要的、危急的、严峻的
+- despise v.鄙视、蔑视、看不起
 - despite prep.即使、尽管
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运、天数、天命
@@ -215,7 +217,7 @@
 - disperse v.分散、散开、驱散
 - displace v.移动、移走、取代、置换、替换、排水、撤职
 - display n/v.陈列、展示、显示、显露、表现
-- disposable [dɪˈspəʊzəbl] a.可任意处理的、可自由处置的、一次性的
+- disposable [dɪˈspəʊzəbl] a.可任意处理的、可自由处置的、一次性的、用后即丢弃的  disposable income 可支配收入
 - disposal n.处理、处置、去掉、清除、排列、布置、变卖
 - dispose [dɪˈspəʊz] v.处理、处置、布置、安排
 - disposition n.性格、性情、倾向、布置、排列、处置
@@ -225,7 +227,8 @@
 - disrupt v.扰乱、打乱、中断、瓦解、击穿、使中断、a.混乱的、瓦解的、分裂的、中断的
 - disruptive a.破坏性的、颠覆性的
 - dissolve [dɪˈzɒlv] v.溶解、解除(婚姻关系)、终止(商业协议)、解散、消除、除去
-- distance n.距离、间距、v.疏远、拉开距离
+- distance n.距离、间距、v.疏远、拉开距离  separation distance 间隔距离
+- distant a.远的、遥远的、疏远的
 - distasteful a.讨厌的、令人反感的
 - distinct a.不同的、明显的、清楚的、明白的、确切的
 - distinction n.差别、区别、卓越、荣誉
@@ -250,6 +253,7 @@
 - divisor n.因子
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
 - dock n.码头、船坞、v.(船)进港、靠岸、(飞船)对接、扣除(部分工资)
+- docket n.单据、摘要
 - document n.公文、文件、证件、文档、v.记录、记载、用文件证明
 - documentary a.文献的、记录的、纪实的、n.纪录片
 - doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
@@ -263,6 +267,7 @@
 - dominant [ˈdɒmɪnənt] a.占优势的、主导的、支配的、统治的
 - dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
+- doom [duːm] n.厄运、劫数、v.注定、命定
 - dormant a.睡着的、休眠的、蛰伏的
 - down [daʊn] 向下、停机、沮丧、失落、击落
 - denominate [dɪˈnɑːmɪneɪt] v.命名、称呼
@@ -295,7 +300,7 @@
 - drill 训练、操练、演习、钻、钻头
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
-- drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示  drop out 离开、退出、退学  drop back down 放下
+- drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示、写/寄(信)  drop out 离开、退出、退学  drop back down 放下  drop an email 写封邮件
 - drought n.干旱、旱灾
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂

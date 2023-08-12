@@ -50,7 +50,8 @@
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
 - vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的、prep.代替、替代
-- victim 受害者、牺牲品、上当的人、祭品、牺牲
+- vicious a.邪恶的、凶残的、恶意的
+- victim n.受害者、牺牲品、上当的人、祭品、牺牲
 - victory n.成功、胜利
 - view n.看法、视野、见解、态度、景色、风景、v.看待 view as 认为、视为、视作
 - vigorous [ˈvɪɡərəs] a.充满活力的、精力充沛的、强壮的、强健的、果断的
@@ -68,6 +69,7 @@
 - virtuoso [ˌvɜːtʃuˈəʊsəʊ] n.大师、演奏家、a.技艺精湛的、技艺超群的
 - virtuous a.善良的、贞洁的、品行端正的、有效力的
 - virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠  Coronavirus disease [kəˈrəʊnəvaɪrəs] COVID-19 2019冠状病毒疾病/新冠
+- visa [ˈviːzə] n.签证、v.签发签证
 - visible a.可见的、明显的、n.现实世界
 - vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、v.想象  business vision 企业愿景、经营前景
 - visor [ˈvaɪzə(r)] n.面罩、遮阳板
@@ -85,9 +87,10 @@
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众
-- volume [ˈvɒljuːm] n.体积、容积、容量
+- volume [ˈvɒljuːm] n.体积、容积、容量、音量
 - voluntary a.自愿的、志愿的、无偿的
 - volunteer n.志愿者、志愿兵、v.自愿做
 - vote n/v.投票、表决
+- voyage [ˈvɔɪɪdʒ] n/v.航海、航行、航天
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性
