@@ -73,6 +73,7 @@
 - celebrity [səˈlebrəti] n.名人、名望、著名
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
+- Celsius [ˈselsiəs] n.摄氏、a.摄氏的
 - census [ˈsensəs] n.统计、人口普查、人口调查
 - cent n.分(货币单位)  per cent 百分之  red cent 很少的钱
 - center v.居中、集中、n.中心、中央、中枢

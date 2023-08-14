@@ -8,6 +8,7 @@
 - factor n.因素、因子、要素、数量、倍数、系数、v.把...要素包括进去、分解质因数
 - factual a.事实的、真实的
 - fade v.褪去、失去光泽、褪色、凋谢、衰老、逐渐消失、n.淡入、淡出、褪色、变暗、a.平淡的、乏味的
+- Fahrenheit [ˈfærənhaɪt] a.华氏的、华氏温度的
 - fail v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
 - failover 故障转移、故障切换
 - failure n.失败、不及格、失败的人或事、故障、失灵、未做到
@@ -189,6 +190,7 @@
 - fret v.烦躁、苦恼、n.雾气
 - fright n.惊吓、恐怖、恐惧
 - frighten v.吓唬、使惊吓、使惊恐
+- frog n.青蛙
 - front n.前面、正面、a.前面的、正面的、v.面向、朝向、领导、代表  home front 后方
 - frontend 前端、前台、前端模块、编辑器前端
 - frown v.不赞成、反对、皱眉

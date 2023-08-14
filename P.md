@@ -394,6 +394,7 @@
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
 - proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
 - prudent [ˈpruːdnt] a.小心的、谨慎的、慎重的
+- prune [pruːn] v.修剪、消减、精简
 - pry n/v.窥探、探听
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗

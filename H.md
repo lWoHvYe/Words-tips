@@ -28,6 +28,7 @@
 - hate n/v.厌恶、憎恨
 - hatred [ˈheɪtrɪd] n.仇恨、憎恨
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
+- hazy a.朦胧的、模糊的、困惑的
 - hawk [hɔːk] n.鹰、主站分子、v.沿街叫卖、兜售
 - head n.头、头脑、领导、主管、v.朝着...行进
 - headcount/hc 公司HR预计招聘的员工人数 

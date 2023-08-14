@@ -1,5 +1,5 @@
 - rabbit n.兔子
-- race n/v.赛跑、比赛、竞争、角逐、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
+- race n/v.赛跑、比赛、竞争、角逐、竞态(线程间)、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
 - racial [ˈreɪʃl] a.种族的
 - radar [ˈreɪdɑː(r)] n.雷达  ground radar 地面雷达
 - radical a.根本的、彻底的、完全的、激进的
