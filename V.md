@@ -58,7 +58,7 @@
 - vintage a.酿造的、优质的、上等的、最好的
 - violate [ˈvaɪəleɪt] v.违反、侵犯、亵渎
 - violation n.违反、违章、侵犯
-- violence n.暴力、暴行
+- violence n.暴力、暴行  domestic violence 家庭暴力  physical violence 身体暴力  school violence 校园暴力
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
 - viral [ˈvaɪrəl] a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
 - virgin [ˈvɜːdʒɪn] n.处女、新手、无经验的人、a.处女的、未经开发的、未经使用的、原始状态的
@@ -87,7 +87,7 @@
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众
-- volume [ˈvɒljuːm] n.体积、容积、容量、音量
+- volume [ˈvɒljuːm] n.体积、容积、容量、音量、卷、册
 - voluntary a.自愿的、志愿的、无偿的
 - volunteer n.志愿者、志愿兵、v.自愿做
 - vote n/v.投票、表决

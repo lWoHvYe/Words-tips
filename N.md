@@ -25,11 +25,14 @@
 - negotiable [nɪˈɡəʊʃiəbl] a.可转让的、可流通的、可兑现的
 - negotiate [nɪˈɡəʊʃieɪt] v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
-- nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的
+- nerve n.神经、勇气、胆量
+- nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的、神经的、神经系统的
 - nervy a.焦虑的、紧张的
 - nest n.巢、窝、鸟巢、藏匿处、a.筑巢、嵌套 
 - nested a.嵌套的
 - net n.网、网络、净收入、纯利、v.净得、净赚、用网捕获、a.净的、净得的、纯的、网住的、最后的、最终的  net profit 净利润
+- netball n.篮网球
+- neurology [njʊəˈrɒlədʒi] n.神经学
 - neuroscience 神经科学
 - neural [ˈnjʊərəl/ˈnʊrəl] a.神经的、神经系统的
 - neurotic [njʊəˈrɒtɪk] a.神经质的

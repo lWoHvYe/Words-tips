@@ -11,6 +11,7 @@
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
+- ball [bɔːl] n.球
 - ballet [ˈbæleɪ] n.芭蕾舞、芭蕾
 - ballot [ˈbælət] n/v.投票、选票、无记名投票
 - ballpark n.棒球场、(数额的)变动范围、可量范围、a.运动场的、大致正确的
@@ -181,7 +182,8 @@
 - Buddhist a.佛教的、n.佛教徒
 - buddy [ˈbʌdi] n.朋友、同伴、搭档
 - budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的  on a budget 节省费用、避免不必要的开支
-- bulk [bʌlk] 体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
+- bulb n.电灯泡
+- bulk [bʌlk] n.体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离
 - bullet n.子弹  silver bullet 银弹
 - bump 碰撞、突然的；bump up 突然增加、提高

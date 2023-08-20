@@ -80,6 +80,7 @@
 - mechanics n.机械学、力学、mechanic的复数
 - mechanism [ˈmekənɪzəm] n.机制、机能、机理、物理过程、结构、构造、机械装置
 - mechanize/mechanise [ˈmekənaɪz] v.使机械化
+- medal [ˈmedl] n.奖章、勋章、奖牌
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
 - medicine [ˈmedsn] n.医学、药物
@@ -154,7 +155,7 @@
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - misconception 误解、错觉、错误认识
-- misery [ˈmɪzəri] n.痛苦
+- misery [ˈmɪzəri] n.痛苦、苦难
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
 - missile [ˈmɪsaɪl] n.导弹
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
@@ -211,7 +212,7 @@
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
-- mortgage [ˈmɔːrɡɪdʒ] n.抵押贷款、按揭贷款、按揭、抵押（房产）
+- mortgage [ˈmɔːrɡɪdʒ] n/v.抵押贷款、按揭贷款、按揭、抵押（房产）
 - mortem 事后剖析
 - moster n.怪兽、怪物
 - moth n.蛾、飞蛾
@@ -220,15 +221,16 @@
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
 - motor n.发动机、电动机
-- mountain n.山、山脉、许多、大量
+- mountain n.山、山脉、许多、大量  debt mountain 负债累累
 - mourn [mɔːn] v.哀悼、忧伤
+- mournful a.悲伤的
 - mouse [maʊs] n.老鼠、鼠标  pl.mice
 - mouth [maʊθ/maʊð] n.嘴、口腔
 - mouthpiece n.话筒、代言人、发言人
 - move v.移动、搬、采取行动、感动、提出、提议、n.移动、搬家、感动、步骤、措施  move on 离开、出发、继续前进、对...采取行动、接着做某事
 - movement n.运动、转动、迁移
 - movie n.电影
-- mud [mʌd] 泥、泥浆
+- mud [mʌd] n.泥、泥浆
 - muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
 - muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的
 - music n.音乐、乐曲
@@ -245,8 +247,9 @@
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - murmur n/v.小声说话
 - museum [mjuˈziːəm] n.博物馆
+- mute a.沉默的、无声的、静音的、v.消音
 - mutex 互斥、互斥对象、互斥锁
-- mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的
+- mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的  mutual trust 相互信任
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的
 - mystery [ˈmɪstri] n.神秘、奥秘、秘密

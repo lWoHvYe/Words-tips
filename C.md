@@ -58,6 +58,7 @@
 - catalyst n.催化剂
 - catastrophe [kəˈtæstrəfi] n.大灾难、悲剧的结局、灾变
 - catch v.赶上、接住、引起、抓住、n.抓、隐情、a.吸引人的、引人注意的  过去式/过去分词caught  catch up 追上、赶上
+- catchword n.口号、标语、流行语
 - category n.类型、类别、种类
 - cater v.满足需要、迎合、提供饮食  cater to/for 
 - cattle n.牛、牲口、畜生
@@ -128,6 +129,7 @@
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - choice n.选择、挑选、a.优质的、上等的
 - cholera [ˈkɒlərə] n.霍乱
+- chop v.切碎、劈、砍、(大幅度地)削减、取消、终止、n.排骨、肋骨
 - choreography [ˌkɒriˈɒɡrəfi] n.编舞、舞蹈编排、编舞艺术
 - chose v.选择、挑选、决定、情愿
 - chromosome [ˈkrəʊməsəʊm] n.染色体
@@ -185,7 +187,7 @@
 - cluster n.群、丛、簇
 - coach [kəʊtʃ] n.教练、v.训练、辅导
 - coal [kəʊl] n.煤
-- coalition n.联合政府
+- coalition n.联合政府、联盟、同盟
 - coarse [kɔːs] a.粗的、粗糙的、大颗粒的
 - coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
@@ -332,6 +334,7 @@
 - confront [kənˈfrʌnt] v.使面临、使面对、与...对峙
 - confuse v.困惑、迷惑、混淆
 - congest v.拥挤、使充血
+- congratulate [kənˈɡrætʃuleɪt] v.祝贺、向...道贺
 - congress n.国会、议会、代表大会、v.开会、集合
 - conjecture n/v.猜想、猜测、推测
 - conjunct a.结合的、联合的、连接的
@@ -357,7 +360,8 @@
 - consistent a.一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consolidate v.巩固、使加强、合并、统一、联合  be consolidated to 被合并到...
 - conspicuous [kənˈspɪkjuəs] a.明显的、显而易见的、引入注目的
-- conspire v.阴谋、密谋、图谋
+- conspiracy [kənˈspɪrəsi] n.阴谋、密谋、共谋
+- conspire [kənˈspaɪə(r)] v.阴谋、密谋、图谋
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
 - constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
 - constitute v.组成、构成、制定、设立、成立、指派
@@ -423,7 +427,7 @@
 - coordinator n.协调者
 - cope v.对付、处理 cope with 对付
 - copilot [ˈkəʊˌpaɪlət] n.副驾驶
-- copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜
+- copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜  copper coils 铜线圈
 - copy v.复制、复印、临摹、仿造、n.复印件、(书、报纸等的)一本、一册、(可用于报纸或广告的)消息、信息、(报纸的)稿件、作业本
 - copyright n.版权、v.获得...的版权
 - core n.核心、中心部分、核心成员、a.主要的、基本的、核心的、骨干的  inner core 内核
@@ -463,7 +467,7 @@
 - coupon n.优惠券、礼券、息票
 - courage n.勇气
 - course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
-- court n.法院、法庭、王宫、宫殿、王室成员、v.试图取悦、讨好、求爱、求婚、恋爱
+- court n.法院、法庭、王宫、宫殿、场馆、王室成员、v.试图取悦、讨好、求爱、求婚、恋爱
 - cousin [ˈkʌzn] n.堂兄弟、表姐妹、远房亲戚
 - covenant [ˈkʌvənənt] n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、报道、给...上保险、n.封面、掩护、覆盖物、避难所
@@ -500,7 +504,7 @@
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - cross-cutting 跨部门、跨领域
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
-- crude n.原油、石油、a.粗糙的、粗略的
+- crude n.原油、石油、a.天然的、粗糙的、粗略的
 - cruise [kruːz] n/v.航行、巡航、巡逻、游览
 - crumb n.碎屑、v.弄碎、捏碎
 - crunch [krʌntʃ] v.嚼、碾、处理信息、n.短缺、困境、紧要关头、关键时刻
@@ -513,6 +517,7 @@
 - crystallize [ˈkrɪstəlaɪz] v.结晶、使明确
 - cube n.立方体、立方、三次幂
 - cucumber [ˈkjuːkʌmbə(r)] n.黄瓜
+- cue n/v.暗示、提示
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮
 - culmination n.高潮、巅峰、顶点、终点
 - culprit n.罪魁祸首、罪犯、肇事者
@@ -531,6 +536,7 @@
 - current a.现在的、当前的、通用的、流通的、流行的、n.电流、水流、气流、思潮、潮流、趋势
 - currency n.货币、通货、流行
 - curriculum [kəˈrɪkjələm] n.课程、全部课程、课表
+- curse [kɜːs] n/v.诅咒
 - cursor n.光标、游标
 - cursory [ˈkɜːsəri] a.粗略的、仓促的
 - curve [kɜːv] n.曲线、弧线、弧形、弯曲、v.使弯曲、a.弯曲的

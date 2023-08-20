@@ -28,6 +28,7 @@
 - technical [ˈteknɪkl] a,技术的、专业的、技术性的
 - technological [ˌteknəˈlɒdʒɪkl] a.技术的、科技的
 - technology [tekˈnɒlədʒi] n.技术、科技、工程技术、技术学
+- teen [ˈtiːn] n.青少年
 - teenage a.十几岁的、青少年的
 - telegram n.电报
 - telegraph n.电报、v.打电报、用电报发送
@@ -51,6 +52,7 @@
 - tenant [ˈtenənt] n.房客、租户、佃户、v.租借、租用
 - tend v.趋势、趋向、倾向、照料、护理
 - tendency n.趋势、倾向
+- tennis [ˈtenɪs] n.网球
 - tenor 男高音、大意、要旨、要领
 - tense a.紧张的、绷紧的
 - tension n.紧张、矛盾、对立
@@ -135,6 +137,7 @@
 - toddle v.蹒跚行走
 - toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
+- token [ˈtəʊkən] n.象征、标志、代币、信物、代金券、a.象征性的  as a token of 作为...的标志  by the same token 同样地
 - tolerance n.容忍、宽容、公差
 - tolerant a.容忍的、宽容的、能耐...的
 - tolerate v.容许、允许、容忍

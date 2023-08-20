@@ -82,6 +82,7 @@
 - recur v.复发、(尤指不好的事)重现
 - recursion n.递归、递推
 - recursive a.递归的、循环的
+- recycle v.回收利用、重复利用
 - redeem v.兑换、偿还、赎回
 - redirect [ˌriːdəˈrekt/ˈriːdərekt] v.使改变方向、重定向
 - reduce v.减少
@@ -184,6 +185,7 @@
 - republican [rɪˈpʌblɪkən] a.共和国的、共和党的
 - repute [rɪˈpjuːt] n.名誉、名声、v.把...称为、认为
 - reputation [ˌrepjuˈteɪʃn] n.名誉、名声
+- request n/v.请求、要求
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
 - requisite 必需品、要素、必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
@@ -201,7 +203,7 @@
 - resistant a.抵抗的、顽固的、n.抵抗者、防染剂 water resistant 防水的
 - resistor n.电阻、电阻器
 - resolute [ˈrezəluːt] a.坚决的、坚定的
-- resolution n.决议、决心、解决  resolution ratio 分辨率  resolution cell 分辨单元
+- resolution n.决议、决心、解决、解析  resolution ratio 分辨率  resolution cell 分辨单元
 - resolve [rɪˈzɒlv] n.决定、决心、v.解决、做出决定、表决、使分解、使解体  resolve to do sth 决定做某事
 - resonate v.产生共鸣
 - resort [rɪˈzɔːt] n.求助、凭借、诉诸、度假胜地、v.求助、凭借、诉诸  resort to 诉诸于...、以...方式
@@ -258,10 +260,13 @@
 - rewarding a.有益的、值得做的
 - rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - ride [raɪd] n.骑、乘坐、旅行、旅程、v.骑、乘坐、搭乘
+- rifle [ˈraɪfl] v.偷窃、盗取、n.步枪
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
+- righteous a.正义的、正直的、公正的
 - rigid a.僵硬的、严格的、刻板的、顽固的、死板的
 - ringtone n.铃声
 - rip v.撕破、裂开、扯开、n.裂口、裂缝  rip off 扯掉  let rip 自由的做
+- ripe a.成熟的
 - rise n/v.上升、增加
 - risk  n.风险
 - ritual n.仪式、典礼、礼节、程序、a.仪式上的、习惯的、例行公事的
@@ -285,7 +290,7 @@
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替
-- rough a.粗糙的、不平滑的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
+- rough a.粗糙的、不平滑的、粗略的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
 - round/around the corner 在附近、即将发生

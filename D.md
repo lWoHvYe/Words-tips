@@ -59,6 +59,7 @@
 - delay n/v.延迟、推迟、延期、耽搁
 - delegate v.代表、把...委派、选派、n.代表
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
+- delicate a.纤弱的、微妙的、灵敏的
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
 - delimit v.限制、界定
 - delimiter n.定界符、分隔符
@@ -81,9 +82,10 @@
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
-- dense a.密集的、稠密的、浓厚的
+- dense a.密集的、稠密的、浓厚的、浓密的
 - density n.密集、稠密、密度、浓度
 - dent n.凹陷、凹槽、v.损害、伤害、挫伤(信心、名誉等)
+- dental [ˈdentl] a.牙齿的、牙科的、口腔的  dental surgery 口腔外科
 - deny v.否定、否认、拒绝
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
@@ -182,7 +184,7 @@
 - disability n.残疾、缺陷、障碍
 - disaster [dɪˈzɑːstə(r)] n.灾难、灾害、不幸
 - disastrous [dɪˈzɑːstrəs] a.灾难性的、极糟糕的  disastrous impact 灾难性的影响
-- discard v.丢弃
+- discard v.丢弃、抛弃
 - discern v.看出、理解、识别、辨别、分辨出、听出
 - discharge v.准许离开、解雇、免除、释放、n.履行、执行、清偿
 - discipline [ˈdɪsəplɪn] n.纪律、学科、训练、自律、v.惩罚、管教、严格要求
@@ -209,7 +211,7 @@
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - disparage v.贬低、轻视、批评、非难
 - disparate a.完全不同的、迥然不同的、无法比较的
-- dispatch 派遣、调度、迅速处理、处决
+- dispatch v.派遣、调度、分派、迅速处理、处决
 - dispensable a.非必需的、可有可无、不必要
 - dispensation 豁免、宽免、分配、实施、制度
 - dispense v.分配、分发、施与、提供、配(药)、免除、豁免
@@ -283,7 +285,7 @@
 - downturn n.经济低迷、衰退、衰退期
 - dozen n.十几个
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
-- drag [dræɡ] v.阻力、拖拽、拖累、拖延
+- drag [dræɡ] n.阻力、抗力、累赘、v.拖拽、拖累、拖延
 - drain v.排空、耗尽、n.消耗、耗竭
 - drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的

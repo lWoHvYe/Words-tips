@@ -52,6 +52,8 @@
 - patient [ˈpeɪʃnt] a.有耐心的、能容忍的、n.病人、患者
 - patriot [ˈpætriət] n.爱国者
 - patriotism [ˈpætriətɪzəm] n.爱国主义
+- patrol n/v.巡逻、巡查
+- patronage n.资助、赞助
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - pause [pɔːz] n/v.暂停、停顿
 - pave v.铺、铺路
@@ -81,6 +83,7 @@
 - perfectly ad.完全地、非常、十分、圆满地
 - perform v.履行、执行、表演、演出、工作、表现
 - performance n.表演、演出、表现、业绩、成绩、履行、执行、行为、举动、a.性能卓越的、高性能的
+- perfume [ˈpɜːfjuːm] n.香水
 - perhaps ad.可能、大概、也许、或许、n.假定、猜想
 - period n.时期、周期、一段时间、阶段、时代、句号
 - periodic 周期的、定期的、时而发生的、间歇的
@@ -138,7 +141,7 @@
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的  auto-pilot 自动驾驶
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
 - pinch [pɪntʃ] v.拧、捏、捏住
-- pink n.粉红色
+- pink n.粉红色  pink slip 解雇通知书
 - pioneer [ˌpaɪəˈnɪə(r)] n.先驱者、开拓者
 - pipeline n.管道、管线 in the pipeline 在筹备中
 - pit n.矿井
@@ -149,6 +152,7 @@
 - placeholder 占位符
 - plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨
 - plain [pleɪn] n.平原、a.朴素的、朴实的、简朴的、清楚的、原味的、ad.简直、绝对地
+- plan n.计划、规划、平面图、示意图、v.计划、打算
 - plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
 - planet [ˈplænɪt] n.行星、地球(尤指环境)
 - plant n.植物、工厂、设备、v.种植、放置、安放
@@ -167,7 +171,7 @@
 - pledge n.保证、誓言、抵押品、抵押(证券)、v.保证、使发誓、抵押、典当、质押
 - plentiful a.大量的、丰富的、充足的
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
-- plot 情节、阴谋、密谋、布局、暗中策划、标出、绘制
+- plot n.情节、阴谋、密谋、布局、小块土地、v.暗中策划、密谋、标出、绘制
 - plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传
 - pluggable a.可插拔的
 - plunge v.暴跌、骤降
@@ -374,6 +378,7 @@
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、告发、继续从事
 - prosecutor n.公诉人、检察官、原告律师
 - prospect n.展望、设想、前景、可能性、景色、v.探矿、勘探
+- prospective a.有望的、可能的、预期的、潜在的
 - prosper [ˈprɒspə(r)] v.繁荣、兴旺、成功、发达
 - prosperity [prɒˈsperəti] n.兴旺、繁荣、成功、昌盛  prosperity and security 繁荣与稳定
 - protect v.保护、防护、实行贸易保护 protect...from... 保护...免受...
@@ -388,7 +393,7 @@
 - provided conj.假如、如果、在...条件下
 - providing conj.假如、如果、只要
 - province n.省份、范围、领域、职责范围
-- provision n.规定、条款、提供、饮食供应、供应品
+- provision n.规定、条款、准备、提供、饮食供应、供应品
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激

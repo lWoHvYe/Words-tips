@@ -21,7 +21,7 @@
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
 - harsh a.残酷的、恶劣的、严酷的、粗糙的、刺耳的  harsh reality 残酷的现实
-- harvest 收割、收获
+- harvest n/v.收割、收获
 - hash [hæʃ] n.#号
 - hassle [ˈhæsl] n.困难、麻烦、争论、分歧、v.麻烦、烦扰
 - haste n.匆忙、仓促
@@ -39,7 +39,7 @@
 - heal [hiːl] v.治愈、康复
 - health n.健康、医疗、卫生、兴旺
 - healthcare n.医疗、医疗保健
-- hear [hɪə(r)] v.听见、听到、倾听
+- hear [hɪə(r)] v.听见、听到、倾听、(法庭)审理、听取(证词)
 - heart [hɑːrt] n.心、心脏、核心、中心
 - heat [hiːt] n.热、高温、激烈、v.加热
 - heave v.隆起、举起、v.起伏

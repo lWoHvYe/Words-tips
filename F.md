@@ -48,7 +48,7 @@
 - favorable a.有利的、赞同的、讨人喜欢的、从优
 - favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
 - fear n/v.害怕、恐惧
-- feasible a.可行的、行得通的
+- feasible a.可行的、行得通的、合理的、可能的
 - feasibility 可行性、可能性、现实性
 - feature n.特色、特征、特点、特写、v.以...为特色、起重要作用、重点介绍
 - febrile [ˈfiːbraɪl] a.狂热的、发热的
@@ -76,6 +76,7 @@
 - fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
 - ficus 无花果、榕系
 - field [fiːld] n.领域、场地、行业、字段、v.使参加竞选/比赛、处理、应付、a.野生的、野外的、实地的
+- fierce [fɪəs] a.猛烈的、凶猛的、残酷的、狂热的
 - figure n.数据、人物、身材、v.认为、认定、计算、描绘、象征  figure out 想出、理解、弄明白、计算出
 - file n.文件、档案、v.把(文件等)归档、提起(诉讼)、提出(申请)、送交(备案)、发送(报道给报社)
 - filer n.文件管理器、文件装订员、文件编档员
@@ -110,6 +111,9 @@
 - flavor 味、香料、给...调味
 - flaw [flɔː] n.瑕疵、缺陷、错误、v.损害、削弱、使失效、使破裂  flawed understanding of ... 对...的理解有偏差
 - fledge v.长羽毛、长翅、变为成虫、喂养(小鸟)到羽毛丰满
+- flee v.逃走、逃避、迅速离开
+- fleet n.舰队
+- fleeting a.短暂的、飞逝的
 - flesh n.肉、肉体、水果/蔬菜的可食部分、v.长胖  flesh up 长肥  flesh out 充实、具体化  flesh tone 肤色
 - flexibility n.可变性、灵活性
 - flexible a.灵活的、柔韧的、有弹性的
@@ -120,8 +124,8 @@
 - flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
 - flourish v.茂盛、繁荣、活跃、挥舞
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
-- flu n.流行性感冒、流感
-- fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定
+- flu n.流行性感冒、流感  epidemic flu 流感  flu vaccine 流感疫苗
+- fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定、动摇不定
 - fluent a.流利的、流畅的
 - flush n/v.冲洗、脸红
 - flyout n.弹出按钮
@@ -175,7 +179,7 @@
 - fracture n.骨折、v.断裂、破裂
 - fragile [ˈfrædʒaɪl] a.脆弱的、易碎的、虚弱的、精致的
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
-- frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定
+- frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定  a small frame 身材娇小
 - framework n.框架、架构、结构、机构、组织
 - franchise n.特权、赋予特权、选举权、经销权
 - frank [fræŋk] a.坦白的、直率的
@@ -200,6 +204,7 @@
 - fuel [ˈfjuːəl] n.食物、燃料、刺激物、v.给...提供燃料、加油、增加、加强、刺激
 - fulfil/fulfill v.完成、履行、执行、实现、符合、满足、起...作用
 - full a.完全的、满的
+- fume v.冒烟、烟雾、愤怒、n.烟气、雾气
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础

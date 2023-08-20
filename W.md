@@ -75,10 +75,11 @@
 - withhold v.阻止、拒绝给予、扣留
 - withstand v.经受、承受、顶住
 - witness [ˈwɪtnəs] n.目击者、证人、证据、证言、v.见证、目击、是发生...的地方/时间、为...作证
+- wizard [ˈæsɪd] n.向导、行家、能手、术士
 - woman [ˈwʊmən] n.妇女、女人
 - women [ˈwɪmɪn] n. woman的复数
 - wonder [ˈwʌndə(r)] v.想知道、想弄明白、好奇、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
-- wood 木头、木材、树木、收集木材、木制、精神错乱、暴怒
+- wood n.木头、木材、树木、收集木材、木制、精神错乱、暴怒
 - wordy a.冗长的、啰嗦的
 - workaround n.应变方法、变通方法
 - workforce n.劳动力、全体员工

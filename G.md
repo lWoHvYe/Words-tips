@@ -5,6 +5,7 @@
 - gap n.缺口、间隙、分歧、隔阂、空白  narrow the gap 缩小差距  fill the gap 填补空白、弥合差距
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment [ˈɡɑːmənt] n.服装、(一件)衣服、v.给...穿衣服
+- gas n.气体
 - gate n.门、大门、阀门
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
 - gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
@@ -39,6 +40,7 @@
 - glaring a.显眼的
 - glass n.玻璃、镜子、杯子
 - glide n/v.滑行、滑动、滑翔
+- glimpse n.一瞥、一看、v.瞥见、看一眼
 - glitch [ɡlɪtʃ] n.差错、小故障
 - glitter n/v.闪烁
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
@@ -84,6 +86,7 @@
 - Greek n.希腊、希腊人
 - grey a.灰色的、灰白的
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
+- grieve v.悲伤、悲痛  grieve over 哀悼
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groan [ɡrəʊn] n/v.呻吟、叹息

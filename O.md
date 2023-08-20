@@ -109,7 +109,7 @@
 - overflow n/v.溢出
 - overhaul [ˈəʊvəhɔːl/ˌəʊvəˈhɔːl] n/v.彻底检修、大修、赶上、超过(赛跑对手)
 - overhead n.开销、开支、a.头顶上的、上面的、高架的、经费的
-- overlap 重叠、交叠、重叠时间
+- overlap n/v.重叠、交叠、重叠时间
 - overlay v.覆盖、镀金、n.覆盖物、图层
 - overload v.使过载、使超载运行、使超负荷、n.过多、过量、超负荷
 - overlook v.忽视、俯瞰、眺望
@@ -128,5 +128,5 @@
 - owe [əʊ] v.欠(债)、归功于、归因于  owing to 因为、由于
 - ownership n.产权、所有权、所有制
 - oxide n.氧化物
-- oxygen [ˈɒksɪdʒən] n.氧、氧气
+- oxygen [ˈɒksɪdʒən] n.氧、氧气  oxygen consumption 耗氧量
 - oxytocin/pitocin [ˌɑksəˈtoʊsən] n.催产素

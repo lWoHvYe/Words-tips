@@ -1,7 +1,7 @@
 - kebab n.烤肉串
 - keyboard n.键盘、琴键、v.用键盘输入  keyboard commands 键盘命令
 - keystroke [ˈkiːstrəʊk] n.按键、击键
-- kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会
+- kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会  kick out 驱逐
 - kin n.家族、亲属、a.有亲属关系的、同类的
 - kind [kaɪnd] a.友好的、友善的
 - kindness n.善良、仁慈

@@ -13,7 +13,7 @@
 - absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理  absolute cost 绝对成本
 - absolutism n.专制主义
-- absorb [əbˈzɔːb] v.吸收、吸引、使全神贯注、理解、掌握、承受、承担  absorb hardships 承受磨难
+- absorb [əbˈzɔːb] v.吸收、吸引、使全神贯注、理解、掌握、接受、承受、承担  absorb hardships 承受磨难
 - absorbed a.专心的、全神贯注的
 - absorption [əbˈzɔːpʃn] n.吸收、专注、合并  absorption cost 全部成本
 - abstain 弃权、戒除、离开、回避
@@ -47,10 +47,12 @@
 - accumulate [əˈkjuːmjəleɪt] v.积累、堆积
 - accuracy n.精确(程度)、准确(性)
 - accurate a.精确的、准确的、正确无误的
+- accuse v.指责、控告、控诉
 - accustom v.使习惯、使适应
 - ache n/v.疼痛
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
 - achievement n.成就、功绩、完成、达到
+- acid [ˈæsɪd] n.酸、a.酸的
 - acknowledge v.承认、认可、确认、答谢
 - acquaintance [əˈkweɪntəns] n.相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
 - acquire v.获得、得到
@@ -96,6 +98,8 @@
 - advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
 - advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
 - advantage n.有利条件、有利因素、优势、优点、利益、好处、v.有利于、有益于、促进  take advantage of 利用、欺骗
+- advent v.出现、到来、n.基督降临节
+- adventure n.冒险、奇遇
 - adversarial [ˌædvəˈseəriəl] a.敌对的、对立的
 - adversary [ˈædvəsəri] n.对手、敌手
 - adverse [ˈædvɜːs] a.不利的、有害的、不友好的、敌对的
@@ -214,7 +218,9 @@
 - anecdotal a.逸事的、趣闻的、传闻的
 - anecdote n.轶事、奇闻、逸事
 - angel [ˈeɪndʒl] n.天使
+- anger n.愤怒、v.发怒
 - angle n.角
+- angry a.生气的、愤怒的、狂暴的
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - anniversary n.周年纪念日
@@ -332,8 +338,9 @@
 - atmosphere n.气氛、基调、空气、大气层
 - atoll n.环礁
 - atom [ˈætəm] n.原子
-- attach v.附上、贴上
-- attack [əˈtæk] n/v.攻击、袭击、侵袭
+- attach v.附上、贴上、附带、认为...有(重要性、价值、意义等)  attach importance to 认为...有重要性、重视
+- attachment n.附件、喜爱、依恋
+- attack [əˈtæk] n/v.攻击、抨击(peng)、袭击、侵袭、(疾病的)突然发作
 - attain v.达到、获得、得到
 - attempt n/v.努力、尝试、企图
 - attend v.出席、参加、注意、专心

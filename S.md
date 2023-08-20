@@ -80,6 +80,7 @@
 - seek v.寻找、探求、追求、谋求 sought(过去式及过去分词)
 - seem v.似乎、好像
 - seep v.渗透
+- seethe [siːð] v.沸腾、发怒、强压怒火
 - segment n.部分、片、段、v.分割、划分
 - segregate v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
@@ -184,6 +185,7 @@
 - similar [ˈsɪmələr] a.相似的、相仿的、相像的、n.相似物、类似物
 - similarity n.相似性、相似之处
 - simile [ˈsɪməli] n.明确
+- simple a.简单的
 - simplify v.简化、精简
 - simulate v.模仿、模拟、仿真、假装、冒充、拟态、a.模仿的、假装的
 - simultaneous [ˌsaɪmlˈteɪniəs] a.同时的、同步的
@@ -220,7 +222,9 @@
 - slight a.轻微的、略微的、微小的、细小的、无需重视的、不足为道的、v.轻蔑、忽视、怠慢、冷落
 - slim a.苗条的、纤细的、薄的、少的、v.减轻体重、减肥、变苗条
 - slink v.溜走、溜
-- slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条
+- slip v.滑倒、滑落、n.差错、疏漏、纰漏、纸条、便条  slip in 悄悄塞进、插入(说话)
+- slippage n.延误、逾期、下降、降低
+- slipup n.失误、疏忽  a minor slipup 一个小失误
 - sliver [ˈslɪvə(r)] n.薄片、小块、v.切薄片
 - slogan n.标语、口号
 - slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
@@ -235,6 +239,7 @@
 - smooth [smuːð] a.平整的、平坦的、光滑的、顺利的、平和的、v.使平整、使光滑
 - smoothly 平稳地、顺利地、平静地、自信地
 - snack n.点心、小吃、快餐
+- snake n.蛇
 - snap v.断裂、折断、呵斥、拍快照、快速传球、a.匆忙的、仓促的
 - snapshot 快照、简介、简要说明、拍快照
 - sneak v.潜行、偷偷溜走、告状、a.突然的、出其不意的
@@ -280,6 +285,9 @@
 - Spain [speɪn] n.西班牙
 - span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
 - Spanish [ˈspænɪʃ] a.西班牙的、n.西班牙语
+- spar v.辩论、争论
+- spare a.备用的、空闲的、闲置的
+- sparing a.节约的、节俭的
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - sparse [spɑːs] a.稀疏的、稀少的
 - spatial [ˈspeɪʃl] a.空间的
@@ -348,7 +356,7 @@
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
 - stance n.态度、立场
-- stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台
+- stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
 - standalone 独立的、单独的、脱机
 - standby n.备用品、可信赖的人、a.常备的、备用的
 - standing a.永久性的、长期存在的
@@ -453,7 +461,7 @@
 - substraction n.减法、减去、相减
 - substrate n.底层
 - subtitle n.小标题、副标题、字幕
-- subtle [ˈsʌtl] a.不易察觉的、微妙的、敏感的
+- subtle [ˈsʌtl] a.不易察觉的、微妙的、细微的、敏感的、奥妙的
 - subtract 减、减去、扣除
 - suburb n.郊区、城外
 - suburban a.郊区的
@@ -466,6 +474,7 @@
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
 - suck [sʌk] v.吸、吮吸 [shǔn xī]、吸引
 - sudden a.突然的、忽然的
+- sue [suː] v.控告、提起诉讼
 - suffer [ˈsʌfə(r)] v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足  sufficient labor force 劳动力充足  sufficient condition 充分条件
@@ -506,6 +515,8 @@
 - surety n.保证人、担保人、保证金
 - surf v.冲浪、(互联网上)浏览、n.海浪、浪花
 - surface n.表面、台面、外表、v.露面、浮出水面
+- surge n/v.汹涌、奔腾、起伏、激增、蜂拥
+- surgery [ˈsɜːdʒəri] n.外科、外科学、外科手术
 - surpass v.超过、胜过、超越、优于
 - surplus [ˈsɜːpləs] n.盈余、顺差、剩余、过剩、a.剩余的、过剩的、多余的
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
@@ -533,8 +544,9 @@
 - swim v.游泳、游动、旋转、眩晕、n.游泳
 - swine n.猪、讨厌的人、令人不愉快的事、难处理的东西  swine flu 猪流感  bird flu 禽流感
 - switch n.开关、转换、转换器、交换机、v.转换、转变、交换、对调
-- symbol n.象征、符号、代号、记号、v.用符号代表
+- symbol [ˈsɪmbl] n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
+- symbolize [ˈsɪmbəlaɪz] v.用符号表示、象征
 - symmetric a.对称的、均衡的
 - sympathetic [ˌsɪmpəˈθetɪk] a.同情的、赞同的
 - sympathy [ˈsɪmpəθi] n.同情、慰问、赞同

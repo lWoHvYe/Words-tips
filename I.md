@@ -16,6 +16,7 @@
 - idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
 - idol n.偶像、崇拜物、幽灵、谬论、幻觉
 - if conj.如果、假设、是否
+- ignite [ɪɡˈnaɪt] v.点燃、燃烧
 - ignorant [ˈɪɡnərənt] a.不了解的、不知道的、无知的、愚昧的
 - ignore v.忽略、忽视、不顾、驳回
 - ill a.生病的、不好的
@@ -94,7 +95,7 @@
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
 - incur v.招致、引起、遭受
 - indeed ad.甚至、的确、确实、真正地、真的
-- indefinite 无期限的、不明确的、模糊的
+- indefinite a.无期限的、不明确的、不确定的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
 - indent v.缩进、n.订单、订购
 - indenture n.契约
@@ -103,6 +104,8 @@
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
 - indifference n.冷漠、中立
+- indignant a.愤怒的、愤慨的
+- indignation n.愤怒、愤慨
 - indispensable a.不可或缺的、必不可少的
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、[电]感应、诱使、劝说、导致  induce resentment 引起怨恨
@@ -123,7 +126,7 @@
 - inference n.推论、推理、推断
 - inferior [ɪnˈfɪəriə(r)] a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
 - infiltrate 悄悄进入、潜入、渗入、渗透、渗透物
-- infinite [ˈɪnfɪnət] a.无限的、无穷的、极大的
+- infinite [ˈɪnfɪnət] a.无限的、无穷的、极大的、n.无限、无穷、无穷大
 - inflate [ɪnˈfleɪt] v.使充气、膨胀、鼓吹、涨价
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - inflict v.使承受、遭受、给予(打击)
@@ -134,6 +137,7 @@
 - informal a.非正式的、不拘礼节的、日常的
 - infrared n.红外线、a.红外线的 infra- 下、低
 - infrastructure n.基础设施、基础建设
+- infuriate [ɪnˈfjʊərieɪt] v.激怒
 - ingest v.摄入、食入、咽下
 - ingredient n.组成部分、成分、原料、配料、因素、要素
 - ingress n.进入、进入权、入境权
@@ -243,7 +247,7 @@
 - intimacy n.亲密、亲切
 - intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友  intimate grouping 亲密团体
 - intimidate [ɪnˈtɪmɪdeɪt] v.恐吓、威胁
-- intricacy [ˈɪntrɪkəsi] 错综复杂、难以理解
+- intricacy [ˈɪntrɪkəsi] n.错综复杂、难以理解
 - intricate a.错综复杂的、难理解的
 - intrinsic [ɪnˈtrɪnzɪk] a.固有的、内在的
 - introduce v.介绍、引进、提出、采用、作为...的开头
@@ -275,7 +279,7 @@
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
-- iron [ˈaɪən] n.铁、熨斗、v.熨、烫平
+- iron [ˈaɪən] n.铁、熨斗、v.熨、烫平  cast iron 铸铁
 - irony [ˈaɪrəni] n.讽刺、反语
 - irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
 - island [ˈaɪlənd] n.岛、岛屿

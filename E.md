@@ -35,7 +35,7 @@
 - electrical a.电的、用电的、发电的、电气科学的
 - electricity [ɪˌlekˈtrɪsəti] n.电、电流、电学
 - electronic a.电子的、电子设备的
-- elegant a.简明的、简洁的、优美的、文雅的
+- elegant a.优美的、文雅的、典雅的、简明的、简洁的
 - element [ˈelɪmənt] n.要素、元素、电热元件、电阻丝、自然环境、适宜的环境、pl.(学科的)基础原理/基础/纲要
 - elemental n.元素、基本原理、a.基本的、主要的
 - elementary a.初级的、基本的
@@ -79,6 +79,7 @@
 - encore [ˈɒŋkɔː(r)] n.安可、int.再来一个、再唱一首
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
 - encourage v.支持、鼓励、促进、激励、劝告、怂恿
+- encyclop(a)edia [ɪnˌsaɪkləˈpiːdiə] n.百科全书
 - end 末尾、结束、目的、意图
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavo(u)r [ɪnˈdɛvə] n/v 努力、尽力、力图
@@ -88,7 +89,7 @@
 - energetic a.有活力的、精力充沛的
 - energy n.活力、精力、能源
 - enforce vt.强制、执行、迫使、强制执行
-- engage v.从事、聘用、使加入、吸引、与...建立密切关系、接触、衔接、啮合 engage with 与...建立密切关系、与...接洽、与...交战 engage in 参与、参加
+- engage v.从事、聘用、使加入、吸引、接触、衔接、啮合 engage with 与...建立密切关系、与...有关、与...接洽、与...交战 engage in 参与、参加
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - engender v.产生、引起
@@ -130,7 +131,7 @@
 - envy [ˈenvi] n/v.羡慕、嫉妒
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
-- epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的
+- epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的  epidemic flu 流感
 - episode [ˈepɪsəʊd] n.插曲、片段、一集、单集
 - epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期、(地质)世、纪、期
 - epochal a.划时代的
@@ -202,6 +203,7 @@
 - exceedingly ad.非常、及其、特别 = very
 - excel v.优于、擅长、胜过
 - excellence 优点、优秀、卓越
+- excellent a.卓越的、优秀的、极好的
 - except v.把...除外、不计、prep.除了、conj.除了、只是
 - exception n.例外、除外、(程序中的)异常
 - exceptional a.例外的、杰出的、卓越的、罕见的
@@ -263,6 +265,7 @@
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
+- exquisite [ɪkˈskwɪzɪt] a.精美的、精致的
 - extend v.扩展、延伸、延长、使延期、适用于、涉及、提供  extend the deadline 延长最后期限
 - extent n.程度、限度、大小、面积、范围  to a great extent 在很大程度上
 - extension n.扩大、延伸、延期
