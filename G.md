@@ -24,7 +24,7 @@
 - genome [ˈdʒiːnəʊm] n.基因组、染色体组
 - gentle a.温和的、文雅的、高尚的、v.使温和、使驯服、n.绅士
 - genuine [ˈdʒenjuɪn] a.真正的、真诚的、坦率的
-- geography 地理、地形、地势
+- geography n.地理学、地形、地势、地貌
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - Germany [ˈdʒɜːməni] n.德国
 - gesture [ˈdʒestʃə(r)] n.姿势、手势、v.做手势、用动作示意
@@ -63,6 +63,7 @@
 - grade n.等级、职级、年级、分数、v.评分、分级
 - gradual a.逐渐的、逐步的、平缓的
 - graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、逐渐变化、进展、n.大学毕业生、学位获得者
+- graffiti [ɡrəˈfiːti] n.涂鸦
 - grain n.粮食、谷物、颗粒、少量、微量、纹理、质地
 - gram n.克
 - grammar n.语法、语法书 grammar/primary school 小学

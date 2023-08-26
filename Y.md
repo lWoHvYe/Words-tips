@@ -2,3 +2,6 @@
 - yearn v.渴望、渴求
 - yet conj.然而、但是、ad.还、现在、即刻、马上
 - yield n.产量、产出、利润、v.(to)屈服、(to)投降、(to)让步、产生(收益、利润等)、提供
+- young a.年轻的、年幼的
+- youngster [ˈjʌŋstə(r)] n.年轻人
+- youth [juːθ] n.青年、年轻人

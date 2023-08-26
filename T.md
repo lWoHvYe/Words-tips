@@ -1,3 +1,4 @@
+- tableau [ˈtæbləʊ] n.舞台造型、静态画面
 - tablet [ˈtæblət] n.药片、平板电脑
 - tack n.方法、方针、思路、v.钉住、附加、增补
 - tackle v.解决、应付、处理、与某人交涉、n.用具、器械、滑车
@@ -30,6 +31,7 @@
 - technology [tekˈnɒlədʒi] n.技术、科技、工程技术、技术学
 - teen [ˈtiːn] n.青少年
 - teenage a.十几岁的、青少年的
+- teenager n.青少年
 - telegram n.电报
 - telegraph n.电报、v.打电报、用电报发送
 - telegraphy n.电报通讯技术
@@ -54,9 +56,9 @@
 - tendency n.趋势、倾向
 - tennis [ˈtenɪs] n.网球
 - tenor 男高音、大意、要旨、要领
-- tense a.紧张的、绷紧的
-- tension n.紧张、矛盾、对立
-- tentative a.试探性的、试验的、不确定的、n.尝试、假设、实验
+- tense a.紧张的、绷紧的、(动词的)时态
+- tension n.紧张、矛盾、对立、张力、拉力、拉紧、紧绷
+- tentative a.试探性的、试验的、不确定的、暂定的、犹豫的、n.尝试、假设、实验
 - tenure n.任期、任职、终身职位、占有期、保有权、保有期
 - term n.学期、术语、条款、期限、v.把...称为、把...叫做 in ... terms 在...方面、从...角度
 - terminal n.终点站、终端、末端、极限  tty
@@ -158,6 +160,7 @@
 - tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
 - tour [tʊə(r)] n/v.旅行、游览、观光
 - tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
+- tournament [ˈtʊənəmənt] n.锦标赛
 - tout v.标榜、吹捧、吹嘘
 - toward prep.朝向、面对、对于、关于、接近、将近
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
@@ -177,6 +180,7 @@
 - trait n.特点、特征、特性
 - transaction n.交易、业务、事务、办理、处理
 - transcend v.超出、超越
+- transcendence n.卓越、杰出、极其伟大
 - transcribe v.转录、抄写、改编
 - transcript 成绩单、抄本、誉本、打印本、剧本
 - transducer 传感器、变频器
@@ -202,7 +206,7 @@
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、请客、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
 - treatment n.治疗、诊治  medical treatment 医疗
 - trek n.徒步旅行、长途跋涉
-- tremble n/v.颤抖
+- tremble n/v.颤抖、抖动、摇晃
 - tremendous a.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向
 - trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
@@ -226,6 +230,7 @@
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
+- tube [tjuːb] n.管、管子、电子管
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机

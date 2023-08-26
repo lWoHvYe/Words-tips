@@ -4,6 +4,8 @@
 - magazine n.杂志、期刊、弹药库
 - magic [ˈmædʒɪk] n.魔法、魔术、a.有魔力的、魔术的、不可思议的
 - magical a.神奇的、有魔力的、美妙的
+- maglev ['mæglev] n.磁悬浮
+- magnetic a.磁性的  magnetic levitation 磁悬浮
 - magnificent a.壮丽的、宏伟的、华丽的
 - magnify v.放大、增强、夸大、扩大
 - magnitude n.量级、震级
@@ -22,7 +24,7 @@
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
-- mammal n.哺乳动物
+- mammal [ˈmæml] n.哺乳动物
 - manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
 - mandarin [ˈmændərɪn] n.普通话
 - mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
@@ -49,6 +51,7 @@
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
 - mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
+- massacre n/v.残杀、屠杀、惨败
 - massive a.大量的、大规模的、严重的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的、有技能的、最重要的
 - masterpiece n.杰作、名著
@@ -71,7 +74,7 @@
 - meadow n.草地、牧场
 - meal [miːl] n.餐、v.进餐
 - mean v.意思是、打算、意欲、n.中间、折中、平均数、平均值、a.吝啬的、刻薄的、平均的
-- means n.手段、方法、方式、途径、mean第三人称单数和复数
+- means n.手段、方法、方式、途径、mean第三人称单数和复数  by means of 以...方式
 - meantime n.其间、ad.与此同时、在...期间
 - meanwhile ad.其间、与此同时
 - measure v.测量、衡量、计量、评估、n.措施、方法、步骤
@@ -154,6 +157,8 @@
 - minus [ˈmaɪnəs] n.减、减号、负号
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
+- miscellaneous [ˌmɪsəˈleɪniəs] a.混杂的
+- miscellany n.杂集、混合体 
 - misconception 误解、错觉、错误认识
 - misery [ˈmɪzəri] n.痛苦、苦难
 - miss n.女士、小姐（未婚）、失误、v.未击中、错过
@@ -233,6 +238,8 @@
 - mud [mʌd] n.泥、泥浆
 - muscle [ˈmʌsl] n.肌肉、权力、威信、v.强取
 - muscular [ˈmʌskjələ(r)] a.肌肉的、强壮的
+- mush n.玉米粥、糊状物
+- mushroom n.蘑菇、v.迅速增长
 - music n.音乐、乐曲
 - musical a.音乐的、悦耳的、n.音乐剧
 - musician n.音乐家
@@ -245,10 +252,11 @@
 - multiplication [ˌmʌltɪplɪˈkeɪʃn] n.乘法、相乘
 - multiplier n.乘数、倍数
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
+- murder [ˈmɜːdə(r)] n/v.谋杀、凶杀
 - murmur n/v.小声说话
 - museum [mjuˈziːəm] n.博物馆
 - mute a.沉默的、无声的、静音的、v.消音
-- mutex 互斥、互斥对象、互斥锁
+- mutex (mutual exclusion) 互斥、互斥对象、互斥锁  P操作(acquire)、V操作(release)
 - mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的  mutual trust 相互信任
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious 神秘的、诡秘的、难以理解的、不可思议的

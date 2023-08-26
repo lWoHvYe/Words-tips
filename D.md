@@ -64,7 +64,7 @@
 - delimit v.限制、界定
 - delimiter n.定界符、分隔符
 - delineate [dɪˈlɪnieɪt] v.勾画、描述
-- delinquency 拖欠(债款/贷款)
+- delinquency n.犯罪、违法行为、拖欠(债款/贷款)
 - delinquent a.有违法倾向的、拖欠债务的、n.少年罪犯、流氓
 - deliver v.传送、交付、发表、宣布、履行、兑现
 - delivery n.传送、交付、投递、分娩
@@ -104,7 +104,7 @@
 - derivation n.引导、导出、衍生、起源、派生
 - derivative n.派生词、衍生物、衍生品、导数、微商、a.衍生的、导出的
 - derive v.得到、获得、起源于、产生、提取、派生
-- descend [dɪˈsend] v.下降、降临
+- descend [dɪˈsend] v.下降、降临、沦落
 - descendant n.后裔、后代、派生物
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
@@ -127,6 +127,7 @@
 - destruction n.摧毁、毁灭、破坏
 - destructive a.破坏(性)的、毁灭(性)的
 - detach v.派遣、分离、拆开、摆脱
+- detached a.分开的、分离的、冷静的、客观的
 - detail n.细节、详情、v.详细列举、详细说明、派遣、选派
 - detect v.查明、发现、探测、侦查
 - detector n.探测器
@@ -140,6 +141,7 @@
 - devil [ˈdevl] n.魔鬼、恶魔  devil's bones 骰子🎲  devil's advocate 故意唱反调的人
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - devote v.致力于、奉献、投入
+- diabetes n.糖尿病
 - diagnose v.诊断、确诊
 - diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
 - diagonal [daɪˈæɡənl] n.斜线、对角线、a.斜线的、对角线的
@@ -250,6 +252,7 @@
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
 - divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异  class divide 阶级差异
 - dividend n.红利、股息
+- divisible a.可除尽的
 - division n.分开、分隔、分配、除法、相除  division of labour 劳动分工
 - divisive a.分裂的、造成不合的、制造分裂的
 - divisor n.因子

@@ -81,6 +81,7 @@
 - wonder [ˈwʌndə(r)] v.想知道、想弄明白、好奇、n.惊奇、惊讶、奇迹、a.极好的、非常美丽的
 - wood n.木头、木材、树木、收集木材、木制、精神错乱、暴怒
 - wordy a.冗长的、啰嗦的
+- work v.工作、运转、产生效果、生效、n.工作、著作  work out 解决、计算出
 - workaround n.应变方法、变通方法
 - workforce n.劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
@@ -93,7 +94,7 @@
 - wound n.伤口、创伤、v.使受伤、伤害
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrapper [ˈræpə(r)] n.封装
-- wrinkle 皱纹、褶皱
+- wrinkle n.皱纹、褶皱
 - wrist [rɪst] n.手腕
 - write-off n.勾销、注销、报废的东西
 - wrong a.错误的、不正确的、不公平的

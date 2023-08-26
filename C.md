@@ -44,7 +44,7 @@
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
 - carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.
 - cart n.手推车
-- carve v.雕刻
+- carve v.雕刻、把...切成块、开创  be carved into 被分成...
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
 - cash n.现金、资金、v.兑现支票、a.现金的
@@ -68,7 +68,7 @@
 - cautious a.小心的、谨慎的  be cautious about 小心...
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
-- cease [siːs] v.停止、结束
+- cease [siːs] n/v.停止、结束、终止
 - ceiling [ˈsiːlɪŋ] n.天花板
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美、烘托
 - celebrity [səˈlebrəti] n.名人、名望、著名
@@ -127,6 +127,7 @@
 - chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
+- chocolate [ˈtʃɒklət] n.巧克力
 - choice n.选择、挑选、a.优质的、上等的
 - cholera [ˈkɒlərə] n.霍乱
 - chop v.切碎、劈、砍、(大幅度地)削减、取消、终止、n.排骨、肋骨
@@ -243,7 +244,7 @@
 - commerce [ˈkɒmɜːs] n.商务、商业、贸易  e-commerce 电子商务
 - commercial [kəˈmɜːʃl] a.商业的、商务的、盈利的、v.广告
 - commission n.委员会、佣金、回扣、手续费、v.委任、授予
-- commit [kəˈmɪt] v.承诺、保证、犯罪、自杀、调配、把...学好记牢  commit oneself to sth/doing sth 承诺/保证做某事  be committed to 对...尽责
+- commit [kəˈmɪt] v.承诺、保证、犯罪、自杀、调配、把...学好记牢  commit oneself to sth/doing sth 承诺/保证做某事  be committed to 对...尽责  commit mistake 犯错  commit suicide 自杀  commit crime 犯罪
 - commitment n.承诺、许诺、委托、委任、致力、献身、花费、使用
 - committee n.委员会
 - commodity n.商品、日用品、有价值的东西
@@ -372,6 +373,7 @@
 - construct v.构成、构建、修建、建造、n.结构、结构体、建筑物、观念、概念、构想
 - construction n.建造、建筑物、结构
 - consult v.咨询、请教、商量、查阅
+- consultant n.会诊医生、顾问
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
 - consumption n.消耗、消耗量、消费、肺病
 - contact n/v.联系、联络、接触、触摸、a.有关系的  contact lens 隐形眼镜
@@ -408,7 +410,8 @@
 - controversy n.争论、辩论、争议
 - controvert v.反驳、驳斥
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
-- convenient a.实用的、便利的、方便的、附近的
+- convenience n.方便、合适、便利设施  convenience and efficiency 方便且高效
+- convenient a.实用的、便利的、方便的、附近的、适当的  a convenient way 一种便捷的方式
 - convention n.会议、惯例、习俗、规矩、公约
 - conventional a.传统的、习惯的  conventional paid media 传统付费媒体
 - converge [kənˈvɜːdʒ] v.会聚、聚集、相交、会和、十分相似、相同
@@ -436,6 +439,7 @@
 - corona [kəˈrəʊnə] n.日冕、日华
 - coronal n.冠、冕、花冠、a.冠状的
 - coroutine n.协同程序、联立程序
+- cortisol [ˈkɔrtɪˌsɔl] n.皮质醇
 - Corp 公司
 - corpse n.尸体
 - corporate [ˈkɔːpərət] a.公司的、法人的、社团的、团体的、共同的
@@ -453,6 +457,7 @@
 - costly a.昂贵的、代价高的、豪华的
 - cottage n.小屋、村舍
 - cotton n.棉、棉花、棉线、棉织物  cotton fibre 棉纤维
+- couch [kaʊtʃ] n.沙发
 - council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的、地方政府出租的  council flat 公租房
 - counsel [ˈkaʊnsl] n/v.劝告、忠告、建议、n.法律顾问、律师
 - counseling n.咨询服务
@@ -482,7 +487,7 @@
 - crease n.折痕、褶痕、v.弄皱、压褶
 - create [kriˈeɪt] v.创建、创造、创作、引起、产生、授予、册封
 - creature n.造物、生物
-- credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书
+- credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书  a digital credential 数字证书
 - credibility n.可信性
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度

@@ -1,9 +1,9 @@
 - vacant a.空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
 - vacation n.假期、休假、v.度假
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
-- vacuum [ˈvækjuːm] n.真空
+- vacuum [ˈvækjuːm] n.真空、真空状态、空白、空虚、真空吸尘器、v.用真空吸尘器打扫
 - vague [veɪɡ] a.不明确的、含糊的、不详细的
-- vain [veɪn] a.徒劳的、无结果的、枉然的、自负的
+- vain [veɪn] a.徒劳的、无结果的、枉然的、自负的  in vain 徒劳地
 - valentine 情人
 - valid [ˈvælɪd] a.有效的、合理的、确凿的    
 - validate v.验证、证实、使生效、批准、确认
@@ -14,6 +14,7 @@
 - van n.面包车、先驱、前驱、领袖
 - vanilla [vəˈnɪlə] n.香草、香草香精、a.香草味的
 - vanish [ˈvænɪʃ] v.消失、灭绝、突然不见
+- vanity [ˈvænəti] n.虚荣心、自负、虚荣、浮华、空虚
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant 变种、变体、变量、变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
@@ -25,6 +26,7 @@
 - vault 墓穴、拱顶、地下室、金库、保险库、跳跃、腾跃
 - vaunt [vɔːnt] v.吹嘘、自负
 - vector n.矢量、向量
+- vegetable [ˈvedʒtəbl] n.蔬菜、植物、植物人、a.蔬菜的、植物的
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
@@ -44,7 +46,7 @@
 - vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
-- vessel n.容器、血管、船
+- vessel n.容器、器皿、血管、船、舰
 - vet v.审查、仔细检查、n.兽医
 - veto [ˈviːtəʊ] n.否决权、v.否决
 - via [ˈvaɪə] prep.通过、经由、经过、凭借

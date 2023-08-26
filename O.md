@@ -1,3 +1,4 @@
+- obese a.肥胖的、臃肿的
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
 - obey v.服从、听从、遵守  obey the law 遵守法律
 - obfuscate v.混淆、使困惑、使模糊不清
@@ -11,7 +12,7 @@
 - obscene [əbˈsiːn] a.淫秽的、猥琐的、下流的
 - obscure [əbˈskjʊə(r)] a.模糊的、无名的、费解的、v.使模糊、使隐晦、使费解
 - observe v.看到、注意到、观察、遵守
-- obsess [əbˈses] v.痴迷、迷恋
+- obsess [əbˈses] v.痴迷、迷恋、使着迷、使困扰
 - obsession n.痴迷、着魔、困扰、妄想
 - obsolescent [ˌɒbsəˈlesnt] a.逐步废弃的
 - obsolete [ˈɒbsəliːt] a.淘汰的、废弃的、过时的
@@ -71,7 +72,9 @@
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标
-- organ [ˈɔːɡən] n.器官、风琴
+- organ [ˈɔːɡən] n.器官、风琴  reproductive organ 生殖器官
+- organic a.器官的、有机的、有机体的
+- organism n.生物、有机体  individual organism 生物个体
 - orient [ˈɔːrient] v.朝向、面对、适应、使适应、熟悉、n.东方、亚洲、a.东方的、上升的、新生的
 - oriental [ˌɔːriˈentl] a.东方的、东亚的(尤指中国和日本)
 - orientation 方向、目标、定位、态度、观点、培训

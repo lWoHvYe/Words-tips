@@ -62,6 +62,8 @@
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
 - lever n.操纵杆、杠杆、v.撬动
 - leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购  leverage...to... 利用...来...  Leverage Buyout (LBO)杠杆收购
+- levitation n.悬浮、漂浮
+- levitate v.漂浮、悬浮、升空
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
 - lexical [ˈleksɪkl] a.词汇的
 - liability n.责任、债务、负债、债务
@@ -87,6 +89,7 @@
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
 - lineup n.阵容、列队辨认
 - linger v.逗留、徘徊、继续存留、拖延、留恋、苟延残喘  linger on 徘徊
+- lingual a.语言的
 - linguistic [lɪŋˈɡwɪstɪk] a.语言的、语言学的
 - lining [ˈlaɪnɪŋ] n.衬里、内衬、膜
 - link v.联系、连接、n.链接、联系、关系、纽带、环节

@@ -28,7 +28,7 @@
 - parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
 - parliament [ˈpɑːləmənt] n.国会、议会
-- parse v.从语法上描述或分析
+- parse [pɑːz] v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - particle n.微粒、粒子、质子、极小量
 - participant n.参加者、参与者
@@ -70,6 +70,7 @@
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
+- pendulum [ˈpendjələm] n.钟摆
 - penny n.便士、分币、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的  pension fund 养老基金
 - pensive a.沉思的
@@ -112,6 +113,7 @@
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - pessimistic [ˌpesɪˈmɪstɪk] a.悲观的、悲观主义的  pessimistic view 悲观的看法
+- PET Performance Evaluation Test 
 - petrol n.汽油
 - phantom [ˈfæntəm] n.幻影、幻像、幽灵、幻觉
 - pharmaceutical [ˌfɑːməˈsuːtɪkl] a.制药的、药物的
@@ -125,7 +127,7 @@
 - photograph n.照片、v.拍照
 - phrase [freɪz] n.短语、习语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
-- physician n.医生、内科医生
+- physician [fɪˈzɪʃn] n.医生、内科医生
 - physicist n.物理学家
 - physics [ˈfɪzɪks] n.物理
 - physiology n.生理学
@@ -143,6 +145,7 @@
 - pinch [pɪntʃ] v.拧、捏、捏住
 - pink n.粉红色  pink slip 解雇通知书
 - pioneer [ˌpaɪəˈnɪə(r)] n.先驱者、开拓者
+- pipe n.管子、导管、风笛  underground pipe system 地下管道系统
 - pipeline n.管道、管线 in the pipeline 在筹备中
 - pit n.矿井
 - pitfall n.陷阱、诱惑、圈套、困境、危险、隐患
@@ -172,11 +175,12 @@
 - plentiful a.大量的、丰富的、充足的
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
 - plot n.情节、阴谋、密谋、布局、小块土地、v.暗中策划、密谋、标出、绘制
-- plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传
+- plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传、堵塞
 - pluggable a.可插拔的
-- plunge v.暴跌、骤降
+- plunge [plʌndʒ] v.暴跌、骤降、陷入、把...投入、将...推入、猛冲、突然开始、n.暴跌、跳水、降雨、投入、突然陷入、突然开始
 - plural [ˈplʊərəl] n.复数、复数形式、a.复数的、多元的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
+- poach [pəʊtʃ] v.偷猎、窃取、挖(人才等)、水煮、炖
 - pocket n.口袋、金钱、财富
 - pocketbook n.皮夹、记事本
 - podcast n.播客
@@ -243,8 +247,9 @@
 - praise n/v.称赞、赞扬、表扬
 - pragmatic a.实用的、务实的
 - prattle 闲扯、唠叨、闲聊
-- pray v.祈祷、祷告
+- pray v.祈祷、祷告、祈求
 - prayer n.祈祷、祈祷文、经文
+- PRD Product Requirement Document
 - preach n/v.宣讲、布道、说教
 - precautionary a.预防的
 - precede v.先于、优于、在...之上
@@ -331,6 +336,7 @@
 - proceed v.继续、进行、前进、n.收入、获利
 - proceedings n.行动、事件、诉讼、公报
 - process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- PROD production 正式、生产 
 - prod n/v.戳、催促、鼓动、提醒
 - produce n/v.生产、制造
 - product n.产品、乘积

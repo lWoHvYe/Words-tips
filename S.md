@@ -60,6 +60,7 @@
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
 - scrutinize [ˈskruːtənaɪz] v.仔细检查、认真审查
 - scrutiny [ˈskruːtəni] n.监督、细看、仔细检查、认真彻底的审查
+- sculpture n.雕刻、雕塑、雕塑品
 - seal n.海豹、印章
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
 - seamless a.无缝的
@@ -127,10 +128,11 @@
 - severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的、剧烈的
 - severity 严重、严厉、苛刻
 - shadow n.阴影、影子、v.跟踪、尾随
-- shake v.动摇、摇动、握手、n.摇动、颤抖
+- shake v.动摇、摇动、握手、n.摇动、颤抖、奶昔
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
 - shall modal.将要、将会、必须、应该、可以
 - shallow a.浅的、肤浅的、表面的、n.浅滩、浅处、v.变浅、变浅薄
+- sham n/v.伪装、假装、冒充、a.虚假的、假装的
 - shame 羞耻、羞愧、惭愧、耻辱、使丢脸、使羞愧、真可惜、太遗憾了、好极了、真棒
 - shape n.形状、模型、身材、v.塑造、使符合、体现
 - share v.共有、分享、共享、分配、n.股份、一份
@@ -140,16 +142,16 @@
 - sharpness n.锐利、锐度、清晰度
 - shave [ʃeɪv] v.刮胡子、剃、削减、降低
 - shear v.剪、剪切
-- shed n.库、棚、分水岭、v.流下、流出、蜕皮、树叶脱落、(股票)下跌、解雇  shed some light on 解释、阐明
+- shed n.库、棚、棚屋、分水岭、v.流下、流出、蜕皮、树叶脱落、去除、摆脱、(股票)下跌、解雇、裁员  shed some light on 解释、阐明
 - sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - sheep n.羊、绵羊
 - shelf n.架子
 - shell n.贝壳、外壳、炮弹、v.去壳、炮击  shell script shell脚本  shell out for 为...付费
-- shelter n.避难所、v.保护、掩蔽
+- shelter n.避难所、v.保护、掩蔽、掩护、庇护
 - shelve v.搁置
 - shield 盾、护罩、保护、掩护、屏蔽
 - shift v.转换、转移、发生变动、换挡、n.转换、改变、换挡、轮班、换班
-- shine v.闪耀、发光、n.光泽、光亮
+- shine v.闪耀、发光、照耀、n.光泽、光亮
 - ship n.船
 - shirk [ʃɜːk] v.逃避、偷懒
 - shock n.震惊、电击、休克、震动、v.使震动、使休克、使震惊
@@ -163,7 +165,7 @@
 - shove [ʃʌv] v.推、猛推、乱放
 - show n/v.显示、表示、展示、演示
 - shower n.淋浴、阵雨、小雨
-- shrink v.收缩、缩小、减少
+- shrink [ʃrɪŋk] v.起皱、收缩、缩小、减少
 - shuffle n/v.洗牌
 - shut n/v.关闭、停业、关门  shut down 关闭、停业  shut out 把...排除在外、克制某种感情 shut up 闭嘴、住口
 - sibling n.兄弟姐妹
@@ -176,12 +178,13 @@
 - significant a.重要的、显著的、有意义的、有重大意义的、值得注意的、意味深长的、n.象征、标志
 - significantly 重要的、重大的、明显的、显著的
 - signify v.代表、象征、表示
-- silence 沉默、无声、寂静、失去联系、使安静、压制、安静、静下来
+- silence n.沉默、无声、寂静、失去联系、v.使安静、压制、安静、静下来  in silence 沉默地
 - silent [ˈsaɪlənt] a.沉默的、安静的
 - silica [ˈsɪlɪkə] n.二氧化硅
 - silicon [ˈsɪlɪkən] n.硅  Silicon Valley 硅谷
 - silly a.愚蠢的、糊涂的、不明事理的、n.傻孩子、淘气鬼
 - silver [ˈsɪlvə(r)] n.银、银币、银器、银色、a.银色的、v.镀银  silver lining 一线希望
+- SIM simulation 仿真
 - similar [ˈsɪmələr] a.相似的、相仿的、相像的、n.相似物、类似物
 - similarity n.相似性、相似之处
 - simile [ˈsɪməli] n.明确
@@ -196,6 +199,7 @@
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - sip v.小口喝、抿、n.一小口的量
+- SIT System Integrate Test
 - site n.地点、位置、网站、站点、v.使坐落在...
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
@@ -250,6 +254,7 @@
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - soar [sɔː(r)] v.猛增、升腾
 - sober a.冷静的、头脑清醒的、v.变得冷静
+- soccer [ˈsɒkə(r)] n.足球
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
 - soft a.柔和的、柔软的、无酒精的、不严厉的
@@ -259,8 +264,8 @@
 - soldier [ˈsəʊldʒə(r)] n.士兵
 - sole a.唯一的、仅有的、独占的、n.鞋底、脚底
 - solicitation 诱惑、请求、征求
-- solid 固体、固态、立体图形、固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的
-- solidary n.团结
+- solid n.固体、固态、立体图形、a.固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的  solid evidence 确凿的证据
+- solidary n.团结、团结一致、共同一致  social solidarity 社会团结
 - solo n.独奏、独唱、a.独奏的、单独的、独自的、ad.单独地、独自地
 - solution [səˈluːʃn] n.解决办法、溶解、溶液
 - solve [sɒlv] v.解决、处理、解答、破解
@@ -270,9 +275,11 @@
 - sonata [səˈnɑːtə] n.奏鸣曲
 - sophistical a.诡辩的、强词夺理的
 - sophisticate n.老练的人、见多识广的人
+- sophisticated [səˈfɪstɪkeɪtɪd] a.尖端的、复杂的、精通的、老练的  sophisticated equipment 尖端设备  sophisticated technology 尖端技术  highly sophisticated 高精尖的
 - sort n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
 - sound n.声音、a.健全的、明智的、合理的
+- soup n.汤、羹
 - source n.来源、出处、根源、起源、v.(从...)获得
 - sovereign [ˈsɒvrɪn] n.君主、元首、a.有主权的、完全独立的
 - sovereignty [ˈsɒvrənti] n.主权、独立自主、最高统治权、最高权威
@@ -298,7 +305,7 @@
 - specialist [ˈspeʃəlɪst] n.专家、a.专业的、专家的
 - speciality [ˌspeʃiˈæləti] n.专业、专长、特产
 - species n.物种、种类
-- specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药
+- specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药  DSL - Domain Specific Language 领域特定语言
 - specification 规格、规范、明细单、说明书
 - specify v.具体说明、明确规定、详述、详列
 - spectacle n.壮观的景象、壮观的场面、光景、景象
@@ -314,6 +321,7 @@
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spin v.旋转、纺纱、吐(丝)、作(茧)、急转身、兜风、n.旋转、自转、导向性陈述  spin out 衍生出、派生出
 - spine 脊柱、脊椎、书脊、刺
+- spiral [ˈspaɪrəl] v.盘旋上升/下降、急剧增长、n.螺旋形、逐渐加速上升或下降、a.螺旋形的、螺旋式的
 - spirit [ˈspɪrɪt] n.精神、灵魂、意志、心灵、情绪、pl.情绪
 - spiritual a.精神的、心灵的、宗教的
 - spit v.吐、吐出、n.唾液
@@ -330,7 +338,7 @@
 - spread v.传播、散布、展开、伸开、n.传播、蔓延、差额、差幅、a.广大的、大幅的 spreading (在金融方面可做)利息差
 - spreadsheet n.电子表格
 - spree [spriː] n.(过分的)玩乐、作乐
-- sprinkle v.喷、洒、下小雨、n.小雨
+- sprinkle v.喷、洒、撒、下小雨、n.小雨
 - spring [sprɪŋ] n.春天、泉水、弹簧、弹性、弹力、v.跳、越
 - sprint 冲刺、全速短跑、短跑比赛
 - spud n.土豆
@@ -351,6 +359,8 @@
 - stag n.雄鹿
 - stage n.阶段、步骤、舞台、v.举办、举行、组织、筹划、使发生、使出现
 - stagger n/v.蹒跚、动摇、犹豫、摇晃
+- stagnate v.停滞、不发展、不进步
+- stagnation n.停滞、萧条  economic stagnation 经济停滞
 - stair n.楼梯
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
@@ -424,8 +434,8 @@
 - strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
 - striking a.引入注目的、惊人的、显著的
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列  no strings attached 无附加条件
-- strip n.带、v.剥去、除去、剥夺、跳闸
-- stripe n.条纹、线条
+- strip [strɪp] n.带、狭条、v.剥去、剥光、除去、剥夺、跳闸  strip sb of... 剥夺某人的...
+- stripe [straɪp] n.条纹、线条、种类、类型
 - strive v.努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
 - stroll [strəʊl] n/v.散步、闲逛、轻松获胜
@@ -481,10 +491,10 @@
 - suffix n.后缀
 - sugar [ˈʃʊɡə(r)] n.糖、v.加糖
 - suggest v.建议、暗示、表明、启示
-- suicide [ˈsuːɪsaɪd] n/v.自杀
+- suicide [ˈsuːɪsaɪd] n/v.自杀、自取灭亡  physicianassisted suicide 安乐死
 - suit v.适合、合意、合身、相称、n.西装、套装、诉讼
 - suitability n.适合、适宜
-- suitable a.合适、适合
+- suitable a.合适的、适合的
 - summarize v.总结、概括
 - summary n.概括、总结、a.概要的、总结性的、草草的
 - summed v. sum的过去式和过去分词、归纳、概括、总结
@@ -493,7 +503,7 @@
 - super a.超级的、ad.特别、格外
 - superb a.卓越的、极佳的
 - superficial [ˌsuːpəˈfɪʃl] a.表面的、肤浅的、浅薄的
-- superfluous a.过剩的、多余的
+- superfluous [suːˈpɜːfluəs] a.过剩的、多余的、富余的
 - superior [suːˈpɪəriə(r)] a.较高的、较好的、上等的、优越的、n.上级、上司
 - supermarket n.超市
 - supersede v.取代、替代
@@ -531,7 +541,7 @@
 - susceptibility n.易感性、敏感性、过敏性
 - susceptible [səˈseptəbl] a.易受影响的、敏感的、感情丰富的、易受感动的
 - suspect v.猜测、怀疑、不信任、猜想、a.可疑的、不可信的、n.犯罪嫌疑人、嫌疑犯、可疑对象
-- suspend v.暂停、中止、悬挂、延缓
+- suspend v.暂停、中止、延缓、悬、挂
 - suspicion [səˈspɪʃn] n.怀疑、嫌疑、疑心、不放心、预感、(of)些许、少许
 - suspicious a.怀疑的、可疑的、起疑的
 - sustain [səˈsteɪn] v.维持、供养、支撑、承受、承担、遭受

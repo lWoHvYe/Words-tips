@@ -9,7 +9,7 @@
 - bad a.坏的、令人不快的、错误的  my bad 我的错
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
-- bait n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
+- bait [beɪt] n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
 - ball [bɔːl] n.球
 - ballet [ˈbæleɪ] n.芭蕾舞、芭蕾
@@ -74,7 +74,7 @@
 - bilateral a.两侧的、双边的、双方的、双向的
 - bill n.账单、提案、法案
 - billion n.十亿
-- bin [bɪn] n.箱子、v.扔掉、丢弃
+- bin [bɪn] n.箱子、容器、v.扔掉、丢弃
 - binary a.二进制的
 - bind v.绑定、捆绑、缠绕、结合、约束、凝结、装订、n.窘境
 - biochemical 生物化学的、生化的
@@ -85,6 +85,7 @@
 - bipedal a.双足行走的
 - bi-temporal n.双时态
 - bit [bɪt] n.比特
+- bite v.叮、咬
 - bitwise n.位运算
 - bizarre [bɪˈzɑːr] a.奇怪的、离奇的、极其怪诞的
 - blade n.叶片
@@ -145,6 +146,7 @@
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)  brand new 全新的、崭新的
 - brass n.黄铜
 - brave a.勇敢的、无畏的
+- BRD Business Requirement Document
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
 - breadth [bredθ] n.宽度、(知识、兴趣等)广泛
@@ -185,6 +187,7 @@
 - bulb n.电灯泡
 - bulk [bʌlk] n.体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离
+- bull [bʊl] n.公牛、多头  bull run 牛市
 - bullet n.子弹  silver bullet 银弹
 - bump 碰撞、突然的；bump up 突然增加、提高
 - bundle n.捆、包

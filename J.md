@@ -16,7 +16,7 @@
 - judicious [dʒuˈdɪʃəs] a.明智的、明断的
 - juice n.果汁
 - junction n.连接、接合、接合点
-- junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、n.年少者、青少年、职位较低者
+- junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、(大学的)三年级的、n.年少者、青少年、职位较低者
 - junk [dʒʌŋk] n.垃圾、v.抛弃、废弃  junk ads 垃圾广告  junk food 垃圾食品
 - jury n.陪审团
 - jurisdiction n.管辖权、管辖范围、司法权
@@ -24,4 +24,4 @@
 - justice n.法官、公平、公正
 - justification n.正当理由
 - justify v.证明正当、证明...正确、为...辩护、对...作出解释、整理版面
-- juvenile [ˈdʒuːvənaɪl] n.少年、a.少年的、未成年的
+- juvenile [ˈdʒuːvənaɪl] n.少年、a.少年的、未成年的、幼稚的

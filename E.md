@@ -61,6 +61,7 @@
 - emit v.发出、发射
 - emotion n.情绪、情感、感情、感动、激动、强烈的感情
 - empathy [ˈempəθi] n.同感、共鸣、同情
+- emperor n.皇帝、君主
 - emphasize/emphasise [ˈemfəsaɪz] v.强调、重视、着重、加强语气、使突出、使明显
 - empirical [ɪmˈpɪrɪkl] a.来自实验或经验的、经验主义的
 - empire [ˈempaɪə(r)] n.帝国、大企业
@@ -215,14 +216,14 @@
 - exclaim v.呼喊、惊叫、大声说出
 - exclamation n.感叹、感叹号
 - exclude v.排斥、排除、不包括、驱除、防止...进入、阻止...参加、把...排斥在外、认为...不可能
-- exclusion 拒绝、杜绝、排除、驱逐
+- exclusion [ɪkˈskluːʒn] n.排斥、拒绝、杜绝、排除、驱逐
 - exclusive a.独家的、专用的、高级的、独有的、独占的、排外的、排斥的、n.独家新闻
 - excuse [ɪkˈskjuːs/ɪkˈskjuːz] n.借口、原谅、v.为...辩解、原谅  excuse me 对不起
 - execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
 - execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
 - exemplary a.模范的、典范的、惩戒性的
-- exempt v.免除、豁免
+- exempt v.免除、豁免、a.被免除的、被豁免的
 - exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
 - exert [ɪɡˈzɜːt] v.发挥、运用、施加
 - exfiltrate 渗出、渗漏、滤出、流出

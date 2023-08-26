@@ -9,6 +9,7 @@
 - radius n.半径
 - raft n.木筏
 - rage [reɪdʒ] n/v.愤怒、狂怒、暴怒
+- raid n.袭击、侵袭
 - rail 围栏、轨道、扶手、怒斥、责骂、抱怨
 - rain n.雨、v.下雨
 - raincheck 雨票、延期
@@ -101,7 +102,7 @@
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain v.抑制、避免、克制、节制、n.反复说的话、迭句
 - refresh v.刷新、翻新、(使)精神振作、n.刷新
-- refuge n/v.庇护、避难
+- refuge n/v.庇护、避难、庇护所、避难所
 - refugee n.难民
 - refund n/v.退款、退还
 - refusal n.拒绝、回绝

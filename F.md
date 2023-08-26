@@ -19,6 +19,7 @@
 - fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的
 - fall v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
 - fallback 应变计划、退路、倒退
+- fallow [ˈfæləʊ] a.休耕的、休闲的、休眠的
 - false a.错误的、不真实的、伪造的
 - fame n.声誉、名声、v.使出名、使闻名
 - familiar a.熟悉的、亲近的
@@ -35,6 +36,8 @@
 - farm n.农场、v.种田、务农、饲养、养殖
 - farmer n.农民、农场主
 - farther ad.进一步、更远地
+- fascinate v.迷住、入迷、强烈吸引
+- fascination n.感染力、魔力、吸引力
 - fashion n.时尚、方法、方式、v.制作、塑造、制订
 - fasten v.系牢  Fasten your seatbelts, please 请系好安全带
 - fat [fæt] n.脂肪、a.胖的、肥胖的
@@ -57,6 +60,7 @@
 - fee n.费用、报酬、v.付报酬、雇佣、聘请
 - feeble a.虚弱的、脆弱的、无效的、无力的
 - feed v.饲养、喂养、满足、向...提供、n.饲料、肥料  feed oneself 养活自己
+- fellow [ˈfeləʊ] n.家伙、同伴、同事、a.同事的、同伴的、同类的  fellow members 同一组织的成员
 - female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
 - fence n.栅栏、屏障、v.围住、隔开、搪塞、回避、击剑
 - fend v.照顾、照料、防御、保护
@@ -103,7 +107,7 @@
 - flagship n.旗舰、王牌
 - flame 火焰、燃烧
 - flammable 易燃的、可燃的
-- flash [flæʃ] n/v.闪光、用光发出信号
+- flash [flæʃ] n/v.闪光、闪现、用光发出信号
 - flat a.平的、扁平的、水平的、单调的、干脆的、断然的、(费率、价格、百分比)固定的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
 - flatten v.压平、变平、把...弄平、摧毁
 - flatter v.奉承、讨好、使显得更漂亮、使胜过本人
@@ -134,6 +138,7 @@
 - foe n.敌人、仇敌
 - fold v.折叠、对折、n.褶痕、褶皱  eightfold 八倍、八重
 - folk n.人们、各位、大伙、大众、a.民间的、民俗的
+- follow [ˈfɒləʊ] v.跟随、跟着、在...之后发生、接受、遵从
 - footnote n.脚注
 - footprint n.脚印、足迹、踪迹 memory footprint 内存占用
 - for [fɔː(r)/fə(r)] prep.为、为了、关于、conj.因为、由于

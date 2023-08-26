@@ -44,7 +44,7 @@
 - immerse v.沉浸在、深陷于
 - immersive a.沉浸式虚拟现实的
 - immortal a.不死的、永恒的、n.神
-- immune a.有免疫力的、不受影响的  immune system 免疫系统
+- immune a.免疫的、有免疫力的、不受影响的  immune system 免疫系统
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact n/v.影响、撞击、冲击、挤入、冲击力
@@ -79,8 +79,10 @@
 - incarnation n.化身、典型体现
 - incentive n.激励、诱因、刺激、动机、a.激励的、鼓励的
 - inception n.开端、创始
-- incidence 发生率、影响范围、关联、接合、入射、入射角
-- incident 事件、事变、事端、摩擦、冲突、易引起的
+- inch n.英寸、少量
+- incidence n.发生率、影响范围、关联、接合、入射、入射角
+- incident n.事件、事变、事端、摩擦、冲突、易引起的  historical incident 历史事件
+- incidental a.附带发生的、次要的、伴随而来的、n.附带事件、偶然事件
 - incite [ɪnˈsaɪt] v.煽动、鼓动
 - inclination n.倾向、意愿、趋向、趋势
 - incline v.倾向于、有...趋势、倾斜、偏向、赞同、n.斜面、斜坡
@@ -170,6 +172,7 @@
 - insight n.眼光、洞察力、洞悉、领悟、见解
 - insist v.坚持、强调
 - insulate [ˈɪnsjuleɪt] v.使隔离、使孤立、使绝缘、使隔热 
+- insult n/v.侮辱、辱骂、欺凌、凌辱
 - inspect v.检查、视察
 - inspiration n.灵感、鼓舞人心的人或事
 - inspiratory a.吸入的、吸气的
@@ -222,6 +225,7 @@
 - interior [ɪnˈtɪəriə(r)] n.内部、内政、内务、a.里面的、内部的  interior detail 内部细节
 - interject v.打断、插话
 - interlace v.使交错、使交织
+- interleave v.插入、夹进
 - intermarriage n.通婚、近亲结婚
 - intermediate a.中间的、中级的、中等的、n.中级学生、v.起调解作用、起媒介作用
 - interminable a.冗长的、没完没了的

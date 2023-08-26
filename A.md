@@ -33,10 +33,10 @@
 - accessible a.可到达的、可使用的、易接近的、可理解的
 - accessibility n.可达性、可接近性、可访问性
 - accidental a.意外的、偶然的、附属的
-- accident n.事故、意外、偶然、附属品
+- accident n.事故、意外、偶然、附属品  by accident 偶然地、意外地
 - acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
 - acclimate v.使习惯、使适应
-- accomodate v.容纳、使...适应
+- accomodate v.容纳、使...适应、顾及
 - accompany v.陪伴、陪同、伴随
 - accomplish v.完成、达到、实现
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
@@ -172,6 +172,7 @@
 - allot v.分配、分派、配给
 - allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
+- allure [əˈlʊə(r)] n/v.诱惑、引诱、吸引力
 - ally n.联盟、同盟国、v.与...结盟
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alone a/ad.单独、独自、孤独、单独的、单独地
@@ -271,7 +272,7 @@
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
 - architect n.建筑师
-- architecture n.体系结构、建筑学、结构
+- architecture n.体系结构、建筑学、建筑设计、结构
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument 论点、论据、争论、辩论、争吵、主题、情节
@@ -298,12 +299,14 @@
 - artificial a.人工的、人造的、人为的、虚假的
 - artistic a.艺术的、艺术家的、美术的
 - asap (as soon as possible) 尽快
+- ascend v.上升、升高
 - Asia ['eɪʒə] n.亚洲
 - aside ad.到一边、向一边、向旁边、(放在名词后)除...之外  set aside 放弃、留出、空出
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
-- aspect n.方面、层面、外观、外表      Aspect-Oriented Programming AOP
+- aspect n.方面、层面、外观、外表  Aspect-Oriented Programming AOP
 - aspiration n.渴望、抱负
 - aspire v.渴望、有志
+- assault [əˈsɔːlt] n/v.袭击、攻击、殴打、抨击
 - assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构  assembly language (asm)汇编语言
@@ -328,6 +331,7 @@
 - asteroid [ˈæstərɔɪd] n.小行星
 - astonish v.使惊讶、震惊
 - astray 迷路的、堕落、误入歧途的、迷路
+- astrology [əˈstrɒlədʒi] n.占星术、占星学
 - astronaut n.宇航员、航天员
 - astronomy n.天文学
 - asymmetric a.不对称的、不匀称的

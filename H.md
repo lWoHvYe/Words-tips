@@ -4,7 +4,7 @@
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halo [ˈheɪləʊ] n.光环、(日月等的)晕
-- halt v.暂停、中止、停下  Halting Problem 停机问题
+- halt n/v.暂停、停止、中止、停下  Halting Problem 停机问题
 - halve [hɑːv] v.减半
 - hamper v.妨碍、束缚、限制
 - hand n.手、指针、雇员、v.交、递、给 hand out 分发、散发、给予  hand over 转交  take over 接手
@@ -14,6 +14,8 @@
 - handsome [ˈhænsəm] a.英俊的、漂亮的、慷慨的、大方的、数量大的
 - handy a.方便的、便利的、易使用的
 - happiness n.幸福、愉快
+- harbo(u)r n.港口、港湾、v.窝藏、庇护、怀有
+- harden v.变硬
 - hardline a.强硬的、不妥协的
 - hardship n.困难、艰难、困苦、拮据
 - hardware n.硬件、五金器具
@@ -31,6 +33,7 @@
 - hazy a.朦胧的、模糊的、困惑的
 - hawk [hɔːk] n.鹰、主站分子、v.沿街叫卖、兜售
 - head n.头、头脑、领导、主管、v.朝着...行进
+- headache [ˈhedeɪk] n.头痛
 - headcount/hc 公司HR预计招聘的员工人数 
 - headline n.大字标题、新闻摘要
 - headlong ad.轻率地、急速地、慌张地、a.轻率的、急速的
@@ -47,7 +50,10 @@
 - heavy a.沉的、重的、繁忙的、ad.大量地
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - height [haɪt] n.身高、高度
+- heighten v.提高、加强  heighten the value of 提升...的价值
+- heightened a.不断增加的、升高的、增强的  heightened alert 高度警戒
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
+- herb n.药草、香草、草本植物
 - herd n.牧群、人群、v.群集
 - heresy [ˈherəsi] n.异端
 - heritage n.遗产、传统
@@ -83,6 +89,7 @@
 - horizontal [ˌhɒrɪˈzɒntl] a.水平的、横的、n.水平面、水平线、横线
 - hormone [ˈhɔːməʊn]/[ˈhɔːrmoʊn] n.激素、荷尔蒙
 - horrible a.可怕的、糟糕的
+- horror [ˈhɒrə(r)] n.恐怖、颤抖  to the horror of sb 令某人恐怖的是
 - hospital n.医院
 - hospitality n.好客、款待、食物、饮料
 - hospitalize v.就医、把...送入医院治疗
@@ -99,8 +106,10 @@
 - hub n.轮轴、中心、电线插孔、集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humanity n.人类、人性
-- humble a.谦卑的、卑微的、v.谦逊、低声下气 in my humble opinion 依我拙见
-- humor n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
+- humble a.谦卑的、卑微的、v.谦逊、低声下气、使卑微  in my humble opinion 依我拙见
+- humiliate v.羞辱
+- humiliation n.羞辱、耻辱、蒙羞
+- humo(u)r n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
 - hurl v.投掷
 - hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
