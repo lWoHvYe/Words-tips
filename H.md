@@ -22,6 +22,7 @@
 - hare [heə(r)] n.野兔
 - harmonize v.协调、和谐、使相一致
 - harmony n.和谐、融洽、协调、和声
+- harness n.马具、背带、v.控制、利用
 - harsh a.残酷的、恶劣的、严酷的、粗糙的、刺耳的  harsh reality 残酷的现实
 - harvest n/v.收割、收获
 - hash [hæʃ] n.#号
@@ -78,7 +79,7 @@
 - historic/historical a.历史的、历史上的
 - hitherto [ˌhɪðərˈtuː] ad.迄(qi)今、至今、到目前为止
 - hobby n.爱好
-- hold v.持有、抓住、容纳、保留、持有、n.持、抱、拿、握、影响、控制  take hold 抓住、还可做持续  hold on 坚持、等一等、别挂电话  put on hold 搁置、暂停、延期  hold up 举起、站得住脚、成立
+- hold v.持有、抓住、容纳、保留、认为、n.持、抱、拿、握、影响、控制  take hold 抓住、还可做持续  hold on 坚持、等一等、别挂电话  put on hold 搁置、暂停、延期  hold up 举起、站得住脚、成立
 - holistic [həˈlɪstɪk] a.全面的、整体的
 - holy a.神圣的、圣洁的
 - homo 高、同、人属、人类、佃户、侍从
@@ -111,6 +112,7 @@
 - humiliation n.羞辱、耻辱、蒙羞
 - humo(u)r n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
 - hurl v.投掷
+- hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙
 - hybrid 混合的、杂种的、杂交、混合物、合成物
 - hydrochloride n.盐酸、盐酸盐、氯化氢

@@ -3,9 +3,11 @@
 - laboratory [ləˈbɒrətri] n.实验室
 - lack n/v.缺乏、短缺
 - ladder n.梯子、阶梯、途径
+- lady [ˈleɪdi] n.女士、淑女
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
 - lake n.湖、湖泊
-- lame a.蹩脚的、站不住脚的、无说服力的
+- lame a.蹩脚的、站不住脚的、无说服力的  lame argument 强词夺理
+- lamp n.灯、发热灯、照射灯
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
 - landlady n.女房东、女店主
 - landlord n.房东、地主、店主
@@ -42,7 +44,7 @@
 - lease n.租赁、租约、v.租用、租借、出租
 - least [liːst] little的最高级 a.最小的、最少的
 - leave v.离开、保留、交付、使得、n.休假、假期、准许  leave sth+adj. 让...处于某种状态  leave to 留给
-- lecture n/v.演讲、训诫
+- lecture n/v.演讲、讲课、训诫、告诫
 - ledger n.账簿、账本
 - left 左边
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
@@ -139,7 +141,7 @@
 - lucrative a.获利多的、赚大钱的、合算的
 - lumber n.木材
 - lumen [ˈluːmɪn] n.流明(光通量单位)
-- lump n.块、大量、一大堆、v.把...归并一起、a.整个的、成块状的
+- lump n.块、大量、一大堆、肿块、瘤、v.结块、把...归并一起、a.整个的、成块状的  lump together information 整合信息
 - lunar a.月亮的、月球的 Lunar New Year 农历新年
 - lunch n.午餐
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵

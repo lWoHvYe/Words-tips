@@ -15,6 +15,7 @@
 - edit [ˈedɪt] v.编辑、校订
 - edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期  paperback edition 平装版  hardback edition 精装版
 - effect n.效果、影响、使发生、引起、印象、所有物  side effect 副作用
+- effective a.有效的
 - efficient a.有效率的、效率高的、有能力的
 - efficiency [ɪˈfɪʃnsi] n.效率、效能、功率、功效、性能
 - effort [ˈefət] n.工作、努力、尝试、成就

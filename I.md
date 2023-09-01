@@ -91,6 +91,7 @@
 - income n.收入、收益、所得
 - inconsistent a.不一致的、前后矛盾的、不符合、相矛盾
 - incorporate v.包含、合并、吸收、使并入、使混合、注册成立、a.具体化了的
+- increase n/v.增加、增长、增多
 - incredible [ɪnˈkredəbl] a.难以置信的、不可思议的、极好的、惊人的
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
@@ -124,6 +125,9 @@
 - inherit v.继承、接替、继任、经遗传获得
 - initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət] v.开始、发起、创始
 - infant[ˈɪnfənt] n.婴儿、幼儿、a.供婴幼儿用的、初期的、初创期的
+- infect v.传染、感染、使受影响、使感染(计算机病毒)
+- infection n.感染、传染、传染病  childhood infections 儿童传染病
+- infectious a.(通过空气、呼吸)传染性的、感染的、有传染力的
 - infer v.推论、推理、推断、暗示、意指
 - inference n.推论、推理、推断
 - inferior [ɪnˈfɪəriə(r)] a.低劣的、次的、较差的、不如别人的、n.部下、下级、下属
@@ -136,6 +140,7 @@
 - influence 影响、支配力、支配、左右
 - influx n.流入、汇集、涌入
 - inform v.知会、通知、使活跃、使充满、告发、检举
+- informed a.见多识广的、有见识的、有学问的
 - informal a.非正式的、不拘礼节的、日常的
 - infrared n.红外线、a.红外线的 infra- 下、低
 - infrastructure n.基础设施、基础建设
@@ -154,6 +159,7 @@
 - inject v.注射、注入
 - injure v.损害、伤害
 - injury n.损伤、伤害
+- ink n.油墨、墨水
 - inlay v.镶嵌、嵌入
 - innate [ɪˈneɪt] a.先天的、天生的、固有的
 - inner a.内部的、内心的、n.内部、里面

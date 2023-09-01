@@ -31,7 +31,8 @@
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
-- venture n.冒险、(尤指有风险的)企业、商业、投机活动、v.冒...的危险、用...进行投机  Venture Capital (VC)风险投资
+- vent n.排气孔、通风孔
+- venture n.冒险、(尤指有风险的)企业、商业冒险、投机活动、风险投资、v.冒...的危险、用...进行投机  Venture Capital (VC)风险投资
 - venue n.地点、会场
 - verbal a.文字的、言语的、口头的、动词的
 - verbalize v.用言语表达
@@ -88,6 +89,7 @@
 - vogue n.时尚、流行
 - voice n.噪音、呼声、v.发音、表达
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
+- volcano [vɒlˈkeɪnəʊ] n.火山  a dormant volcano 休眠火山  a extinct volcano 死火山
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众
 - volume [ˈvɒljuːm] n.体积、容积、容量、音量、卷、册
 - voluntary a.自愿的、志愿的、无偿的

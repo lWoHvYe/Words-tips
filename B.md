@@ -131,6 +131,7 @@
 - bore v.令人厌烦、钻孔、盯着看、n.令人厌烦的人或事、孔、内径、口径
 - born v.出生、形成、a.天生的
 - borrow v.借入、借贷
+- bother v.打扰、困扰
 - bottle n.瓶子、瓶装、v.用瓶子装
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound n/v.跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、受约束的、有义务的、开往...的 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
@@ -139,9 +140,10 @@
 - bourgeois [ˈbʊəʒwɑː] a.世俗的、资产阶级的、中产阶级的
 - boycott [ˈbɔɪkɒt] n/v.抵制、拒绝购买、拒绝参加
 - bra [brɑː] n.文胸、胸罩
-- brace n.箍子、牙箍、大括弧、v.准备好、支撑
+- brace [breɪs] n.箍子、牙箍、大括弧、背带、v.准备好、支撑
 - bracket [ˈbrækɪt] n.支架、括号、等级、v.用括号括上、把...相提并论
 - brain [breɪn] n.脑、智力、逻辑思维能力
+- brainstorm v.头脑风暴
 - branch [brɑːntʃ] n.分支、v.分开、分叉
 - brand n.品牌、商标、烙印、v.给...打上烙印(贬义)  brand new 全新的、崭新的
 - brass n.黄铜
@@ -199,7 +201,7 @@
 - bureaucracy [bjʊəˈrɒkrəsi] n.官僚主义、官僚机构、官僚作风
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
 - burst [bɜːrst] v.爆裂、胀开、爆满  boom and burst 繁荣与破灭
-- bury [ˈberi] v.埋葬、埋藏
+- bury [ˈberi] v.埋葬、掩埋、埋藏  be buried in 沉思、专心于
 - bus n.公交车、(计算机系统的)总线
 - business n.商业、生意、商务、营业额、贸易额
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏

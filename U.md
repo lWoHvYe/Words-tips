@@ -22,6 +22,7 @@
 - underwrite v.认购、签名承认（担保）、签名接受（保险）、给...保险、在...下面写
 - underwriting n.保险业、v.承担经济责任、承保、承销
 - undesirable a.不受欢迎的、不良的、不想要的、n.不受欢迎的人
+- undo n/v.取消、撤销、松开、解开
 - undue a.不适当的、过分的、过度的
 - uneasy a.不安的、焦虑的、不稳定的
 - unemployment n.失业、失业率  unemployment rate 失业率  unemployment insurance 失业保险
@@ -61,8 +62,10 @@
 - urban a.城市的、都市的
 - urge n.刺激、冲动、强烈的欲望、迫切的要求、v.催促、敦促、力劝、鼓励
 - urgent a.紧急的、急迫的、迫切的
-- usage n.使用、用法、习惯、惯例
+- usage n.使用、用法、习惯、惯例、习俗
 - usual a.通常的、寻常的、惯常的
 - utility n.公用事业、功用、效用、a.多用途的、多效用的、多功能的
 - utilize/utilise 使用、利用、运用、应用
 - utmost n.极限、最大可能、a.极度的、极大的
+- utter [ˈʌtə(r)] v.说、讲、a.彻底的、完全的、十足的
+- utterance n.话语、说话、言论

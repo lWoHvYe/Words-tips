@@ -69,9 +69,11 @@
 - terrain n.地形、地势、地带
 - terrible a.糟糕的、可怕的
 - terribly [ˈterəbli] ad.很、非常、非常地
+- terrific a.可怕的、极好的、极其的、非常的
 - terrify v.使恐怖、使惊吓、恐吓、威胁
 - territorial a.领土的  Mutual respect for sovereignty and territorial intergrity. 互相尊重主权和领土完整。
-- territory n.领地、领土、版领域、范围
+- territory n.领地、领土、版图、领域、范围
+- terror n.恐怖、恐怖行动、可怕的事物
 - terrorist n.恐怖分子、恐怖主义者
 - terse a.精炼的、简洁的
 - test n/v.测试、实验🧪、试验
@@ -133,6 +135,7 @@
 - tiny [ˈtaɪni] a.极小的、微小的、微量的  tinier(比较级)  a tiny slice of 一小片
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
 - tire n.轮胎、头饰、v.疲劳、疲倦
+- tissue [ˈtɪʃuː] n.(人、动植物的)组织、纸巾、薄纸
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
 - tobacco [təˈbækəʊ] n.烟草
@@ -153,6 +156,7 @@
 - top up 充值
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
+- tornado [tɔːˈneɪdəʊ] n.龙卷风
 - tort n.侵权行为
 - torture [ˈtɔːtʃə(r)] n.酷刑、痛苦、拷打、v.使痛苦
 - total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
@@ -163,7 +167,7 @@
 - tournament [ˈtʊənəmənt] n.锦标赛
 - tout v.标榜、吹捧、吹嘘
 - toward prep.朝向、面对、对于、关于、接近、将近
-- toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂
+- toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂  toxic assets 不良资产
 - trace [treɪs] v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
@@ -171,7 +175,7 @@
 - Trade Finance 贸易融资、外汇服务
 - tradition n.传统、惯例
 - traditional a.传统的、惯例的、因袭的、守旧的
-- traffic n.交通、交通量、通信量
+- traffic n.交通、交通量、通信量  traffic jam 交通拥塞、堵车
 - tragedy [ˈtrædʒədi] n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
@@ -210,6 +214,7 @@
 - tremendous a.极大的、巨大的、可怕的、惊人的、极好的、了不起的
 - trend n、趋向、动态、动向、时尚、时髦、v.趋向、倾向
 - trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
+- triangle n.三角(形)
 - tribute n.礼物、贡品、颂词、体现、显现
 - trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
 - Trie n.单词查找树
@@ -226,12 +231,15 @@
 - trove n.发掘出来的财宝
 - truffle n.松露、块菌
 - trump n.王牌、v.胜过、打败
+- trumpet [ˈtrʌmpɪt] n.喇叭、小号、v.吹嘘、鼓吹
 - truncate v.截断
 - trust v.信任、相信、信赖、信托、希望、期望
 - trustworthy 值得信赖的、可靠的
 - truth n.真相、真理、事实、真实性
+- tsunami [tsuːˈnɑːmi] n.海啸
 - tube [tjuːb] n.管、管子、电子管
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
+- tumo(u)r n.肿瘤、肿块
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器

@@ -21,7 +21,8 @@
 - range n.范围、界限、区间、一系列、v.排列、(在一定范围内)变化、变动  range over 包括、涉及  a range of 各种各样的  range from ... to ... 从...到...
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
-- rare [reə(r)] a.罕见的、稀少的
+- rare [reə(r)] a.罕见的、稀少的、稀有的、难得的、稀薄的、半生的、半熟的
+- rarity n.罕见、稀有、珍品
 - rate n.速率、等级、价格、费用、v.估价、评级、评价
 - ratify v.正式批准、使正式生效
 - ratio [ˈreɪʃiəʊ] n.比率
@@ -131,6 +132,7 @@
 - relationship n.关系、联系、关联
 - relative [ˈrelətɪv] a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
+- relaxation [ˌriːlækˈseɪʃn] n.放松、休息、消遣、休闲活动
 - relay v.转发、中继、n.中继设备
 - release v.释放、发布、发行、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、排放、泄露
 - relevant a.相关的、有价值的、有意义的、切题的、中肯的
@@ -146,7 +148,7 @@
 - remain [rɪˈmeɪn] n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
-- remark n/v.评论、谈论
+- remark n/v.评论、谈论、言论
 - remarkable a.非凡的、显著的、杰出的
 - remedial/remediate a.治疗的、医治的、补救的、挽回的
 - remediation 补救、矫正、修复
@@ -312,5 +314,7 @@
 - rupture n/v.破裂、断裂
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - rush n/v.冲、急促、仓促  rush through 快速通过
+- rust n.锈、铁锈、v.生锈
+- rustle n.沙沙声、v.发出沙沙声、发出轻微的摩擦声
 - rut n.车辙、惯例  ruts of procedure 惯有程序
 - ruthless a.残忍的、无情的

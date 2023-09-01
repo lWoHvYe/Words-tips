@@ -50,7 +50,9 @@
 - favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
 - favorable a.有利的、赞同的、讨人喜欢的、从优
 - favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
-- fear n/v.害怕、恐惧
+- fear n/v.害怕、恐惧、担心
+- fearful a.害怕的、可怕的、极坏的
+- fearsome [ˈfɪəsəm] a.可怕的、吓人的
 - feasible a.可行的、行得通的、合理的、可能的
 - feasibility 可行性、可能性、现实性
 - feature n.特色、特征、特点、特写、v.以...为特色、起重要作用、重点介绍
@@ -97,6 +99,7 @@
 - fireside 炉边、毫无拘束的
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
+- fist n.拳头、v.紧握
 - fit n/v.安装、合身、适合、a.合适的、恰当的、健康的、突发、冲动
 - fitness n.健康、健身、适合、合情理
 - fix v.修理、安装、准备、固定、组织、安排、操纵、确定、使牢固、固着、变硬、n.解决方法、困境、窘境、定位  quick fix 权宜之计
@@ -213,6 +216,7 @@
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础
+- funeral [ˈfjuːnərəl] n.葬礼、出殡
 - fur n.毛皮、软毛
 - furnish [ˈfɜːnɪʃ] v.陈设、布置、提供、供应
 - furniture [ˈfɜːnɪtʃə(r)] n.家具

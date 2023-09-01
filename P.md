@@ -10,7 +10,7 @@
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
 - pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
-- panic n/v.惊恐、恐慌
+- panic n/v.惊恐、恐慌、go语言中的异常
 - panorama [ˌpænəˈrɑːmə] n.全景、全景画、全景摄影  panorama of English society 英国社会的全景
 - pantry n.储藏室
 - paper n.纸张、资料、文件、文献、论文、报纸、试卷
@@ -27,6 +27,7 @@
 - pare v.削减、削皮、逐步减少
 - parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
+- park n.公园、园区、v.停、泊
 - parliament [ˈpɑːləmənt] n.国会、议会
 - parse [pɑːz] v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
@@ -139,7 +140,7 @@
 - piece [piːs] n.块、片、段、v.修补、连接  a piece of 一块、一段、一张、一件
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
-- pillar n.支柱、v.成为...的栋梁
+- pillar [ˈpɪlə(r)] n.支柱、核心、基础、v.成为...的栋梁
 - pilot 飞行员、领航员、向导、导向器、试点、试验 、驾驶、领航、引导、试验性的、试点的  auto-pilot 自动驾驶
 - pin [pɪn] n.钉、别针、大头针、v.(用大头针等)固定、钉住、别住  pin on 钉上  pin down 确定、证实
 - pinch [pɪntʃ] v.拧、捏、捏住
@@ -147,13 +148,14 @@
 - pioneer [ˌpaɪəˈnɪə(r)] n.先驱者、开拓者
 - pipe n.管子、导管、风笛  underground pipe system 地下管道系统
 - pipeline n.管道、管线 in the pipeline 在筹备中
-- pit n.矿井
+- pit n.矿井、坑、陷阱、麻子 crowd the pit 座无虚席
 - pitfall n.陷阱、诱惑、圈套、困境、危险、隐患
+- pity n/v.同情、可怜、怜悯  what a pity 真可惜
 - pivot n.枢轴、中心点、支点、v.扭转
 - pivotal 关键性的、核心的
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名  in place of 代替、取代
 - placeholder 占位符
-- plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨
+- plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨、纠缠
 - plain [pleɪn] n.平原、a.朴素的、朴实的、简朴的、清楚的、原味的、ad.简直、绝对地
 - plan n.计划、规划、平面图、示意图、v.计划、打算
 - plane n.飞机、平面、水平、程度、阶段、a.平的、平坦的、v.刨平、滑翔
@@ -162,10 +164,10 @@
 - plaster n.石膏、熟石灰、v.抹灰、用...涂抹、把(头发)梳平
 - plastic n.塑料、信用卡、a.塑料的、可塑的
 - plate n.盘子、碟子、金属板、v.电镀   license/number plate (车)牌照、号码牌
-- plateau n.高原、稳定期、停滞期  hit a plateau 进入停滞期
+- plateau [ˈplætəʊ] n.高原、稳定期、停滞期  hit a plateau 进入停滞期
 - platform n.平台、站台、月台、纲领、政纲
 - platinum n.铂、白金
-- plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的、貌似真实的
+- plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的、貌似真实的、巧言令色的
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - playhouse n.剧院
 - plead v.恳求、辩护、认罪、陈述案情
@@ -188,6 +190,8 @@
 - poet n.诗人
 - poetry [ˈpəʊətri] n.诗、诗歌、诗意
 - poke n/v.捅、戳、刺、挑(出)
+- poison [ˈpɔɪzn] n.毒物、毒药、毒物、v.下毒、毒害、危害
+- poisonous a.有毒的、恶毒的
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - polar a.两极的、截然相反的
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
@@ -399,7 +403,7 @@
 - provided conj.假如、如果、在...条件下
 - providing conj.假如、如果、只要
 - province n.省份、范围、领域、职责范围
-- provision n.规定、条款、准备、提供、饮食供应、供应品
+- provision n.规定、条款、准备、提供、供给、饮食供应、供应品
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
@@ -415,7 +419,7 @@
 - publicize v.宣称、推广、宣扬、传播
 - pull v.拉、拔出、n.引力、吸引力、诱惑
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
-- punch [pʌntʃ] v.打孔、穿孔、冲孔、n.冲床、打孔机  beat sb to the punch 抢在某人前面
+- punch [pʌntʃ] v.打孔、穿孔、冲孔、按(键)、压(按钮)、n.冲床、打孔机  beat sb to the punch 抢在某人前面
 - punish v.处罚、惩罚、责怪、自责
 - punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购

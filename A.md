@@ -20,7 +20,7 @@
 - abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - absurd [əbˈsɜːd] a.荒谬的、不合理的
 - abundant a.大量的、充裕的、丰盛的
-- abuse 滥用、恶习、侮辱、虐待、辱骂
+- abuse n/v.滥用、恶习、侮辱、虐待、辱骂  abuse of power 权利的滥用
 - abuzz [əˈbʌz] a.议论纷纷的
 - academe/academia n.学术界、学术
 - academic a.学术的、学业的、大学的、学院的、纯理论的、n.高校教师、高校科研人员
@@ -98,7 +98,7 @@
 - advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
 - advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
 - advantage n.有利条件、有利因素、优势、优点、利益、好处、v.有利于、有益于、促进  take advantage of 利用、欺骗
-- advent v.出现、到来、n.基督降临节
+- advent n.出现、到来、基督降临节
 - adventure n.冒险、奇遇
 - adversarial [ˌædvəˈseəriəl] a.敌对的、对立的
 - adversary [ˈædvəsəri] n.对手、敌手
@@ -120,8 +120,10 @@
 - affectionate a.有感情的、热情的、慈爱的
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affirm v.公开肯定、断言、证实
+- affluent a.富裕的、n.富人、支流
 - afford v.提供、给予、负担得起、买得起、有能力做
 - afloat [əˈfləʊt] ad.漂浮、能维持下去、有偿债能力
+- afraid a.害怕的、担心的、恐怕的  be afraid of 畏惧、担心
 - afresh ad.重新开始、重新、从头
 - afterward ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
@@ -202,7 +204,8 @@
 - ampersand [ˈæmpəsænd] n. & (and符号)
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amplifier n.放大器、扩音器
-- amuse v.娱乐、消遣
+- amuse v.娱乐、消遣、逗笑
+- amusing a.有趣的、好笑的
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
 - analogous [əˈnæləɡəs] a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
@@ -220,7 +223,7 @@
 - anecdote n.轶事、奇闻、逸事
 - angel [ˈeɪndʒl] n.天使
 - anger n.愤怒、v.发怒
-- angle n.角
+- angle [ˈæŋɡl] n.角、角度、立场、观点
 - angry a.生气的、愤怒的、狂暴的
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
@@ -249,6 +252,7 @@
 - appearance 外貌、外表、起源、首次使用、公开露面、出版  appearance and temperament 外貌和气质
 - appendix 附录
 - appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
+- applaud [əˈplɔːd] v.鼓掌、称赞
 - applause n.掌声、鼓掌、喝彩
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适

@@ -1,6 +1,7 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
+- damp a.潮湿的、湿气重的、n.潮湿、湿气
 - data n.数据
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
 - datum [ˈdeɪtəm] n.数据、资料  pl.data
@@ -29,6 +30,7 @@
 - decommission v.拆解、使退役
 - decorate [ˈdekəreɪt] v.装饰、点缀、粉刷、授予(某人)勋章、布置
 - decouple v.分离、隔断、解耦
+- decrease n/v.降低、减少、n.减少量
 - dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
 - deduce v.推论、推断、演绎  deduce a numerical sequence 推导一个数列
@@ -38,7 +40,7 @@
 - deem v.认为、视为、相信
 - default n/v.默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
-- defect 缺点、缺陷、瑕疵
+- defect n.缺点、缺陷、瑕疵
 - defence/defense n.防御、保护、辩护
 - defend v.防御、保护、防卫、为...辩护
 - defendant n.被告、a.被告的、辩护的
@@ -58,6 +60,7 @@
 - deify [ˈdeɪɪfaɪ] v.神化
 - delay n/v.延迟、推迟、延期、耽搁
 - delegate v.代表、把...委派、选派、n.代表
+- delete [dɪˈliːt] v.删除、n.删除键、删除指令
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - delicate a.纤弱的、微妙的、灵敏的
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
@@ -86,6 +89,7 @@
 - density n.密集、稠密、密度、浓度
 - dent n.凹陷、凹槽、v.损害、伤害、挫伤(信心、名誉等)
 - dental [ˈdentl] a.牙齿的、牙科的、口腔的  dental surgery 口腔外科
+- dentist n.牙医
 - deny v.否定、否认、拒绝
 - depict v.描述、描绘、描画、刻画
 - depart v.离开、离去、出发、离职、脱轨
@@ -143,11 +147,12 @@
 - devote v.致力于、奉献、投入
 - diabetes n.糖尿病
 - diagnose v.诊断、确诊
+- diagnosis n.诊断、判断
 - diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
 - diagonal [daɪˈæɡənl] n.斜线、对角线、a.斜线的、对角线的
 - diagram 图表、示意图、图解
 - dial v.拨号、拨、n.表盘、拨号盘、刻度盘、仪表盘
-- dialect 方言
+- dialect [ˈdaɪəlekt] 方言
 - diary n.记事簿、日志、日记
 - dichotomy [ˌdiːˈmɪstɪfaɪ] 二分法
 - dictate [dɪkˈteɪt/ˈdɪkteɪt] v.口述、听写、命令、决定、支配、n.命令、规定
@@ -245,6 +250,7 @@
 - distribution n.分配、分布、经销、分销、配送
 - district n.地区、区域、区、行政区
 - disturb v.打扰、干扰、使焦虑、使不安
+- ditch n.沟、渠、v.抛弃、摆脱、迫降、逃课、矿工
 - diverge v.偏离、分歧
 - divergent a.发散的、有分歧的、不同的、相异的
 - diverse [daɪˈvɜːrs] a.多种多样的、不用的
@@ -257,6 +263,7 @@
 - divisive a.分裂的、造成不合的、制造分裂的
 - divisor n.因子
 - divorce [dɪˈvɔːs] n.离婚、分离、v.与...离婚、使分离、使脱离
+- do v.做、干、进行、从事、行动、表现
 - dock n.码头、船坞、v.(船)进港、靠岸、(飞船)对接、扣除(部分工资)
 - docket n.单据、摘要
 - document n.公文、文件、证件、文档、v.记录、记载、用文件证明
@@ -273,7 +280,7 @@
 - dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
 - doom [duːm] n.厄运、劫数、v.注定、命定
-- dormant a.睡着的、休眠的、蛰伏的
+- dormant [ˈdɔːmənt] a.睡着的、休眠的、蛰伏的
 - down [daʊn] 向下、停机、沮丧、失落、击落
 - denominate [dɪˈnɑːmɪneɪt] v.命名、称呼
 - donut n.甜甜圈、环形图
@@ -289,7 +296,7 @@
 - dozen n.十几个
 - draft [dræft] n.草稿、a.起草中的、v.起草、草拟
 - drag [dræɡ] n.阻力、抗力、累赘、v.拖拽、拖累、拖延
-- drain v.排空、耗尽、n.消耗、耗竭
+- drain v.排空、耗尽、慢慢流出、n.消耗、耗竭、排水沟、下水道
 - drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - dramatize v.使戏剧化、将...改编成剧本、使引人注目
@@ -312,6 +319,7 @@
 - dry [draɪ] a.干的、干燥的、v.变干、弄干、干涸
 - dual [ˈdjuːəl] a.二重的、双重的、双的
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利
+- dull [dʌl] a.迟钝的、呆滞的、无聊的、枯燥无味的、v.使迟钝、减轻、使变麻木
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
 - durable [ˈdjʊərəbl] a.耐用的、持久的、长期的、n.耐用品、耐久品

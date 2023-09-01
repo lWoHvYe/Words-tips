@@ -58,6 +58,7 @@
 - nope int.不、没有、不行
 - norm n.规范、标准、准则、(劳动)定额
 - normal a.正常的、正规的、标准的、师范的、n.标准、正常、常态、法线
+- nostalgia [nɒˈstældʒə] n.怀旧、念旧
 - notable a.明显的、显著的、著名的、值得注意的、n.名人、显要人物
 - notably ad.特别、尤其
 - notation 符号、记号、注释
@@ -82,5 +83,6 @@
 - nursery n.托儿所、育儿室
 - nurture [ˈnɜːtʃə(r)] n/v.培养、养育、养护、抚养
 - nut n.螺帽、螺母、坚果
+- nutrient n.营养素、营养物
 - nutrition [njuˈtrɪʃn] n.营养、滋养  under-nutrition 营养不良  over-nutrition 营养过剩  nutrition and health care 营养与保健
 - nuts a.疯狂、执着、迷恋、狂热

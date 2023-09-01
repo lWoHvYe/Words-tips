@@ -58,7 +58,7 @@
 - gossip n.流言蜚语、闲言碎语、v.说三道四、说长道短
 - govern 统治、治理、控制、管理、支配
 - grab 抓住、强夺
-- grace n.优美、优雅
+- grace n.优美、优雅、欣然、体面、v.使优美、为增色、为锦上添花
 - graceful a.优美的、优雅的、得体的、有风度的
 - grade n.等级、职级、年级、分数、v.评分、分级
 - gradual a.逐渐的、逐步的、平缓的
@@ -85,12 +85,14 @@
 - greatness n.伟大、崇高、著名
 - greed n.贪婪
 - Greek n.希腊、希腊人
+- greet v.问候、欢迎、对...作出反应、回应  be greeted with/by 被报以... 
+- greeting n.问候、迎接、祝词  greeting-card 贺卡
 - grey a.灰色的、灰白的
 - grid 网格、方块、联网、联机、栅栏、格栅、坐标方格、系统网络
 - grieve v.悲伤、悲痛  grieve over 哀悼
 - grin n.咧嘴笑
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
-- groan [ɡrəʊn] n/v.呻吟、叹息
+- groan [ɡrəʊn] n/v.呻吟、叹息、抱怨
 - grocer n.杂货商
 - grocery [ˈɡrəʊsəri] n.杂货店
 - grok v.通过感觉意会

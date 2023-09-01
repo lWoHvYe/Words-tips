@@ -14,7 +14,8 @@
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
 - can modal.可以、能够、n.罐头、金属容器、密封保护外壳、一听、v.解雇、开除
-- cancel [ˈkænsl] n/v.取消、撤销、注销、约去
+- canal [kəˈnæl] n.运河、沟渠、管道、管、道
+- cancel [ˈkænsl] n/v.取消、撤销、注销、约去、相互抵消
 - cancer [ˈkænsə(r)] n.癌症
 - canned a.罐装的、预先录制的
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
@@ -119,6 +120,8 @@
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票
+- cheer n/v.欢呼、加油、鼓舞
+- cheerleader n.(强有力的)支持者
 - chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
 - chemistry [ˈkemɪstri] n.化学
@@ -126,6 +129,8 @@
 - chest n.胸腔、胸部
 - chew v.咀嚼  chewing gum 口香糖
 - chief 主要的、最重要的、首席
+- child n.儿童、小孩
+- childhood n.童年、幼年、孩童时期
 - chip 碎片、缺口、芯片、炸薯条、打破、切下、将...切条
 - chocolate [ˈtʃɒklət] n.巧克力
 - choice n.选择、挑选、a.优质的、上等的
@@ -154,6 +159,7 @@
 - civilize [ˈsɪvəlaɪz] v.教化、开化、使文明、使有教养
 - claim [kleɪm] v/n宣称、声明、索赔、索要、所有权
 - claimant n.索赔人、要求者、领取救济金者
+- clap [klæp] n/v.鼓掌、拍手、振翼、拍翅膀
 - clarify v.澄清、阐明
 - clarity n.清晰、清楚、明确、透明、清晰度
 - class n.班、班级、课、上课、阶级、等级、种类、v.把...归入某等级、把...看作、a.很好的、优秀的、出色的  class action 集体诉讼
@@ -237,6 +243,7 @@
 - comic n.漫画、喜剧演员、a.滑稽的、喜剧的
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
 - comma n.逗号
+- commemorate [kəˈmeməreɪt] v.纪念、庆祝
 - commence 开始、着手、发源、获得学位
 - commensurate a.相等的、相称的、相当的
 - comment n.议论、评论、注释、意见、说明、v.表达意见
@@ -252,7 +259,7 @@
 - commonness n.普通、平凡、平庸
 - communicate v.沟通、交流、通讯、传达、传递
 - communist [ˈkɒmjənɪst] a.共产党的、共产主义的、n.共产主义者
-- community n.社区、群落
+- community [kəˈmjuːnəti] n.社区、群落
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压缩、压紧、压实
 - companion n.同伴、伴侣、旅伴、伙伴
@@ -377,6 +384,8 @@
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
 - consumption n.消耗、消耗量、消费、肺病
 - contact n/v.联系、联络、接触、触摸、a.有关系的  contact lens 隐形眼镜
+- contagion n.传染、蔓延、接触传染
+- contagious a.传染性的、(通过接触)传染的、会蔓延的
 - contain v.包含、容纳、控制、抑制、防止...蔓延/恶化
 - container [kənˈteɪnə(r)] n.容器、集装箱
 - contemplate v.沉思、考虑、思量、注视、凝视
@@ -508,6 +517,8 @@
 - crop n.庄稼、作物、(谷类等的)一熟、一季收获(量)、v.有收成、种地  crop up 出现、发生
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - cross-cutting 跨部门、跨领域
+- crow n.乌鸦、v.啼叫、打鸣、欢呼
+- crowd n.人群、v.挤满、塞满、涌入
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crude n.原油、石油、a.天然的、粗糙的、粗略的
 - cruise [kruːz] n/v.航行、巡航、巡逻、游览

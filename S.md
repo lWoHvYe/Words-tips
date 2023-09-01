@@ -1,5 +1,5 @@
 - sacred [ˈseɪkrɪd] a.上帝的、神圣的、庄严的、受崇敬的
-- sacrifice [ˈsækrɪfaɪs] n/v.牺牲、祭祀
+- sacrifice [ˈsækrɪfaɪs] n/v.牺牲、祭祀、献祭、n.祭品、供品
 - sad a.悲哀的、难过的
 - safeguard [ˈseɪfɡɑːd] v.保护、维护、捍卫、n.防护装置、保护措施、安全设施
 - sage [seɪdʒ] 圣人、贤者、智者、鼠尾草、睿智的、贤明的
@@ -16,6 +16,8 @@
 - sandal [ˈsændl] n.凉鞋
 - sanitization 消毒、卫生处理、净化、清除
 - sanity [ˈsænəti] n.理智、明智
+- sarcasm [ˈsɑːkæzəm] n.讽刺、挖苦、嘲讽
+- sarcastic [sɑːˈkæstɪk] a.讥讽的、讽刺的、挖苦的
 - satiate [seɪʃieɪt] v.满足
 - satire [ˈsætaɪə(r)] n.讽刺、讽刺文学
 - satisfaction n.满意、满足、清偿、赔偿
@@ -30,9 +32,10 @@
 - scam n.骗局
 - scan 扫描、浏览、细看、端详
 - scandal [ˈskændl] n.丑闻
-- scarce [skeəs] a.缺乏的、罕见的、ad.勉强、仅仅、几乎不
+- scarce [skeəs] a.缺乏的、不足的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
+- scare n/v.惊恐、恐慌、恐惧
 - scatter v.散开、分散、驱散、n.散落
 - scavenge v.拾荒、觅食
 - scenario n.方案、设想、场景、脚本
@@ -162,10 +165,11 @@
 - shortly ad.立刻、马上
 - shortage n.不足、缺少、短缺
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
-- shove [ʃʌv] v.推、猛推、乱放
+- shove [ʃʌv] v.推、猛推、乱放、乱塞
 - show n/v.显示、表示、展示、演示
 - shower n.淋浴、阵雨、小雨
 - shrink [ʃrɪŋk] v.起皱、收缩、缩小、减少
+- shrug [ʃrʌɡ] n/v.耸肩(表示冷淡、怀疑、无奈、不满、不知道、不在乎)  shrug off 不把...当回事、对...满不在乎、对...不予理睬
 - shuffle n/v.洗牌
 - shut n/v.关闭、停业、关门  shut down 关闭、停业  shut out 把...排除在外、克制某种感情 shut up 闭嘴、住口
 - sibling n.兄弟姐妹
@@ -214,6 +218,7 @@
 - skyline n.轮廓线
 - skyscraper [ˈskaɪskreɪpə(r)] n.摩天大楼
 - slack a.松弛的、懈怠的、萧条的  slack season 淡季
+- slacken v.放松、使松弛、放慢、减缓、懈怠
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
 - slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
@@ -250,6 +255,8 @@
 - snip v.削减、剪去、剪断、n.片段
 - snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
 - snooze n/v.小睡
+- snow n.雪、雪花、积雪、下雪、降雪量、v.下雪
+- snowstorm n.暴风雪
 - soak [səʊk] n/v.浸泡、浸透、湿透、v.沉浸在、向某人征收重税
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - soar [sɔː(r)] v.猛增、升腾
@@ -296,6 +303,7 @@
 - spare a.备用的、空闲的、闲置的
 - sparing a.节约的、节俭的
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
+- sparkle v.闪耀、闪烁
 - sparse [spɑːs] a.稀疏的、稀少的
 - spatial [ˈspeɪʃl] a.空间的
 - speak v.交谈、说(某种语言)、说话、演说
@@ -330,6 +338,7 @@
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
+- spontaneous [spɒnˈteɪniəs] a.自发的、自然的、非策划安排的
 - sporadic [spəˈrædɪk] a.零星的、偶尔发生的、阵发性的
 - sport n.体育
 - spot 点、斑点、污点、地点、认出、认清、发现
@@ -365,6 +374,7 @@
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
+- stalk [stɔːk] n.茎、梗、柄、v.(非法)跟踪、悄悄接近、趾高气昂的走
 - stance n.态度、立场
 - stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
 - standalone 独立的、单独的、脱机
@@ -412,7 +422,7 @@
 - storage n.储藏、存储
 - store n.商店、店铺、储存、储备、v.储存、储藏、保存、存储、记忆  store away 储存、储备、存放 store up 储备、囤积
 - story n.故事、楼层
-- storm [stɔːm] n.暴风雨、v.猛攻、暴怒
+- storm [stɔːm] n.暴风雨、浪潮、v.突袭、猛攻、暴怒、大发雷霆
 - stove [stəʊv] n.火炉、炉子
 - straight a.直的、连续的、直率的、n.直线
 - straightforward a.直截了当的、坦率的、正直的、简单的、易懂的
@@ -493,6 +503,7 @@
 - suggest v.建议、暗示、表明、启示
 - suicide [ˈsuːɪsaɪd] n/v.自杀、自取灭亡  physicianassisted suicide 安乐死
 - suit v.适合、合意、合身、相称、n.西装、套装、诉讼
+- suite n.一套、组、系列、随从  executive suite 管理层
 - suitability n.适合、适宜
 - suitable a.合适的、适合的
 - summarize v.总结、概括
@@ -546,8 +557,9 @@
 - suspicious a.怀疑的、可疑的、起疑的
 - sustain [səˈsteɪn] v.维持、供养、支撑、承受、承担、遭受
 - sustainable a.可持续的  sustainable development 可持续发展
-- swallow 吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受
-- swap 交换、互换、掉换、交流、交换物
+- swallow [ˈswɒləʊ] v.吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受、轻信、n.吞、咽、燕子
+- swamp n.沼泽、湿地、v.淹没、使陷入困境、使应接不暇
+- swap n/v.交换、互换、掉换、交流、交换物、交换区
 - sweep v.扫除、打扫、清理、掠过、舞动、挥动  a sweeping ruling 全面的裁决
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swift a.敏捷的、迅速的
@@ -570,4 +582,5 @@
 - synergistic [ˌsɪnərˈdʒɪstɪk] a.协同作用的、协作的、增效的
 - synonym [ˈsɪnənɪm] n.同义词
 - syntax n.语法、句法、句法规则、语构
-- synthetic a.合成的、n.合成物
+- synthesis n.综合、结合体、合成
+- synthetic [sɪnˈθetɪk] a.综合的、合成的、人造的、n.合成物  synthetic construction 合成结构  synthetic lifelike robot 逼真的合成机器人

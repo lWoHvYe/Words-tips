@@ -97,7 +97,7 @@
 - melt v.溶化、溶解、软化
 - meltdown n.彻底垮台
 - memo 备忘录
-- memorial a.纪念的、悼念的、n.纪念碑、纪念品
+- memorial a.纪念的、悼念的、n.纪念碑、纪念品、纪念馆
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
 - mend v.修理、修补、弥补、解决、痊愈
@@ -153,7 +153,8 @@
 - minimize v.使减少到最低限度、使最小化、对...轻描淡写
 - minimum n.最小值、最低限度、极小值、a.最小的、最低的
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
-- minor a.较小的、少数的、轻微的、次要的、v.辅修、n.辅修课程
+- minor a.较小的、少数的、轻微的、次要的、未成年的、v.辅修、n.辅修课程、未成年人
+- minority n.少数、少数派、少数民族
 - minus [ˈmaɪnəs] n.减、减号、负号
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
@@ -161,7 +162,7 @@
 - miscellany n.杂集、混合体 
 - misconception 误解、错觉、错误认识
 - misery [ˈmɪzəri] n.痛苦、苦难
-- miss n.女士、小姐（未婚）、失误、v.未击中、错过
+- miss [mɪs] n.女士、小姐（未婚）、失误、v.未击中、错过、思念  I miss you 我想你
 - missile [ˈmɪsaɪl] n.导弹
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
 - mist n.薄雾、水汽、液体喷雾
@@ -173,9 +174,10 @@
 - mix n/v.混合、掺合、调配、相容、交往、混杂、n.混合体、乐曲组合  mix up 混合
 - mixture n.混合、混合物、混合体
 - mnemonic [nɪˈmɒnɪk] n.助记符号 
+- moan [məʊn] n/v.呻吟、抱怨、悲叹、呼啸
 - mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - mobilize v.动员、调动、组织、鼓动
-- mock [mɒk] v.嘲弄、嘲笑、模仿、仿效、a.模拟的、演习的、虚假的
+- mock [mɒk] v.嘲弄、嘲笑、模仿、仿效、a.仿制的、假装的、模拟的、演习的、虚假的、n.模拟考试
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
 - model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
@@ -200,6 +202,7 @@
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
+- monk n.和尚
 - mono a.单声道的
 - monolayer n.单层
 - monolith n.单块巨石、巨无霸
@@ -208,7 +211,10 @@
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - monotone n.单调、a.单调的
 - monotonic a.单调的、无变化的
+- monotonous [məˈnɒtənəs] a.单调的、单调乏味的  monotonous beat 单调的节奏
 - month [mʌnθ] n.月、月份
+- monument [ˈmɒnjumənt] n.纪念碑、遗迹
+- monumental a.重要的、不朽的、丰碑的、意义深远的、巨大的
 - mood [muːd] n.心情、情绪、语气、坏心境、坏脾气、气氛、氛围
 - moola (非正式)n.钞票💵
 - moral a.道德的、能辨别是非的、n.品行、道德  moral code 道德准则
@@ -254,11 +260,13 @@
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - murder [ˈmɜːdə(r)] n/v.谋杀、凶杀
 - murmur n/v.小声说话
+- muse n.缪斯、灵感、v.沉思、冥想
 - museum [mjuˈziːəm] n.博物馆
 - mute a.沉默的、无声的、静音的、v.消音
 - mutex (mutual exclusion) 互斥、互斥对象、互斥锁  P操作(acquire)、V操作(release)
 - mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的  mutual trust 相互信任
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
-- mysterious 神秘的、诡秘的、难以理解的、不可思议的
+- mysterious [mɪˈstɪəriəs] a.神秘的、诡秘的、难以理解的、不可思议的
 - mystery [ˈmɪstri] n.神秘、奥秘、秘密
 - mystical [ˈmɪstɪkl] a.神秘的
+- myth [mɪθ] n.神话、传说
