@@ -125,6 +125,7 @@
 - afloat [əˈfləʊt] ad.漂浮、能维持下去、有偿债能力
 - afraid a.害怕的、担心的、恐怕的  be afraid of 畏惧、担心
 - afresh ad.重新开始、重新、从头
+- aftermath [ˈɑːftəmæθ] n.后果、创伤
 - afterward ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
@@ -133,12 +134,13 @@
 - agent n.代理人、代理商、媒介、工具、原动力、动因、v.由...代理、a.代理的
 - agile [ˈædʒaɪl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
-- agitate 鼓动、煽动、使焦虑、使不安、搅动
+- agitate v.鼓动、煽动、使焦虑、使不安、搅动
 - aggravate [ˈæɡrəveɪt] v.使恶化、加剧
 - aggregate a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - aggress v.攻击、侵略
 - aggression n.侵略
+- aggressive a.进攻性的、有进取心的
 - aggressor n.侵略者
 - agnostic 不可知论者、不可知论的
 - agree v.同意、赞成、应允、答应
@@ -361,6 +363,8 @@
 - attractiveness n.吸引力
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
 - attrition 损耗、消耗
+- attune v.使协调、使合拍
+- attuned [əˈtjuːnd] a.熟悉的、适应的、习惯的、敏感的
 - auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
 - audience n.观众
 - audit n/v.审计、旁听
@@ -400,4 +404,5 @@
 - aware a.意识到的、知道的、察觉的
 - awareness n.察觉、意识、认知
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的
+- awful a.糟糕的、可怕的、极大的、ad.很、非常、极
 - awkward [ˈɔːkwəd] a.令人尴尬的、笨拙[bèn zhuō]的、难处理的

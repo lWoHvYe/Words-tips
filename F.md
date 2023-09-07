@@ -1,5 +1,7 @@
+- fable [ˈfeɪbl] n.寓言、无稽之谈、v.讲故事、编寓言、虚构
 - fabric n.织物、布料、结构、(社会或体系的)基本结构  fabric softener 衣物柔顺剂  social fabric 社会结构
-- fabulous a.极好的、难以置信的
+- fabricate v.制造、装配、捏造、编造
+- fabulous [ˈfæbjələs] a.极好的、绝妙的、非凡的、难以置信的、寓言般的  a fabulous machine 一台绝妙的机器
 - facade 外观、正面、表明、外表
 - face v.面临、面对、n.面部、表面 crisis/problem facing sth ...所面临的危机/问题
 - facilitate [fəˈsɪlɪteɪt] v.帮助、促进、使容易
@@ -16,7 +18,7 @@
 - fair a.公平的、合理的、晴朗的、美丽的、ad.公平地、直接地、n.集市、商品交易会、展销会、v.顺利接合、衔接协调
 - fairly ad.公平地、适当、相当地、完全、简直、竟然
 - faith n.信任、相信、信念、int.真正
-- fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的
+- fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的  fake news 虚假新闻
 - fall v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
 - fallback 应变计划、退路、倒退
 - fallow [ˈfæləʊ] a.休耕的、休闲的、休眠的
@@ -71,7 +73,7 @@
 - fertilize v.施肥、使受精、使授粉、使受孕
 - fertilizer n.肥料  artificial fertilizer 人造肥料、化学肥料
 - fest n.节日、集会
-- festival n.节日、a.节日的
+- festival n.节日、庆祝、纪念活动、a.节日的
 - fetch 取来、拿来
 - feudal [ˈfjuːdl] a.封建的
 - feudalism [ˈfjuːdəlɪzəm] n.封建主义
@@ -138,7 +140,8 @@
 - flyout n.弹出按钮
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
-- foe n.敌人、仇敌
+- foe [fəʊ] n.敌人、仇敌
+- fog [fɒɡ] n.雾、迷惑、困惑
 - fold v.折叠、对折、n.褶痕、褶皱  eightfold 八倍、八重
 - folk n.人们、各位、大伙、大众、a.民间的、民俗的
 - follow [ˈfɒləʊ] v.跟随、跟着、在...之后发生、接受、遵从

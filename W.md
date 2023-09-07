@@ -28,6 +28,8 @@
 - wear v.穿、戴、磨损、耐用、n.衣着、穿着 wear off 逐渐消失、消逝
 - weave v.编织、编造
 - web n.网、网络、v.在...上织网、用网缠住
+- wed v.结婚、嫁、娶
+- wedding [ˈwedɪŋ] n.婚礼
 - weigh [weɪ] v.权衡、称重
 - weight n.重量、分量、砝码
 - weird a.奇怪的、诡异的、离奇的
@@ -45,6 +47,7 @@
 - whish n.呼呼声
 - whisk n/v.搅拌
 - whiskey n.威士忌酒
+- whisper n/v.耳语、私语、飒飒响
 - white n.白色、a.白色的、v.使变白
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地

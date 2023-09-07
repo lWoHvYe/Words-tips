@@ -1,10 +1,11 @@
+- saber/sabre [ˈseɪbə(r)] n.佩剑
 - sacred [ˈseɪkrɪd] a.上帝的、神圣的、庄严的、受崇敬的
 - sacrifice [ˈsækrɪfaɪs] n/v.牺牲、祭祀、献祭、n.祭品、供品
 - sad a.悲哀的、难过的
 - safeguard [ˈseɪfɡɑːd] v.保护、维护、捍卫、n.防护装置、保护措施、安全设施
 - sage [seɪdʒ] 圣人、贤者、智者、鼠尾草、睿智的、贤明的
 - saint [seɪnt] n.圣人、圣徒
-- sake n.目的、利益、缘故、缘由
+- sake n.目的、利益、缘故、缘由  for the sake of 为了、为了...的利益
 - salary n.薪金、薪水
 - sale n.出售、销售、销售量、特价销售
 - salient [ˈseɪliənt] a.突出的、显著的、n.凸角、突出部
@@ -18,6 +19,7 @@
 - sanity [ˈsænəti] n.理智、明智
 - sarcasm [ˈsɑːkæzəm] n.讽刺、挖苦、嘲讽
 - sarcastic [sɑːˈkæstɪk] a.讥讽的、讽刺的、挖苦的
+- sate [seɪt] v.满足
 - satiate [seɪʃieɪt] v.满足
 - satire [ˈsætaɪə(r)] n.讽刺、讽刺文学
 - satisfaction n.满意、满足、清偿、赔偿
@@ -31,7 +33,7 @@
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
 - scam n.骗局
 - scan 扫描、浏览、细看、端详
-- scandal [ˈskændl] n.丑闻
+- scandal [ˈskændl] n.丑闻、诽谤、耻辱
 - scarce [skeəs] a.缺乏的、不足的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
@@ -67,6 +69,7 @@
 - seal n.海豹、印章
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
 - seamless a.无缝的
+- sear [sɪə(r)] n/v.烧灼、烤焦
 - season n.季、季节、时期、v.使适应、调味
 - seasonal a.季节性的、周期性的
 - second a.第二的、次等的、附加的、另外的、n.第二、秒、片刻、瞬间、v.支持、赞成、附议
@@ -260,7 +263,8 @@
 - soak [səʊk] n/v.浸泡、浸透、湿透、v.沉浸在、向某人征收重税
 - soap n.肥皂、肥皂剧、v.抹肥皂、用肥皂擦洗
 - soar [sɔː(r)] v.猛增、升腾
-- sober a.冷静的、头脑清醒的、v.变得冷静
+- sob [sɒb] n/v.啜泣、哭诉、呜咽
+- sober [ˈsəʊbə(r)] a.冷静的、清醒的、严肃的、v.变得冷静
 - soccer [ˈsɒkə(r)] n.足球
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
@@ -300,7 +304,7 @@
 - span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
 - Spanish [ˈspænɪʃ] a.西班牙的、n.西班牙语
 - spar v.辩论、争论
-- spare a.备用的、空闲的、闲置的
+- spare a.备用的、空闲的、闲置的、空余的、n.腾出、不吝惜  spare a moment 腾出点时间  spare no effort 不遗余力
 - sparing a.节约的、节俭的
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - sparkle v.闪耀、闪烁
@@ -316,7 +320,7 @@
 - specific a.特定的、独特的、具体的、明确的、n.特性、细节、特效药  DSL - Domain Specific Language 领域特定语言
 - specification 规格、规范、明细单、说明书
 - specify v.具体说明、明确规定、详述、详列
-- spectacle n.壮观的景象、壮观的场面、光景、景象
+- spectacle n.壮观的景象、壮观的场面、光景、景象、(pl.)眼睛
 - spectrum [ˈspektrəm] n.光谱、波谱、范围、系列
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
@@ -325,7 +329,7 @@
 - spend n/v.花费、开销
 - spendthrift a.挥霍的、n.花钱无度的人
 - sperm [spɜːm] n.精子、精液
-- sphere n.球、领域、范围、v.形成球体、包围、围绕
+- sphere [sfɪə(r)] n.球、球形、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spin v.旋转、纺纱、吐(丝)、作(茧)、急转身、兜风、n.旋转、自转、导向性陈述  spin out 衍生出、派生出
 - spine 脊柱、脊椎、书脊、刺
@@ -429,8 +433,8 @@
 - strain [streɪn] v.损伤、扭伤、拉伤、拉紧、尽力、过度使用、n.应力、压力、张力
 - strained a.(气氛、形势等)紧张的  strained relation 紧张的关系
 - strange a.奇怪的、陌生的、不熟悉的
-- strategic 战略的、战略性的、至关重要的
-- strategy 策略、规划
+- strategic a.战略的、战略性的、至关重要的
+- strategy [ˈstrætədʒi] n.策略、规划  marketing strategy 营销策略  coping strategies 应对策略  self-enhancing strategies 自我提升策略
 - straw n.稻草、吸管
 - strawberry n.草莓
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
@@ -466,6 +470,7 @@
 - submit v.提交、顺从、服从
 - substance n.物质、实质、主旨、要点、基本内容  illegal substance 非法物质  radioactive substance 放射性物质
 - substantial a.大量的、巨大的、牢固的、n.本质
+- substantiate v.证明、证实
 - subscribe v.订购、订阅、认购/申购(股份)、持有(意见或信仰)、签署、题词、署名
 - subscript n.下标
 - subsequent a.随后的、之后的、后来的

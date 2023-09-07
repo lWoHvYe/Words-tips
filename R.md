@@ -23,9 +23,9 @@
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
 - rare [reə(r)] a.罕见的、稀少的、稀有的、难得的、稀薄的、半生的、半熟的
 - rarity n.罕见、稀有、珍品
-- rate n.速率、等级、价格、费用、v.估价、评级、评价
+- rate n.速率、比率、等级、价格、费用、v.估价、评级、评价
 - ratify v.正式批准、使正式生效
-- ratio [ˈreɪʃiəʊ] n.比率
+- ratio [ˈreɪʃiəʊ] n.比率  a set ratio 固定的比率
 - ration n.定量、定额、合理的量、v.限量供应、配给 
 - rational a.理性的、合理的、理智的、n.合理的事物、懂道理的人、有理数
 - rationale n.根本原因，基本原理
@@ -49,7 +49,7 @@
 - rear n.后部、背部、背面、v.抚养、饲养、栽培、抬起、a.后面的、后部的、背部的
 - reason n.原因、理由、v.推理、推断
 - reasonable a.正当的、合理的、公平的、明智的、不太贵的
-- rebel [ˈrebl/rɪˈbel] v.反抗、背叛、造反
+- rebel [ˈrebl/rɪˈbel] v.反抗、背叛、造反、n.反叛分子、造反者
 - rebound v.反弹
 - recall v.回忆起、召回、收回
 - recap 概括、扼要重述、简要回顾、翻新
@@ -161,6 +161,7 @@
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
 - rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
+- renderer [ˈrɛndərə] n.渲染、渲染器
 - rendezvous [ˈrɒndɪvuː] n/v.约会、会面、会合、集合
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
 - renew v.更新、重新开始、重申、使恢复、延长...的期限

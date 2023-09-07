@@ -1,4 +1,5 @@
 - iconic [aɪˈkɒnɪk] a.标志性的、图标的、符号的
+- IDE Integrated Development Environment 集成开发环境
 - ideal a.完美的、理想的、不切实际的、n.理想、理念、看似完美的思想、完美的人
 - idealize v.理想化、使理想化  idealize body types 理想化的体型
 - idempotent 幂等、等幂、幂等的
@@ -289,8 +290,10 @@
 - involve v.涉及、包含、牵涉、连累、参加、加入
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
+- IPO (Initial Public Offerings) 上市
 - iron [ˈaɪən] n.铁、熨斗、v.熨、烫平  cast iron 铸铁
 - irony [ˈaɪrəni] n.讽刺、反语
+- irrational a.不合理的、不合逻辑的、n.无理数
 - irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
 - island [ˈaɪlənd] n.岛、岛屿
 - isolate [ˈaɪsəleɪt] v.隔离、孤立、使绝缘、a.隔离的、孤立的

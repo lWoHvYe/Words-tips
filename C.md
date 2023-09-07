@@ -5,7 +5,8 @@
 - cadence [ˈkeɪdns] n.节奏、韵律
 - calcium [ˈkælsiəm] n.钙
 - calculate [ˈkælkjuleɪt] v.计算、预测
-- calculus n.微积分、结石
+- calculus [ˈkælkjələs] n.微积分、结石
+- calendar [ˈkælɪndə(r)] n.日历、日程表
 - caulk v.填、堵、n.密封剂
 - call v.呼叫、号召  call for 呼吁、请求  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
 - calm [kɑːm] a.平静的、镇静的、v.使平静、n.宁静的状态
@@ -24,7 +25,7 @@
 - canonical [kəˈnɒnɪkl] a.典型的、经典的、最简洁的
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
 - cap n.帽子、额度、限额、v.覆盖、笼罩、胜过、超过
-- capability 性能、容量、才能、能力、生产力
+- capability n.性能、容量、才能、能力、生产力
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
 - capacity [kəˈpæsəti] n.容量、性能、才能、职位、职责、功率、电容、a.充其量的、最大限度的
 - capex abbr.资本支出 capital expenditures
@@ -70,12 +71,14 @@
 - cave n.山洞、洞穴
 - caveat n.警告、告诫、附加说明
 - cease [siːs] n/v.停止、结束、终止
-- ceiling [ˈsiːlɪŋ] n.天花板
+- ceiling [ˈsiːlɪŋ] n.天花板、上限  the glass ceiling 玻璃天花板、无形限制、无形障碍
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美、烘托
 - celebrity [səˈlebrəti] n.名人、名望、著名
 - cell [sel] n.电池、牢房、小房间、细胞 cell phone 手机
 - cellular a.细胞的、蜂窝状的、网状的
 - Celsius [ˈselsiəs] n.摄氏、a.摄氏的
+- cement [sɪˈment] n.水泥、胶合剂、v.黏结、巩固、加强
+- censor n/v.审查、检查、删减
 - census [ˈsensəs] n.统计、人口普查、人口调查
 - cent n.分(货币单位)  per cent 百分之  red cent 很少的钱
 - center v.居中、集中、n.中心、中央、中枢
@@ -87,6 +90,7 @@
 - centric a.中心的、中央的
 - centricity n.中心、中心性
 - century 世纪、百年、一百分、百元钞票 cent 分、零钱、(做单位)百
+- ceramic [səˈræmɪk] n.陶瓷、a.陶瓷的、陶器的、陶制的
 - ceremonial a.礼仪的、礼节的、n.礼仪、礼节
 - ceremony [ˈserəməni] n.典礼、仪式、礼节、礼仪、客套  graduation ceremony 毕业典礼
 - certain a.肯定、确定、确信、轻微的、某种的、一定的、必然的、确定的、pron.某些 to a certain extent/degree 在某种程度上、在一定程度上 far less certain 更不确定  certain extent 一定程度上
@@ -143,6 +147,7 @@
 - chronicle n.编年史、历史、v.按事件发生顺序记述、把...载入编年史
 - chunk 大块、厚块、组块
 - church [tʃɜːtʃ] n.教堂、教会
+- cigarette [ˌsɪɡəˈret] n.纸烟、香烟
 - cinema n.电影、电影院
 - cipher [ˈsaɪfə(r)] n.密码、暗号、无关紧要的东西、无足轻重的人
 - circle [ˈsɜːkl] n.园、环、循环、周期、v.绕过  a circle of friends 一群朋友
@@ -235,11 +240,12 @@
 - colonist n.殖民者
 - colony n.殖民地
 - column [ˈkɒləm] n.栏、专栏、圆柱
-- comb [kəʊm] n/v.梳、梳理
+- comb [kəʊm] n/v.梳、梳理、梳子、搜寻
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
 - come v.来到、到达、开始、发生、prep.到来  sth come into its own 某物形成了自己的风格、某物开始流行起来
 - comedy n.喜剧
+- comet n.彗星
 - comic n.漫画、喜剧演员、a.滑稽的、喜剧的
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
 - comma n.逗号
@@ -352,7 +358,7 @@
 - conscious [ˈkɑːnʃəs] a.有意识的、神志清醒的、有意的、刻意的、特别感兴趣的、v.意识到、注意到
 - consciousness n.清醒状态、意识、知觉   subconsciousness n.潜意识、下意识
 - consecutive [kənˈsekjətɪv] a.连续的、连贯的、表示结果的
-- consensus [kənˈsensəs] n.一致的意见、共识
+- consensus [kənˈsensəs] n.一致的意见、共识  reach consensus on/about sth 就...达成共识
 - consent n/v.同意、准许、允许、许可
 - consequence n.推论、结果、后果、成果、重要性  in consequence of sth 因为、作为...的结果
 - consequent a.随之发生的、必然的、合乎逻辑的
@@ -515,12 +521,14 @@
 - criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
 - cron n.时间单位，等于百万年
 - crop n.庄稼、作物、(谷类等的)一熟、一季收获(量)、v.有收成、种地  crop up 出现、发生
+- crore [krɔː(r)] n.一千万
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - cross-cutting 跨部门、跨领域
 - crow n.乌鸦、v.啼叫、打鸣、欢呼
 - crowd n.人群、v.挤满、塞满、涌入
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crude n.原油、石油、a.天然的、粗糙的、粗略的
+- cruel [ˈkruːəl] a.残忍的、残酷的、残暴的、冷酷的
 - cruise [kruːz] n/v.航行、巡航、巡逻、游览
 - crumb n.碎屑、v.弄碎、捏碎
 - crunch [krʌntʃ] v.嚼、碾、处理信息、n.短缺、困境、紧要关头、关键时刻

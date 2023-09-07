@@ -193,8 +193,9 @@
 - poison [ˈpɔɪzn] n.毒物、毒药、毒物、v.下毒、毒害、危害
 - poisonous a.有毒的、恶毒的
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
-- polar a.两极的、截然相反的
+- polar a.极地的、磁极的、两极的、截然相反的、截然对立的
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
+- pole [pəʊl] n.极、磁极、电极、地极、极点、柱子
 - policy  政策、策略
 - polish v.擦光、擦亮、使完美、润色、改进、n.抛光、上光剂  shoe polish 鞋油
 - polite [pəˈlaɪt] a.有礼貌的、客气的
@@ -403,7 +404,7 @@
 - provided conj.假如、如果、在...条件下
 - providing conj.假如、如果、只要
 - province n.省份、范围、领域、职责范围
-- provision n.规定、条款、准备、提供、供给、饮食供应、供应品
+- provision n.规定、条款、准备、提供、供给、饮食供应、供应品  make provision for 为...做准备
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
@@ -414,12 +415,16 @@
 - pseudo 伪、假的、虚伪的、冒充的、伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
 - psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响
+- PTSD Post Traumatic Stress Disorder 创伤后应激障碍
 - pub n.酒吧、酒馆
 - puberty n.青春期
 - publicize v.宣称、推广、宣扬、传播
-- pull v.拉、拔出、n.引力、吸引力、诱惑
+- puff [pʌf] n.泡芙、酥皮点心、吸、抽、v.膨胀、吹捧、喷出、气喘吁吁、呼吸急促
+- pull v.拉、拔出、n.拉、拉力、引力、吸引力、诱惑  pull back 向后拉、退出、撤退  pull off 完成、做成、停靠
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punch [pʌntʃ] v.打孔、穿孔、冲孔、按(键)、压(按钮)、n.冲床、打孔机  beat sb to the punch 抢在某人前面
+- punctual [ˈpʌŋktʃuəl] a.准时的、守时的
+- punctuate v.给...加标点符号
 - punish v.处罚、惩罚、责怪、自责
 - punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购

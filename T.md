@@ -2,12 +2,12 @@
 - tablet [ˈtæblət] n.药片、平板电脑
 - tack n.方法、方针、思路、v.钉住、附加、增补
 - tackle v.解决、应付、处理、与某人交涉、n.用具、器械、滑车
-- tactic n.策略、手段、战术、a.排列的、顺序的
+- tactic n.策略、手段、战术、a.排列的、顺序的  tough tactics 强硬的策略
 - tactical a.战术的、策略上的、巧妙设计的、有谋略的
 - tail 尾、尾巴、尾部、后部、燕尾服、尾随者、硬币反面、硬币文面、跟踪、尾随、盯梢、限定继承的
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
-- take v.拿、采取、接受  take up 占据、占用、花费  take up a post 就职
+- take v.拿、采取、接受  take up 占据、占用、花费  take up a post 就职  take off 起飞、脱掉、离开、突然成功
 - takeaway n.外卖
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
@@ -107,7 +107,7 @@
 - threshold [ˈθreʃhəʊld] n.阈值、门槛、临界值、入口、开始、起始点
 - thrift n.节约、节俭
 - thrill [θrɪl] n/v.激动、兴奋、紧张
-- thrive v.兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
+- thrive [θraɪv] v.兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
 - throat n.喉咙、咽喉
 - throb [θrɒb] n/v.脉搏、跳动
 - throne [θrəʊn] n.王权、君权
@@ -129,6 +129,7 @@
 - tighten v.收紧
 - tile n.瓷砖
 - till prep./conj.直到...为止
+- timber n.木材、树木
 - timeless a.永恒的、永久的
 - timid a.胆怯的、胆小的
 - tin [tɪn] n.锡、罐、v.镀锡
@@ -162,8 +163,8 @@
 - total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
 - touch [tʌtʃ] v.触摸、接触、感动、涉及、n.触摸、触觉、轻微、一点  touch on 关系到、涉及  in touch with 联系、联络、了解最新情况
 - tough [tʌf] a.艰苦的、困难的、棘手的、坚固的、粗暴的、强硬的、n.暴徒、v.坚持、忍受、忍耐
-- tour [tʊə(r)] n/v.旅行、游览、观光
-- tourist n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点
+- tour [tʊə(r)] n/v.旅行、游览、观光、巡回演出  overseas tour 境外旅游
+- tourist [ˈtʊərɪst] n.旅行者、游客、a.旅游的、观光的  tourist attraction 旅游景点  tourist area/spot 旅游区或景点
 - tournament [ˈtʊənəmənt] n.锦标赛
 - tout v.标榜、吹捧、吹嘘
 - toward prep.朝向、面对、对于、关于、接近、将近
@@ -203,6 +204,7 @@
 - transport 运送、运输、传播、流放、运输工具、强烈的情感
 - transportation n.运输、流放
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
+- traumatic [trɔːˈmætɪk] a.创伤的、外伤的
 - traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
@@ -216,12 +218,13 @@
 - trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
 - triangle n.三角(形)
 - tribute n.礼物、贡品、颂词、体现、显现
-- trick 恶作剧、戏法、计谋、诀窍、骗局、欺骗、欺诈、弄虚作假的
+- trick n.恶作剧、戏法、计谋、诀窍、骗局、v.欺骗、欺诈
+- tricky a.难办的、狡猾的、诡计多端的
 - Trie n.单词查找树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
 - trillion n.万亿、兆
 - trinal a.三元的、三重的
-- trip 旅行、摔倒、绊倒、错误、过失
+- trip n/v.旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、三重的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
 - trivial a.不重要的、琐碎的、微不足道的  trivial issues 琐碎的问题
@@ -229,6 +232,7 @@
 - troop n.部队、军队、一群、一队
 - troupe [truːp] n.剧团、表演团、v.巡回演出
 - trove n.发掘出来的财宝
+- truck [trʌk] n.卡车
 - truffle n.松露、块菌
 - trump n.王牌、v.胜过、打败
 - trumpet [ˈtrʌmpɪt] n.喇叭、小号、v.吹嘘、鼓吹
@@ -238,6 +242,7 @@
 - truth n.真相、真理、事实、真实性
 - tsunami [tsuːˈnɑːmi] n.海啸
 - tube [tjuːb] n.管、管子、电子管
+- tuck [tʌk] v.塞进、卷起、挤进
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
 - tumo(u)r n.肿瘤、肿块
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes

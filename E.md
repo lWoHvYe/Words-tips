@@ -7,7 +7,7 @@
 - eat v.吃 eat up 吃光、耗尽 eat one's words 承认错误
 - eavesdrop v.偷听、窃听
 - echo [ˈekəʊ] n/v.回声、回响、共鸣
-- eclipse [ɪˈklɪps] n.蚀、日食、月食、v.使相形见绌、遮住...的光
+- eclipse [ɪˈklɪps] n.蚀、日食、月食、黯然失色、经典的Java IDE、v.使相形见绌、遮住...的光
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
@@ -121,7 +121,7 @@
 - entitlement n.权利、资格、津贴
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
-- entrant n.参加者、新成员
+- entrant n.参加者、新成员、新生
 - entrepreneur [ˌɒntrəprəˈnɜː(r)] n.企业家、创业者
 - entropy n.熵
 - entry n.进入、参与、加入
@@ -183,6 +183,7 @@
 - evade v.规避、躲避、逃避、避开
 - evaluate [ɪˈvæljueɪt] v.估计、评价、评估
 - evaluation n.评价
+- evaporate [ɪˈvæpəreɪt] v.蒸发、挥发、消失、消散
 - evasion n.逃避、借口、推辞
 - eve n.前夜、前夕  Eve 夏娃
 - even ad.甚至、平均的、平坦的、偶数的
@@ -237,6 +238,7 @@
 - exist [ɪɡˈzɪst] v.存在、生存、生活
 - exit [ˈeksɪt] n.出口、v.出去、离去、出口、退场
 - exorcize ['eksɔː(r)saɪz] v.祛除、消除、除去
+- exotic [ɪɡˈzɒtɪk] a.异国情调的、异国风情的
 - expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值

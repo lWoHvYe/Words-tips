@@ -114,6 +114,7 @@
 - hurl v.投掷
 - hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙
+- hurt n/v.伤害、损害
 - hybrid 混合的、杂种的、杂交、混合物、合成物
 - hydrochloride n.盐酸、盐酸盐、氯化氢
 - hydrogen [ˈhaɪdrədʒən] n.氢、氢气

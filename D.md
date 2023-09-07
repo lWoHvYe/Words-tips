@@ -5,7 +5,7 @@
 - data n.数据
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
 - datum [ˈdeɪtəm] n.数据、资料  pl.data
-- dawn [dɔːn] n.黎明、拂晓、开端
+- dawn [dɔːn] n.黎明、拂晓、开端、v.破晓、开始出现
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - dead a.死亡的、无活力的
 - deadline n.截止时间、最后期限
@@ -17,7 +17,8 @@
 - debt [det] n.债务、借款、欠款、罪、过失  bad debts 坏账
 - decade 十年、十年期
 - decay v.衰退、衰败、腐烂、n、腐烂、腐朽、衰退、衰落  beginning, growth, blossoming, and decay 开端、发展、兴盛和衰亡
-- deceive v.欺诈、误导
+- deceive v.欺诈、蒙蔽、误导
+- deceit n.欺骗、欺诈行为
 - decelerate [ˌdiːˈseləreɪt] v.减速、减缓
 - decent a.体面的、得体的、相称的、正派的、相当不错的
 - deceptive a.虚伪的、欺诈的、骗人的、迷惑的
@@ -144,6 +145,7 @@
 - device n.装置、设备、方法、策略、手段
 - devil [ˈdevl] n.魔鬼、恶魔  devil's bones 骰子🎲  devil's advocate 故意唱反调的人
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
+- devitalise v.使失去活力、使衰弱
 - devote v.致力于、奉献、投入
 - diabetes n.糖尿病
 - diagnose v.诊断、确诊
@@ -174,6 +176,7 @@
 - dignity n.庄严、端庄、尊严、高贵
 - dilemma n.窘境、困境
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
+- dilute [daɪˈluːt] v.稀释、冲淡、a.稀释的、冲淡的
 - dilution n.稀释
 - dim a.暗淡的、昏暗的、渺茫的、v.变暗淡
 - dimension [dɪˈmenʃn/daɪˈmenʃn] n.次元、度、维(度)、尺寸
@@ -181,6 +184,8 @@
 - diode n.二极管
 - dioxide n.二氧化物
 - dip v.浸、蘸、下沉、下降、n.浸、蘸、洗澡 dip into 浏览、翻看、把手伸进(...里取东西)、提取(款项)、动用(存款)
+- diploma [dɪˈpləʊmə] n.毕业文凭、学位证书、公文、文书
+- diplomatic a.外交的、策略的、有手腕的
 - direct [dəˈrekt] a.径直的、直接的、v.指导、导演
 - direction n.方向、趋势、指点、指示
 - directive n.指示、命令、a.指示的、指导的
@@ -326,6 +331,8 @@
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
+- dusk n.黄昏、傍晚、暮色
+- dust [dʌst] n.灰尘、粉尘、v.擦去、掸去  leave sb in the dust 把某人远远抛在后面
 - duty [ˈdjuːti] n.责任、义务、职责、职务、税
 - dwarf n.矮子、侏儒、a.矮小的、发育不全的、v.使显得矮小、使相形见绌
 - dwell v.居住、栖身  dwelling n.住宅、住所

@@ -21,6 +21,8 @@
 - bang n.砰的一声、巨响、猛击、猛撞、v.猛击、猛撞
 - bank n.银行、筹码、库、库存、v.把钱存入银行、开账户、存款、堆积
 - bankrupt [ˈbæŋkrʌpt] a.破产、倒闭、完全缺乏、n.破产者、v.使破产
+- banquet n/v.宴会、盛宴、宴请
+- banqueting a.宴会的
 - bar [bɑː(r)] n.酒吧、吧台、条、棒、金属棒、障碍、律师职业、v.禁止、阻止、闩上  bar exam 司法考试
 - bare a.裸露的、赤裸的、光秃秃的、荒芜的、仅够的、最基本的、v.脱掉
 - bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判  bargain bin 折扣商品、折扣商品区
@@ -77,6 +79,7 @@
 - bin [bɪn] n.箱子、容器、v.扔掉、丢弃
 - binary a.二进制的
 - bind v.绑定、捆绑、缠绕、结合、约束、凝结、装订、n.窘境
+- binding a.有法律约束力的
 - biochemical 生物化学的、生化的
 - biography n.传记
 - biology 生物学
@@ -115,7 +118,7 @@
 - boast [bəʊst] n/v.自夸、夸耀
 - boat n.小船、舟
 - boilerplate [ˈbɔɪləpleɪt] n.样板文件、公式化
-- bold a.明显的、醒目的、勇敢的、无谓的、陡峭的、粗体的、黑体的、n.粗体、黑体
+- bold a.明显的、醒目的、勇敢的、无谓的、冒失的、陡峭的、粗体的、黑体的、n.粗体、黑体
 - bolster v.改善、加强、n.靠垫、垫枕
 - bomb [bɒm] n.炸弹、v.轰炸
 - bombast n.夸大其词、大话、a.夸大的
@@ -174,7 +177,10 @@
 - bronze n.青铜、铜(牌)
 - brook n.溪、小河、v.(不)允许(某事)
 - brow n.额头、眉毛、表情、山脊
+- browse n/v.浏览
 - browser n.浏览程序、浏览器
+- bruise [bruːz] v.擦伤、n.碰伤、伤痕
+- bruising a.殊死的、激烈的
 - brush n.刷子、画笔、v.刷、掠过、轻触  hair brushing 梳头
 - brutal a.残酷的、残暴的、野蛮的
 - brutality n.残忍、野蛮

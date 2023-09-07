@@ -5,7 +5,7 @@
 - magic [ˈmædʒɪk] n.魔法、魔术、a.有魔力的、魔术的、不可思议的
 - magical a.神奇的、有魔力的、美妙的
 - maglev ['mæglev] n.磁悬浮
-- magnetic a.磁性的  magnetic levitation 磁悬浮
+- magnetic [mæɡˈnetɪk] a.磁性的、有磁性的、有吸引力的  magnetic levitation 磁悬浮  magnetic field 磁场
 - magnificent a.壮丽的、宏伟的、华丽的
 - magnify v.放大、增强、夸大、扩大
 - magnitude n.量级、震级
@@ -46,8 +46,9 @@
 - marginalize v.边缘化、排斥
 - marital a.婚姻的、夫妻的
 - marriage n.结婚仪式、婚姻、婚礼
-- marry v.结婚、嫁、娶、为...举行婚礼
+- marry [ˈmæri] v.结婚、嫁、娶、为...举行婚礼
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
+- marvellous a.绝妙的、极好的、非凡的
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
 - mass n.大量、许多、块、堆、质量、群众、大部分、大多数、a.大批的、数量多的、v.集结、聚集 mass-market 大众市场
@@ -136,7 +137,7 @@
 - might modal-v.may的过去式、可能、也许、可以、n.力量、权势、可能性
 - mighty a.强大的、巨大的、非凡的、强有力的、ad.非常、很、极其
 - migrant n.移民、候鸟、迁徙动物
-- migrate v.迁徙、移居、转移、迁移
+- migrate [maɪˈɡreɪt] v.迁徙、移居、转移、迁移
 - migratory a.迁移的、迁徙的
 - mild a.温和的、轻微的
 - mile n.英里
@@ -189,7 +190,7 @@
 - module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
 - moist a.潮湿的、湿润的
-- moisture n.潮湿、水分
+- moisture n.潮湿、湿气、湿度、水分
 - moisturize v.给...增加水分、滋润
 - molecular [məˈlekjələ(r)] a.分子的  molecular structure 分子结构
 - molecule [ˈmɒlɪkjuːl] n.分子
@@ -201,6 +202,7 @@
 - monarchy n.君主制、君主政体、君主国
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
+- monetize 赚钱、货币化
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
 - monk n.和尚
 - mono a.单声道的
@@ -220,6 +222,7 @@
 - moral a.道德的、能辨别是非的、n.品行、道德  moral code 道德准则
 - morality n.道德、道义  the morality of career 职业道德  work ethic 职业道德
 - moreover ad.此外、而且
+- morphic 形态  megamorphic 超多态  monomorphic 单态
 - morphine [ˈmɔːfiːn] n.吗啡  morphia(非正式)
 - mortal [ˈmɔːtl] n.凡人、普通人、a.终有一死的、致命的、不共戴天的
 - mortality [mɔːˈtæləti] n.死亡率  mortality rate 死亡率
@@ -232,6 +235,7 @@
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
 - motor n.发动机、电动机
+- mount v.准备、登上、爬上、安装、镶嵌、逐渐增加、发动、发出、n.底座、托架、坐骑、山峰
 - mountain n.山、山脉、许多、大量  debt mountain 负债累累
 - mourn [mɔːn] v.哀悼、忧伤
 - mournful a.悲伤的

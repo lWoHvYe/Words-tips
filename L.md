@@ -65,7 +65,7 @@
 - lever n.操纵杆、杠杆、v.撬动
 - leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购  leverage...to... 利用...来...  Leverage Buyout (LBO)杠杆收购
 - levitation n.悬浮、漂浮
-- levitate v.漂浮、悬浮、升空
+- levitate [ˈlevɪteɪt] v.漂浮、悬浮、升空
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
 - lexical [ˈleksɪkl] a.词汇的
 - liability n.责任、债务、负债、债务
@@ -117,6 +117,7 @@
 - local a.地方的、当地的、局部的
 - locate v.定位、找到、使...坐落于
 - location n.位置、地点
+- lock n/v.锁、封锁、锁住、锁定  lockdown to China 对中国的封锁
 - lodge n.乡间小屋、小屋、v.正式提出、寄住、借宿、租住、寄存
 - log n.日志、对数、原木、v.记录(日志)
 - logic 思维方式、解释方法、逻辑、逻辑学、逻辑的
@@ -139,10 +140,10 @@
 - loyal 忠诚的、忠实的、忠心的
 - loyalty n.忠心、忠诚  loyalty card 积分卡
 - lucrative a.获利多的、赚大钱的、合算的
-- lumber n.木材
+- lumber n.木材、树木、v.缓慢而吃力地行走
 - lumen [ˈluːmɪn] n.流明(光通量单位)
 - lump n.块、大量、一大堆、肿块、瘤、v.结块、把...归并一起、a.整个的、成块状的  lump together information 整合信息
-- lunar a.月亮的、月球的 Lunar New Year 农历新年
+- lunar [ˈluːnə(r)] a.月亮的、月球的 Lunar New Year 农历新年
 - lunch n.午餐
 - lure [lʊə(r)] v.劝诱、引诱、诱惑、n.吸引力、诱惑力、魅力、鱼饵、诱饵
 - lux 勒克斯(照明单位)
