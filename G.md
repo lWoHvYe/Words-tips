@@ -80,7 +80,7 @@
 - grateful [ˈɡreɪtfl] a.感激的、表示感谢的
 - gratify v.满足、使高兴、使满意
 - gratitude [ˈɡrætɪtjuːd] n.感谢、感激
-- grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的
+- grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的、严峻的
 - graveyard n.墓地、垃圾场、收容所
 - gravity [ˈɡrævəti] n.重力G、万有引力
 - greatness n.伟大、崇高、著名

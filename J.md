@@ -22,7 +22,7 @@
 - jury n.陪审团
 - jurisdiction n.管辖权、管辖范围、司法权
 - just ad.只是、正好、a.公正的、合适的、恰当的、n.正直的人
-- justice n.法官、公平、公正
+- justice n.法官、公平、公正、司法
 - justification n.正当理由
 - justify v.证明正当、证明...正确、为...辩护、对...作出解释、整理版面
 - juvenile [ˈdʒuːvənaɪl] n.少年、a.少年的、未成年的、幼稚的

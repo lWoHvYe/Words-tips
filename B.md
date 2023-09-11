@@ -32,7 +32,7 @@
 - basic a.基本的、初步的、必须的
 - basis n.基础、根据、原因、缘由
 - batch n.批、批量、v.分批处理
-- battery n.电池、蓄电池、一组、一套
+- battery n.电池、蓄电池、一组、一套、一系列、一批、一群
 - battle n/v.战争、斗争
 - bazaar [bəˈzɑː(r)] n.集市、义卖
 - be v.是、有  三单:is 现在分词:being 过去式:was were(pl/第二人称) is->was are->were 过去分词:bean
@@ -170,6 +170,7 @@
 - brilliant 明亮的、闪耀的、才华横溢的、宝石、钻石
 - British [ˈbrɪtɪʃ] n.英国人、a.英国的
 - broad a.宽阔的、广阔的、宽泛的、概括的、明显的
+- broadband n.宽带
 - broadcast v.广播、散布、传播
 - broaden 扩大、拓宽、增长
 - brochure [ˈbrəʊʃə(r)] n.手册、小册子
@@ -215,5 +216,7 @@
 - buy into 买进、入股
 - buy up 买断、囤积、全部买下某物、收购
 - buyout 全部买下、买下、控制股权收购
+- buzz n.嗡嗡声、a.时髦的
+- buzzword 时髦词
 - bypass n.旁路、旁道、心脏搭桥手术、v.绕过、避开  bypass operation 心脏搭桥手术
 - byte [baɪt] n.字节

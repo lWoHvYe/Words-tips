@@ -74,6 +74,7 @@
 - empress n.女皇、皇后
 - emulate 模仿、仿真、竞争、努力赶上
 - enable v.使能够、使可能、批准、为...提供条件
+- enact [ɪˈnækt] v.通过(法律)、制定法律、扮演、担任...角色
 - encapsulate v.封装、概括、压缩、简述
 - enclose v.随函附上、把...装入信封、附入、围住、把...围起来
 - encode v.编码、译成密码/电码、编制成计算机语言
@@ -186,7 +187,7 @@
 - evaporate [ɪˈvæpəreɪt] v.蒸发、挥发、消失、消散
 - evasion n.逃避、借口、推辞
 - eve n.前夜、前夕  Eve 夏娃
-- even ad.甚至、平均的、平坦的、偶数的
+- even ad.甚至、a.平均的、平坦的、相等的、偶数的
 - event n.活动、事件
 - eventual a.最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出

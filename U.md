@@ -14,7 +14,7 @@
 - underlie v.构成...的基础、作为...的原因  
 - underlying a.根本的、潜在的、隐含的、v. underlie的现在分词
 - underline v.划线、强调
-- undermine v.削弱、损害、破坏、挖...的墙角
+- undermine v.削弱、损害、破坏、挖...的墙角、暗中破坏
 - underpin v.加强、巩固、构成(...的基础)
 - understanding n.理解、理解力、a.善解人意的、通情达理的
 - undertake v.承诺、保证、承担、从事、同意、答应

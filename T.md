@@ -7,7 +7,7 @@
 - tail 尾、尾巴、尾部、后部、燕尾服、尾随者、硬币反面、硬币文面、跟踪、尾随、盯梢、限定继承的
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
-- take v.拿、采取、接受  take up 占据、占用、花费  take up a post 就职  take off 起飞、脱掉、离开、突然成功
+- take v.拿、采取、接受、n.意见、看法、立场、镜头、场景  take up 占据、占用、花费  take up a post 就职  take off 起飞、脱掉、离开、突然成功
 - takeaway n.外卖
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
@@ -176,7 +176,7 @@
 - Trade Finance 贸易融资、外汇服务
 - tradition n.传统、惯例
 - traditional a.传统的、惯例的、因袭的、守旧的
-- traffic n.交通、交通量、通信量  traffic jam 交通拥塞、堵车
+- traffic n.交通、交通量、通信量、流量  traffic jam 交通拥塞、堵车
 - tragedy [ˈtrædʒədi] n.悲剧
 - tragic a.悲剧的、悲惨的、不幸的、可悲的、悲痛的
 - trail [treɪl] v.跟踪、追踪、拖拽、失利、失败、n.痕迹、踪迹、小路、小径
@@ -205,6 +205,7 @@
 - transportation n.运输、流放
 - trap n.陷阱、圈套、v.诱骗、困住、设陷阱捕捉
 - traumatic [trɔːˈmætɪk] a.创伤的、外伤的
+- travail [ˈtræveɪl] n.痛苦、艰辛  the travails of commuters 通勤者的辛苦
 - traversal n.遍历、穿越、追踪
 - traverse 穿过、横贯、横切、横过、横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝

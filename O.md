@@ -26,7 +26,7 @@
 - occur [əˈkɜː(r)] v.出现、发生、存在于、出现在
 - occurrence n.出现、发生、事件、事变
 - ocean [ˈəʊʃn] n.海洋
-- odd a.古怪的、奇怪的、剩余的、临时的、ad.(用于数字后面)大约、n.奇怪的人或事
+- odd a.古怪的、奇怪的、剩余的、临时的、奇数的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
 - off v.离开、关闭、去掉  off plan 计划外的、期房(building)
 - offence n.犯罪、罪行、冒犯
@@ -97,6 +97,7 @@
 - outlet n.出口、经销店、专营店、折扣店  fast-food outlets 快餐店  retail outlets 零售店
 - outline n.概述、大纲、提纲、外形、轮廓、v.概述、勾勒
 - outlook n.见解、前景、观点、景色、景观
+- outperform v.做的比...好、超过
 - output n.输出、产量、输出量、产品、v.输出
 - outrage [ˈaʊtreɪdʒ] n.愤怒、暴行、v.使震怒、激怒
 - outset n.开始、开端

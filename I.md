@@ -58,6 +58,8 @@
 - impedance n.阻抗
 - impediment n.阻碍、障碍
 - impel v.促使、推动
+- impend v.逼近、迫近
+- impending a.逼近的、即将发生的
 - imperative a.迫切的、急迫的、n.必要的事、祈使语气
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement v.实施、执行、使生效、实现、落地、n.工具、器具、器械
@@ -275,6 +277,7 @@
 - invasion n.侵略、侵犯
 - invasive a.侵入的、侵入性的、侵袭的、扩散性的、手术的、开刀的
 - invent v.虚构、发明、创造
+- inventive a.有创意的、善于创新的、有新意的
 - inventory n.存货、库存、清单、财产目录、开列清单
 - inverse a.相反的、反向的、v.使倒转、使颠倒、n.反面、相反的事物    Inversion of Control IOC    Dependency Injection DI
 - invert v.颠倒、倒转、倒置

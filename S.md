@@ -204,6 +204,7 @@
 - sine [saɪn] n.正弦
 - singleton [ˈsɪŋɡltən] n.单项物
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
+- sinister [ˈsɪnɪstə(r)] a.邪恶的、不详的、有凶兆的
 - sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - sip v.小口喝、抿、n.一小口的量
 - SIT System Integrate Test
@@ -388,6 +389,7 @@
 - star n.明星、星号、v.主演、标星号
 - stare v.注视、凝视
 - startle [ˈstɑːtl] n/v.吃惊、震惊
+- start-up n.新兴公司、刚成立的公司、a.(新企业或工程)开办阶段的、启动时期的
 - starvation n.饥饿、挨饿、饿死、绝食
 - starve v.饿死、挨饿  starve to death 饿死
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
@@ -438,6 +440,7 @@
 - straw n.稻草、吸管
 - strawberry n.草莓
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
+- stream n.流、v.流动、流式传输  streaming services 流媒体
 - strength n.力量、体力、毅力、优点、长处
 - strengthen v.加强、增强、巩固
 - stress v.强调、着重、重读、焦虑不堪、疲惫不堪、n.应力、压力、强调、紧张、重要性

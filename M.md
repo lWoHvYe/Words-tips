@@ -85,6 +85,7 @@
 - mechanism [ˈmekənɪzəm] n.机制、机能、机理、物理过程、结构、构造、机械装置
 - mechanize/mechanise [ˈmekənaɪz] v.使机械化
 - medal [ˈmedl] n.奖章、勋章、奖牌
+- meddle [ˈmedl] v.干预、干涉、管闲事
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
 - medical a.医学的、医疗的、疾病的、伤病的
 - medicine [ˈmedsn] n.医学、药物

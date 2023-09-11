@@ -91,6 +91,7 @@
 - reduction n.减少、降低、约简、减价、折扣
 - reductor n.复位器、还原剂
 - redundant a.冗余的、多余的、被裁减的、被解雇的
+- reentrant [riːˈɛntrənt] a.可重入的
 - refactor 重构
 - refer [rɪˈfɜː(r)] v.提到、针对、参考、提及、涉及
 - reference [ˈrefrəns] n.参考、参照、引文、谈到、提及、关系、关联、参考书、推荐信、a.参考的

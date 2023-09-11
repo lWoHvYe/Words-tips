@@ -1,6 +1,6 @@
 - abandon [əˈbændən] v.抛弃、遗弃、放弃
 - abbreviate v.缩写、缩略
-- abdicate [ˈæbdɪkeɪt] v.放弃、退位
+- abdicate [ˈæbdɪkeɪt] v.放弃、退位、失职
 - abide v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
 - aboard ad/prep.在船上、上船或飞机
@@ -89,7 +89,7 @@
 - administrator n.管理人员、行政人员
 - admire v.倾佩、欣赏、赞赏、仰慕
 - admission n.承认、准许进入、加入权、进入权、招生、录取  admission ticket 门票  admission of sth 承认某事  university-admissions process 大学录取流程
-- admit v.承认、允许、确认、许可进入、准许...加入  admit to/into 准许加入(俱乐部、组织)、接收(入学)
+- admit v.承认、允许、确认、许可进入、准许...加入、接纳  admit to/into 准许加入(俱乐部、组织)、接收(入学)
 - adolescent n.青少年、a.青春期的
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adorn v.装饰、佩戴、修饰、使生色、使更美观  material adornment 物质装饰
@@ -176,6 +176,7 @@
 - allot v.分配、分派、配给
 - allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
 - allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
+- allude v.暗指、影射
 - allure [əˈlʊə(r)] n/v.诱惑、引诱、吸引力
 - ally n.联盟、同盟国、v.与...结盟
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.

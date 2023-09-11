@@ -53,8 +53,8 @@
 - casino [kəˈsiːnəʊ] n.赌场
 - cask n.桶、容器
 - cast v.铸造、投射、向...投以(视线或笑容)、看...一眼、造谣中伤、使产生怀疑、投、扔、脱、n.铸件、模子、特性、演员表  cast doubts on 让人怀疑...
-- casual a.随便的、偶然的、非正式的、临时的、n.便装、临时工  casual leave 事假
-- casualty n.伤亡(人数)、伤员
+- casual [ˈkæʒuəl] a.随便的、偶然的、非正式的、临时的、n.便装、临时工  casual leave 事假
+- casualty [ˈkæʒuəlti] n.伤亡(人数)、伤员
 - catalog n.目录、一览表、系列、种类、v.编目录、登记分类
 - catalogue n.目录、v.编目录、登记分类、记载
 - catalyst n.催化剂
@@ -173,7 +173,7 @@
 - classify v.分类、划分、界定
 - classified a.机密的、分类的、归类的
 - classification 分类、归类
-- clause n.条款、款项、从句、子句、分句
+- clause [klɔːz] n.条款、款项、从句、子句、分句
 - claw n.爪、钳
 - clergy [ˈklɜːdʒi] n.神职人员、牧师、教士
 - clerk [klɑːk] n.职员、店员、文书、书记员
@@ -324,6 +324,7 @@
 - conclude v.推断、断定、终止、结束、预定、得出结论
 - conclusion n.结论、推论、结果、结尾、结局、签订、达成、缔结
 - concrete [ˈkɒŋkriːt] a.具体的、有形的、实在的、固结成的、混凝土制的、v.用混凝土浇筑、n.混凝土
+- concur n.同意、赞同
 - concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
 - condemn [kənˈdem] v.谴责、指责、宣判、宣布、迫使
 - condition n.条件、状态、状况、健康状况、处境、v.训练、使习惯于、使适应、养护
@@ -415,6 +416,7 @@
 - contraction n.收缩、缩写、痉挛
 - contractor n.承包人、承包商
 - contradict v.反驳、驳斥、否认
+- contradiction n.矛盾、不一致、对立
 - contrary [ˈkɒntrəri/kənˈtreəri] a.相反的、相对立的、截然不同的、反对的、违反的、n.反面、对立面、相反的事物/情况 on the contrary 反之、恰恰相反
 - contrast [ˈkɒntrɑːst/ˈkɑːntræst] n.对比、对照、差异、对照物、对比度、v.对比、对照、明显的差异、截然不同、形成对比  contrast to/with
 - contribute vt.贡献、捐赠、vi.有助于、有益于、是...的原因、v.增加、增进  A contribute to B A有益于B/A是B的原因  contrubute A to B 把A贡献给B
@@ -494,6 +496,8 @@
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
 - crack v.破裂、开裂、崩溃、瓦解、阻止、打击、n.裂纹、裂缝、爆裂声、噼啪声、重击
 - craft n.工艺、手艺、技巧、技能、v.精心制作
+- cramp [kræmp] n.抽筋、痉挛、a.受约束的、狭窄的
+- cramped a.狭窄的、拥挤的
 - crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的
 - crave v.渴望、热望、恳求
 - crawl v.爬行

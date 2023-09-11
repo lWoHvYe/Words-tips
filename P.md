@@ -8,7 +8,7 @@
 - painful [ˈpeɪnfl] a.痛苦的
 - palace [ˈpæləs] n.王宫、宫殿
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
-- pandemic n.流行病、大流行病、a.(疾病)大流行的、普遍的、全世界的
+- pandemic n.流行病、大流行病、疫情、瘟疫、a.(疾病)大流行的、普遍的、全世界的
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
 - panic n/v.惊恐、恐慌、go语言中的异常
 - panorama [ˌpænəˈrɑːmə] n.全景、全景画、全景摄影  panorama of English society 英国社会的全景
@@ -223,6 +223,7 @@
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion [ˈpɔːʃn] n.部分、分享的部分、分担的责任、v.分配、把...分成若干份
+- portraiture n.肖像
 - portray v.描绘、描述、描写、刻画、扮演
 - pose v.造成、提出、陈述、摆姿势、假装、冒充、n.姿势、故作姿态  摆个pose
 - position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置  respectable position 体面的工作
@@ -271,6 +272,7 @@
 - predict v.预言、预测、预报、预告
 - predominance n.优势、主导地位
 - predominant [prɪˈdɒmɪnənt] a.主要的、占优势的、占主导地位的、显著的、明显的
+- preempt v.先发制人、抢占
 - preemptive [priˈɛmptɪv] a.先发制人的、抢占的、抢先的
 - preface n.序言、前言、开端、序幕、v.作序、为...写序言、作为...开端
 - prefer v.更喜欢

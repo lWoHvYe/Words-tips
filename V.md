@@ -1,3 +1,4 @@
+- vacancy n.空位、空缺  job vacancies 职务空缺
 - vacant a.空闲的、茫然的、空着的、空虚的、空缺的、无神的、呆滞的
 - vacation n.假期、休假、v.度假
 - vaccine [ˈvæksiːn] n.疫苗、菌苗、a.疫苗的、痘苗的
@@ -32,6 +33,8 @@
 - velocity [vəˈlɒsəti] n.速度、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
+- vengeance [ˈvendʒəns] n.报仇、复仇  with a vengeance 程度更深地
+- vengeful a.复仇的、心存报复的
 - vent n.排气孔、通风孔
 - venture n.冒险、(尤指有风险的)企业、商业冒险、投机活动、风险投资、v.冒...的危险、用...进行投机  Venture Capital (VC)风险投资
 - venue n.地点、会场

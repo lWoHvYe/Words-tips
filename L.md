@@ -112,6 +112,7 @@
 - literature [ˈlɪtrətʃər] n.文学、文献、资料
 - live [lɪv/laɪv] v.居住、生活、a.活的、有效的、现场直播的、ad.在现场直播
 - load [ləʊd] n.负载、负荷、容纳量、v.承载、装载、装入、载入
+- loaf v.游手好闲、无所事事、游荡
 - loan [ləʊn] n.贷款、v.借出、贷与、出借  housing loan 房贷
 - lobby [ˈlɒbi] n.大厅、休息室、游说、游说团体、v.游说
 - local a.地方的、当地的、局部的
