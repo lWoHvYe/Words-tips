@@ -282,7 +282,7 @@
 - architecture n.体系结构、建筑学、建筑设计、结构
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
 - argue v.争论、争辩、论证、表明、主张、认为
-- argument 论点、论据、争论、辩论、争吵、主题、情节
+- argument n.论点、论据、争论、辩论、争吵、主题、情节、(方法的)参数
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
 - aristocracy n.贵族
 - aristocrat [ˈærɪstəkræt] n.贵族
