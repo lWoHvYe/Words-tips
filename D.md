@@ -1,6 +1,7 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - damage n/v.破坏、损害
+- damn [dæm] v.该死、谴责、a.完全的、十足的、可恶的、ad.非常、及其
 - damp a.潮湿的、湿气重的、n.潮湿、湿气
 - data n.数据
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代

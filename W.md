@@ -38,6 +38,7 @@
 - well 好、很可能、相当、井、健康
 - wellbeing n.健康、幸福
 - wheat n.小麦
+- wheel n.车轮、v.旋转、转动
 - whelm v.淹没、压倒、覆盖
 - whereas n.鉴于、conj.然而、但是、尽管
 - whereby ad.凭此、借以

@@ -197,7 +197,7 @@
 - fraud [frɔːd] n.欺诈、骗子、伪劣品、冒牌货
 - free a.免费的、自由的、免税的、空闲的、v.释放、使自由、使解脱
 - freemium 免费增值、收费增值
-- freeze v.使结冰、冻结  frozen (过去分词) a.冻结的、冰封的、极冷的
+- freeze v.使结冰、冻结  frozen (过去分词) a.冻结的、冰封的、极冷的  hire frozen
 - French n.法语、a.法国的
 - frequency 频率、频繁、发生率、出现率、重复率
 - frequent a.频繁的、常见的、v.常去、常到  sb tend to frequent 经常、常去

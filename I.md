@@ -226,6 +226,7 @@
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
 - interest [ˈɪntrəst] n.兴趣、爱好、利息、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
+- interface n.接口、接合点、v.接合、连接
 - interfere v.干涉、干预、介入、妨碍
 - interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.

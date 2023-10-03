@@ -1,3 +1,4 @@
+- quadratic [kwɒˈdrætɪk] a.平方的、二次方的
 - quadruple a.四倍的、四重的、四方的、v.变为四倍、n.四倍
 - qualification n.资格、资历、学历、限定条件、资格证  professional qualification 专业资格  minimal ~ 最低限制
 - qualifier n.合格者、预选赛、资格赛

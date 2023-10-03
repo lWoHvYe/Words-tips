@@ -115,7 +115,7 @@
 - regime n.政权、政体、政治制度
 - region n.地区、区域、行政区、管辖区、层、界、境
 - register v.登记、注册、(仪表的)指示、n.登记薄、注册表、寄存器
-- regress 倒退、回归、退化
+- regress n/v.倒退、回归、退化  regression testing 回归测试
 - regret n.遗憾、后悔、抱歉、v.感到后悔、感到抱歉
 - regular a.有规律的、定期的、常规的、寻常的、普通的、一般的、ad.定期地、经常、n.正规军、主力队员  regular expression正则表达式  regular job固定工作
 - regularity n.规律性、经常性
@@ -269,6 +269,7 @@
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
 - righteous a.正义的、正直的、公正的
 - rigid a.僵硬的、严格的、刻板的、顽固的、死板的
+- rigorous [ˈrɪɡərəs] a.严格的、严谨的、彻底的
 - ringtone n.铃声
 - rip v.撕破、裂开、扯开、n.裂口、裂缝  rip off 扯掉  let rip 自由的做
 - ripe a.成熟的
