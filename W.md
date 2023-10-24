@@ -89,6 +89,7 @@
 - workaround n.应变方法、变通方法
 - workforce n.劳动力、全体员工
 - workshop n.车间、工坊、研讨会、v.学习
+- worm n.蠕虫
 - worrisome a.令人担忧的、令人不安的
 - worse ad.更坏、更糟、a.更坏的、恶化的、严重的  sb could do worse than doSth 不如、不妨
 - worship [ˈwɜːʃɪp] n/v.崇拜、崇敬、敬奉  blind worship 盲目崇拜

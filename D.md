@@ -171,7 +171,8 @@
 - difficult a.困难的、艰难的、麻烦的
 - diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散、宣泄、舒缓
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
-- digest 消化、领会、领悟、理解、摘要、文摘、汇编
+- digest v.消化、领会、领悟、理解、n.摘要、文摘、汇编
+- digit n.数字、数位、手指、脚趾
 - digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
@@ -191,6 +192,7 @@
 - direction n.方向、趋势、指点、指示
 - directive n.指示、命令、a.指示的、指导的
 - director n.导演、主管、主任、董事、理事
+- directory [dəˈrektəri] n.目录
 - dirt n.污垢、泥土、灰尘、丑闻
 - dirty a.肮脏的、v.弄脏、玷污
 - disable v.使无效、使丧失能力
@@ -272,6 +274,7 @@
 - do v.做、干、进行、从事、行动、表现
 - dock n.码头、船坞、v.(船)进港、靠岸、(飞船)对接、扣除(部分工资)
 - docket n.单据、摘要
+- decommission v.使退役、正式停止使用
 - document n.公文、文件、证件、文档、v.记录、记载、用文件证明
 - documentary a.文献的、记录的、纪实的、n.纪录片
 - doctor [ˈdɒktə(r)] n.博士、医生、v.篡改、伪造
@@ -291,7 +294,8 @@
 - denominate [dɪˈnɑːmɪneɪt] v.命名、称呼
 - donut n.甜甜圈、环形图
 - dose n.剂量、药量、v.(给...)服药
-- dot n.点、句点  dot-com 网络公司/互联网经济
+- dot n.点、句点、v.加点、点缀  dot-com 网络公司/互联网经济
+- dotted a.星罗棋布的、有点的
 - double a.双的、两倍的、v.加倍
 - doubt [daʊt] n/v.怀疑、疑虑、未确定
 - dove n.鸽子
@@ -322,6 +326,7 @@
 - drought n.干旱、旱灾
 - drowse [draʊz] v.昏昏欲睡、打瞌睡
 - drug [drʌɡ] n.毒品、药、药物、麻醉药、v.用药麻醉、使服兴奋剂
+- drum n.鼓、桶、滚筒、v.击鼓、敲击
 - dry [draɪ] a.干的、干燥的、v.变干、弄干、干涸
 - dual [ˈdjuːəl] a.二重的、双重的、双的
 - due a.因为、由于、预定、预期、预计、到期、应付、n.应有的权利

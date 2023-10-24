@@ -24,6 +24,7 @@
 - male a.男性的、雄性的、n.男人、雄性动/植物
 - malicious 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
+- malware n.恶意软件
 - mammal [ˈmæml] n.哺乳动物
 - manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
 - mandarin [ˈmændərɪn] n.普通话
@@ -39,6 +40,7 @@
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
 - map n.地图、v.绘制
+- marble n.大理石、理智、常识、v.使...显得斑驳、使...染上大理石花纹、a.大理石的、无情的、纯白的
 - march [mɑːtʃ] n/v.前进、行军、n.March 三月
 - marine [məˈriːn] a.海洋的、海生的、海运的、n.水兵
 - margin n.页边空白、边缘、范围、极限、利润、盈余、差额、v.留边、给...镶边、为...付保险金  Margin Financing 保证金融资  profit margins 利润率

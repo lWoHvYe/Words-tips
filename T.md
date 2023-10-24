@@ -47,7 +47,7 @@
 - temperate a.温带的、温和的
 - temperature n.温度、气温、体温
 - tempo n.速度、节拍
-- temporal a.世俗的、现世的
+- temporal a.世俗的、现世的、时间的、时序的
 - temporary a.短暂的、暂时的、n.临时工
 - tempt v.引诱、诱惑、怂恿
 - temptation n.诱惑、引诱、诱惑物
@@ -83,6 +83,7 @@
 - text n.正文、文本、文档
 - textile n.织物、纺织品、纺织业
 - textual a.正文的、原文的、文本的、篇章的
+- texture n.质地、纹理
 - theater n.剧院、剧场、戏剧
 - theatre n.剧院、剧场、露天剧场、演出、上演
 - theft 盗窃、偷窃、赃物
@@ -267,3 +268,4 @@
 - typical a.典型的、有代表性的
 - typify v.作为...的典型、成为...的特征
 - typo n.排版错误、文档小错误
+- tyranny n.暴政

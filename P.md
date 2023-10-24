@@ -72,6 +72,8 @@
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
 - pendulum [ˈpendjələm] n.钟摆
+- penetrate [ˈpenətreɪt] v.渗透、穿透
+- penetration n.渗透、穿透、进入、突破、洞察力
 - penny n.便士、分币、一分钱、少量的钱
 - pension n.退休金、养老金、津贴、补助、年金、v.发退休金、准许退休、a.(有关)养老金的、(有关)津贴的  pension fund 养老基金
 - pensive a.沉思的
@@ -126,6 +128,7 @@
 - phishing [ˈfɪʃɪŋ] n.网络钓鱼
 - phoenix [ˈfiːnɪks] n.凤凰、长生鸟
 - photograph n.照片、v.拍照
+- photolithography n.光刻、影印
 - phrase [freɪz] n.短语、习语、v.表达、措辞
 - physical a.身体的、自然的、物质的、现实的、物理学的、v.体检
 - physician [fɪˈzɪʃn] n.医生、内科医生
@@ -153,6 +156,7 @@
 - pity n/v.同情、可怜、怜悯  what a pity 真可惜
 - pivot n.枢轴、中心点、支点、v.扭转
 - pivotal 关键性的、核心的
+- pixel [ˈpɪksl] n.像素
 - place n.地方、职位、座位、v.放置、安放、归类、划分、排名  in place of 代替、取代
 - placeholder 占位符
 - plague [pleɪɡ] n.瘟疫、死亡率高的传染病、灾害、v.使染瘟疫、困扰、折磨、纠缠
@@ -207,6 +211,7 @@
 - pollen n.花粉
 - pollute v.污染、弄脏
 - polyglot [ˈpɒliɡlɒt] a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
+- polygon n.多边形
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
 - polynomial [ˌpɒli'nəʊmiəl] n.多项式
 - pond n.(人工的)池塘、水塘
@@ -305,6 +310,7 @@
 - presume v.假定、推测、设想
 - presuppose v.预设、假设、以...为前提
 - pretend v.假装、扮作、模拟、自诩、a.假装的、想象的
+- pretext n.借口、托词
 - pretty a.漂亮的、精致的、美观的、ad.相当、很、非常
 - prevail [prɪˈveɪl] v.流行、盛行、压倒、战胜、挫败、占优势
 - prevalent a.流行的、盛行的、普遍存在的
@@ -323,6 +329,7 @@
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
 - print v.打印、印刷  print advertisement 平面广告
+- Printed Circuit Boards - PCB 印刷电路板
 - prior [ˈpraɪə(r)] a.先前的、在前的、优先的
 - priority [praɪˈɒrəti] n.优先、优先权、首要的事、最重要的事 a.优先的
 - prioritize v.划分优先顺序、按重要性排列、优先处理
@@ -387,6 +394,7 @@
 - proposal n.提议、建议、求婚、投标
 - propose v.提议、建议、计划、打算、推荐、提名、求婚
 - proposition 提议、建议、命题、主张、向...提议
+- prorate v.按比例分配、分派
 - prose n.散文、白话文
 - prosecute [ˈprɒsɪkjuːt] v.起诉、控告、检举、告发、继续从事
 - prosecutor n.公诉人、检察官、原告律师

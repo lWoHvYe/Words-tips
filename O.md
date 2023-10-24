@@ -21,6 +21,7 @@
 - obvious a.明显的、显著的、显而易见的、平淡无奇的
 - occasion n.场合、时机、v.造成、导致
 - occasional a.偶尔的、偶然的
+- occlusion [əˈkluːʒn] n.闭合、(图像、窗口)遮挡
 - occupation n.占有、占领、使用、职业、工作、消遣、业余活动
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - occur [əˈkɜː(r)] v.出现、发生、存在于、出现在
@@ -80,7 +81,7 @@
 - orientation 方向、目标、定位、态度、观点、培训
 - origin n.起源、由来、出身、来历、原点
 - original a.原始的、最初的、独创的、新颖的、n.原件、原文、不同寻常的人、怪人
-- originate v.起源、发源、创立、创建、发明
+- originate [əˈrɪdʒɪneɪt] v.起源、发源、创立、创建、发明
 - ornament n/v.装饰、点缀
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 

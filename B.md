@@ -86,7 +86,7 @@
 - biomass n.生物量
 - biophilia n.热爱生命的天性
 - bipedal a.双足行走的
-- bi-temporal n.双时态
+- bi-temporal n.双时态、保持数据的多个version
 - bit [bɪt] n.比特
 - bite v.叮、咬
 - bitwise n.位运算

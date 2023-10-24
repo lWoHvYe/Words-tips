@@ -16,6 +16,7 @@
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
 - can modal.可以、能够、n.罐头、金属容器、密封保护外壳、一听、v.解雇、开除
 - canal [kəˈnæl] n.运河、沟渠、管道、管、道
+- canary n.金丝雀
 - cancel [ˈkænsl] n/v.取消、撤销、注销、约去、相互抵消
 - cancer [ˈkænsə(r)] n.癌症
 - canned a.罐装的、预先录制的
@@ -37,6 +38,7 @@
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
 - carbon [ˈkɑːbən] n.碳、复写纸、碳精电极、a.碳的
 - carbonate n.碳酸盐
+- cardinal [ˈkɑːdɪnl] n.基数、枢机主教、红衣主教、a.最重要的、基本的
 - cardinality n.基数
 - care n.照顾、照料、小心、忧虑、v.关心、关怀、在意、介意 take care of 照顾、照料、承担、处理、负责 care for 照管、关心、喜欢
 - career [kəˈrɪə(r)] n.职业、生涯
@@ -63,13 +65,14 @@
 - catchword n.口号、标语、流行语
 - category n.类型、类别、种类
 - cater v.满足需要、迎合、提供饮食  cater to/for 
+- cathode n.阴极、负极  Cathode Ray Tubes - CRT 阴极射线管
 - cattle n.牛、牲口、畜生
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
 - caution n/v.警告、告诫、小心、慎重
 - cautious a.小心的、谨慎的  be cautious about 小心...
 - cave n.山洞、洞穴
-- caveat n.警告、告诫、附加说明
+- caveat [ˈkæviæt] n.警告、告诫、附加说明
 - cease [siːs] n/v.停止、结束、终止
 - ceiling [ˈsiːlɪŋ] n.天花板、上限  the glass ceiling 玻璃天花板、无形限制、无形障碍
 - celebrate [ˈselɪbreɪt] v.庆祝、祝贺、歌颂、赞美、烘托
@@ -190,6 +193,7 @@
 - clip n.夹子、修剪、回形针、v.修剪、剪辑
 - clipboard 剪切板
 - clique [kliːk] n.小团体
+- clog v.堵塞、阻塞、n.木屐
 - close v.关闭、停业、倒闭、缩小、接近、n.结束、关闭、a.接近的、紧闭的、稠密的
 - closet n.壁橱、密室、a.私下的、隐蔽的、v.把...引进密室会谈
 - closure n.结束、停业、关闭、倒闭、闭合、闭包、v.使结束、使终止
@@ -217,7 +221,7 @@
 - cognize v.认识、认知
 - coherence n.连贯性、条理性
 - coherent a.连贯的、有条理的、有黏性的
-- cohesive a.有结合力的、紧密结合的、结成一个整体的
+- cohesive a.使内聚的、有结合力的、紧密结合的、结成一个整体的
 - coil [kɔɪl] n.卷、线圈、v.卷、盘绕
 - coin n.硬币、v.创造(新词语)、铸(币)
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
@@ -251,6 +255,7 @@
 - comma n.逗号
 - commemorate [kəˈmeməreɪt] v.纪念、庆祝
 - commence 开始、着手、发源、获得学位
+- commend v.赞扬、称赞、受到赞同/认可
 - commensurate a.相等的、相称的、相当的
 - comment n.议论、评论、注释、意见、说明、v.表达意见
 - commentary 评论、评注、注释
@@ -346,6 +351,8 @@
 - confluence [ˈkɒnfluəns] n.汇合、交汇处
 - confluent a.汇合的
 - conform v.符合、遵守、相一致、相吻合  conform to 
+- conformist n.循规蹈矩的人、顺从者、跟随者
+- conformity n.一致性、遵从、遵守
 - confront [kənˈfrʌnt] v.使面临、使面对、与...对峙
 - confuse v.困惑、迷惑、混淆
 - congest v.拥挤、使充血
@@ -411,6 +418,7 @@
 - continue v.持续、继续、连续、延伸
 - continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性
 - continuous a.连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
+- contour n.外形、轮廓、等高线 
 - contra n.相反、对立面、抵消、prep.反对、与...相反、ad.反对、相反
 - contract n.合同、契约、v.签合同、缩小、感染
 - contraction n.收缩、缩写、痉挛
@@ -441,6 +449,8 @@
 - conviction n.判罪、定罪、信念、确信、说服
 - convince v.说服、劝说、使确信、使信服
 - convolute n.旋、盘旋、a.回旋的
+- convolution n.错综复杂、盘绕、卷绕
+- convolutional a.卷积的
 - cooperate [kəʊˈɒpəreɪt] v.合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
@@ -498,7 +508,7 @@
 - craft n.工艺、手艺、技巧、技能、v.精心制作
 - cramp [kræmp] n.抽筋、痉挛、a.受约束的、狭窄的
 - cramped a.狭窄的、拥挤的
-- crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的
+- crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的  crash course 速成课
 - crave v.渴望、热望、恳求
 - crawl v.爬行
 - crazy [ˈkreɪzi] a.疯狂的、狂热的、发疯的
@@ -541,7 +551,7 @@
 - cry v.哭、哭泣、叫喊、呼喊
 - crypto [ˈkrɪptoʊ] 加密货币
 - cryptography [krɪpˈtɒɡrəfi] 密码学、密码术
-- crystal [ˈkrɪstl] n.晶体、结晶、水晶、a.清楚的、显而易见的、晶莹的
+- crystal [ˈkrɪstl] n.晶体、结晶、水晶、a.清楚的、显而易见的、晶莹的  Liquid Crystal Displays - LCD 液晶显示器
 - crystallize [ˈkrɪstəlaɪz] v.结晶、使明确
 - cube n.立方体、立方、三次幂
 - cucumber [ˈkjuːkʌmbə(r)] n.黄瓜

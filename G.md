@@ -1,5 +1,6 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
 - gallery 画廊、走廊、长廊
+- gallon n.加仑(容量单位)
 - gamble [ˈɡæmbl] n/v.赌博
 - game n.游戏、比赛、猎物、v.打赌
 - gap n.缺口、间隙、分歧、隔阂、空白  narrow the gap 缩小差距  fill the gap 填补空白、弥合差距

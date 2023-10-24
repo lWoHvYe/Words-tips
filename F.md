@@ -137,6 +137,7 @@
 - fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定、动摇不定
 - fluent a.流利的、流畅的
 - flush n/v.冲洗、脸红
+- flux n.通量、流量、不断的变动、不断的变化
 - flyout n.弹出按钮
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源

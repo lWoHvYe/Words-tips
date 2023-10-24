@@ -18,7 +18,7 @@
 - vanity [ˈvænəti] n.虚荣心、自负、虚荣、浮华、空虚
 - vapour [ˈveɪpə(r)] n.蒸汽、雾气
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
-- variant 变种、变体、变量、变异的、多样的、易变的、不定的
+- variant n.变种、变体、变量、a.变异的、多样的、易变的、不定的
 - variation 变化、变动、变异、演变、变奏曲、变量
 - variety [vəˈraɪəti] n.多样、种类、多样化
 - various [ˈveəriəs] a.各种各样的、各个的、个别的

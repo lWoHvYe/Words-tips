@@ -1,4 +1,5 @@
 - kebab n.烤肉串
+- kernal n.内核、核心
 - keyboard n.键盘、琴键、v.用键盘输入  keyboard commands 键盘命令
 - keystroke [ˈkiːstrəʊk] n.按键、击键
 - kick 踢、效力、精力; kick off 开球、发球、开始做某事，比如kick-off meeting 项目启动会  kick out 驱逐
@@ -14,3 +15,4 @@
 - knit [nɪt] v.编织、严密、紧凑、愈合、接合、n.编织的衣服、针织衫
 - knot n.结、群、簇、节(船和飞行器的速度计量单位)、难题、v.打结
 - knock v.敲、击、怦怦跳、n.敲击声、敲门声  knock off 下班、收工、使降低、使减少、迅速而轻松的完成  knock out 击败、摧毁、淘汰
+- Knowledge Transfer - KT

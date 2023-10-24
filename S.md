@@ -16,6 +16,7 @@
 - sand [sænd] n.沙、沙滩
 - sandal [ˈsændl] n.凉鞋
 - sanitization 消毒、卫生处理、净化、清除
+- sanitize [ˈsænɪtaɪz] v.消毒、净化
 - sanity [ˈsænəti] n.理智、明智
 - sarcasm [ˈsɑːkæzəm] n.讽刺、挖苦、嘲讽
 - sarcastic [sɑːˈkæstɪk] a.讥讽的、讽刺的、挖苦的
@@ -68,7 +69,7 @@
 - sculpture n.雕刻、雕塑、雕塑品
 - seal n.海豹、印章
 - seam n.煤层、接缝、裂缝、v.缝合、接合、裂开
-- seamless a.无缝的
+- seamless a.无缝的、无遗漏的
 - sear [sɪə(r)] n/v.烧灼、烤焦
 - season n.季、季节、时期、v.使适应、调味
 - seasonal a.季节性的、周期性的
@@ -94,6 +95,7 @@
 - seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
+- selenium [səˈliːniəm] n.硒
 - sell v.卖、出售、转让
 - semantic a.语义的、语义学的
 - semester n.学期
@@ -110,6 +112,7 @@
 - sentence n.句子、宣判、判刑、v.判决
 - sentiment n.看法、观点、情绪、伤感、哀伤
 - separate v.分开、分离、a.分开的、单独的、不相关的
+- sequel [ˈsiːkwəl] n.续集、后续的事、随之而来的事
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
 - sequential a.顺序的、按次序的
@@ -204,6 +207,7 @@
 - sine [saɪn] n.正弦
 - singleton [ˈsɪŋɡltən] n.单项物
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
+- singularity n.奇点
 - sinister [ˈsɪnɪstə(r)] a.邪恶的、不详的、有凶兆的
 - sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
 - sip v.小口喝、抿、n.一小口的量
@@ -288,7 +292,7 @@
 - sophistical a.诡辩的、强词夺理的
 - sophisticate n.老练的人、见多识广的人
 - sophisticated [səˈfɪstɪkeɪtɪd] a.尖端的、复杂的、精通的、老练的  sophisticated equipment 尖端设备  sophisticated technology 尖端技术  highly sophisticated 高精尖的
-- sort n.分类、排序、种类、类别、v.分类、整理
+- sort [sɔːt] n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
 - sound n.声音、a.健全的、明智的、合理的
 - soup n.汤、羹
@@ -456,7 +460,7 @@
 - strive v.努力、力争、力求
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
 - stroll [strəʊl] n/v.散步、闲逛、轻松获胜
-- structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列
+- structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列  Structured Query Language - SQL/sequel
 - struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
 - stub n.存根、票根
 - stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
@@ -488,6 +492,7 @@
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
 - substraction n.减法、减去、相减
 - substrate n.底层
+- subsume v.将...归入/纳入
 - subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、细微的、敏感的、奥妙的
 - subtract 减、减去、扣除
@@ -533,7 +538,7 @@
 - supervisor n.监督者、指导者、主管人
 - supervisory a.监督的、管理的、指导的
 - supreme [suːˈpriːm] a.最高的、至高无上的
-- supple 灵活的、柔软的、顺从的、使柔软、使顺从
+- supple a.灵活的、柔软的、顺从的、v.使柔软、使顺从
 - supplemental 补充、增补、添加物、增刊、附录、额外费用、补足的、追加的
 - supplier 供应商、供货商、供应者、供货方
 - support 支持、拥护、资助、赞助、支撑、（一些地方也可做）担保

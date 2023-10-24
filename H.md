@@ -53,6 +53,7 @@
 - height [haɪt] n.身高、高度
 - heighten v.提高、加强  heighten the value of 提升...的价值
 - heightened a.不断增加的、升高的、增强的  heightened alert 高度警戒
+- hell n.地狱
 - hence ad.因此、所以、由此、从现在、从此刻起、n.另一世界、将来
 - herb n.药草、香草、草本植物
 - herd n.牧群、人群、v.群集
@@ -64,7 +65,7 @@
 - hesitant a.犹豫的、踌躇的
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
-- heuristic a.启发式的
+- heuristic [hjuˈrɪstɪk] a.启发式的
 - hide v.躲藏、隐瞒、隐匿、n.皮革、兽皮、隐蔽处、藏身处
 - hierarchy [ˈhaɪərɑːki] 分层、层次、层次体系、等级制度、统治集团
 - high a.高的、高级的、高尚的、ad.在高处  be high in sth 富含某物  high school 中学、高中
@@ -115,7 +116,7 @@
 - hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙
 - hurt n/v.伤害、损害
-- hybrid 混合的、杂种的、杂交、混合物、合成物
+- hybrid [ˈhaɪbrɪd] a.混合的、杂种的、n.杂交、混合物、合成物、杂交动植物
 - hydrochloride n.盐酸、盐酸盐、氯化氢
 - hydrogen [ˈhaɪdrədʒən] n.氢、氢气
 - hype v.炒作、n.促销广告

@@ -208,6 +208,7 @@
 - intake n.吸入、摄入、进气 intake form 登记表
 - integral a.完整的、必须的、积分的、n.积分、整体
 - integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的  integration with 集成
+- Integrated Circuits - ICs 集成电路 
 - integrity [ɪnˈteɡrəti] n.完整、完整性、廉正、正直、诚实、保存、健全
 - intellectual a.智力的、有才智的、n.知识分子
 - intelligible 可理解的、易懂的
@@ -255,7 +256,7 @@
 - interrupt v.打断、中断、阻止、打扰
 - intersect v.横断、横切、相交、交叉
 - intersection n.交集
-- interval n.间隔、间歇、休息时间、音程
+- interval [ˈɪntəvl] n.间隔、间歇、区间、休息时间、音程
 - intervene v.插手、插嘴、介入、干预、妨碍
 - interview v/n.采访、面试、接见、会谈
 - intimacy n.亲密、亲切
@@ -289,6 +290,7 @@
 - invitation n.邀请、请柬、招待
 - invocate 调用
 - invocation n.祈祷、乞求、调用、启用
+- invoice n.发票、v.开发票、记清单
 - invoke v.调用(方法等)、援引、援用(法律规则等)、提及、用法术召唤
 - involuntary a.非自愿的、无意识的、不自觉的、非本意的
 - involve v.涉及、包含、牵涉、连累、参加、加入
@@ -305,3 +307,4 @@
 - item n/ad.项目、条款、一条、一则
 - iterate v.迭代
 - iteration n.迭代
+- itinerary n.行程、旅行日志

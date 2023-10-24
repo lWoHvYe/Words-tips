@@ -3,7 +3,7 @@
 - qualification n.资格、资历、学历、限定条件、资格证  professional qualification 专业资格  minimal ~ 最低限制
 - qualifier n.合格者、预选赛、资格赛
 - qualify v.具有资格、有权、达标、限定、修饰、描述、形容、使合适、证明
-- quality [ˈkwɒləti] n.质量、特性、优质、品德、a.优质的、高质量的
+- quality [ˈkwɒləti] n.质量、特性、优质、品德、a.优质的、高质量的  Quality Assurance - QA
 - quantity [ˈkwɒntəti] n.数量、数目、大量、大批
 - quantum [ˈkwɒntəm] n.量子 复数: quanta
 - quarrel n/v.争吵

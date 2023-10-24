@@ -25,7 +25,7 @@
 - egress n.出口、运出、外出
 - eject v.驱逐、剥夺、喷射、弹射
 - elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
-- elapse 逝去、消逝、流逝
+- elapse n/v.逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
 - elder [ˈeldə(r)] n.长者、元老、长老、a.年龄较大的、资格较老的
 - elect v.选举、推举、选择
@@ -72,7 +72,7 @@
 - employment n.雇用、工作、职业、就业
 - empower v.授权、准许
 - empress n.女皇、皇后
-- emulate 模仿、仿真、竞争、努力赶上
+- emulate v.模仿、仿真、竞争、努力赶上
 - enable v.使能够、使可能、批准、为...提供条件
 - enact [ɪˈnækt] v.通过(法律)、制定法律、扮演、担任...角色
 - encapsulate v.封装、概括、压缩、简述
@@ -257,7 +257,7 @@
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述、理由、原因
 - explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的  implicit or explicit reference 隐式或显式引用
 - explode v.爆炸、突然爆发、迸发、突增、激增
-- exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩
+- exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩、n.漏洞
 - explore [ɪkˈsplɔː(r)] v.勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
 - explosion n.爆发、爆炸、炸裂、突增、激增

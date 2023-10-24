@@ -180,7 +180,7 @@
 - repertoire [ˈrepətwɑː(r)/ˈrepərtwɑːr] n.全部节目、全部本领、(计算机的)指令表
 - repetition n.重复、反复、背诵、复制品、副本、重做的事、重说的话
 - replicate 复制、复写、重复、复制品、折转的
-- replenish v.补充、重新装满
+- replenish [rɪˈplenɪʃ] v.补充、重新装满
 - reply n/v.回答、答复
 - repo 回购  Repo Market 回购市场
 - repository n.仓库
@@ -246,7 +246,7 @@
 - retrospect [ˈretrəspekt] n.回顾、回想  in retrospect 回顾、回想
 - return [rɪˈtɜːn] n.返回、归还、回复、退回、收益、赢利、v.返回、归还、回复、退回、退还、复原、复位 in return 做为回报/回应 
 - revalue 再评价、对...重新估价
-- reveal v.揭露、泄露、显出、露出、n.揭示、启示、门侧、窗框
+- reveal v.揭露、泄露、披露、显出、露出、表明、n.揭示、启示、门侧、窗框
 - revelation n.启示、揭示、透露、新发现
 - revenge n.报仇、报复
 - revenue 收入、收益、财政收入、税收收入  income 收入(个人)

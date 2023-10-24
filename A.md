@@ -44,6 +44,8 @@
 - account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任  vivid account 生动的描述
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
+- accrual [əˈkruːəl] n.利息、获利、(投资等)累加
+- accrue v.(使钱款、债务)积累、(利润、好处等)累积、(逐渐)增加
 - accumulate [əˈkjuːmjəleɪt] v.积累、堆积
 - accuracy n.精确(程度)、准确(性)
 - accurate a.精确的、准确的、正确无误的
@@ -119,6 +121,7 @@
 - affection n.感情、喜爱、爱情、钟爱
 - affectionate a.有感情的、热情的、慈爱的
 - affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
+- affinity [əˈfɪnəti] n.密切关系、喜好、喜爱
 - affirm v.公开肯定、断言、证实
 - affluent a.富裕的、n.富人、支流
 - afford v.提供、给予、负担得起、买得起、有能力做
@@ -182,6 +185,7 @@
 - almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
 - alone a/ad.单独、独自、孤独、单独的、单独地
 - along prep.沿着、顺着、靠着...边、ad.一道、一起  along with A came B 伴随着A而来的是B
+- alphabet [ˈælfəbet] n.字母表
 - alphabetical a.按字母顺序的
 - alphanumeric [ˌælfənjuːˈmerɪk] a.含有字母和数字的、字母和数字并用的
 - alpine a.阿尔卑斯山的
@@ -207,6 +211,7 @@
 - ampersand [ˈæmpəsænd] n. & (and符号)
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amplifier n.放大器、扩音器
+- amplitude n.振幅
 - amuse v.娱乐、消遣、逗笑
 - amusing a.有趣的、好笑的
 - analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
@@ -216,6 +221,7 @@
 - analysis [əˈnæləsɪs] n.分析、分析结果、分析报告
 - analyst [ˈænəlɪst] n.分析师、化验员
 - analytic(al) a.分析的、分解的
+- analyze v.分析
 - anatomy [əˈnætəmi] n.解剖、解剖学、剖析
 - ancestor n.祖宗、祖先、原型
 - ancestry [ˈænsestri] n.祖先、祖宗
@@ -230,14 +236,18 @@
 - angry a.生气的、愤怒的、狂暴的
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
+- animation n.动画、动画片
+- ankle n.脚踝、踝关节
 - anniversary n.周年纪念日
 - annotate v.注释
 - annotation n.注解、注释
 - announce v.宣布、宣告、通知、声明
 - annual [ˈænjuəl] a.年度的、每年的
+- anode n.阳极
 - anonymity n.匿名
 - anonymous a.匿名的
 - antenna n.天线、触角
+- Antialiasing 抗锯齿
 - anthropology [ˌænθrəˈpɒlədʒi] n.人类学
 - anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
 - antique a.古时的、古老的、n.古物、古董
@@ -257,6 +267,7 @@
 - appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
 - applaud [əˈplɔːd] v.鼓掌、称赞
 - applause n.掌声、鼓掌、喝彩
+- appliance n.电器、器具
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
@@ -288,6 +299,7 @@
 - aristocrat [ˈærɪstəkræt] n.贵族
 - arity n.(参数)数量、元数
 - arm n.手臂、袖子、武器、装备、v.武装、给...装上引信、打开...的保险
+- armo(u)r n.装甲、v.为...提供防御
 - army n.军队、陆军、野战军
 - arouse [əˈraʊz] v.引起、唤起、激起、激发、唤醒
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
