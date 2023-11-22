@@ -27,14 +27,14 @@
 - familiar a.熟悉的、亲近的
 - famine [ˈfæmɪn] n.饥荒
 - famous a.著名的、出名的
-- fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起  electric fan 电风扇
+- fan n.迷、狂热爱好者、风扇、扇子、v.扇、吹、激起  electric fan 电风扇  fan-in/fan-out 扇入/扇出
 - fancy [ˈfænsi] v.想象、设想、想要、n.设想、想象力、爱好、迷恋、a.花哨的、精致的、优质的、昂贵的、奢华的  fancy car 豪车
 - fantastic a.奇异的、幻想的、异想天开的、极好的、了不起的、很大的、怪诞的、不切实际的、富于想象的  fantastic idea 奇思妙想
 - fantasy [ˈfæntəsi] n.幻想、想象、空想的产物、幻想作品  various fantasy elements 许多奇幻的元素
 - fantasize v.想象、幻想、白日做梦
 - far a.远的、遥远的  比较级：farther/further  最高级：farthest/furthest
 - fare [feə(r)] n.票价、饭菜
-- farewell n.告别、辞行、再会
+- farewell n.告别、辞行、再会、int.再见、再会
 - farm n.农场、v.种田、务农、饲养、养殖
 - farmer n.农民、农场主
 - farther ad.进一步、更远地
@@ -77,7 +77,7 @@
 - fetch 取来、拿来
 - feudal [ˈfjuːdl] a.封建的
 - feudalism [ˈfjuːdəlɪzəm] n.封建主义
-- fever n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
+- fever [ˈfiːvə(r)] n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - few 很少、几乎没有
 - fibre/fiber [faɪbə] n.光纤、纤维
 - fictile a.陶土制的、n.陶制品

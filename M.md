@@ -50,6 +50,7 @@
 - marriage n.结婚仪式、婚姻、婚礼
 - marry [ˈmæri] v.结婚、嫁、娶、为...举行婚礼
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
+- marvel [ˈmɑːvl] n.令人惊异的人或事、成就、奇迹、v.惊奇、大为赞叹
 - marvellous a.绝妙的、极好的、非凡的
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
 - mask n.面具、面罩、伪装、v.掩饰、掩藏
@@ -118,6 +119,7 @@
 - merge v.合并、融合、融入
 - merit [ˈmerɪt] n.优点、美德、价值、功绩、绩效、v.应得、值得
 - meritocratic [ˌmerɪtəˈkrætɪk] a.精英领导的
+- meson 介子
 - mess n.混乱、困境、肮脏、v.弄脏、搞砸  mess up 弄乱、把...搞糟
 - message n.信息、要旨、要点
 - meta [ˈmɛtə] 元

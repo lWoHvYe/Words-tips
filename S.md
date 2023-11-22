@@ -444,6 +444,7 @@
 - straw n.稻草、吸管
 - strawberry n.草莓
 - stray v.迷路、走失、偏离正题、走入歧途、a.走失的、走散的、离群的、n.走失的动物
+- streak n.条纹、运气、手气
 - stream n.流、v.流动、流式传输  streaming services 流媒体
 - strength n.力量、体力、毅力、优点、长处
 - strengthen v.加强、增强、巩固

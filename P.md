@@ -9,6 +9,7 @@
 - palace [ˈpæləs] n.王宫、宫殿
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
 - pandemic n.流行病、大流行病、疫情、瘟疫、a.(疾病)大流行的、普遍的、全世界的
+- pane n.窗格、方框
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
 - panic n/v.惊恐、恐慌、go语言中的异常
 - panorama [ˌpænəˈrɑːmə] n.全景、全景画、全景摄影  panorama of English society 英国社会的全景

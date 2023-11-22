@@ -64,6 +64,7 @@
 - delegate v.代表、把...委派、选派、n.代表
 - delete [dɪˈliːt] v.删除、n.删除键、删除指令
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
+- deliberation n.审议、考虑、商议、评议
 - delicate a.纤弱的、微妙的、灵敏的
 - delight n.高兴、愉快、快乐、v.使高兴、使愉快、使欣喜
 - delimit v.限制、界定
@@ -143,6 +144,7 @@
 - devastate 毁灭、破坏、蹂躏、使荒废
 - develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
+- deviation n.偏离、偏差
 - device n.装置、设备、方法、策略、手段
 - devil [ˈdevl] n.魔鬼、恶魔  devil's bones 骰子🎲  devil's advocate 故意唱反调的人
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
@@ -319,7 +321,7 @@
 - dreadful a.可怕的、糟糕透顶的、极严重的
 - dress [dres] n.连衣裙、礼服、v.穿衣、打扮
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
-- drill 训练、操练、演习、钻、钻头
+- drill n/v.训练、操练、演习、钻、钻头
 - drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示、写/寄(信)  drop out 离开、退出、退学  drop back down 放下  drop an email 写封邮件

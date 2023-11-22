@@ -110,7 +110,7 @@
 - thrift n.节约、节俭
 - thrill [θrɪl] n/v.激动、兴奋、紧张
 - thrive [θraɪv] v.兴旺发达、繁荣、蓬勃发展、旺盛、茁壮成长
-- throat n.喉咙、咽喉
+- throat [θrəʊt] n.喉咙、咽喉
 - throb [θrɒb] n/v.脉搏、跳动
 - throne [θrəʊn] n.王权、君权
 - throttle v.掐死、使窒息、扼杀、n.节流阀、风门

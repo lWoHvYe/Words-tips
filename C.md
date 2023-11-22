@@ -25,6 +25,7 @@
 - canon n.原则、标准、准则
 - canonical [kəˈnɒnɪkl] a.典型的、经典的、最简洁的
 - cant n.伪善言辞、虚假的话、空话、v.倾斜、a.活泼有力的
+- canvas [ˈkænvəs] n.帆布、画布
 - cap n.帽子、额度、限额、v.覆盖、笼罩、胜过、超过
 - capability n.性能、容量、才能、能力、生产力
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
@@ -43,6 +44,7 @@
 - care n.照顾、照料、小心、忧虑、v.关心、关怀、在意、介意 take care of 照顾、照料、承担、处理、负责 care for 照管、关心、喜欢
 - career [kəˈrɪə(r)] n.职业、生涯
 - carefree a.无忧无虑的
+- caret n.脱字号、补注号
 - cargo n.货物
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
@@ -332,6 +334,7 @@
 - concur n.同意、赞同
 - concurrent a.并发的、同时发生的、并存的、一致的、合作的、n.同时发生的事情
 - condemn [kənˈdem] v.谴责、指责、宣判、宣布、迫使
+- condense v.压缩、精简、浓缩、冷凝、凝结
 - condition n.条件、状态、状况、健康状况、处境、v.训练、使习惯于、使适应、养护
 - conditional a.条件的、有条件的、有附带条件的、依...而定的  conditional on/upon 依/视...而定 = depend on/upon
 - conduct [kənˈdʌkt]/[ˈkɒndʌkt] n.行为、举止、品行、引导、v.执行、引导、安排、组织、管理、进行、传导
@@ -485,6 +488,7 @@
 - cottage n.小屋、村舍
 - cotton n.棉、棉花、棉线、棉织物  cotton fibre 棉纤维
 - couch [kaʊtʃ] n.沙发
+- cough [kɒf] n/v.咳嗽、咳出
 - council [ˈkaʊnsl] n.委员会、理事会、俱乐部、v.开会、审议、讨论、a.会议用的、议事用的、地方政府出租的  council flat 公租房
 - counsel [ˈkaʊnsl] n/v.劝告、忠告、建议、n.法律顾问、律师
 - counseling n.咨询服务
