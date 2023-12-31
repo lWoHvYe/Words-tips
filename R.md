@@ -183,7 +183,7 @@
 - replenish [rɪˈplenɪʃ] v.补充、重新装满
 - reply n/v.回答、答复
 - repo 回购  Repo Market 回购市场
-- repository n.仓库
+- repository [rɪˈpɒzətri] n.仓库
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
@@ -295,7 +295,7 @@
 - root n.根本、v.扎根
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
-- rotation n.旋转、轮换、交替
+- rotation n.旋转、轮换、交替、循环
 - rough a.粗糙的、不平滑的、粗略的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   

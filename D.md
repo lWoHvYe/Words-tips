@@ -55,6 +55,7 @@
 - deficiency n.不足、缺乏、缺陷
 - deficient [dɪˈfɪʃnt] a.不足的、缺乏的、有缺陷的、n.有缺陷的人或物
 - deficit [ˈdefɪsɪt] n.赤字、亏损、亏空、不足额
+- deflation n.通货紧缩
 - defy v.蔑视、违抗、反抗
 - degradation n.恶化、堕落、毁坏
 - degrade v.降低、贬低、退化、降解、分解

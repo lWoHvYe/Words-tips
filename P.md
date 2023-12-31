@@ -28,6 +28,7 @@
 - pare v.削减、削皮、逐步减少
 - parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
+- parity n.奇偶性、对等、平等
 - park n.公园、园区、v.停、泊
 - parliament [ˈpɑːləmənt] n.国会、议会
 - parse [pɑːz] v.从语法上描述或分析
@@ -370,6 +371,7 @@
 - prohibit v.禁止、阻止、不允许
 - project n.项目、工程、计划、方案、v.计划、规划、预测、投影
 - projection n.预测、规划、估计、投影、体现、形象化
+- prologue n.序幕、序言、开场白
 - prominent a.重要的、著名的、杰出的、突出的  prominent figure 杰出人物
 - promise n/v.允许、许诺、承诺、保证、指望、有指望
 - promising a.有希望的、有前途的

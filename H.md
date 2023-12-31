@@ -31,6 +31,7 @@
 - hate n/v.厌恶、憎恨
 - hatred [ˈheɪtrɪd] n.仇恨、憎恨
 - hazard n.危险、危害、v.冒...危险、冒险猜测、斗胆提出
+- haze n.霾、薄雾
 - hazy a.朦胧的、模糊的、困惑的
 - hawk [hɔːk] n.鹰、主站分子、v.沿街叫卖、兜售
 - head n.头、头脑、领导、主管、v.朝着...行进
@@ -49,6 +50,7 @@
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
 - heavy a.沉的、重的、繁忙的、ad.大量地
+- hectare n.公顷
 - hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
 - height [haɪt] n.身高、高度
 - heighten v.提高、加强  heighten the value of 提升...的价值

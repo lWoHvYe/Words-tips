@@ -50,6 +50,7 @@
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
 - carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.
 - cart n.手推车
+- cartoon n.卡通、漫画
 - carve v.雕刻、把...切成块、开创  be carved into 被分成...
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
@@ -129,6 +130,7 @@
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
 - check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票
+- check-up 检查
 - cheer n/v.欢呼、加油、鼓舞
 - cheerleader n.(强有力的)支持者
 - chef [ʃef] n.厨师
@@ -229,6 +231,7 @@
 - coincide [ˌkəʊɪnˈsaɪd] v.相符、相一致、想法/意见等相同、同时发生
 - coincidence n.巧合、巧事、同时存在、并存、一致
 - collaborate v.合作、协作、勾结、通敌
+- collage n.拼贴画、v.拼贴
 - collapse n.崩溃、倒塌、折叠、垮掉、昏倒、v.倒塌、降价、贬值
 - collar n.衣领、领子
 - collate v.整理、校对、核对、对照
@@ -437,6 +440,8 @@
 - controversial a.有争议的、引起争议的
 - controversy n.争论、辩论、争议
 - controvert v.反驳、驳斥
+- covariance n.协方差
+- covariant a.共变的、协变的
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
 - convenience n.方便、合适、便利设施  convenience and efficiency 方便且高效
 - convenient a.实用的、便利的、方便的、附近的、适当的  a convenient way 一种便捷的方式

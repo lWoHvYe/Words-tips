@@ -16,6 +16,7 @@
 - query [ˈkwɪəri] n/v.查询、询问、疑问
 - quest n/v.探索、追求  in the quest for 为了追求...
 - questionaire/questionnaire n.问卷调查、问卷、调查表
+- queue [kjuː] n.队列
 - quick a.快的、迅速的、敏捷的
 - quickness n.机智、机敏、敏捷
 - quiescent a.静止的、静态的、休眠的

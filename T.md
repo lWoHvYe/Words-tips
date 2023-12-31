@@ -249,6 +249,7 @@
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
 - tumo(u)r n.肿瘤、肿块
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
+- tunnel n.隧道、通道
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
 - turbo n.涡轮发动机、涡轮增压器
 - turbulence n.湍流、涡流、气流、骚乱、动乱

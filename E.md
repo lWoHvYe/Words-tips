@@ -135,6 +135,7 @@
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的  epidemic flu 流感
+- epilogue n.后记、尾声
 - episode [ˈepɪsəʊd] n.插曲、片段、一集、单集
 - epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期、(地质)世、纪、期
 - epochal a.划时代的
@@ -197,6 +198,7 @@
 - evoke v.唤起、产生、引起
 - evolution n.发展、进化、演变  biological evolution 生物进化
 - evolve v.发展、进化、演变
+- ex 通常是example的缩写，在工作场合，ex通常用于指代前雇主(ex-employer)，缩写为 ex-
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - exaggerate [ɪɡˈzædʒəreɪt] v.夸大、夸张
 - exaggeration n.夸张、夸大、言过其实

@@ -191,7 +191,7 @@
 - fracture n.骨折、v.断裂、破裂
 - fragile [ˈfrædʒaɪl] a.脆弱的、易碎的、虚弱的、精致的
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
-- frame n.框架、边框、体形、体态、v.设计、给...做边框、制定、拟定  a small frame 身材娇小
+- frame n.框架、边框、体形、体态、帧、v.设计、给...做边框、制定、拟定  a small frame 身材娇小  stack frame 堆栈帧
 - framework n.框架、架构、结构、机构、组织
 - franchise n.特权、赋予特权、选举权、经销权
 - frank [fræŋk] a.坦白的、直率的
@@ -229,3 +229,4 @@
 - fuse v.融合、熔化、n.保险丝、导火索
 - fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
 - future n.将来、未来、前景、前途、期货、a.将来的、未来的
+- fuzzy a.模糊的、含糊不清的、毛绒绒的

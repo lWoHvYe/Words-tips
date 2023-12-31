@@ -44,6 +44,7 @@
 - glimpse n.一瞥、一看、v.瞥见、看一眼
 - glitch [ɡlɪtʃ] n.差错、小故障
 - glitter n/v.闪烁
+- glob n.一小滴、一小团
 - global [ˈɡləʊbl] a.全球的、全世界的、整体的、全面的、总括的
 - globe n.地球、球体、地球仪
 - glorious [ˈɡlɔːriəs] a.光荣的、辉煌的、壮丽的
@@ -84,6 +85,7 @@
 - grave n.坟墓、墓穴、死亡、逝世、v.雕刻、铭记、a.严重的、重大的、庄严的、沉重的、严峻的
 - graveyard n.墓地、垃圾场、收容所
 - gravity [ˈɡrævəti] n.重力G、万有引力
+- graze n.擦伤、v.放牧、吃草、蹭
 - greatness n.伟大、崇高、著名
 - greed n.贪婪
 - Greek n.希腊、希腊人

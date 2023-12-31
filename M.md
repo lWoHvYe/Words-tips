@@ -179,7 +179,7 @@
 - mitre 主教法冠、斜接
 - mix n/v.混合、掺合、调配、相容、交往、混杂、n.混合体、乐曲组合  mix up 混合
 - mixture n.混合、混合物、混合体
-- mnemonic [nɪˈmɒnɪk] n.助记符号 
+- mnemonic [nɪˈmɒnɪk] n.助记符号、助记符
 - moan [məʊn] n/v.呻吟、抱怨、悲叹、呼啸
 - mobile [ˈməʊbaɪl] a.可移动的、行动自由的、流动的、多变的、易变的、n.风铃 mobile phone 手机、移动电话
 - mobilize v.动员、调动、组织、鼓动
@@ -234,6 +234,8 @@
 - mortgage [ˈmɔːrɡɪdʒ] n/v.抵押贷款、按揭贷款、按揭、抵押（房产）
 - mortem 事后剖析
 - moster n.怪兽、怪物
+- mother n.母亲
+- motherboard n.主板
 - moth n.蛾、飞蛾
 - motion n.运动、行动、意图、动机、v.示意
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
