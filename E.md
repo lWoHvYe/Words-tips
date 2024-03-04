@@ -132,6 +132,7 @@
 - envisage [ɪnˈvɪzɪdʒ] v.设想、想象、展望
 - envision [ɪnˈvɪʒn] v.想象、展望
 - envy [ˈenvi] n/v.羡慕、嫉妒
+- EOD End of Day 当天结束时
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的  epidemic flu 流感
