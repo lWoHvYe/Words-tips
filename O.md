@@ -59,6 +59,7 @@
 - opposite [ˈɒpəzɪt] a.对立的、相反的、完全不同的、n.对立的人或物、对立面、反面、v.在...的对面
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - opt v.选择、挑选
+- optic a.眼的、视觉的
 - optimal a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)

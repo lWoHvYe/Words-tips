@@ -62,7 +62,7 @@
 - acre [ˈeɪkə(r)] n.英亩
 - acreage [ˈeɪkərɪdʒ] n.面积、英亩数
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
-- act n.行为、法令、法案、表演、假装、v.行动、表演、起作用  Act 法案
+- act n.行为、法令、法案、表演、假装、v.行动、表演、起作用  Act 法案  act up 运作不正常、出毛病、复发
 - action n.行动、行为、作用、诉讼
 - activate [ˈæktɪveɪt] v.使运作、使起作用、使活化、激活
 - active [ˈæktɪv] a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
@@ -157,7 +157,7 @@
 - alarm n.警报、闹钟、v.使惊恐、向...报警、使警觉、警告
 - alarmist a.危言耸听的、n.杞人忧天者
 - albeit [ˌɔːlˈbiːɪt] conj.虽然、即使、尽管
-- album n.相册
+- album n.相册、唱片、专辑
 - alcohol [ˈælkəhɒl] n.乙醇、酒精
 - alert a.机警的、警觉的、v.使...警觉、使意识到、n.警戒、警惕、警报
 - algebra [ˈældʒɪbrə] n.代数学、代数
@@ -214,7 +214,7 @@
 - amplitude n.振幅
 - amuse v.娱乐、消遣、逗笑
 - amusing a.有趣的、好笑的
-- analog n.模拟、类似物、a.(钟表)有长短针的、模拟的
+- analog n.模拟、类似物、a.(钟表)有长短针的、模拟的  analog signal 模拟信号
 - analogous [əˈnæləɡəs] a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
 - analyse/analyze [ˈænəlaɪz] v.分析
@@ -267,11 +267,11 @@
 - appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
 - applaud [əˈplɔːd] v.鼓掌、称赞
 - applause n.掌声、鼓掌、喝彩
-- appliance n.电器、器具
+- appliance [əˈplaɪəns] n.电器、器具
 - applicability 适用性、相关性、适用范围
 - applicable a.适当的、恰当的、可应用的、适用、合适
 - applicant n.申请人、求职者
-- application n.请求、申请、应用、涂抹、施用、应用程序
+- application n.请求、申请、应用、涂抹、施用、应用程序  API - Application Programming Interface
 - apply v.申请、应用、运用、适用、适合、涂、敷  apply to 适用于、运用  apply for 申请
 - appoint v.任命、委派、安排、约定、确定
 - appointment n.任命、委派、约会、约定、职务、职位
@@ -290,8 +290,8 @@
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
 - architect n.建筑师
-- architecture n.体系结构、建筑学、建筑设计、结构
-- archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室
+- architecture n.体系结构、建筑学、建筑设计、结构、构架
+- archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室  JAR - Java archive
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument n.论点、论据、争论、辩论、争吵、主题、情节、(函数或方法的)参数
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
@@ -304,6 +304,7 @@
 - arouse [əˈraʊz] v.引起、唤起、激起、激发、唤醒
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列  an array of 一大批
+- arrear n.欠款、拖欠、落后
 - arrest n.逮捕、拘捕、停止、终止、v.逮捕、拘留、阻止、终止、吸引(注意)、心跳停止
 - arrival n.到达、到达者、到达物
 - arrive v.到达、抵达、发生、到来

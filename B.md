@@ -7,6 +7,7 @@
 - bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
 - bacterium/bacteria(复数) n.细菌
 - bad a.坏的、令人不快的、错误的  my bad 我的错
+- badge n.徽章、标记、标识
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait [beɪt] n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
@@ -125,7 +126,7 @@
 - bond [bɒnd] n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
 - bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
-- book 书、本子、预订、登记
+- book [bʊk] n.书、本子、v.预订、登记
 - boom n/v.繁荣、迅速发展、暴涨、激增、轰鸣、轰响  economic boom 经济繁荣  boom and bust 繁荣与萧条  baby boom 婴儿潮
 - boost [buːst] v.促进、增加、提高、偷窃、n.提高、激励、增长
 - boot n.靴子、(汽车后部的)行李箱、v.(+ up)启动(计算机)  boot camp 新兵训练营
@@ -155,7 +156,7 @@
 - breach [briːtʃ] v.违背、违反、n.破坏、破裂、辜负、中断
 - bread n.面包
 - breadth [bredθ] n.宽度、(知识、兴趣等)广泛
-- break v.打破、违反、中断、n.中止、休息 break down 划分部分、失败、坏掉 break through 突破  break up 分手、打破、分裂
+- break v.打破、违反、中断、n.中止、休息 break down 划分、细分、失败、坏掉 break through 突破  break up 分手、打破、分裂
 - breakeven n.收支平衡点、盈亏平衡点
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部

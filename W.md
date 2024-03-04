@@ -55,6 +55,7 @@
 - wholesome a.卫生的、健康的、有益的
 - wide a.宽的、广泛的
 - widespread a.普遍的、广泛的
+- widget n.窗口组件、窗口小部件
 - widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  
 - wildcard 通配符
@@ -99,6 +100,7 @@
 - wound n.伤口、创伤、v.使受伤、伤害
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrapper [ˈræpə(r)] n.封装
+- wrest [rest] v.拧、扭、抢夺
 - wrinkle n.皱纹、褶皱
 - wrist [rɪst] n.手腕
 - write-off n.勾销、注销、报废的东西

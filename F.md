@@ -79,7 +79,7 @@
 - feudalism [ˈfjuːdəlɪzəm] n.封建主义
 - fever [ˈfiːvə(r)] n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - few 很少、几乎没有
-- fibre/fiber [faɪbə] n.光纤、纤维
+- fibre/fiber [faɪbə] n.光纤、纤维  Fiber Optic 光纤
 - fictile a.陶土制的、n.陶制品
 - fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
 - ficus 无花果、榕系
@@ -98,6 +98,7 @@
 - finger n.手指、指针、v.告发
 - finite [ˈfaɪnaɪt] a.有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术）
+- fire n.火、火灾、v.开火、射击
 - fireside 炉边、毫无拘束的
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
@@ -114,7 +115,7 @@
 - flammable 易燃的、可燃的
 - flash [flæʃ] n/v.闪光、闪现、用光发出信号
 - flat a.平的、扁平的、水平的、单调的、干脆的、断然的、(费率、价格、百分比)固定的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
-- flatten v.压平、变平、把...弄平、摧毁
+- flatten v.压平、变平、把...弄平、摧毁、串行化
 - flatter v.奉承、讨好、使显得更漂亮、使胜过本人
 - flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
@@ -139,6 +140,7 @@
 - flush n/v.冲洗、脸红
 - flux n.通量、流量、不断的变动、不断的变化
 - flyout n.弹出按钮
+- Flyweight n.享元
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
 - focus [ˈfəʊkəs] v.集中、聚集、n.焦点、中心点、源
 - foe [fəʊ] n.敌人、仇敌
@@ -165,7 +167,7 @@
 - forgive v.原谅、饶恕、免除
 - forgiveness n.原谅、宽恕、宽宏大量
 - form n.表格、形式、外形、v.形成、构成、组织、塑造
-- formal a.正式的、正规的
+- formal a.正式的、正规的  formal parameter 形参
 - format n.总体安排、设计、版式、样式、v.安排版式、格式化
 - formation n.形成、构成、编队、队形
 - former a.以前的、前者、n.模型、样板、构成者、创造者、pron.前者

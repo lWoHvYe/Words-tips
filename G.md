@@ -73,9 +73,9 @@
 - grand a.宏伟的、宏大的、重大的
 - granny n.祖母、外祖母
 - grant [ɡrɑːnt] v.授予、承认、准许、n.拨款、补助金 take ... for granted 认为...理所当然
-- granularity 粒度
+- granularity n.粒度
 - graph n.图、图表、曲线图
-- graphic 图解的、用图表示的、形象的、生动的、图表、图形
+- graphic 图解的、用图表示的、形象的、生动的、图表、图形  GUI - graphical user interface 图形用户界面
 - grasp n/v.抓住、抓紧、理解、领会
 - grass [ɡrɑːs] n.草、v.告密、告发
 - grate v.磨碎、压碎、发出刺耳的摩擦声

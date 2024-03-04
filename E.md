@@ -76,7 +76,7 @@
 - enable v.使能够、使可能、批准、为...提供条件
 - enact [ɪˈnækt] v.通过(法律)、制定法律、扮演、担任...角色
 - encapsulate v.封装、概括、压缩、简述
-- enclose v.随函附上、把...装入信封、附入、围住、把...围起来
+- enclose v.随函附上、把...装入信封、附入、围住、把...围起来  enclosed document 附带文档
 - encode v.编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
 - encore [ˈɒŋkɔː(r)] n.安可、int.再来一个、再唱一首
@@ -288,3 +288,4 @@
 - extraordinary a.特别的、非凡的、意想不到的
 - extravagant a.奢侈的、过度的、过分的、放肆的
 - extreme n.极端、极度、极限、a.极端的、极度的、偏激的、急进的  take ... to extreme 把...发挥到极致
+- extrinsic [eksˈtrɪnzɪk] a.外在的、外来的、非固有的、非本质的

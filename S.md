@@ -61,6 +61,7 @@
 - scraper n.刮刀
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - screen [skriːn] n.屏幕、v.掩藏、庇护、检查
+- screw n.螺丝、螺丝钉
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
@@ -97,7 +98,7 @@
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
 - selenium [səˈliːniəm] n.硒
 - sell v.卖、出售、转让
-- semantic a.语义的、语义学的
+- semantic [sɪˈmæntɪk] a.语义的、语义学的
 - semester n.学期
 - semiannual 每半年的、半年的
 - semicolon [ˌsemiˈkəʊlən] n.分号
@@ -125,6 +126,7 @@
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
+- servo 伺服系统、继动
 - session [ˈseʃn] n.会议、环节、一场、一节、一段时间
 - set v.设置、放置、树立、矫正、n.套、系列、a.固定不变的、确定的  
 - set aside 挑出、不理会 set off 出发、动身 set up 建立、树立、开办 set back 推迟、耽误、挫折、倒退
@@ -135,7 +137,7 @@
 - sever [ˈsevə(r)] v.切断、中断
 - several 几个的、专有的、各自的、一些、几个、数个
 - severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的、剧烈的
-- severity 严重、严厉、苛刻
+- severity [sɪ'verəti] n.严重、严厉、苛刻
 - shadow n.阴影、影子、v.跟踪、尾随
 - shake v.动摇、摇动、握手、n.摇动、颤抖、奶昔
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
@@ -292,6 +294,7 @@
 - sophistical a.诡辩的、强词夺理的
 - sophisticate n.老练的人、见多识广的人
 - sophisticated [səˈfɪstɪkeɪtɪd] a.尖端的、复杂的、精通的、老练的  sophisticated equipment 尖端设备  sophisticated technology 尖端技术  highly sophisticated 高精尖的
+- sore [sɔː(r)] a.疼痛的、酸痛的
 - sort [sɔːt] n.分类、排序、种类、类别、v.分类、整理
 - soul 灵魂、精神
 - sound n.声音、a.健全的、明智的、合理的
@@ -330,6 +333,7 @@
 - speculate v.推测、推断、思索、猜测、投机
 - speculative a.投机的、推测的、推断的、推理的、思考的
 - speech n.演讲、发言
+- speed n.(运动的)速度、速率、v.加速、促进
 - spell v.拼写、招致、顶替、n.一段时间、咒语、魔法
 - spend n/v.花费、开销
 - spendthrift a.挥霍的、n.花钱无度的人
@@ -382,7 +386,7 @@
 - stagnation n.停滞、萧条  economic stagnation 经济停滞
 - stair n.楼梯
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
-- stakeholder 利益相关者、股东、参与人、参与方、赌金保管人
+- stakeholder n.利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
 - stalk [stɔːk] n.茎、梗、柄、v.(非法)跟踪、悄悄接近、趾高气昂的走
 - stance n.态度、立场
@@ -414,7 +418,7 @@
 - stenographer [stəˈnɒɡrəfə(r)] n.速记员
 - step n.步、步骤
 - steroid n.类固醇
-- stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、v.对...产生成见、把...浇筑成铅版
+- stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、构造型、v.对...产生成见、把...浇筑成铅版
 - steward [ˈstjuːəd] n.乘务员、管家
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、卡住、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - stickness n.黏性
@@ -455,6 +459,7 @@
 - strict a.精确的、绝对的、严格的、严谨的
 - stright 直的、连续的、直率的、整齐的、立即、直线
 - strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
+- strikethrough (加)删除线
 - striking a.引入注目的、惊人的、显著的
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列  no strings attached 无附加条件
 - strip [strɪp] n.带、狭条、v.剥去、剥光、除去、剥夺、跳闸  strip sb of... 剥夺某人的...

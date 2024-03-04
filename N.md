@@ -71,7 +71,7 @@
 - novation n.更替、更新
 - novel n.(长篇)小说、新法、附律、a.新奇的、新颖的、与众不同的、珍奇的、异常的
 - novelist n.小说家
-- novice n.新手、初学者
+- novice [ˈnɒvɪs] n.新手、初学者
 - noxious a.有毒的、有害的
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站  nuclear power plant 核电站
 - nudge [nʌdʒ] n/v.轻推、推动、鼓励

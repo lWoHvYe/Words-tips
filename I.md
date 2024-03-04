@@ -68,7 +68,9 @@
 - implicit [ɪmˈplɪsɪt] a.含蓄的、内含的、不直接的、隐示的、固有的、无疑问的、无保留的
 - implode v.内爆、突然崩溃
 - imply v.暗示、意味、隐含、说明、意味着
+- impolite a.不礼貌的、粗鲁的
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
+- impractical a.不切实际的、不现实的、不明智的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
 - impressive a.给人印象深刻的
 - imprison [ɪmˈprɪzn] v.监禁、关押、禁锢、束缚  imprison the mind 禁锢思想
@@ -206,8 +208,9 @@
 - insurance n.保险、保险单、保险费、保障措施、安全保证
 - insure v. 投保、承保、确保
 - intake n.吸入、摄入、进气 intake form 登记表
+- intangible a.无形的
 - integral a.完整的、必须的、积分的、n.积分、整体
-- integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的  integration with 集成
+- integrate [ˈɪntɪɡreɪt] v.整合、合并、成为一体、加入、使整合、使完整、a.完全的  integration with 集成  Very Large Scale Integration Circuit - VLSI 超大规模集成电路
 - Integrated Circuits - ICs 集成电路 
 - integrity [ɪnˈteɡrəti] n.完整、完整性、廉正、正直、诚实、保存、健全
 - intellectual a.智力的、有才智的、n.知识分子
@@ -227,7 +230,7 @@
 - intercept 拦截、截住、截听、拦截者
 - interchangeable 可交换的、可交替的、可互换的
 - interest [ˈɪntrəst] n.兴趣、爱好、利息、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
-- interface n.接口、接合点、v.接合、连接
+- interface n.接口、接合点、v.接合、连接  UI - user interface 用户界面
 - interfere v.干涉、干预、介入、妨碍
 - interference n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
@@ -262,6 +265,7 @@
 - intimacy n.亲密、亲切
 - intimate a.亲密的、私人的、详尽的、v.透露、暗示、n.至交、密友  intimate grouping 亲密团体
 - intimidate [ɪnˈtɪmɪdeɪt] v.恐吓、威胁
+- Intranet 内联网/内网
 - intricacy [ˈɪntrɪkəsi] n.错综复杂、难以理解
 - intricate a.错综复杂的、难理解的
 - intrinsic [ɪnˈtrɪnzɪk] a.固有的、内在的
@@ -271,6 +275,7 @@
 - introspect v.反思、内省、自省
 - introvert n.内向的人
 - intrude [ɪnˈtruːd] v.闯入、侵入、打扰、侵扰、扰乱
+- intrusion n.入侵、侵入
 - intrusive a.侵入的、侵扰的、插入的
 - intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
 - invade v.入侵、侵略

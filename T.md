@@ -13,7 +13,9 @@
 - talent n.才能、人才、天赋、天才
 - talk n/v.说话、谈话  talk of 谈论、谈及
 - tangent [ˈtændʒənt] n.切线、正切
+- tangle n.混乱、纠纷、v.使缠结、乱作一团
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
+- tank n.箱、油箱、坦克
 - tap v.轻敲、轻叩、开发、利用、汲取、n.水龙头
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
 - tar n.尼古丁、焦油
@@ -46,6 +48,7 @@
 - temper n.脾气、怒气、v.使缓和、使温和
 - temperate a.温带的、温和的
 - temperature n.温度、气温、体温
+- temple n.寺庙
 - tempo n.速度、节拍
 - temporal a.世俗的、现世的、时间的、时序的
 - temporary a.短暂的、暂时的、n.临时工
@@ -131,6 +134,7 @@
 - tighten v.收紧
 - tile n.瓷砖
 - till prep./conj.直到...为止
+- tilt v.倾斜、倾向  pan tilt 云台
 - timber n.木材、树木
 - timeless a.永恒的、永久的
 - timid a.胆怯的、胆小的
@@ -160,6 +164,7 @@
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
 - tornado [tɔːˈneɪdəʊ] n.龙卷风
+- torque [tɔːk] n.扭矩、转矩
 - tort n.侵权行为
 - torture [ˈtɔːtʃə(r)] n.酷刑、痛苦、拷打、v.使痛苦
 - total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
@@ -193,7 +198,7 @@
 - transducer 传感器、变频器
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
 - transform v.变换、转换、改变、改观
-- transient a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
+- transient [ˈtrænziənt] a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
 - transistor [trænˈzɪstə(r)] n.晶体管
 - transit n.运输、中转、过境、交通运输系统、v.经过、穿过
 - transition [trænˈzɪʃn] n.过渡、转变、变革、变迁
@@ -214,6 +219,7 @@
 - treasury n.财政部、宝库、珍藏室
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、请客、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
 - treatment n.治疗、诊治  medical treatment 医疗
+- treaty n.条约、协定
 - trek n.徒步旅行、长途跋涉
 - tremble n/v.颤抖、抖动、摇晃
 - tremendous a.极大的、巨大的、可怕的、惊人的、极好的、了不起的
@@ -262,7 +268,7 @@
 - tutorial [tjuːˈtɔːriəl] 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
 - tweak v.轻微调整
 - tweet [twiːt] n.(推特上的消息)推文
-- twist [twɪst] v.扭曲、使弯曲、捻、n.搓、捻、转弯处、(故事、情况的)转折
+- twist [twɪst] v.扭曲、使弯曲、捻、n.搓、捻、转弯处、(故事、情况的)转折  Twisted-Pair 双绞线
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
 - type n.种类、类型、字体、字形、v.打字
 - typewriter n.打字机

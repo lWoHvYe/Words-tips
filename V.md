@@ -19,7 +19,7 @@
 - vapour [ˈveɪpə(r)] n.蒸汽、雾气
 - variable [ˈveəriəbl] n.变量、可变因素、a.变化的、可变的、易变的
 - variant n.变种、变体、变量、a.变异的、多样的、易变的、不定的
-- variation 变化、变动、变异、演变、变奏曲、变量
+- variation 变化、变动、变异、演变、变奏曲、变量  variation point 变化点、可变点、分歧点
 - variety [vəˈraɪəti] n.多样、种类、多样化
 - various [ˈveəriəs] a.各种各样的、各个的、个别的
 - vary v.改变、变化、相异、不同
@@ -30,7 +30,7 @@
 - vector n.矢量、向量
 - vegetable [ˈvedʒtəbl] n.蔬菜、植物、植物人、a.蔬菜的、植物的
 - vehicle n.交通工具、车辆、手段、工具、传播媒介、媒介物
-- velocity [vəˈlɒsəti] n.速度、速率、周转率
+- velocity [vəˈlɒsəti] n.速度(缩写就是V)、速率、周转率
 - vender 卖主、商贩、供应商 同 vendor，vendor也做外包的意思
 - venerable 可敬的、令人尊重的、庄严的
 - vengeance [ˈvendʒəns] n.报仇、复仇  with a vengeance 程度更深地
@@ -48,7 +48,7 @@
 - verse n.诗、韵文
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
 - versus [ˈvɜːsəs] prep.对、对抗、与...相对、与...相比  VS
-- vertex n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
+- vertex [ˈvɜːteks] n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的
 - vessel n.容器、器皿、血管、船、舰
@@ -78,7 +78,7 @@
 - virus [ˈvaɪrəs] n.病毒、(计算机程序中的)病毒🦠  Coronavirus disease [kəˈrəʊnəvaɪrəs] COVID-19 2019冠状病毒疾病/新冠
 - visa [ˈviːzə] n.签证、v.签发签证
 - visible a.可见的、明显的、n.现实世界
-- vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、v.想象  business vision 企业愿景、经营前景
+- vision [ˈvɪʒn] n.视力、视野、眼光、洞察力、画面、想象、幻象、构想、观点、前景、v.想象  business vision 企业愿景、经营前景
 - visor [ˈvaɪzə(r)] n.面罩、遮阳板
 - vista [ˈvɪstə] n.远景、景色、景观
 - visual [ˈvɪʒuəl] a.视力的、视觉的、看得见的、n.画面、图像

@@ -6,10 +6,11 @@
 - kin n.家族、亲属、a.有亲属关系的、同类的
 - kind [kaɪnd] a.友好的、友善的
 - kindness n.善良、仁慈
+- kinetic [kɪˈnetɪk] a.运动的、动能的  kinetic energy 动能
 - king n.国王
 - kingdom n.王国、领域
 - kinship n.亲属关系
-- kit n.成套工具、工具箱、配套元件、全套衣服、v.装备  paternity testing kit (PTK) 亲子鉴定试剂盒
+- kit n.成套工具、工具箱、配套元件、全套衣服、v.装备  paternity testing kit (PTK) 亲子鉴定试剂盒  JDK - Java development kit
 - kitty n.猫咪、小猫
 - knickers [ˈnɪkəz] n.内裤、衬裤
 - knit [nɪt] v.编织、严密、紧凑、愈合、接合、n.编织的衣服、针织衫

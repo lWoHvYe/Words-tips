@@ -1,5 +1,6 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
+- daisy n.菊花、雏菊
 - damage n/v.破坏、损害
 - damn [dæm] v.该死、谴责、a.完全的、十足的、可恶的、ad.非常、及其
 - damp a.潮湿的、湿气重的、n.潮湿、湿气
@@ -63,6 +64,7 @@
 - deify [ˈdeɪɪfaɪ] v.神化
 - delay n/v.延迟、推迟、延期、耽搁
 - delegate v.代表、把...委派、选派、n.代表
+- delegation n.代表团、委托、委派
 - delete [dɪˈliːt] v.删除、n.删除键、删除指令
 - deliberate a.故意的、蓄意的、刻意的、深思熟虑的、v.权衡、熟虑、商讨、仔细考虑、反复思考
 - deliberation n.审议、考虑、商议、评议
@@ -77,6 +79,7 @@
 - delivery n.传送、交付、投递、分娩
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
+- demilitarize [ˌdiːˈmɪlɪtəraɪz] v.使非军事化、从...撤军  demilitarized zone 非军事区、非武装地带、隔离带
 - democracy [dɪˈmɒkrəsi] n.民主、民主制度
 - democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
 - demography n.人口统计
@@ -176,7 +179,7 @@
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest v.消化、领会、领悟、理解、n.摘要、文摘、汇编
 - digit n.数字、数位、手指、脚趾
-- digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键
+- digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键  digital signal 数字信号
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
 - dilemma n.窘境、困境
@@ -224,7 +227,9 @@
 - disgrace [dɪsˈɡreɪs] n.耻辱、v.使丢脸、使感到耻辱
 - disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
 - disgust [dɪsˈɡʌst] n/v.厌恶、反感
+- dishearten v.使沮丧、使灰心、灰心丧气
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
+- disjoint v.脱节、解体、互斥、不相交
 - dismiss v.不予考虑、驳回、不予受理、摒弃、消除、解雇、免职、开除  dismiss that possibility 不考虑那种可能性
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - disparage v.贬低、轻视、批评、非难
@@ -349,3 +354,4 @@
 - dynamic [daɪˈnæmɪk] n.动态、动力、态势、动力学、a.动态的、充满活力的、发展变化的
 - dynamics n.动态、力度、力度变化、动力学
 - dynamite n.炸药、引起轰动的事物
+- dysfunction n.不正常、异常、机能障碍

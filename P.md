@@ -7,7 +7,9 @@
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - painful [ˈpeɪnfl] a.痛苦的
 - palace [ˈpæləs] n.王宫、宫殿
+- palette [ˈpælət] n.调色板
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
+- pan 平底锅
 - pandemic n.流行病、大流行病、疫情、瘟疫、a.(疾病)大流行的、普遍的、全世界的
 - pane n.窗格、方框
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
@@ -23,6 +25,7 @@
 - paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
 - parallel a.平行的、同时发生的、并行的、相同的、类似的、n.平行线
 - paralyse/paralyze v.使瘫痪
+- parameter [pəˈræmɪtə(r)] n.参数
 - paraphrase [ˈpærəfreɪz] n/v.解释、释义、译意
 - parcel n.小包、包裹、v.打包  parcel out 分配、分享  part and parcel of ...的内容、...的必要部分
 - pare v.削减、削皮、逐步减少
@@ -40,11 +43,11 @@
 - partition 隔断、分隔、瓜分、使分裂、分区
 - party n.聚会、政党、v.举行聚会
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
-- pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传
+- pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传  pass around 传递、传送
 - passage n.通过、走廊、管路、通道、段落、乐段、乐章、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、激怒、大怒、v.表露强烈感情
 - passionate a.热情的、热诚的、狂热的、易怒的
-- passive [ˈpæsɪv] a.消极的、否定的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、n.主动语态
+- passive [ˈpæsɪv] a.消极的、否定的、无源的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、有源的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
 - pathetic a.可怜的、可悲的
@@ -62,6 +65,7 @@
 - pave v.铺、铺路
 - paw n.爪子
 - payment n.付款、支付、收款、款项
+- PDR - preliminary design review 初步设计评审
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - pearl [pɜːl] n.珍珠、v.采珍珠
 - peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
@@ -69,7 +73,7 @@
 - pedal [ˈpedl] n.踏板、v.骑自行车
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
-- peer n.同辈人、同行、v.仔细看、仔细检查、端详
+- peer n.同辈人、同行、v.仔细看、仔细检查、端详  peer review 同级评审
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
@@ -143,6 +147,7 @@
 - picture n.照片、图画、走势、情形、形势、v.想象、设想、描绘、描写
 - pie [paɪ] n.馅饼、派
 - piece [piːs] n.块、片、段、v.修补、连接  a piece of 一块、一段、一张、一件
+- pile [paɪl] n.堆、摞、v.堆起、叠放
 - pilgrim n.朝圣者、朝觐者 [cháo jìn]
 - pill n.药片、药丸、v.起球、结绒
 - pillar [ˈpɪlə(r)] n.支柱、核心、基础、v.成为...的栋梁
@@ -222,7 +227,7 @@
 - poor a.贫穷的、贫寒的、n.穷人  poorly educated 受教育程度低的
 - pop n.流行音乐、汽水、v.突然出现、爆裂、张大、a.流行的  pop star 流行歌手  pop into one's mind 突然出现/想到
 - popular 受欢迎的、流行的、大众的、通俗的
-- populate 居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
+- populate v.居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - population n.人口
 - pornographic a.淫秽的、色情的
 - port 港口、口岸、避风港、端口、移植
@@ -258,7 +263,7 @@
 - practice n.练习、实习、实践、惯例、惯常做法、v.练习、实习
 - prairie [ˈpreəri] n.大草原、大牧场
 - praise n/v.称赞、赞扬、表扬
-- pragmatic a.实用的、务实的
+- pragmatic a.实用的、务实的、语用的
 - prattle 闲扯、唠叨、闲聊
 - pray v.祈祷、祷告、祈求
 - prayer n.祈祷、祈祷文、经文
@@ -273,6 +278,7 @@
 - precise [prɪˈsaɪs] n.精密、a.精确的、准确的、明确的、正规的、一丝不苟的
 - precisely ad.准确地、精确地、确实、正是
 - precision n.精确、准确
+- PRD - product requirements document 产品需求文档
 - predatory a.捕食性的、食肉的
 - predecessor n.前任、前身、前辈
 - predicate v.断言、断定、使基于、宣布、n.谓语、述语
@@ -301,7 +307,7 @@
 - presence n.在场、出席、存在、出现
 - present a.目前的、现在的、当前的、出席的、存在的、n.目前、现在、存在、礼物、v.提出、陈述、授予、显露、表现、描述、带来
 - presently ad.目前、现在、不久、马上
-- presentation n.提交、演示、陈述、报告、颁发、授予
+- presentation n.提交、演示、陈述、报告、颁发、授予、表示
 - preservative a.保护性的、n.防腐剂
 - preserve v.保留、保存、保护
 - preside v.主持、指挥、担任主席
@@ -320,7 +326,7 @@
 - previous a.先前的、以前的
 - prevision n.预见、远见、预知、先见
 - prey n.猎物、v.捕食
-- price n.价格、代价、v.给...定价
+- price n.价格、代价、v.给...定价  unit-price 单价
 - pride n.骄傲、自豪、自尊、v.骄傲、自豪
 - priest [priːst] n.牧师、神父、僧侣
 - primary a.主要的、最初的、初级的、基本的
@@ -352,10 +358,11 @@
 - proceed v.继续、进行、前进、n.收入、获利
 - proceedings n.行动、事件、诉讼、公报
 - process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
+- processor n.处理器、处理机
 - PROD production 正式、生产 
 - prod n/v.戳、催促、鼓动、提醒
 - produce n/v.生产、制造
-- product n.产品、乘积
+- product n.产品、产物、结果、乘积
 - productivity n.生产率、生产效率
 - profess [prəˈfes] v.宣称、声称、信奉
 - profession n.职业、行业、同行、宣称、声明、表白
@@ -425,7 +432,7 @@
 - prudent [ˈpruːdnt] a.小心的、谨慎的、慎重的
 - prune [pruːn] v.修剪、消减、精简
 - pry n/v.窥探、探听
-- pseudo 伪、假的、虚伪的、冒充的、伪君子
+- pseudo [ˈsjuːdəʊ] a.伪、假的、虚伪的、冒充的、n.伪君子
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
 - psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响
 - PTSD Post Traumatic Stress Disorder 创伤后应激障碍

@@ -8,9 +8,11 @@
 - calculus [ˈkælkjələs] n.微积分、结石
 - calendar [ˈkælɪndə(r)] n.日历、日程表
 - caulk v.填、堵、n.密封剂
+- calibrate [ˈkælɪbreɪt] v.校准、标定
 - call v.呼叫、号召  call for 呼吁、请求  long call 多头、买入看涨期权  short call 卖出看涨期权  long put 买入看跌期权  short put 卖出看跌期权  long 多头/买入  short 空头/卖出  call 看涨期权  put 看跌期权
 - calm [kɑːm] a.平静的、镇静的、v.使平静、n.宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
+- camel n.骆驼、驼峰
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
@@ -30,10 +32,12 @@
 - capability n.性能、容量、才能、能力、生产力
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
 - capacity [kəˈpæsəti] n.容量、性能、才能、职位、职责、功率、电容、a.充其量的、最大限度的
+- capacitance n.电容
 - capex abbr.资本支出 capital expenditures
 - capital n.首都、资本、财富、大写字母、v.大写的、极好的、死刑的  capital market 资本市场
 - capital n.首都、资本、资金、财富、财产、资方、大写字母、a.首都的、资本的、大写的、极好的、死刑的
 - capitalism n.资本主义(制度)
+- capsule n.胶囊、太空舱、小塑料容器
 - captain n.船长、机长、上校、上尉、首领、队长
 - caption n.字幕、说明文字、v.加字幕
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
@@ -45,12 +49,14 @@
 - career [kəˈrɪə(r)] n.职业、生涯
 - carefree a.无忧无虑的
 - caret n.脱字号、补注号
+- caretaker n.管理人、看管人、监护人、照看人
 - cargo n.货物
 - carnival 嘉年华、狂欢节、节日、联欢
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
-- carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.
+- carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.  carry over 延续、推迟、延期
 - cart n.手推车
 - cartoon n.卡通、漫画
+- cartridge n.墨盒、弹夹
 - carve v.雕刻、把...切成块、开创  be carved into 被分成...
 - cascade 大量、倾泻、小瀑布、瀑布状物、流注、大量落下、大量垂悬、级联
 - case 案例、实例、事实、诉讼、论据、容器、围绕、包盖
@@ -109,7 +115,7 @@
 - chalk n.粉笔
 - challenge n/v.挑战、质疑
 - chamber [ˈtʃeɪmbə(r)] n.室、会议厅、议院、房间
-- champion n.冠军、得胜者、拥护者、勇士、v.捍卫、声援
+- champion n.冠军、得胜者、拥护者、勇士、推介人、v.捍卫、声援
 - chance n.机会、机遇、时机、可能性、偶然、运气、v.偶然发生、冒险、碰巧、a.意外的、偶然的、碰巧的
 - chancellor n.大臣、总理
 - change 改变、交换、替换、换衣服、兑换、找零、更换
@@ -212,6 +218,8 @@
 - coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
 - coastal a.沿海的、海岸的
+- coax [kəʊks] v.哄劝、劝诱
+- coaxial [ˈkəʊˈæksɪəl] a.同轴的、共轴的、n.同轴电缆
 - cock n.公鸡
 - cocktail n.鸡尾酒
 - code n.密码、电码、代码、编码、道德准则、行为规范、法典、v.为...编码、编程序  code of conduct 行为准则  QR Code - Quick Response Code 二维码
@@ -248,7 +256,7 @@
 - colonial a.殖民的
 - colonist n.殖民者
 - colony n.殖民地
-- column [ˈkɒləm] n.栏、专栏、圆柱
+- column [ˈkɒləm] n.栏、专栏、圆柱、列、纵行
 - comb [kəʊm] n/v.梳、梳理、梳子、搜寻
 - combat n.战斗、格斗、竞赛、论战、v.战斗、搏斗、防止、减轻
 - combine v.使结合、使化合、兼有、兼作、兼办、结合、联合、合并、n.联合收割机、联合集团、组合艺术
@@ -297,10 +305,11 @@
 - complementary a.互补的、补充的
 - complete [kəmˈpliːt] v.完成、结束、使完整、使完美、填写、a.完全的、彻底的、完整的、完成了的
 - complex a.复杂的、难懂的、n.综合体、综合大楼、相关联的一组事物、不正常的精神状态、不正常的忧虑
-- compliance n.顺从、遵从、服从、合规、承诺、柔软度
+- compliance [kəmˈplaɪəns] n.顺从、遵从、服从、合规、承诺、柔软度
 - compliant a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
+- complimentary a.免费的、赠送的
 - comply vi.顺从、服从、遵守、遵从、应允、同意  comply with 依从、遵从、顺从
 - component n.成分、组成、组成部分、要素、电路元件、a.组成的、合成的、构成的
 - compose v.组成、构成、作曲、创作、撰写、使安定、使镇静
@@ -378,7 +387,7 @@
 - consequent a.随之发生的、必然的、合乎逻辑的
 - consequently ad.所以、因此、因而
 - conservative 保守的、守旧的、保守的人
-- conservation n.保护、保存
+- conservation n.保护、保存、守恒
 - conserve vt.保护、保存、n.果酱、蜜饯
 - consider [kənˈsɪdər] v.考虑、认为、仔细考虑、细想、体谅、顾及、端详
 - considerable a.相当大的、该注意的、应考虑的、重大的、可观的
@@ -401,7 +410,7 @@
 - construction n.建造、建筑物、结构
 - consult v.咨询、请教、商量、查阅
 - consultant n.会诊医生、顾问
-- consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁
+- consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁  CPI - Consumer Price Index 消费者物价指数，是一个通货膨胀指标，用于评估货币购买力的变化
 - consumption n.消耗、消耗量、消费、肺病
 - contact n/v.联系、联络、接触、触摸、a.有关系的  contact lens 隐形眼镜
 - contagion n.传染、蔓延、接触传染
@@ -536,7 +545,7 @@
 - criminal a.犯罪的、刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
 - crisp a.脆的、酥脆的、n.薯片、v.变脆
-- criteria (criterion 复数) n.标准、准则 
+- criteria (criterion 复数) n.标准、准则、条件
 - criterion [kraɪˈtɪriən] n.标注、准则
 - critic n.批评家、评论家
 - critical a.关键的、批评的、批判的、严重的、紧要的、极重要的
@@ -571,6 +580,7 @@
 - cultivate v.培养、培育、种植、栽培、逐渐形成、建立(友谊)、结交(朋友)
 - culture n.文化、文明、v.培养
 - cumber n.拖累、妨害、v.阻碍、妨害、使受苦
+- cumbersome [ˈkʌmbəsəm] a.大而笨重的、冗长的、累赘的、复杂的
 - cumulative [ˈkjuːmjələtɪv] a.累积的、累计的
 - cunning a.狡猾的、奸诈的、灵巧的、n.狡猾、狡黠 [jiǎo xiá]、诡诈
 - curative a.治愈的、有疗效的、n.医药
@@ -584,10 +594,11 @@
 - currency n.货币、通货、流行
 - curriculum [kəˈrɪkjələm] n.课程、全部课程、课表
 - curse [kɜːs] n/v.诅咒
-- cursor n.光标、游标
+- cursor [ˈkɜːrsər] n.光标、游标
 - cursory [ˈkɜːsəri] a.粗略的、仓促的
 - curve [kɜːv] n.曲线、弧线、弧形、弯曲、v.使弯曲、a.弯曲的
 - cushion n.软垫、v.起缓冲作用、缓和冲击
+- custodian [kʌˈstəʊdiən] n.监护人、保管人、托管人、管理人、看守人
 - custody 监管、拘留、羁押、抚养权、监护权
 - custom n.习惯、惯例、海关、关税、惠顾、光顾、a.定制的、定做的
 - customer 客户

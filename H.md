@@ -2,6 +2,7 @@
 - habitat n.产地、栖息地
 - hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的  phone hacking 电话窃听
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
+- haircut n.折价(在抵押物的市值中减去的百分比)
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
 - halo [ˈheɪləʊ] n.光环、(日月等的)晕
 - halt n/v.暂停、停止、中止、停下  Halting Problem 停机问题
@@ -45,13 +46,14 @@
 - health n.健康、医疗、卫生、兴旺
 - healthcare n.医疗、医疗保健
 - hear [hɪə(r)] v.听见、听到、倾听、(法庭)审理、听取(证词)
-- heart [hɑːrt] n.心、心脏、核心、中心
+- heart [hɑːrt] n.心、心脏、核心、中心、v.鼓励、激励
+- hearted v.振奋、鼓励、激励
 - heat [hiːt] n.热、高温、激烈、v.加热
 - heave v.隆起、举起、v.起伏
 - heaven n.天堂、天空
 - heavy a.沉的、重的、繁忙的、ad.大量地
 - hectare n.公顷
-- hedge 树篱、保护手段、拐弯抹角、包围、限制  hedge fund 对冲基金
+- hedge [hedʒ] n.树篱、保护手段、拐弯抹角、保值措施、v.包围、限制、对冲  hedge fund 对冲基金
 - height [haɪt] n.身高、高度
 - heighten v.提高、加强  heighten the value of 提升...的价值
 - heightened a.不断增加的、升高的、增强的  heightened alert 高度警戒
@@ -108,6 +110,7 @@
 - housework n.家务
 - housing n.住房
 - hub n.轮轴、中心、电线插孔、集线器
+- Hub 集线器
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humanity n.人类、人性
 - humble a.谦卑的、卑微的、v.谦逊、低声下气、使卑微  in my humble opinion 依我拙见
@@ -118,6 +121,7 @@
 - hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙
 - hurt n/v.伤害、损害
+- hustle [ˈhʌsl] n.匆忙、v.催促
 - hybrid [ˈhaɪbrɪd] a.混合的、杂种的、n.杂交、混合物、合成物、杂交动植物
 - hydrochloride n.盐酸、盐酸盐、氯化氢
 - hydrogen [ˈhaɪdrədʒən] n.氢、氢气

@@ -1,5 +1,5 @@
 - rabbit n.兔子
-- race n/v.赛跑、比赛、竞争、角逐、竞态(线程间)、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人
+- race n/v.赛跑、比赛、竞争、角逐、竞态(线程间)、n.种族、民族  Mongolian Race 黄种人 Caucasian Race 白种人  race condition 竞态条件、竞争状态
 - racial [ˈreɪʃl] a.种族的
 - radar [ˈreɪdɑː(r)] n.雷达  ground radar 地面雷达
 - radical a.根本的、彻底的、完全的、激进的
@@ -23,6 +23,8 @@
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
 - rare [reə(r)] a.罕见的、稀少的、稀有的、难得的、稀薄的、半生的、半熟的
 - rarity n.罕见、稀有、珍品
+- rasp 锉刀、刺耳的声音
+- raspberry n.覆盆子、树莓  Raspberry Pi 树莓派
 - rate n.速率、比率、等级、价格、费用、v.估价、评级、评价
 - ratify v.正式批准、使正式生效
 - ratio [ˈreɪʃiəʊ] n.比率  a set ratio 固定的比率
@@ -67,6 +69,7 @@
 - reck v.顾虑
 - reckless a.鲁莽的、草率的、不计后果的
 - reckon v.估计、认为、估算、预计、指望、料想
+- recognition [ˌrekəɡˈnɪʃn] n.认出、识别、承认、认可、赏识
 - recognize/recognise v.认出、认识、承认、认可
 - reconcile v.调和、调停、使和好、使和解
 - recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
@@ -112,6 +115,7 @@
 - regard v.将...认为、看待、注意、关注、尊敬、敬佩、致意、问候、n.尊敬、注意、关注  with regard to 对于、就...而论
 - regarding prep.关于、相关
 - regardless a.不重视的、不尊敬的、不顾...的、ad.不管、不顾、不加理会、无论如何  regardless of 不管、不顾、无论如何
+- regards n.致意、问候
 - regime n.政权、政体、政治制度
 - region n.地区、区域、行政区、管辖区、层、界、境
 - register v.登记、注册、(仪表的)指示、n.登记薄、注册表、寄存器
@@ -127,6 +131,7 @@
 - reign [reɪn] n/v.统治、支配
 - rein n.缰绳、控制、主宰、v.控制、驾驭
 - reinforce v.增援、加强、巩固
+- reiterate [riˈɪtəreɪt] v.重申、反复说
 - reject [rɪˈdʒekt/ˈriːdʒekt] v.拒绝、驳回、排斥、排异(移植的器官)
 - relate v.使有联系、联系、关联、叙述、讲述、把...联系起来、讲（故事）
 - relation n.关系、联系、关联
@@ -144,6 +149,7 @@
 - relieve v.缓解、减轻
 - religion n.宗教
 - religious a.宗教的、虔诚的[qián chéng]
+- relocate v.迁移
 - reluctant [rɪˈlʌktənt] a.不情愿的、勉强的
 - rely v.依靠、依赖、信赖
 - remain [rɪˈmeɪn] n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
@@ -158,7 +164,7 @@
 - remit v.汇款、免除、赦免、n.职权范围、控制范围、影响范围
 - remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
-- remote a.远程的、遥远的、偏僻的、久远的、n.远程、遥控器  remote education 远程教育  remote control 遥控
+- remote a.远程的、遥远的、偏僻的、久远的、n.远程、遥控器  remote education 远程教育  remote control 遥控  remote method invocation - RMI 远程方法调用  remote procedure call - RPC 远程过程调用
 - renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
 - rend v.撕开、撕裂
 - render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
@@ -196,6 +202,7 @@
 - rescue v/n 营救、救援、抢救
 - resemble [rɪˈzembl] v.像、与...相像、类似于
 - resent v.怨恨、愤恨、厌恶、愤愤不平
+- reservation n.预定、预约
 - reserve n.储备、保留、保护区、内向、矜持、v.保留、预定、预约
 - reside v.住、居住、居住在、定居于
 - resident 定居的、常驻的、居民、住户、旅客、房客  redide: 居住在、定居于
@@ -230,6 +237,7 @@
 - restore v.修复、归还、恢复
 - restrain v.制止、阻止、管制、约束、克制、抑制
 - restrict v.限定、限制、约定、制约、束缚、妨碍
+- resurrect [ˌrezəˈrekt] v.使复兴、使复活、起死回生、恢复使用、重新应用
 - result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
 - retail n/v.零售、零卖、ad.以零售方式、以零售价格、a.零售的、零批的
@@ -284,6 +292,7 @@
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - robustness n.鲁棒性、健壮性
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
+- ROD - Release on demand
 - role n.角色、作用、地位、职能
 - roll n.卷、卷轴、一卷、v.滚动、卷起、把...轧(ya)平  roll into one 合二为一
 - rollout 首次发行、公开展示  rollout time 推出时间

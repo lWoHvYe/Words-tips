@@ -49,7 +49,7 @@
 - marital a.婚姻的、夫妻的
 - marriage n.结婚仪式、婚姻、婚礼
 - marry [ˈmæri] v.结婚、嫁、娶、为...举行婚礼
-- marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织
+- marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织  de-marshal 串行化
 - marvel [ˈmɑːvl] n.令人惊异的人或事、成就、奇迹、v.惊奇、大为赞叹
 - marvellous a.绝妙的、极好的、非凡的
 - masculine [ˈmæskjəlɪn] a.男性的、阳刚的、阳性的、n.阳性
@@ -90,6 +90,7 @@
 - medal [ˈmedl] n.奖章、勋章、奖牌
 - meddle [ˈmedl] v.干预、干涉、管闲事
 - mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
+- Mediator 中介者
 - medical a.医学的、医疗的、疾病的、伤病的
 - medicine [ˈmedsn] n.医学、药物
 - medieval [ˌmediˈiːvl] a.中世纪、中世纪的(约公元1000到1450年)
@@ -101,6 +102,7 @@
 - melodramatic [ˌmelədrəˈmætɪk] a.夸大的、虚张声势的
 - melt v.溶化、溶解、软化
 - meltdown n.彻底垮台
+- memento [məˈmentəʊ] n.纪念品
 - memo 备忘录
 - memorial a.纪念的、悼念的、n.纪念碑、纪念品、纪念馆
 - memorize v.记住、熟记、记忆、存储
@@ -109,7 +111,7 @@
 - mental a.思想的、内心的、心理的、智慧的、n.精神病  mental labor 脑力劳动
 - mentality n.心态、思想
 - mention n/v.提到、提及、说起
-- mentor 导师、顾问、指导
+- mentor [ˈmentɔː(r)] n.导师、顾问、指导
 - mercenary [ˈmɜːsənəri] n.雇佣兵、a.唯利是图
 - merchandise v.销售、买卖、n.商品、货物
 - merchant n.商人
@@ -148,6 +150,7 @@
 - mile n.英里
 - mileage n.里程、英里、好处、利益
 - milestone 重要事件、重要阶段、转折点、里程碑
+- militarize [ˈmɪlɪtəraɪz] v.武装化、派遣武装力量、使具有军事性质
 - military [ˈmɪlətri] a.军事的、军用的、军队的、武装的、n.军人、军队、军方
 - mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
@@ -187,6 +190,7 @@
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
 - model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
+- modem n.调制解调器
 - moderate a.中等的、适度的、温和的、稳健的、v.缓和、使适中、主持
 - modern a.现代的、当代的、近代的、新式的、n.现代人、现代字体
 - modest a.谦虚的、谦逊的、适度的、适中的、些许的、朴素的、普通的
@@ -261,13 +265,15 @@
 - musical a.音乐的、悦耳的、n.音乐剧
 - musician n.音乐家
 - mutable [ˈmjuːtəbl] a.可变的、会变的
-- mutate v.变异、突变、转变、转换
+- mutate [mjuːˈteɪt] v.变异、突变、转变、转换
+- mutator n.变换器、整流器
 - multicast 多播、多点传送
 - multilateral a.多方面的、多国的、多边的
 - multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的
 - multiply v.乘、相乘、ad.复合地、多样地、a.多股的、多层的
 - multiplication [ˌmʌltɪplɪˈkeɪʃn] n.乘法、相乘
 - multiplier n.乘数、倍数
+- munchies [ˈmʌntʃɪz] n.快餐、小吃
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的
 - murder [ˈmɜːdə(r)] n/v.谋杀、凶杀
 - murmur n/v.小声说话
