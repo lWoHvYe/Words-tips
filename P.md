@@ -67,6 +67,7 @@
 - payment n.付款、支付、收款、款项
 - PDR - preliminary design review 初步设计评审
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
+- peanut [ˈpiːnʌt] n.花生、花生米、a.渺小的、微不足道的
 - pearl [pɜːl] n.珍珠、v.采珍珠
 - peculiar [pɪˈkjuːliə(r)] a.古怪的、异常的、特殊的、特有的 peculiar to 为...所特有
 - peculiarity n.个性、特色、特点、独特性、怪癖
@@ -204,6 +205,7 @@
 - poison [ˈpɔɪzn] n.毒物、毒药、毒物、v.下毒、毒害、危害
 - poisonous a.有毒的、恶毒的
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
+- pojo POJO stands for "Plain Old Java Object." It is a term used in Java development to describe a simple, plain Java object, which is not burdened with complex frameworks or dependencies. The concept of POJO is often associated with the principles of simplicity and reusability in Java programming. consider it as entity/class
 - polar a.极地的、磁极的、两极的、截然相反的、截然对立的
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - pole [pəʊl] n.极、磁极、电极、地极、极点、柱子
@@ -240,6 +242,7 @@
 - pose v.造成、提出、陈述、摆姿势、假装、冒充、n.姿势、故作姿态  摆个pose
 - position [pəˈzɪʃn] n.位置、方位、处境、观点、态度、立场、姿态、职位、v.安装、安置  respectable position 体面的工作
 - positive a.积极的、肯定的、乐观的、确实的、确信的、正电的、阳性的、正数的、n.正数、正片、优势、优点
+- posix 可移植操作系统接口、子系统、共享内存
 - possess [pəˈzes] v.拥有、掌握、支配、主宰
 - possession n.个人财产、拥有、具有、领地、财产、所有物、所有权
 - possible a.可能的、可接受的、合理的、n.可能性、合适的人、恰当人选
@@ -356,7 +359,7 @@
 - probe n.探索、探究、探头、探针、探测器、v.探查、探测、探究、盘问、追问
 - procedure n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
-- proceedings n.行动、事件、诉讼、公报
+- proceedings n.行动、事件、诉讼、公报、会议记录
 - process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - processor n.处理器、处理机
 - PROD production 正式、生产 

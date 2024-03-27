@@ -7,11 +7,15 @@
 - garden n.花园、公园、v.造园、开辟(苗圃)
 - garment [ˈɡɑːmənt] n.服装、(一件)衣服、v.给...穿衣服
 - gas n.气体
+- gastric [ˈɡæstrɪk] a.胃的、胃部的
+- gastro [ˈgæstroʊ] 胃的
 - gate n.门、大门、阀门、(逻辑中的与或非异或)门
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
 - gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
 - gay [ɡeɪ] n.同性恋者、a.同性恋的
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
+- geek n.极客
+- Geez 天啊、哎呀 
 - gender n.性别、性
 - gene [dʒiːn] n.基因、遗传因子
 - general [ˈdʒenrəl] a.全体的、普遍的、一般的、n.将军、上将
@@ -34,7 +38,7 @@
 - gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
 - gist 主旨、要点、大意
 - giveaway n.赠品
-- glad a.高兴的、乐意的
+- glad [ɡlæd] a.高兴的、乐意的、愉快的
 - glamour [ˈɡlæmə(r)] n.魅力、v.迷惑
 - glance n.一瞥、扫视、匆匆一看、v.浏览、略过、擦过
 - glare v.怒目而视、发强光、n.怒视、瞪眼、炫耀、强光
@@ -58,8 +62,9 @@
 - golf [ɡɒlf] n.高尔夫球、v.打高尔夫球
 - gonna [ˈɡənə] n.即将、将要
 - google [ˈɡuːɡl] n.谷歌
+- gorgeous [ˈɡɔːdʒəs] a.华丽的、艳丽的、极好的、非常漂亮的、美丽动人的
 - gossip [ˈɡɒsɪp] n.流言蜚语、闲言碎语、v.说三道四、说长道短
-- govern 统治、治理、控制、管理、支配
+- govern v.统治、治理、控制、管理、支配
 - grab 抓住、强夺
 - grace n.优美、优雅、欣然、体面、v.使优美、为增色、为锦上添花
 - graceful a.优美的、优雅的、得体的、有风度的
@@ -98,7 +103,7 @@
 - grind [ɡraɪnd] v.折磨、磨碎、碾磨、n.令人疲劳的工作、苦差事
 - groan [ɡrəʊn] n/v.呻吟、叹息、抱怨
 - grocer n.杂货商
-- grocery [ˈɡrəʊsəri] n.杂货店
+- grocery [ˈɡrəʊsəri] n.杂货店  groceries n.杂货、食品
 - grok v.通过感觉意会
 - groom v.使整洁、使(动物)清洁、准备、培养、理毛、梳毛、引诱、n.新郎、马夫
 - gross a.总的、毛的、粗俗的、n.总收入、毛收入、v.总共收入、总共赚得

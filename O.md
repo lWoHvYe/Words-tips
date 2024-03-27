@@ -26,6 +26,7 @@
 - occupy v.占据、使用、承担、担任、任职、使从事、使忙碌、使关注
 - occur [əˈkɜː(r)] v.出现、发生、存在于、出现在
 - occurrence n.出现、发生、事件、事变
+- occurrent a.发生的、目前正在发生的
 - ocean [ˈəʊʃn] n.海洋
 - odd a.古怪的、奇怪的、剩余的、临时的、奇数的、ad.(用于数字后面)大约、n.奇怪的人或事
 - odds [ɒdz] n.可能性、概率、几率
@@ -60,6 +61,7 @@
 - oppress [əˈpres] v.使烦恼、使气馁、压迫、压制
 - opt v.选择、挑选
 - optic a.眼的、视觉的
+- optical a.光的、光学的、视觉的
 - optimal a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)

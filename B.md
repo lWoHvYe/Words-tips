@@ -8,6 +8,7 @@
 - bacterium/bacteria(复数) n.细菌
 - bad a.坏的、令人不快的、错误的  my bad 我的错
 - badge n.徽章、标记、标识
+- badminton [ˈbædmɪntən] n.羽毛球
 - bag n.袋
 - bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
 - bait [beɪt] n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
@@ -42,7 +43,7 @@
 - beam n.光波、波束、v.发射、射出、笑容满面
 - bear n.熊、v.承受、忍受、生育
 - beard [bɪəd] n.胡须
-- bearer 持票人、持有者、送信人、传授者、传播者
+- bearer [ˈbeərə(r)/ˈberər] 持票人、持有者、送信人、传授者、传播者
 - bearing n.关系、影响、姿态、(用罗盘测量的)方位、轴承
 - beast n.野兽
 - beastliness n.兽性
@@ -55,6 +56,7 @@
 - belt n.带子、腰带、传送带、地区、地带、v.猛击、狠打、飞奔、飞驰  green belts 绿化带
 - bench n.长凳、席位
 - benchmark n.基准、标尺、标杆、参照、v.检测
+- bend v.弯曲、倾斜、偏向
 - beneath prep.在下方、在下面、在底下
 - benefactor n.施主、赞助者
 - benefit n.利益、好处、成效、福利、奖金、补助、救济金、v.使受益、得益于、得利于
@@ -127,6 +129,7 @@
 - bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
 - book [bʊk] n.书、本子、v.预订、登记
+- boolean [ˈbuːliən] n.布尔
 - boom n/v.繁荣、迅速发展、暴涨、激增、轰鸣、轰响  economic boom 经济繁荣  boom and bust 繁荣与萧条  baby boom 婴儿潮
 - boost [buːst] v.促进、增加、提高、偷窃、n.提高、激励、增长
 - boot n.靴子、(汽车后部的)行李箱、v.(+ up)启动(计算机)  boot camp 新兵训练营
@@ -199,7 +202,8 @@
 - bulkhead n.舱壁、隔板、资源隔离
 - bull [bʊl] n.公牛、多头  bull run 牛市
 - bullet n.子弹  silver bullet 银弹
-- bump 碰撞、突然的；bump up 突然增加、提高
+- bump v.颠簸、碰撞 bump up 突然增加、提高
+- bumpy a.颠簸的、不平的、坎坷的
 - bundle n.捆、包
 - buoy [bɔɪ] n.浮标、航标、v.鼓舞、鼓励、使浮起、使(价格)上浮
 - buoyant a.看涨的、乐观的
@@ -213,6 +217,7 @@
 - bus n.公交车、(计算机系统的)总线
 - business n.商业、生意、商务、营业额、贸易额
 - bust [bʌst] 打破、打碎、降级、半身像、女子的胸部、胸围、突击检查、破碎、毁坏
+- butter [ˈbʌtə(r)] n.黄油、奶油、v.涂黄油于
 - buy v.买、购买、买通、收买、贿赂、相信、接受、n.购买
 - buy into 买进、入股
 - buy up 买断、囤积、全部买下某物、收购

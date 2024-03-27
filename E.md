@@ -41,6 +41,7 @@
 - elemental n.元素、基本原理、a.基本的、主要的
 - elementary a.初级的、基本的
 - elevate [ˈelɪveɪt] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- elicit [iˈlɪsɪt] v.引起、引出、探出、诱出
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
 - eliminate v.排除、消除、淘汰、消灭
@@ -116,6 +117,7 @@
 - entertainment n.娱乐节目、娱乐、消遣、招待、款待
 - enthus [ɪnˈθjuːz] v.使热心、使热情
 - enthusiasm n.热情、热心、热衷的事物  display great enthusiasm for 对...表现出极大的热情
+- enthusiast [ɪnˈθjuːziæst] n.狂热爱好者
 - enthusiastic a.热心的、热情的、狂热的
 - entire a.整个的、全部的、完全的、n.全体、整体
 - entitle v.授权，赋予权利、使享有权利、使符合资格、给...题名
@@ -125,7 +127,7 @@
 - entrant n.参加者、新成员、新生
 - entrepreneur [ˌɒntrəprəˈnɜː(r)] n.企业家、创业者
 - entropy n.熵
-- entry n.进入、参与、加入
+- entry n.进入、参与、加入  entry level 初级、入门级
 - enumerate [ɪˈnjuːməreɪt/ɪˈnuːməreɪt] v.枚举、列举 Enum
 - envelop v.包住、裹住、盖住
 - envelope [ˈenvələʊp] n.信封、外壳、膜
@@ -175,6 +177,7 @@
 - estate 财产、遗产、房地产、不动产
 - esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
 - estimate v.估计、估算、估价、n.估计、预测、报价
+- et cetera [ˌet ˈsetərə] n.等等、以此类推
 - Ethernet n.以太网
 - ethic n.伦理、伦理观、道德体系、道德规范、行为准则  work ethic 职业道德
 - ethical a.道德的、伦理的
@@ -279,7 +282,7 @@
 - extension n.扩大、延伸、延期
 - extensive a.广阔的、广大的、大量的、广泛的
 - exterior n.外部、外表、a.外部的、外表的
-- external a.外面的、外部的、n.外面、外部、外观  external impact 外在影响  external sources 外部来源
+- external [ɪkˈstɜːnl] a.外面的、外部的、n.外面、外部、外观  external impact 外在影响  external sources 外部来源
 - externalize 外化、表达
 - extinct [ɪkˈstɪŋkt] a.灭绝的、绝种的
 - extra a.额外的、附加的、ad.额外、另外

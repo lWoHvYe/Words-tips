@@ -108,7 +108,7 @@
 - indent v.缩进、n.订单、订购
 - indenture n.契约
 - independent a.独立的、自主的、有主见的
-- index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩
+- index n.索引、标志、指数、指标、v.为...编索引、将...与...挂钩  pl.indices
 - indicate v.表明、暗示、象征、指示、打行车转向信号
 - indicator 指示信号、标志、迹象、指针、信号灯
 - indifference n.冷漠、中立
@@ -307,7 +307,7 @@
 - irrational a.不合理的、不合逻辑的、n.无理数
 - irregular [ɪˈreɡjələ(r)] a.不规则的、无规律的、紊乱的
 - island [ˈaɪlənd] n.岛、岛屿
-- isolate [ˈaɪsəleɪt] v.隔离、孤立、使绝缘、a.隔离的、孤立的
+- isolate [ˈaɪsəleɪt] v.隔离、孤立、使绝缘、a.隔离的、孤立的、局部的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则
 - iterate v.迭代

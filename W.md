@@ -101,6 +101,7 @@
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrapper [ˈræpə(r)] n.封装
 - wrest [rest] v.拧、扭、抢夺
+- wrestle [ˈresl] v.搏斗、摔跤
 - wrinkle n.皱纹、褶皱
 - wrist [rɪst] n.手腕
 - write-off n.勾销、注销、报废的东西

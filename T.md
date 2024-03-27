@@ -58,7 +58,7 @@
 - tenant [ˈtenənt] n.房客、租户、佃户、v.租借、租用
 - tend v.趋势、趋向、倾向、照料、护理
 - tendency n.趋势、倾向
-- tennis [ˈtenɪs] n.网球
+- tennis [ˈtenɪs] n.网球  table tennis 乒乓球
 - tenor 男高音、大意、要旨、要领
 - tense a.紧张的、绷紧的、(动词的)时态
 - tension n.紧张、矛盾、对立、张力、拉力、拉紧、紧绷
@@ -71,7 +71,7 @@
 - terminus n.终点
 - ternary a.三元的
 - terrain n.地形、地势、地带
-- terrible a.糟糕的、可怕的
+- terrible a.糟糕的、可怕的 terrible with 记不住  I feel terrible 我感觉糟透了、很抱歉
 - terribly [ˈterəbli] ad.很、非常、非常地
 - terrific a.可怕的、极好的、极其的、非常的
 - terrify v.使恐怖、使惊吓、恐吓、威胁
@@ -122,6 +122,7 @@
 - throughput n.吞吐量
 - thrust 刺、冲、逼迫
 - thumb [θʌm] n.拇指
+- thunderstorm [ˈθʌndəstɔːm] n.雷雨、雷暴
 - tick v.打上钩、n.记号、对号、信用、滴答声
 - ticker n.心脏
 - ticket n.票、入场券
@@ -177,7 +178,7 @@
 - toward prep.朝向、面对、对于、关于、接近、将近
 - toxic [ˈtɒksɪk] a.有毒的、中毒的、n.毒物、毒剂  toxic assets 不良资产
 - trace [treɪs] v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
-- track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测
+- track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测  track team 田径队
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
 - Trade Finance 贸易融资、外汇服务
@@ -227,7 +228,7 @@
 - trial [ˈtraɪəl] v.试验、测验、n.审讯、试验、比赛
 - triangle n.三角(形)
 - tribute n.礼物、贡品、颂词、体现、显现
-- trick n.恶作剧、戏法、计谋、诀窍、骗局、v.欺骗、欺诈
+- trick n.恶作剧、戏法、计谋、诀窍、骗局、把戏、v.欺骗、欺诈
 - tricky a.难办的、狡猾的、诡计多端的
 - Trie n.单词查找树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
@@ -266,7 +267,7 @@
 - turtle [ˈtɜːtl] n.龟🐢
 - tutor n.导师、家庭教师
 - tutorial [tjuːˈtɔːriəl] 辅导的、导师的、私人教师的、教程、辅导材料、使用说明书
-- tweak v.轻微调整
+- tweak v.轻微调整、稍稍调整、拧、扭
 - tweet [twiːt] n.(推特上的消息)推文
 - twist [twɪst] v.扭曲、使弯曲、捻、n.搓、捻、转弯处、(故事、情况的)转折  Twisted-Pair 双绞线
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)

@@ -48,7 +48,7 @@
 - marginalize v.边缘化、排斥
 - marital a.婚姻的、夫妻的
 - marriage n.结婚仪式、婚姻、婚礼
-- marry [ˈmæri] v.结婚、嫁、娶、为...举行婚礼
+- marry [ˈmæri] v.结婚、嫁、娶、为...举行婚礼  get married
 - marshal n.元帅、司仪、执行官、v.收集、整理、排列、组织  de-marshal 串行化
 - marvel [ˈmɑːvl] n.令人惊异的人或事、成就、奇迹、v.惊奇、大为赞叹
 - marvellous a.绝妙的、极好的、非凡的

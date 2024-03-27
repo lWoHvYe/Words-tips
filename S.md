@@ -15,6 +15,7 @@
 - sanctity [ˈsæŋktəti] n.神圣
 - sand [sænd] n.沙、沙滩
 - sandal [ˈsændl] n.凉鞋
+- sandwich [ˈsænwɪtʃ] n.三明治、v.把...夹在...之间、把...做成三明治
 - sanitization 消毒、卫生处理、净化、清除
 - sanitize [ˈsænɪtaɪz] v.消毒、净化
 - sanity [ˈsænəti] n.理智、明智
@@ -38,10 +39,10 @@
 - scarce [skeəs] a.缺乏的、不足的、罕见的、ad.勉强、仅仅、几乎不
 - scarcely ad.勉强、刚刚、几乎不、简直不
 - scarcity [ˈskeəsəti] n.稀缺、稀少、缺乏、不足、萧条
-- scare n/v.惊恐、恐慌、恐惧
+- scare n/v.惊恐、恐慌、恐惧  scare the heck out of me - cause someone to feel a lot of fear
 - scatter v.散开、分散、驱散、n.散落
 - scavenge v.拾荒、觅食
-- scenario n.方案、设想、场景、脚本
+- scenario [səˈnɑːriəʊ] n.方案、设想、场景、脚本
 - scene n.场景、地点、现场、景色、一场
 - scenery [ˈsiːnəri] n.风景、风光、景色、舞台布景
 - sceptical [ˈskeptɪkl] a.怀疑的
@@ -96,7 +97,7 @@
 - seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
 - selective a.选择性的、有选择的  xxx policy is selective xxx政策是非常严格的
-- selenium [səˈliːniəm] n.硒
+- selenium [səˈliːniəm] n.硒  Selenium Test
 - sell v.卖、出售、转让
 - semantic [sɪˈmæntɪk] a.语义的、语义学的
 - semester n.学期
@@ -154,7 +155,7 @@
 - shave [ʃeɪv] v.刮胡子、剃、削减、降低
 - shear v.剪、剪切
 - shed n.库、棚、棚屋、分水岭、v.流下、流出、蜕皮、树叶脱落、去除、摆脱、(股票)下跌、解雇、裁员  shed some light on 解释、阐明
-- sheer a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
+- sheer [ʃɪə(r)] a.完全的、纯粹的、十足的、陡峭的、v.偏航、急转、急拐
 - sheep n.羊、绵羊
 - shelf n.架子
 - shell n.贝壳、外壳、炮弹、v.去壳、炮击  shell script shell脚本  shell out for 为...付费
@@ -249,6 +250,7 @@
 - slope n.斜坡、倾斜、斜率、v.使倾斜 abrupt slope 陡坡
 - sloppy a.马虎的、凌乱的、草率的、宽松的
 - slot n.狭槽、窄缝、时隙、机会、v.投放、塞进
+- slug n.鼻涕虫、子弹、金属块、动作缓慢的人、v.动作迟缓
 - sluggish a.缓慢的、迟缓的
 - slum [slʌm] n.贫民窟、棚户区
 - slump n.骤降、锐减、衰退、萧条期、v.骤降、锐减
@@ -263,7 +265,7 @@
 - snapshot 快照、简介、简要说明、拍快照
 - sneak v.潜行、偷偷溜走、告状、a.突然的、出其不意的
 - snip v.削减、剪去、剪断、n.片段
-- snippet n.小段、片段、一小条(消息)、一则(新闻)、代码片段
+- snippet [ˈsnɪpɪt] n.小段、片段、一小条(消息)、一则(新闻)、代码片段
 - snooze n/v.小睡
 - snow n.雪、雪花、积雪、下雪、降雪量、v.下雪
 - snowstorm n.暴风雪
@@ -275,6 +277,7 @@
 - soccer [ˈsɒkə(r)] n.足球
 - socialize 社交、交往、交际、联谊、参与社交、使社会化
 - society n.社会、社团、学会、协会
+- sociology [ˌsəʊsiˈɒlədʒi] n.社会学
 - soft a.柔和的、柔软的、无酒精的、不严厉的
 - software n.软件
 - solar [ˈsəʊlə(r)] a.太阳的、日光的、利用太阳能的、太阳能的、n.日光浴室
@@ -340,6 +343,7 @@
 - sperm [spɜːm] n.精子、精液
 - sphere [sfɪə(r)] n.球、球形、领域、范围、v.形成球体、包围、围绕
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
+- spill n/v.溢出、泄漏、洒出
 - spin v.旋转、纺纱、吐(丝)、作(茧)、急转身、兜风、n.旋转、自转、导向性陈述  spin out 衍生出、派生出
 - spine 脊柱、脊椎、书脊、刺
 - spiral [ˈspaɪrəl] v.盘旋上升/下降、急剧增长、n.螺旋形、逐渐加速上升或下降、a.螺旋形的、螺旋式的
@@ -413,7 +417,7 @@
 - steadfast a.坚定的、不动摇的  steadfast integrity 踏实、诚实
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
 - steep a.陡峭的、急剧的、大幅度的
-- steer v.驾驶、指引
+- steer [stɪr] v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - stenographer [stəˈnɒɡrəfə(r)] n.速记员
 - step n.步、步骤

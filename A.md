@@ -68,7 +68,7 @@
 - active [ˈæktɪv] a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity [ækˈtɪvəti] n.活动、活跃、行为
 - actual a.实际的、真实的、现在的、现行的  actual needs 实际需要
-- actuator 致动器、传动、执行机构
+- actuator [ˈæktjʊeɪtə] 致动器、传动、执行机构
 - acute a.严重的、急性的、灵敏的、敏锐的、锐角的、强烈的  acute crisis 严重的危机
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - Adam n.亚当
@@ -154,6 +154,7 @@
 - aircraft n.飞机、航空器
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
+- aisle [aɪl] n.过道、走道
 - alarm n.警报、闹钟、v.使惊恐、向...报警、使警觉、警告
 - alarmist a.危言耸听的、n.杞人忧天者
 - albeit [ˌɔːlˈbiːɪt] conj.虽然、即使、尽管
@@ -201,6 +202,7 @@
 - ambiguous [æmˈbɪɡjuəs] a.模棱两可的、含糊不清的、不明确的
 - ambition n.雄心、抱负、夙愿  literature ambitions 文学抱负
 - ambitious [æmˈbɪʃəs] a.有雄心的、有抱负的、费力的、耗资的、耗时的
+- ambulance [ˈæmbjələns] n.救护车
 - amend v.修正、修订、改良、修改
 - amendment n.修订、修正案
 - amiable a.友善的、亲切的、和蔼的
@@ -209,6 +211,7 @@
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - amount 数量、金额、合计、等同  amount to 总计、等于、相当于、接近、充其量
 - ampersand [ˈæmpəsænd] n. & (and符号)
+- ample a.充足的、足够的、丰满的、硕大的
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amplifier n.放大器、扩音器
 - amplitude n.振幅
@@ -298,6 +301,7 @@
 - aristocracy n.贵族
 - aristocrat [ˈærɪstəkræt] n.贵族
 - arity n.(参数)数量、元数
+- arithmetic [əˈrɪθmətɪk] n.算术、演算、算法
 - arm n.手臂、袖子、武器、装备、v.武装、给...装上引信、打开...的保险
 - armo(u)r n.装甲、v.为...提供防御
 - army n.军队、陆军、野战军

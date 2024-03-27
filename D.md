@@ -2,6 +2,7 @@
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - daisy n.菊花、雏菊
 - damage n/v.破坏、损害
+- dammit [dæmɪt] int.该死的、真他妈的
 - damn [dæm] v.该死、谴责、a.完全的、十足的、可恶的、ad.非常、及其
 - damp a.潮湿的、湿气重的、n.潮湿、湿气
 - data n.数据
@@ -195,7 +196,7 @@
 - diploma [dɪˈpləʊmə] n.毕业文凭、学位证书、公文、文书
 - diplomatic a.外交的、策略的、有手腕的
 - direct [dəˈrekt] a.径直的、直接的、v.指导、导演
-- direction n.方向、趋势、指点、指示
+- direction [dəˈrekʃn] n.方向、趋势、指点、指示
 - directive n.指示、命令、a.指示的、指导的
 - director n.导演、主管、主任、董事、理事
 - directory [dəˈrektəri] n.目录
@@ -227,6 +228,7 @@
 - disgrace [dɪsˈɡreɪs] n.耻辱、v.使丢脸、使感到耻辱
 - disguise [dɪsˈɡaɪz] n/v.假扮、伪装、掩饰
 - disgust [dɪsˈɡʌst] n/v.厌恶、反感
+- dish n.盘、碟、盘状物
 - dishearten v.使沮丧、使灰心、灰心丧气
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
 - disjoint v.脱节、解体、互斥、不相交
@@ -328,7 +330,7 @@
 - dress [dres] n.连衣裙、礼服、v.穿衣、打扮
 - drift v.漂流、漂移、n.流动、漂移、趋势、偏航
 - drill n/v.训练、操练、演习、钻、钻头
-- drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道
+- drive v.驾驶、开车、驱动、驱使、n.驱车旅行、传动装置、车道  drive sales 推动销售、推动销量
 - drizzle v.下蒙蒙细雨、n.毛毛细雨
 - drop n.滴、下降、下跌、水珠、少量、微量、v.落下、降低、变弱、遗漏、停止、暗示、写/寄(信)  drop out 离开、退出、退学  drop back down 放下  drop an email 写封邮件
 - drought n.干旱、旱灾

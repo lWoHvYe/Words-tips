@@ -34,9 +34,9 @@
 						'question'＝'?' 
 						'space'＝' ' 
 
-						￣ hyphen 连字符 
+						- hyphen 连字符 
 						` apostrophe 撇号；所有格符号 
-						— dash 破折号 
+						—- dash 破折号 (dash is longer than hyphen)
 						‘ ’single quotation marks 单引号 
 						“ ”double quotation marks 双引号 
 						( ) parentheses 圆括号 

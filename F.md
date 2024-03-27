@@ -92,7 +92,7 @@
 - film n.电影、影片、胶片、v.拍电影、上镜头
 - filter n.过滤器、筛选程序、v.过滤、筛选、慢慢传开
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
-- financial a.金融的、财务的
+- financial a.金融的、财务的  Financial report/statement 财报
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
 - fine-grained a.细粒度的、有细密纹理的
 - finger n.手指、指针、v.告发
@@ -139,6 +139,7 @@
 - fluent a.流利的、流畅的
 - flush n/v.冲洗、脸红
 - flux n.通量、流量、不断的变动、不断的变化
+- fly 飞、飞行、苍蝇   will never fly - will not work/will not be approved/not a good idea
 - flyout n.弹出按钮
 - Flyweight n.享元
 - foam n.泡沫、泡沫橡胶、海绵橡胶、泡沫剂、v.起泡沫
@@ -188,6 +189,7 @@
 - found v.建立、find的过去式及过去分词
 - foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
 - foundational 基础的、基本的
+- fourfold [ˈfɔːfəʊld] a.四倍的、四重的
 - fractal n.分形、不规则图形
 - fraction [ˈfrækʃn] n.分数、小部分、小数、少量、片段
 - fracture n.骨折、v.断裂、破裂
@@ -231,4 +233,4 @@
 - fuse v.融合、熔化、n.保险丝、导火索
 - fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
 - future n.将来、未来、前景、前途、期货、a.将来的、未来的
-- fuzzy a.模糊的、含糊不清的、毛绒绒的
+- fuzzy [ˈfʌzi] a.模糊的、含糊不清的、毛绒绒的

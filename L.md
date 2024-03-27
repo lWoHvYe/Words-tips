@@ -126,6 +126,7 @@
 - logical a.逻辑上的、必然的、合乎逻辑的、合乎情理的
 - login n.登录、注册
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
+- lookup [ˈlʊkəp] v.查找、查表
 - loom n.织布机、纺织机、v.赫然出现、逼近、迫、迫近近  loom large 挥之不去、显得突出
 - loop 环、环形、回路
 - loose a.宽松的、v.松开、释放

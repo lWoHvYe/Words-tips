@@ -55,6 +55,7 @@
 - carrer [kəˈrɪə(r)] n.职业、生涯、速度、全速、v.疾驰、猛冲、a.职业性质的
 - carry v.携带、传输、输送、运载、传播、带来、刊登、进位、销售、出售  carry out 进行、实施、贯彻、执行 carry on 继续做、坚持干  carry forward 结转 carry forward to next sprint.  carry over 延续、推迟、延期
 - cart n.手推车
+- cartel n.卡特尔、企业联合(通过统一价格、防止竞争来增加共同利润)
 - cartoon n.卡通、漫画
 - cartridge n.墨盒、弹夹
 - carve v.雕刻、把...切成块、开创  be carved into 被分成...
@@ -135,7 +136,7 @@
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
-- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票
+- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票 check out 检查、检出、结账、退房
 - check-up 检查
 - cheer n/v.欢呼、加油、鼓舞
 - cheerleader n.(强有力的)支持者
@@ -166,6 +167,7 @@
 - circle [ˈsɜːkl] n.园、环、循环、周期、v.绕过  a circle of friends 一群朋友
 - circuit [ˈsɜːkɪt] v.巡回、n.电路、线路 Circuit breaker 断路器  short circuit 短路
 - circular [ˈsɜːkjələ(r)] a.圆环的、环形的
+- circulate v.循环、环流、流通、流传、散布、周旋
 - circulation n.循环、流通、环流、发行量
 - circumstance [ˈsɜːkəmstəns] n.条件、环境、状况、经济状况、命运、v.使处于某种特定的情况之下
 - circumvent [ˌsɜːrkəmˈvent] 避免、规避、绕过、陷害
@@ -228,6 +230,7 @@
 - coefficient [ˌkəʊɪˈfɪʃnt] n.系数
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
 - coexistence n.共存、共处 co existence(存在、生存)
+- coffin [ˈkɒfɪn] n.棺材、棺木、v.收殓
 - cognition n.认知、感知
 - cognitive a.认知的、认识的、感知的
 - cognize v.认识、认知
@@ -297,16 +300,17 @@
 - compensation n.补偿、赔偿、报酬、薪资  compensation design 薪酬设计
 - compete v.竞争、竞赛、对抗  compete for... 为...竞争  compete with... 与...竞争
 - competent a.有能力的、能胜任的、称职的、过得去的
+- competitive a.竞争的、有竞争力的、更好的、比赛的
 - compilation [ˌkɒmpɪˈleɪʃn] n.汇编、编写
 - compile [kəmˈpaɪl] v.编写、编辑、汇编、编译
 - complain v.抱怨、埋怨、投诉
-- complaint n.抱怨、埋怨、(不严重的)疾病  complaint list 投诉清单
+- complaint [kəmˈpleɪnt] n.抱怨、埋怨、(不严重的)疾病  complaint list 投诉清单
 - complement [ˈkɒmplɪment/ˈkɒmplɪmənt] v.补充、补足、n.补语、足数、足额
 - complementary a.互补的、补充的
 - complete [kəmˈpliːt] v.完成、结束、使完整、使完美、填写、a.完全的、彻底的、完整的、完成了的
 - complex a.复杂的、难懂的、n.综合体、综合大楼、相关联的一组事物、不正常的精神状态、不正常的忧虑
 - compliance [kəmˈplaɪəns] n.顺从、遵从、服从、合规、承诺、柔软度
-- compliant a.顺从的、遵从的、符合的、一致的
+- compliant [kəmˈplaɪənt] a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
 - complimentary a.免费的、赠送的
@@ -373,6 +377,7 @@
 - congest v.拥挤、使充血
 - congratulate [kənˈɡrætʃuleɪt] v.祝贺、向...道贺
 - congress n.国会、议会、代表大会、v.开会、集合
+- congruent [ˈkɒŋɡruənt] a.一致的、全等的、适合的、适当的、相称的、恰当的
 - conjecture n/v.猜想、猜测、推测
 - conjunct a.结合的、联合的、连接的
 - conjunction n.连词、连结、结合、联合、结合物、(事件的)同时发生
@@ -400,6 +405,7 @@
 - conspiracy [kənˈspɪrəsi] n.阴谋、密谋、共谋
 - conspire [kənˈspaɪə(r)] v.阴谋、密谋、图谋
 - constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
+- constituency n.选区
 - constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
 - constitute v.组成、构成、制定、设立、成立、指派
 - constitution n.组成、构成、体质、体格、宪法、章程
@@ -417,6 +423,7 @@
 - contagious a.传染性的、(通过接触)传染的、会蔓延的
 - contain v.包含、容纳、控制、抑制、防止...蔓延/恶化
 - container [kənˈteɪnə(r)] n.容器、集装箱
+- containment n.控制、遏制、抑制
 - contemplate v.沉思、考虑、思量、注视、凝视
 - contemporary a.现代的、当代的、同一时代的、n.同代人、同辈人  contemporary culture 当代文化
 - contempt n.轻蔑、轻视、鄙视  contempt for 对...的轻视
@@ -431,7 +438,7 @@
 - contingent 代表团、视情况而定的 
 - continuation n.继续、连续、持续、续篇、附加物
 - continue v.持续、继续、连续、延伸
-- continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性
+- continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性  Continuity of Business - COB 灾备节点
 - continuous a.连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
 - contour n.外形、轮廓、等高线 
 - contra n.相反、对立面、抵消、prep.反对、与...相反、ad.反对、相反
@@ -471,7 +478,7 @@
 - cooperate [kəʊˈɒpəreɪt] v.合作、协作、协助、配合
 - cooperation n.合作、协作、配合
 - coordinate n.坐标、套装、v.使协调、使调和、整合、搭配、协调、a.同等的、配合的、对等的、坐标的
-- coordinator n.协调者
+- coordinator [kəʊˈɔːdɪneɪtə(r)] n.协调者、协作者
 - cope v.对付、处理 cope with 对付
 - copilot [ˈkəʊˌpaɪlət] n.副驾驶
 - copper n.铜、铜币、铜色、警察、a.铜色的、v.镀铜  copper coils 铜线圈
@@ -538,13 +545,13 @@
 - credibility n.可信性
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
 - credit n.信用、贷款、学分 tax credit 免税额度
-- creep v.爬行、匍匐、不知不觉地产生
+- creep v.爬行、匍匐、不知不觉地产生  creep me out - make me feel uncomfortable and a bit scared
 - crew [kruː] n.船员、乘务员、全体工作人员
 - cricket [ˈkrɪkɪt] n.板球、蟋蟀
 - crime [kraɪm] n.罪行、犯罪  commit crime 犯罪  cyber crime 网络犯罪
 - criminal a.犯罪的、刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼
 - crisis [ˈkraɪsɪs] n.危机、危难时刻、紧要关头、岌岌可危、转折点
-- crisp a.脆的、酥脆的、n.薯片、v.变脆
+- crisp a.脆的、酥脆的、干脆的、利落的、n.薯片、v.变脆
 - criteria (criterion 复数) n.标准、准则、条件
 - criterion [kraɪˈtɪriən] n.标注、准则
 - critic n.批评家、评论家

@@ -90,8 +90,8 @@
 - recycle v.回收利用、重复利用
 - redeem v.兑换、偿还、赎回
 - redirect [ˌriːdəˈrekt/ˈriːdərekt] v.使改变方向、重定向
-- reduce v.减少
-- reduction n.减少、降低、约简、减价、折扣
+- reduce v.减少、缩小、节食
+- reduction n.减少、降低、约简、减价、折扣、缩图、缩版
 - reductor n.复位器、还原剂
 - redundant a.冗余的、多余的、被裁减的、被解雇的
 - reentrant [riːˈɛntrənt] a.可重入的
@@ -139,7 +139,7 @@
 - relative [ˈrelətɪv] a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
 - relax v.放松、休息、放宽、缓和、减轻
 - relaxation [ˌriːlækˈseɪʃn] n.放松、休息、消遣、休闲活动
-- relay v.转发、中继、n.中继设备
+- relay [ˈriːleɪ] v.转发、中继、n.中继设备
 - release v.释放、发布、发行、解除、免除、公开发行、n.获释、发行、新发行的东西、发布、解脱、排放、泄露
 - relevant a.相关的、有价值的、有意义的、切题的、中肯的
 - reliable a.可靠的、可信赖的、n.真实可信的、可靠的人
@@ -151,7 +151,7 @@
 - religious a.宗教的、虔诚的[qián chéng]
 - relocate v.迁移
 - reluctant [rɪˈlʌktənt] a.不情愿的、勉强的
-- rely v.依靠、依赖、信赖
+- rely [rɪˈlaɪ] v.依靠、依赖、信赖
 - remain [rɪˈmeɪn] n.剩余物、残骸、残余、遗迹、余额、(系动词)v.保持、依然、留下、留待、剩余
 - remainder 余数、差数、剩余物、廉价出售、剩余的
 - remake 重做、翻新、改造
@@ -189,7 +189,7 @@
 - replenish [rɪˈplenɪʃ] v.补充、重新装满
 - reply n/v.回答、答复
 - repo 回购  Repo Market 回购市场
-- repository [rɪˈpɒzətri] n.仓库
+- repository [rɪˈpɒzətri/rɪˈpɑːzətɔːri] n.仓库
 - represent v.代表、表示、表述、陈述、展现
 - representation n.表示、表现、描述、代表、陈述
 - representative n.代表、代理人、议员、a.典型的、有代表性的
@@ -273,6 +273,7 @@
 - rewarding a.有益的、值得做的
 - rid [rɪd] v.摆脱、解除、免除、去除、消除、a.摆脱...的  get rid of 摆脱
 - ride [raɪd] n.骑、乘坐、旅行、旅程、v.骑、乘坐、搭乘
+- Riding n.区
 - rifle [ˈraɪfl] v.偷窃、盗取、n.步枪
 - right ad.立刻、马上、n.正确、正当、权利、右边、a.真正的、完全的
 - righteous a.正义的、正直的、公正的

@@ -117,6 +117,7 @@
 - humiliate v.羞辱
 - humiliation n.羞辱、耻辱、蒙羞
 - humo(u)r n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
+- hunch [hʌntʃ] n.预感、直觉
 - hurl v.投掷
 - hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙

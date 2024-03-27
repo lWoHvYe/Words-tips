@@ -25,6 +25,7 @@
 - negotiable [nɪˈɡəʊʃiəbl] a.可转让的、可流通的、可兑现的
 - negotiate [nɪˈɡəʊʃieɪt] v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
+- nephew [ˈnefjuː] n.侄子、外甥
 - nerve n.神经、勇气、胆量
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的、神经的、神经系统的
 - nervy a.焦虑的、紧张的
@@ -40,6 +41,7 @@
 - nevertheless ad.然而、不过、尽管如此
 - new a.新的、初次的、生疏的
 - nice a.美好的、吸引人的、友好的
+- niece n.侄女、外甥女
 - nightmare n.噩梦、梦魇
 - nihil/nil 无、虚无
 - nimble a.灵活的、敏捷的
