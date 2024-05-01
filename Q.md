@@ -1,3 +1,4 @@
+- quack n.江湖郎中、(鸭子的)呱呱叫、嘎嘎叫
 - quadratic [kwɒˈdrætɪk] a.平方的、二次方的
 - quadruple [kwɒˈdruːpl] a.四倍的、四重的、四方的、v.变为四倍、n.四倍   
 - qualification n.资格、资历、学历、限定条件、资格证  professional qualification 专业资格  minimal ~ 最低限制
@@ -5,7 +6,7 @@
 - qualify v.具有资格、有权、达标、限定、修饰、描述、形容、使合适、证明
 - quality [ˈkwɒləti] n.质量、特性、优质、品德、a.优质的、高质量的  Quality Assurance - QA
 - quantity [ˈkwɒntəti] n.数量、数目、大量、大批
-- quantum [ˈkwɒntəm] n.量子 复数: quanta
+- quantum [ˈkwɒntəm] n.量子 复数: quanta  quantum mechanics 量子力学
 - quarrel n/v.争吵
 - quarry n.采石场、猎物
 - quarter n.四分之一、一刻钟、地区、v.把...四等份、给...提供食宿

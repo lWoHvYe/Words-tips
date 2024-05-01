@@ -21,6 +21,7 @@
 - tar n.尼古丁、焦油
 - target n.目标、目标对象、v.以...为目标、把...选做目标
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
+- tasty a.美味的、可口的
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
 - taxonomy [tækˈsɒnəmi] n.分类学、分类系统
 - taxpayer n.纳税人
@@ -161,6 +162,7 @@
 - tongue n.舌头
 - tool [tuːl] n.工具  high-technology tools and techniques 高科技工具和技术  an underrated tool 被低估的工具
 - toolkit n.工具包、工具箱
+- tooth n.齿、牙齿
 - top up 充值
 - topic n.话题、主题、题目
 - topology n.拓扑结构、拓扑学
@@ -215,7 +217,7 @@
 - traumatic [trɔːˈmætɪk] a.创伤的、外伤的
 - travail [ˈtræveɪl] n.痛苦、艰辛  the travails of commuters 通勤者的辛苦
 - traversal n.遍历、穿越、追踪
-- traverse 穿过、横贯、横切、横过、横断的
+- traverse [trəˈvɜːs/ˈtrævɜːs] v.穿过、横贯、横切、横过、a.横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
 - treasury n.财政部、宝库、珍藏室
 - treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、请客、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
@@ -254,6 +256,7 @@
 - tube [tjuːb] n.管、管子、电子管
 - tuck [tʌk] v.塞进、卷起、挤进
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
+- tumble [ˈtʌmbl] v.摔倒、跌倒
 - tumo(u)r n.肿瘤、肿块
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - tunnel n.隧道、通道
@@ -261,6 +264,7 @@
 - turbo n.涡轮发动机、涡轮增压器
 - turbulence n.湍流、涡流、气流、骚乱、动乱
 - turbulent [ˈtɜːrbjələnt] a.骚乱的、动荡的、激流的
+- turmoil [ˈtɜːmɔɪl] n.混乱、焦虑
 - turn [tɜːn] v.(使)转动、旋转、翻转、变成、n.转动、旋转、转变 in turn 依次、轮流 take turns (in sth/to do sth) 轮流做某事 turn to sb/sth 求助于某人/某物、借助于某人/某物 turn over 翻转、变换(电视频道)、营业额为.. turn out to be 结果是、原来是  trun around 转动、转身、好转、改变意见
 - turnaround n.周转、时限、转机
 - turnover n.翻滚、逆向、调整、营业额、成交量、人员调整、更新迭代、人员流动率、货物周转率、证券交易额、(资金)周转

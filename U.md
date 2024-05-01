@@ -37,6 +37,7 @@
 - unilateral [ˌjuːnɪˈlætrəl] a.片面的、单方的
 - unintentional a.无意的、非故意的
 - union [ˈjuːniən] n.同盟、联盟、联邦、协会、工会
+- unique [juˈniːk] a.独特的、唯一的
 - unit n.单元、单位、机构
 - unite [juˈnaɪt] v.团结、合并、统一
 - univalent 单价的、(指染色体)单一的

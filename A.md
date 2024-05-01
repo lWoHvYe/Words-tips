@@ -1,46 +1,46 @@
 - abandon [əˈbændən] v.抛弃、遗弃、放弃
-- abbreviate v.缩写、缩略
+- abbreviate [əˈbriːvieɪt] v.缩写、缩略
 - abdicate [ˈæbdɪkeɪt] v.放弃、退位、失职
-- abide v.遵守、容忍、忍受、等待、停留
+- abide [əˈbaɪd] v.遵守、容忍、忍受、等待、停留
 - abnormal a.不正常的、反常的、变态的、畸形的
-- aboard ad/prep.在船上、上船或飞机
+- aboard [əˈbɔːd] ad/prep.在船上、上船或飞机
 - abolish [əˈbɒlɪʃ] v.废除、废止  abolish slavery 废除奴隶制
-- abort n/v.中止、退出、夭折
+- abort [əˈbɔːt] n/v.中止、退出、夭折
 - abound [əˈbaʊnd] v.大量、大量存在、有许多、充足
-- abroad n.国外、海外、ad.到国外、在国外、广为流传  go abroad 出国
+- abroad [əˈbrɔːd] n.国外、海外、ad.到国外、在国外、广为流传  go abroad 出国
 - abrupt a.陡峭的、突然的、唐突的、生硬的、不连贯的
 - absence n.缺席、缺勤、不在、缺乏、心不在焉  in the absence of 缺乏
 - absent [ˈæbsənt/æbˈsent] a.缺席的、不在场的、缺少的、缺乏的、心不在焉的、prep.没有、缺乏
 - absolute a.绝对的、完全的、肯定的、无疑的、不受限制的、独立的、n.绝对真理  absolute cost 绝对成本
-- absolutism n.专制主义
+- absolutism [ˈæbsəluːtɪzəm] n.专制主义
 - absorb [əbˈzɔːb] v.吸收、吸引、使全神贯注、理解、掌握、接受、承受、承担  absorb hardships 承受磨难
 - absorbed a.专心的、全神贯注的
 - absorption [əbˈzɔːpʃn] n.吸收、专注、合并  absorption cost 全部成本
-- abstain 弃权、戒除、离开、回避
+- abstain [əbˈsteɪn] v.(投票)弃权、戒除、离开、回避
 - abstract [ˈæbstrækt/æbˈstrækt] n.摘要、概要、抽象派艺术品、v.提取、抽取、分离、写摘要、a.抽象的、理论上的
 - absurd [əbˈsɜːd] a.荒谬的、不合理的
 - abundant a.大量的、充裕的、丰盛的
-- abuse n/v.滥用、恶习、侮辱、虐待、辱骂  abuse of power 权利的滥用
+- abuse [əˈbjuːs/əˈbjuːz] n/v.滥用、恶习、侮辱、虐待、辱骂  abuse of power 权利的滥用
 - abuzz [əˈbʌz] a.议论纷纷的
-- academe/academia n.学术界、学术
-- academic a.学术的、学业的、大学的、学院的、纯理论的、n.高校教师、高校科研人员
+- academe/academia [ˈækəˌdim/ˌækəˈdiːmiə] n.学术界、学术
+- academic [ˌækəˈdemɪk] a.学术的、学业的、大学的、学院的、纯理论的、n.高校教师、高校科研人员
 - academy n.专科学校、学会、研究院、学院、中等学校、私立学校
 - accelerate [əkˈseləreɪt] v.加快、促进、加速
 - accept [əkˈsept] v.接受、承认、同意、认可、相信
 - acceptable a.可接受的、可容许的、差强人意的、认同的、认可的
 - acceptance n.接受、接纳、承认、认可、容许、[金融]承兑
 - access [ˈækses] n.通道、通路、入径、机会、权利、v.访问、存取、到达、进入、使用
-- accessible a.可到达的、可使用的、易接近的、可理解的
+- accessible [əkˈsesəbl] a.可到达的、可使用的、易接近的、可理解的
 - accessibility n.可达性、可接近性、可访问性
-- accidental a.意外的、偶然的、附属的
+- accidental [ˌæksɪˈdentl] a.意外的、偶然的、附属的
 - accident n.事故、意外、偶然、附属品  by accident 偶然地、意外地
-- acclaim v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
-- acclimate v.使习惯、使适应
-- accomodate v.容纳、使...适应、顾及
+- acclaim [əˈkleɪm] v.称赞、赞扬、向...欢呼、宣称、n.称赞、高度评价
+- acclimate [ˈækləmeɪt] v.使习惯、使适应
+- accommodate [əˈkɒmədeɪt] v.容纳、使...适应、顾及
 - accompany v.陪伴、陪同、伴随
 - accomplish v.完成、达到、实现
 - accord v.一致、给予、授予、使符合、使适合、n.协议、条约
-- accordingly 因此、于是、依照、照着、相应地
+- accordingly ad.因此、于是、依照、照着、相应地
 - account n.账户、账目、记述、报告、解释、说明、v.解释、说明、描述、认为是、视为  account for (数量或比例上)占、解释、说明 on account of 因为、由于 take... into account 把...考虑在内 call sb to account 追究责任  vivid account 生动的描述
 - accountable a.负有责任的、可解释的、有说明义务的
 - accountability n.责任、有责任、有义务
@@ -51,14 +51,14 @@
 - accurate a.精确的、准确的、正确无误的
 - accuse v.指责、控告、控诉
 - accustom v.使习惯、使适应
-- ache n/v.疼痛
+- ache [eɪk] n/v.疼痛
 - achieve v.实现、取得、达到、成功、达到预期的目的、实现预期的结果、如愿以偿
 - achievement n.成就、功绩、完成、达到
 - acid [ˈæsɪd] n.酸、a.酸的
 - acknowledge v.承认、认可、确认、答谢
 - acquaintance [əˈkweɪntəns] n.相识、熟人、认识的人、泛泛之交、对...有了解、知识、心得
 - acquire v.获得、得到
-- acquisition 获得、得到、购置、收购
+- acquisition [ˌækwɪˈzɪʃn] n.获得、得到、购置、收购
 - acre [ˈeɪkə(r)] n.英亩
 - acreage [ˈeɪkərɪdʒ] n.面积、英亩数
 - across prep.越过、穿过、在...对面、与...交叉、ad.横过、越过、在对面、交叉着
@@ -68,20 +68,21 @@
 - active [ˈæktɪv] a.积极的、肯定的、活跃的、起作用的、n.主动语态  passive a.消极的、否定的、n.被动语态
 - activity [ækˈtɪvəti] n.活动、活跃、行为
 - actual a.实际的、真实的、现在的、现行的  actual needs 实际需要
-- actuator [ˈæktjʊeɪtə] 致动器、传动、执行机构
+- actuator [ˈæktjʊeɪtə] n.致动器、传动、执行机构(元件)、马达、螺线管
 - acute a.严重的、急性的、灵敏的、敏锐的、锐角的、强烈的  acute crisis 严重的危机
 - ad hoc a.临时安排的、特别的、专门的、ad.特别地
 - Adam n.亚当
-- adapt v.使适应、使适合、改编、改写  adapt to 适应...
+- adapt [əˈdæpt] v.使适应、使适合、改编、改写  adapt to 适应...
 - adaptive a.适应的  an adaptive value 适应值
 - addict [ˈædɪkt] n.有瘾的人、成瘾者、v.使沉溺、使上瘾、使自己沾染
 - addition n.增加、添加、加法、附加 in addition 此外、另外
 - additional 额外的、追加的、附加的、补充
 - address n.地址、称呼、演讲、演说、v.写地址、致函、称呼、演说、处理、指出
 - adept [əˈdept/ˈædept] a.内行的、熟练的、擅长的、n.专家、能手
-- adequate a.充足的、足够的、合格的、合乎需要的
+- adequate [ˈædɪkwət] a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
+- adjective n.形容词、a.形容词的、附属的、不独立的、有关程序的
 - adjoin v.邻近、毗连、紧挨
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
 - adjustive 调节的、调整的
@@ -92,10 +93,10 @@
 - admire v.倾佩、欣赏、赞赏、仰慕
 - admission n.承认、准许进入、加入权、进入权、招生、录取  admission ticket 门票  admission of sth 承认某事  university-admissions process 大学录取流程
 - admit v.承认、允许、确认、许可进入、准许...加入、接纳  admit to/into 准许加入(俱乐部、组织)、接收(入学)
-- adolescent n.青少年、a.青春期的
+- adolescent [ˌædəˈlesnt] n.青少年、少女、a.青春期的
 - adopt v.采用、采纳、接受、批准、选定、选举、收养
 - adorn v.装饰、佩戴、修饰、使生色、使更美观  material adornment 物质装饰
-- adult n.成年人、成人、a.成人的 
+- adult [ˈædʌlt] n.成年人、成人、a.成人的 
 - adulthood 成年、成年期
 - advance v.前进、促进、发展、提高、推动、提出、提前、预付、a.预先的、事先的、n.前进、发展、预付款、先遣队、先头部队 in advance 提前、预先、事先
 - advanced (过去式/过去分词) a.先进的、高级的、高等的、高阶的、发达的
@@ -135,7 +136,7 @@
 - agenda n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
 - agent n.代理人、代理商、媒介、工具、原动力、动因、v.由...代理、a.代理的
-- agile [ˈædʒaɪl] a.敏捷的、灵活的、机敏的、轻快的
+- agile [ˈædʒaɪl/ˈædʒl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
 - agitate v.鼓动、煽动、使焦虑、使不安、搅动
 - aggravate [ˈæɡrəveɪt] v.使恶化、加剧
@@ -169,11 +170,13 @@
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
 - alike a.同样的、相似的、ad.两者都、类似于
+- alizarin n.茜(qian)素、茜草色素、深红
 - all det./a.所有的、全部的、极度的、prep.所有、全部、全体、ad.完全、十分、非常  all day long 整天  after all 毕竟、终究  above all 首先  in all 总共  all the time 总是、一直  all the way 一路、自始至终  all the more 更加、愈加
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
 - allegedly 据说
 - allegiance [əˈliːdʒəns] n.忠诚、效忠
+- allergic [əˈlɜːdʒɪk] a.过敏性的
 - alleviate [əˈliːvieɪt] v.减轻、缓和、缓解
 - alliance [əˈlaɪəns] n.结盟、联盟、同盟
 - allocate v.分配、分派、拨...(给)、划...(归)
@@ -210,6 +213,7 @@
 - amid prep.在...中间、在...之中
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - amount 数量、金额、合计、等同  amount to 总计、等于、相当于、接近、充其量
+- ampere [ˈæmpeə] n.安、安培(电流单位)
 - ampersand [ˈæmpəsænd] n. & (and符号)
 - ample a.充足的、足够的、丰满的、硕大的
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
@@ -235,7 +239,9 @@
 - anecdote n.轶事、奇闻、逸事
 - angel [ˈeɪndʒl] n.天使
 - anger n.愤怒、v.发怒
-- angle [ˈæŋɡl] n.角、角度、立场、观点
+- angle [ˈæŋɡləʊ] [ˈæŋɡl] n.角、角度、立场、观点
+- Anglo n.北美白人、英裔美国人
+- Anglosphere 英语国家
 - angry a.生气的、愤怒的、狂暴的
 - angular [ˈæŋɡjələ(r)] a.有角的、用角测量的、用弧度测量的、生硬的、瘦削的  angular velocity 角速率、角速度
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
@@ -349,7 +355,7 @@
 - association n.协会、社团、联盟
 - assume [əˈsjuːm] v.假定、假设、承担、担任、呈现
 - assumption n.假定、假设、承担、担任
-- assurance n.保证、担保、保险、确信、把握
+- assurance n.保证、担保、保险、确信、把握  quality assurance - QA
 - assure v.向...保证、使...确信、保证、确保
 - asterisk [ˈæstərɪsk] n.星号 *
 - asteroid [ˈæstərɔɪd] n.小行星
@@ -424,3 +430,4 @@
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的
 - awful a.糟糕的、可怕的、极大的、ad.很、非常、极
 - awkward [ˈɔːkwəd] a.令人尴尬的、笨拙[bèn zhuō]的、难处理的
+- axis [ˈæksɪs] n.轴、坐标轴、对称中心线

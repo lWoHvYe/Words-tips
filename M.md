@@ -33,6 +33,7 @@
 - mane [meɪn] n.鬃毛
 - mania n.狂热
 - manifest v.显示、表明、证明、宣言、声明、a.明白的、明显的、n.货单、旅客名单
+- manifesto n.宣言
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
 - manner [ˈmænə(r)] n.方法、方式、态度、举止、礼仪、规矩
 - manpower [ˈmænpaʊə(r)] n.人力、人手、劳动力
@@ -70,10 +71,11 @@
 - mathematical a.数学的、精确的
 - matrix 矩阵、基质、模型、母体
 - matter n.课题、事情、问题、事态、要紧、物质、v.事关紧要、有关系、要紧、有影响  a matter of ...的问题，大约、左右  as a matter of 出于...考虑  as a matter of fact事实上/course通常/routine按照惯例/princlple原则上
-- mature v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
-- maturity 成熟、成年、到期
+- mature [məˈtʃʊə(r)] v.成熟、长成、到期、酿成、a.成熟的、成年的、到期的
+- maturity [məˈtʃʊərəti] 成熟、成年、到期
 - maven 专家、内行
 - may aux./modal 可能、也许、但愿、n.May 五月、山楂花
+- maze [meɪz] n.迷宫
 - McDonald's [məkˈdɒnldz] n.麦当劳
 - meadow n.草地、牧场
 - meal [miːl] n.餐、v.进餐
@@ -132,7 +134,7 @@
 - metaphysics [ˌmetəˈfɪzɪks] n.形而上学、玄学
 - mete v.分配、给予
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
-- metric a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
+- metric [ˈmetrɪk] a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
 - metro n.地铁、大城市、大都市
 - metrology n.计量学、度量衡学
 - metropolis [məˈtrɒpəlɪs] n.大城市、大都会、首都、首府
@@ -149,12 +151,13 @@
 - mild a.温和的、轻微的
 - mile n.英里
 - mileage n.里程、英里、好处、利益
-- milestone 重要事件、重要阶段、转折点、里程碑
+- milestone [ˈmaɪlstəʊn] 重要事件、重要阶段、转折点、里程碑
 - militarize [ˈmɪlɪtəraɪz] v.武装化、派遣武装力量、使具有军事性质
 - military [ˈmɪlətri] a.军事的、军用的、军队的、武装的、n.军人、军队、军方
 - mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
+- MIME - multipurpose Internet mail extension 多用Internet邮件扩展
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力  bring to mind (使)记起/回忆起  keep in mind 记住
 - mindedness n.思想、心思
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
@@ -171,6 +174,7 @@
 - miscellany n.杂集、混合体 
 - misconception 误解、错觉、错误认识
 - misery [ˈmɪzəri] n.痛苦、苦难
+- mishap [ˈmɪshæp] n.灾祸、不幸
 - miss [mɪs] n.女士、小姐（未婚）、失误、v.未击中、错过、思念  I miss you 我想你
 - missile [ˈmɪsaɪl] n.导弹
 - mission [ˈmɪʃn] n.使命、任务、旅行、代表团、v.派遣、做艰苦的长途旅行
@@ -189,14 +193,15 @@
 - mock [mɒk] v.嘲弄、嘲笑、模仿、仿效、a.仿制的、假装的、模拟的、演习的、虚假的、n.模拟考试
 - modal n.情态动词、a.模式的、形式的、语气的
 - mode n.模式、方式、风格、样式、状况、时尚、风尚
-- model n.模型、模范、v.将...做成模型、使模仿、塑造、复制
+- model [ˈmɒdl] n.模型、模范、v.将...做成模型、使模仿、塑造、复制
 - modem n.调制解调器
 - moderate a.中等的、适度的、温和的、稳健的、v.缓和、使适中、主持
+- moderator n.主持人、仲裁人、调停人
 - modern a.现代的、当代的、近代的、新式的、n.现代人、现代字体
 - modest a.谦虚的、谦逊的、适度的、适中的、些许的、朴素的、普通的
 - modification n.修改、修正、改良、改变  genetic modification 基因改变
 - modify v.修改、改变、[语法]修饰、限定
-- module [ˈmɒdjuːl] [ˈmɑːdʒuːl] n.模块、单元
+- module [ˈmɒdjuːl/ˈmɑːdʒuːl] n.模块、单元
 - modularize v.模块化
 - moist a.潮湿的、湿润的
 - moisture n.潮湿、湿气、湿度、水分
@@ -214,7 +219,7 @@
 - monetize 赚钱、货币化
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
 - monk n.和尚
-- mono a.单声道的
+- mono [ˈmɒnəʊ] a.单声道的
 - monolayer n.单层
 - monolith n.单块巨石、巨无霸
 - monolithic [ˌmɒnəˈlɪθɪk] a.整体的、庞大的
@@ -246,7 +251,7 @@
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
 - motor n.发动机、电动机
-- mount v.准备、登上、爬上、安装、镶嵌、逐渐增加、发动、发出、n.底座、托架、坐骑、山峰
+- mount v.准备、登上、爬上、安装、镶嵌、逐渐增加、发动、发出、挂载、n.底座、托架、坐骑、山峰
 - mountain n.山、山脉、许多、大量  debt mountain 负债累累
 - mourn [mɔːn] v.哀悼、忧伤
 - mournful a.悲伤的
@@ -266,12 +271,13 @@
 - musician n.音乐家
 - mutable [ˈmjuːtəbl] a.可变的、会变的
 - mutate [mjuːˈteɪt] v.变异、突变、转变、转换
-- mutator n.变换器、整流器
+- mutator [mju(ː)ˈteɪtə] n.变换器、整流器
 - multicast 多播、多点传送
 - multilateral a.多方面的、多国的、多边的
 - multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的
 - multiply v.乘、相乘、ad.复合地、多样地、a.多股的、多层的
 - multiplication [ˌmʌltɪplɪˈkeɪʃn] n.乘法、相乘
+- multiplicity [ˌmʌltɪˈplɪsəti] n.多样性
 - multiplier n.乘数、倍数
 - munchies [ˈmʌntʃɪz] n.快餐、小吃
 - municipal [mjuːˈnɪsɪpl] a.城市的、市政的

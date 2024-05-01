@@ -79,6 +79,7 @@
 - granny n.祖母、外祖母
 - grant [ɡrɑːnt] v.授予、承认、准许、n.拨款、补助金 take ... for granted 认为...理所当然
 - granularity n.粒度
+- grape [ɡreɪp] n.葡萄
 - graph n.图、图表、曲线图
 - graphic 图解的、用图表示的、形象的、生动的、图表、图形  GUI - graphical user interface 图形用户界面
 - grasp n/v.抓住、抓紧、理解、领会

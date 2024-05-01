@@ -34,6 +34,7 @@
 - parity n.奇偶性、对等、平等
 - park n.公园、园区、v.停、泊
 - parliament [ˈpɑːləmənt] n.国会、议会
+- parrot n.鹦鹉
 - parse [pɑːz] v.从语法上描述或分析
 - partial [ˈpɑːʃl] a.部分的、不完全的、偏爱的、偏袒的、n.偏微商
 - particle n.微粒、粒子、质子、极小量
@@ -65,7 +66,8 @@
 - pave v.铺、铺路
 - paw n.爪子
 - payment n.付款、支付、收款、款项
-- PDR - preliminary design review 初步设计评审
+- PBR - Product Backlog Refinement
+- PDR - preliminary design review 初步设计评审  Product Design Refinement
 - peak n.山峰、顶峰、最高点、v.达到高峰、达到最高值、a.最高点、巅峰状态的
 - peanut [ˈpiːnʌt] n.花生、花生米、a.渺小的、微不足道的
 - pearl [pɜːl] n.珍珠、v.采珍珠
@@ -97,7 +99,7 @@
 - perfume [ˈpɜːfjuːm] n.香水
 - perhaps ad.可能、大概、也许、或许、n.假定、猜想
 - period n.时期、周期、一段时间、阶段、时代、句号
-- periodic 周期的、定期的、时而发生的、间歇的
+- periodic [ˌpɪəriˈɒdɪk/ˌpɪriˈɑːdɪk] 周期的、定期的、时而发生的、间歇的
 - periodical [ˌpɪəriˈɒdɪkl] n.期刊、杂志
 - peripheral [pəˈrɪfərəl] n.外围设备、外部设备、a.周边的、外围的、次要的、附带的
 - perish [ˈperɪʃ] v.死亡、湮灭、老化
@@ -120,6 +122,7 @@
 - persuade [pəˈsweɪd] v.说服、劝说、使相信、使信服
 - persuasion n.说服、劝说、信仰
 - pertain v.存在、适用
+- pertinent a.有关的、相关的
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - pessimistic [ˌpesɪˈmɪstɪk] a.悲观的、悲观主义的  pessimistic view 悲观的看法
@@ -194,6 +197,7 @@
 - plunge [plʌndʒ] v.暴跌、骤降、陷入、把...投入、将...推入、猛冲、突然开始、n.暴跌、跳水、降雨、投入、突然陷入、突然开始
 - plural [ˈplʊərəl] n.复数、复数形式、a.复数的、多元的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
+- plumage [ˈpluːmɪdʒ] n.羽毛、羽衣
 - poach [pəʊtʃ] v.偷猎、窃取、挖(人才等)、水煮、炖
 - pocket n.口袋、金钱、财富
 - pocketbook n.皮夹、记事本
@@ -207,6 +211,7 @@
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
 - pojo POJO stands for "Plain Old Java Object." It is a term used in Java development to describe a simple, plain Java object, which is not burdened with complex frameworks or dependencies. The concept of POJO is often associated with the principles of simplicity and reusability in Java programming. consider it as entity/class
 - polar a.极地的、磁极的、两极的、截然相反的、截然对立的
+- polaris n.北极星
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
 - pole [pəʊl] n.极、磁极、电极、地极、极点、柱子
 - policy  政策、策略
@@ -232,7 +237,7 @@
 - populate v.居住于、生活于、落户于、迁移、迁居、移民、填充、增添数据、输入数据
 - population n.人口
 - pornographic a.淫秽的、色情的
-- port 港口、口岸、避风港、端口、移植
+- port [pɔːt/pɔːrt] 港口、口岸、避风港、端口、移植
 - portable a.便携式的、轻便的、手提的、n.手提电脑
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
@@ -335,7 +340,7 @@
 - primary a.主要的、最初的、初级的、基本的
 - prime a.主要的、首要的、优质的、典型的、基本的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点  prime number 质数、素数  Prime Finance 大宗金融
 - primer n.启蒙读本
-- primitive a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
+- primitive [ˈprɪmətɪv] a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人
 - principle [ˈprɪnsəpl] n.原则、原理、行为准则
@@ -419,7 +424,7 @@
 - protein [ˈprəʊtiːn] n.蛋白质
 - protest n/v.抗议、反对
 - protocol n.协议、礼仪、草案、规程、规约、v.拟
-- prototype 原型、雏形、蓝本
+- prototype [ˈprəʊtətaɪp] 原型、雏形、蓝本
 - protrude [prəˈtruːd] v.突出、伸出、鼓出
 - proud a.骄傲的、自豪的、引以为荣的
 - prove v.证明、证实、证明是、结果是

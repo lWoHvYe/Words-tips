@@ -21,6 +21,9 @@
 - canary n.金丝雀
 - cancel [ˈkænsl] n/v.取消、撤销、注销、约去、相互抵消
 - cancer [ˈkænsə(r)] n.癌症
+- candy [ˈkændi] n.糖果、冰糖  candy cane 一种红白相间的棒糖、拐杖糖
+- cane [keɪn] n.手杖
+- canine a.犬的
 - canned a.罐装的、预先录制的
 - candidate n.申请人、候选人、应试者、被认定适合者、被认定有某种结局者
 - canny a.谨慎的、精明的、狡猾的
@@ -37,7 +40,7 @@
 - capital n.首都、资本、财富、大写字母、v.大写的、极好的、死刑的  capital market 资本市场
 - capital n.首都、资本、资金、财富、财产、资方、大写字母、a.首都的、资本的、大写的、极好的、死刑的
 - capitalism n.资本主义(制度)
-- capsule n.胶囊、太空舱、小塑料容器
+- capsule [ˈkæpsjuːl] n.胶囊、太空舱、小塑料容器、封装体
 - captain n.船长、机长、上校、上尉、首领、队长
 - caption n.字幕、说明文字、v.加字幕
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
@@ -77,6 +80,7 @@
 - cater v.满足需要、迎合、提供饮食  cater to/for 
 - cathode n.阴极、负极  Cathode Ray Tubes - CRT 阴极射线管
 - cattle n.牛、牲口、畜生
+- causal [ˈkɔːzl] a.因果关系的、原因的  causal analysis 因果分析
 - causality n.因果关系、因果律
 - cause v.引起、导致、n.原因、起因、动机、理由、事业
 - caution n/v.警告、告诫、小心、慎重
@@ -130,19 +134,22 @@
 - characteristic n.特征、特点、品质、a.特有的、典型的、独特的
 - charge n.控告、谴责、指责、要价、收费、充电量、电荷、v.装载、要价、收费、控诉、充电  in charge of 负责、掌管  be charged with 承担、负责任、被指控  charge sb with sth 让某人承担责任
 - charity n.慈善机构、慈善、施舍
+- charlatan [ˈʃɑːlətən] n.骗子、庸医
 - chart n.图表、v.记录、跟踪、绘制地图、制定(计划)  pie chart 饼图 bar chart 条形图 line chart 折线图
 - charter [ˈtʃɑːtə(r)] n.宪章、许可证、v.发...许可证、特许设立、租用
 - chase v.追求、追赶、追捕、努力获得、争取得到、n.追赶、追捕、打猎、猎物
 - chaste 贞洁的、纯洁的、忠贞的、纯真的、没有经过性交的、简朴的、朴实的、不修饰的
 - chat n/v.聊天、闲聊
 - cheat n/v.欺骗、作弊
-- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票 check out 检查、检出、结账、退房
+- check v.检查、核对、核查、制止、抑制、n.检查、审查、规定、条令、支票 check out 检查、检出、结账、退房、look at something that is attractive
 - check-up 检查
 - cheer n/v.欢呼、加油、鼓舞
 - cheerleader n.(强有力的)支持者
+- cheese n.干酪、奶酪
 - chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
 - chemistry [ˈkemɪstri] n.化学
+- cheque [tʃek] n.支票
 - cherish [ˈtʃerɪʃ] v.珍爱、珍惜、怀有
 - chest n.胸腔、胸部
 - chew v.咀嚼  chewing gum 口香糖
@@ -321,7 +328,7 @@
 - composition n.作文、作曲、创造、构图、成分、构成
 - compound n.复合物、化合物、a.复合的、化合的、v.使加重、使恶化、由...构成、混合、支付、收取(复利)
 - comprehend v.理解、领悟
-- comprehension n.理解、理解力、领悟能力
+- comprehension n.理解、理解力、领悟能力、推导式
 - comprehensive a.综合的、广泛的、有理解力的、悟性好的、总体担保的、n.综合中学
 - compress v.压紧、压缩、精简、浓缩、n.敷布、压布
 - comprise v.包含、包括、由...组成、由...构成
@@ -461,7 +468,7 @@
 - covenant n.协议、承诺、合同、契约、v.立约、立誓、订立契约
 - convenience n.方便、合适、便利设施  convenience and efficiency 方便且高效
 - convenient a.实用的、便利的、方便的、附近的、适当的  a convenient way 一种便捷的方式
-- convention n.会议、惯例、习俗、规矩、公约
+- convention [kənˈvenʃn] n.会议、惯例、习俗、规矩、公约
 - conventional a.传统的、习惯的  conventional paid media 传统付费媒体
 - converge [kənˈvɜːdʒ] v.会聚、聚集、相交、会和、十分相似、相同
 - conversation n.会话、交流、交谈
@@ -518,12 +525,13 @@
 - counter n.计数器、柜台、v.反驳、驳斥、抵消、ad.逆向地、相反地、反对地、一对中之一  over-the-counter (OTC) 非处方
 - counteract v.抵消、对抗
 - counterbalance n/v.(使)平衡、抵消
+- counterfeit [ˈkaʊntəfɪt] n.仿制品、伪造物、v.仿制、伪造、a.仿造的、假冒的 counterfeit coin 假币(硬币)
 - counterpart n.对应方、职位相当的人
 - counterparty n.对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、夫妻、情侣、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对  the next couple of days 接下来的几天
 - coupon n.优惠券、礼券、息票
 - courage n.勇气
-- course n.课程、航线、过程、进程、一道菜、v.奔流、涌动
+- course [kɔːs] n.课程、航线、过程、进程、一道菜、v.奔流、涌动
 - court n.法院、法庭、王宫、宫殿、场馆、王室成员、v.试图取悦、讨好、求爱、求婚、恋爱
 - cousin [ˈkʌzn] n.堂兄弟、表姐妹、远房亲戚
 - covenant [ˈkʌvənənt] n.盟约、合约、契约、合同、v.立约、订立契约、订协定
@@ -533,10 +541,11 @@
 - craft n.工艺、手艺、技巧、技能、v.精心制作
 - cramp [kræmp] n.抽筋、痉挛、a.受约束的、狭窄的
 - cramped a.狭窄的、拥挤的
+- crank n.曲柄、v.转动曲柄
 - crash [kræʃ] n/v.崩溃、碰撞、倒闭、破产、暴跌、垮台、(飞机的)失事、a.应急的、速成的  crash course 速成课
 - crave v.渴望、热望、恳求
 - crawl v.爬行
-- crazy [ˈkreɪzi] a.疯狂的、狂热的、发疯的
+- crazy [ˈkreɪzi] a.疯狂的、狂热的、发疯的  not all that crazy about sth - don't like sth
 - cream n.奶油、乳霜、精华、a.奶油色的、米色的
 - crease n.折痕、褶痕、v.弄皱、压褶
 - create [kriˈeɪt] v.创建、创造、创作、引起、产生、授予、册封
@@ -612,6 +621,7 @@
 - customize [ˈkʌstəmaɪz] v.定制、定做、改造
 - cut v.切、切割、剪切、削减、删减、n.伤口、划口、削减、减少、份额、a.刺骨的、讽刺的
 - cute a.可爱的、机灵的、性感的、矫揉造作的
+- cyanidin n.花青素
 - cyber a.计算机(网络)的、信息技术的
 - cyberspace n.网络空间、赛博空间
 - cycle n.周期、循环、v.循环、轮转、骑自行车

@@ -9,13 +9,13 @@
 - identify [aɪˈdentɪfaɪ] v.确定、识别、认出、发现、认同、鉴定、是...的标志
 - identity [aɪˈdentəti] n.身份(ID)、本体、特征、同一性、相同、一致、恒等 identity card 身份证
 - ideology n.思想、意识形态、空想、空论
-- idiom [ˈɪdiəm] n.习语、成语、语法
+- idiom [ˈɪdiəm] n.习语、成语、语法、代码模式
 - idiomatic a.惯用的、符合语言习惯的
 - idiosyncracy n.特质
 - idiosyncratic [ˌɪdiəsɪŋˈkrætɪk] a.乖僻的、怪异的、特质的
 - idiot [ˈɪdiət] n.白痴、傻瓜、笨蛋
-- idle a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
-- idol n.偶像、崇拜物、幽灵、谬论、幻觉
+- idle [ˈaɪdl] a.空闲的、无意义的、无用的、无效的、懒惰的、v.空转、虚度、挂空档
+- idol [ˈaɪdl] n.偶像、崇拜物、幽灵、谬论、幻觉
 - if conj.如果、假设、是否
 - ignite [ɪɡˈnaɪt] v.点燃、燃烧
 - ignorant [ˈɪɡnərənt] a.不了解的、不知道的、无知的、愚昧的
@@ -70,6 +70,7 @@
 - imply v.暗示、意味、隐含、说明、意味着
 - impolite a.不礼貌的、粗鲁的
 - impose v.强制实行、推行、强加、迫使、征税、利用、欺骗、施加影响   impose A on B 把A强加于B  imposing强制的
+- impound [ɪmˈpaʊnd] v.扣押、暂时没收、收留(待领的狗、猫等)
 - impractical a.不切实际的、不现实的、不明智的
 - impress 给...留下深刻印象、使钦佩、使敬仰、印象、铭刻、特征
 - impressive a.给人印象深刻的
@@ -293,7 +294,7 @@
 - investment n.招商、投资、投入、值得买的东西、封锁
 - invite v.邀请、招待、n.邀请、请柬
 - invitation n.邀请、请柬、招待
-- invocate 调用
+- invocate v.调用
 - invocation n.祈祷、乞求、调用、启用
 - invoice n.发票、v.开发票、记清单
 - invoke v.调用(方法等)、援引、援用(法律规则等)、提及、用法术召唤

@@ -95,6 +95,7 @@
 - volatile [ˈvɒlətaɪl] a.易变的、不稳定的
 - volcano [vɒlˈkeɪnəʊ] n.火山  a dormant volcano 休眠火山  a extinct volcano 死火山
 - volkswagen [ˈvəʊkswægən] (汽车品牌)大众
+- voltage [ˈvəʊltɪdʒ] n.电压、伏特数
 - volume [ˈvɒljuːm] n.体积、容积、容量、音量、卷、册
 - voluntary a.自愿的、志愿的、无偿的
 - volunteer n.志愿者、志愿兵、v.自愿做

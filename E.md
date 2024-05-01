@@ -24,7 +24,8 @@
 - egregious [ɪˈɡriːdʒiəs] a.极糟的、极坏的
 - egress n.出口、运出、外出
 - eject v.驱逐、剥夺、喷射、弹射
-- elaborate a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
+- elaborate [ɪˈlæbərət/ɪˈlæbəreɪt] a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
+- elaboration n.详细阐述、精心制作、精致
 - elapse n/v.逝去、消逝、流逝
 - elastic [ɪˈlæstɪk] a.有弹力的、可伸缩的、灵活的、n.橡皮圈
 - elder [ˈeldə(r)] n.长者、元老、长老、a.年龄较大的、资格较老的
@@ -41,6 +42,7 @@
 - elemental n.元素、基本原理、a.基本的、主要的
 - elementary a.初级的、基本的
 - elevate [ˈelɪveɪt] v.提高、提升、举起、鼓舞、提拔、晋升(到不应有的位置)
+- elf n.精灵、小妖精
 - elicit [iˈlɪsɪt] v.引起、引出、探出、诱出
 - elide [iˈlaɪd] v.省略
 - eligible a.合格的、有资格的、合意的、合适的、中意的、合格者、合乎条件的人
@@ -76,15 +78,15 @@
 - emulate v.模仿、仿真、竞争、努力赶上
 - enable v.使能够、使可能、批准、为...提供条件
 - enact [ɪˈnækt] v.通过(法律)、制定法律、扮演、担任...角色
-- encapsulate v.封装、概括、压缩、简述
-- enclose v.随函附上、把...装入信封、附入、围住、把...围起来  enclosed document 附带文档
+- encapsulate [ɪnˈkæpsjuleɪt] v.封装、概括、压缩、简述
+- enclose [ɪnˈkləʊz] v.随函附上、把...装入信封、附入、围住、把...围起来  enclosed document 附带文档
 - encode v.编码、译成密码/电码、编制成计算机语言
 - encompass [ɪnˈkʌmpəs] v.包含、包括、涉及
 - encore [ˈɒŋkɔː(r)] n.安可、int.再来一个、再唱一首
 - encounter v.遭遇、遇到、碰见、邂逅、n.相遇、邂逅、对决、冲突
 - encourage v.支持、鼓励、促进、激励、劝告、怂恿
 - encyclop(a)edia [ɪnˌsaɪkləˈpiːdiə] n.百科全书
-- end 末尾、结束、目的、意图
+- end 末尾、结束、目的、意图  EOD - end of day
 - endanger v.危害、危及、使遭危险  endangered a.有危险的、濒危的
 - endeavo(u)r [ɪnˈdɛvə] n/v 努力、尽力、力图
 - endue v.授予、赋予
@@ -125,16 +127,18 @@
 - entity 实体、独立存在物、本质
 - entrance n.进入、入口、v.使入迷、使出神
 - entrant n.参加者、新成员、新生
+- entrench [ɪnˈtrentʃ] v.使根深蒂固、使处于牢固地位
 - entrepreneur [ˌɒntrəprəˈnɜː(r)] n.企业家、创业者
 - entropy n.熵
-- entry n.进入、参与、加入  entry level 初级、入门级
+- entry [ˈentri] n.进入、参与、加入  entry level 初级、入门级、入门级别、入门职位
 - enumerate [ɪˈnjuːməreɪt/ɪˈnuːməreɪt] v.枚举、列举 Enum
 - envelop v.包住、裹住、盖住
 - envelope [ˈenvələʊp] n.信封、外壳、膜
 - envisage [ɪnˈvɪzɪdʒ] v.设想、想象、展望
 - envision [ɪnˈvɪʒn] v.想象、展望
 - envy [ˈenvi] n/v.羡慕、嫉妒
-- EOD End of Day 当天结束时
+- EOD - End of Day 当天结束时
+- EOF - End of Life 
 - ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的  epidemic flu 流感
@@ -176,10 +180,10 @@
 - establishment n.建立、确立、企业、机构、当权派
 - estate 财产、遗产、房地产、不动产
 - esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
-- estimate v.估计、估算、估价、n.估计、预测、报价
+- estimate v.估计、估算、估价、n.估计、预测、报价  ETA - estimated time of arrival  ETD - estimated time of departure
 - et cetera [ˌet ˈsetərə] n.等等、以此类推
 - Ethernet n.以太网
-- ethic n.伦理、伦理观、道德体系、道德规范、行为准则  work ethic 职业道德
+- ethic [ˈeθɪk] n.伦理、伦理观、道德体系、道德规范、行为准则  work ethic 职业道德
 - ethical a.道德的、伦理的
 - ethically ad.道德上、伦理上
 - ethnic a.民族的、种族的、n.少数民族的人
@@ -192,7 +196,7 @@
 - evaporate [ɪˈvæpəreɪt] v.蒸发、挥发、消失、消散
 - evasion n.逃避、借口、推辞
 - eve n.前夜、前夕  Eve 夏娃
-- even ad.甚至、a.平均的、平坦的、相等的、偶数的
+- even ad.甚至、a.平均的、平坦的、相等的、偶数的 odd 奇数
 - event n.活动、事件
 - eventual a.最后的、最终的、结果的
 - evict v.驱逐、赶出、逐出
@@ -200,14 +204,14 @@
 - evidence n.证据、证明、迹象、痕迹、v.证明、表明
 - evil a.恶毒的、邪恶的、有害的、n.邪恶、罪恶
 - evoke v.唤起、产生、引起
-- evolution n.发展、进化、演变  biological evolution 生物进化
+- evolution [ˌiːvəˈluːʃn] n.发展、进化、演变  biological evolution 生物进化
 - evolve v.发展、进化、演变
 - ex 通常是example的缩写，在工作场合，ex通常用于指代前雇主(ex-employer)，缩写为 ex-
 - exact [ɪɡˈzækt] a.准确的、精确的、精准、严谨的、严格的、精密的、严密的、v.要求、索取、迫使、强迫、强求
 - exaggerate [ɪɡˈzædʒəreɪt] v.夸大、夸张
 - exaggeration n.夸张、夸大、言过其实
 - exam [ɪɡˈzæm] n.考试、测验、检查、体检
-- examine v.检查、审查、考察、调查、考试、审问
+- examine [ɪɡˈzæmɪn] v.检查、审查、考察、调查、考试、审问
 - excavate [ˈekskəveɪt] v.挖掘、开凿
 - exceed v.超过、超越、越过...的界限
 - exceedingly ad.非常、及其、特别 = very
@@ -270,7 +274,7 @@
 - explosive a.易爆炸的、爆炸性的、暴躁的、激增的、n.炸药、爆炸物
 - exponent [ɪkˈspəʊnənt] n.指数、幂、拥护者、倡导者、a.说明的、讲解的
 - exponential [ˌekspəˈnenʃl] a.指数的、幂的、越来越快的
-- export n/v.出口、输出
+- export [ɪkˈspɔːt/ˈekspɔːt] n/v.出口、输出
 - expose v.暴露、揭露、使曝光、使接触、接触、n.陈述、阐述、揭露
 - exposure n.面临、暴露、揭发、曝光、拆穿、解除
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务

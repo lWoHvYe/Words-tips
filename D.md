@@ -1,6 +1,6 @@
 - daemon 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
-- daisy n.菊花、雏菊
+- daisy [ˈdeɪzi] n.菊花、雏菊
 - damage n/v.破坏、损害
 - dammit [dæmɪt] int.该死的、真他妈的
 - damn [dæm] v.该死、谴责、a.完全的、十足的、可恶的、ad.非常、及其
@@ -48,6 +48,7 @@
 - defence/defense n.防御、保护、辩护
 - defend v.防御、保护、防卫、为...辩护
 - defendant n.被告、a.被告的、辩护的
+- defenestration n.(将人或物)抛出窗外
 - defensive a.防御的、保护的、辩护的
 - defer [dɪˈfɜː(r)] v.推迟、拖延、延期、服从、使推迟、使延期
 - deference 尊敬、尊重、遵从
@@ -80,7 +81,9 @@
 - delivery n.传送、交付、投递、分娩
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
-- demilitarize [ˌdiːˈmɪlɪtəraɪz] v.使非军事化、从...撤军  demilitarized zone 非军事区、非武装地带、隔离带
+- demilitarize [ˌdiːˈmɪlɪtəraɪz] v.使非军事化、从...撤军  
+- demilitarized zone - DMZ 非军事区、非武装地带、隔离带
+- demise [dɪˈmaɪz] n.死亡、、让位、转让、消亡、v.让位、遗赠
 - democracy [dɪˈmɒkrəsi] n.民主、民主制度
 - democratic [ˌdeməˈkrætɪk] 民主的、平等的、民主党的
 - demography n.人口统计
@@ -90,6 +93,7 @@
 - demonstrate [ˈdemənstreɪt] v.证明、证实、表现、表达、示范、演示、表露、示威游行
 - demoralization n.士气低落、纪律松弛、士气消沉
 - demoralize v.使士气低落、使泄气、使意志消沉
+- demote v.使降级、使降职
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
 - denial 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
@@ -122,7 +126,7 @@
 - descriptor n.描述符
 - desert n.沙漠、v.抛弃、遗弃
 - deserve v.应受、值得
-- design v.设计、构思、意图、n.设计、图样
+- design [dɪˈzaɪn] v.设计、构思、意图、n.设计、图样
 - designate v.命名、指定、指派、委任、标示、指明、a.尚未上任的
 - desirable a.向往的、可取的、令人满意的、值得拥有的
 - desire n/v.渴望、希望、欲望、愿望
@@ -150,13 +154,13 @@
 - develop v.发展、形成、开发、研制、制定、患(病)、养成、显现出、详细阐述
 - deviate v.背离、违背、偏离、误入歧途、n.脱离常规的人、a.脱离常规的
 - deviation n.偏离、偏差
-- device n.装置、设备、方法、策略、手段
+- device [dɪˈvaɪs] n.装置、设备、方法、策略、手段
 - devil [ˈdevl] n.魔鬼、恶魔  devil's bones 骰子🎲  devil's advocate 故意唱反调的人
 - devise [dɪˈvaɪz] v.发明、创造、设计、想出
 - devitalise v.使失去活力、使衰弱
 - devote v.致力于、奉献、投入
 - diabetes n.糖尿病
-- diagnose v.诊断、确诊
+- diagnose [ˈdaɪəɡnəʊz] v.诊断、确诊
 - diagnosis n.诊断、判断
 - diagnostic [ˌdaɪəɡˈnɒstɪk] a.诊断的、判断的、n.诊断程序、诊断提示
 - diagonal [daɪˈæɡənl] n.斜线、对角线、a.斜线的、对角线的
@@ -231,7 +235,7 @@
 - dish n.盘、碟、盘状物
 - dishearten v.使沮丧、使灰心、灰心丧气
 - disinfect [ˌdɪsɪnˈfekt] v.消毒、杀毒
-- disjoint v.脱节、解体、互斥、不相交
+- disjoint [dɪsˈdʒɔɪnt] v.脱节、解体、互斥、不相交
 - dismiss v.不予考虑、驳回、不予受理、摒弃、消除、解雇、免职、开除  dismiss that possibility 不考虑那种可能性
 - disorder n.混乱、紊乱、骚乱、失调、v.使混乱、使失调
 - disparage v.贬低、轻视、批评、非难
@@ -272,7 +276,7 @@
 - diverge v.偏离、分歧
 - divergent a.发散的、有分歧的、不同的、相异的
 - diverse [daɪˈvɜːrs] a.多种多样的、不用的
-- diversity n.差异、不同、多样性、多样化
+- diversity [daɪˈvɜːsəti] n.差异、不同、多样性、多样化
 - divert v.转向、绕道、转移(注意力)、转接(电话)、改变...的用途
 - divide v.分、划分、除、分配、产生分歧、n.分歧、不同、差异  class divide 阶级差异
 - dividend n.红利、股息

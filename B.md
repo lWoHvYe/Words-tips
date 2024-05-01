@@ -1,16 +1,17 @@
 - bachelor [ˈbætʃələ(r)] n.学士、未婚男子、单身汉
-- back n.背部、后背、反面、v.后退、支持、a.后面的、过去的、拖欠的
+- back n.背部、后背、反面、v.后退、支持、a.后面的、过去的、拖欠的  back up 后退
 - backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward a.落后的、向后的、反向的、倒退的、进步缓慢的、v.向后、倒
 - backload v.(签订协议后)增加费用
+- backup n.备份、后援、增援  call for backup
 - bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
 - bacterium/bacteria(复数) n.细菌
 - bad a.坏的、令人不快的、错误的  my bad 我的错
 - badge n.徽章、标记、标识
 - badminton [ˈbædmɪntən] n.羽毛球
 - bag n.袋
-- bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境
+- bail [beɪl] n.保释、保释金、v.允许保释、离开 bail out (出资)帮助摆脱困境  bailout 紧急财政援助
 - bait [beɪt] n.鱼饵、诱饵、v.下诱饵、放诱饵、激怒
 - balance n.平衡、天平、均衡、差额、余额、v.权衡、抵偿、抵消、结平、抵消、使平衡
 - ball [bɔːl] n.球
@@ -33,7 +34,8 @@
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
 - basic a.基本的、初步的、必须的
 - basis n.基础、根据、原因、缘由
-- batch n.批、批量、v.分批处理
+- bat 球棒、球拍、蝙蝠、打击、猛击  as blind as bat - have really poor vision
+- batch [bætʃ] n.批、批量、v.分批处理
 - battery n.电池、蓄电池、一组、一套、一系列、一批、一群
 - battle n/v.战争、斗争
 - bazaar [bəˈzɑː(r)] n.集市、义卖
@@ -63,6 +65,7 @@
 - benevolent a.慈善的、仁慈的
 - benign [bɪˈnaɪn] a.(肿瘤等)良性的、(疾病等)无危险的、温和的
 - bequest 遗赠、遗产、遗赠物
+- bereave [bɪˈriːv] v.丧偶
 - bespeak v.证明、预定、展现、显示
 - bespoke a.订做的、定制的、v. bespeak的过去式
 - betray v.背叛、出卖、泄露
@@ -101,7 +104,7 @@
 - blatant [ˈbleɪtnt] a.公然的、明目张胆的
 - blaze n.火焰、光辉、光彩、v.发光、照耀、闪耀
 - bleak [bliːk] a.凄凉的、荒凉的、暗淡的、阴冷的、没有希望的  bleak economic future 暗淡的经济前景
-- bleed v.流血、放血
+- bleed v.流血、放血、敲诈、勒索
 - bless [bles] v.祝福、赞美
 - blind a.失明的、盲目的、v.使失明、使目眩、n.窗帘、幌子
 - blink v.眨眼、闪烁
@@ -128,7 +131,7 @@
 - bond [bɒnd] n.纽带、联系、债券、公债、契约、保释金、v.使结合、与...紧密联系
 - bone [bəʊn] n.骨头、v.钻研  have a bone to pick with sb 对某人有意见
 - bonus n.奖金、红利
-- book [bʊk] n.书、本子、v.预订、登记
+- book [bʊk] n.书、本子、v.预订、登记、(警方)把...记录在案
 - boolean [ˈbuːliən] n.布尔
 - boom n/v.繁荣、迅速发展、暴涨、激增、轰鸣、轰响  economic boom 经济繁荣  boom and bust 繁荣与萧条  baby boom 婴儿潮
 - boost [buːst] v.促进、增加、提高、偷窃、n.提高、激励、增长
@@ -178,7 +181,7 @@
 - broadcast v.广播、散布、传播
 - broaden 扩大、拓宽、增长
 - brochure [ˈbrəʊʃə(r)] n.手册、小册子
-- broker n.经纪人、中间人、代理人、v.安排、协商
+- broker [ˈbrəʊkə(r)] n.经纪人、中间人、代理人、v.安排、协商
 - bronze n.青铜、铜(牌)
 - brook n.溪、小河、v.(不)允许(某事)
 - brow n.额头、眉毛、表情、山脊
@@ -197,6 +200,7 @@
 - Buddhist a.佛教的、n.佛教徒
 - buddy [ˈbʌdi] n.朋友、同伴、搭档
 - budget n.预算、v.把...编入预算、谨慎花钱、a.价格低廉的  on a budget 节省费用、避免不必要的开支
+- builtin a.内置的、内置命令、内置、内建
 - bulb n.电灯泡
 - bulk [bʌlk] n.体积、大块、大量、大多数、涨大、增大、扩展、增加、毛估
 - bulkhead n.舱壁、隔板、资源隔离

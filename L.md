@@ -8,6 +8,7 @@
 - lake n.湖、湖泊
 - lame a.蹩脚的、站不住脚的、无说服力的  lame argument 强词夺理
 - lamp n.灯、发热灯、照射灯
+- LAN - local area network 局域网
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
 - landlady n.女房东、女店主
 - landlord n.房东、地主、店主
@@ -44,6 +45,7 @@
 - learn v.学习、习得、得知、认识到
 - lease n.租赁、租约、v.租用、租借、出租
 - least [liːst] little的最高级 a.最小的、最少的
+- leather n.皮革、皮衣、a.皮革的
 - leave v.离开、保留、交付、使得、n.休假、假期、准许  leave sth+adj. 让...处于某种状态  leave to 留给
 - lecture n/v.演讲、讲课、训诫、告诫
 - ledger n.账簿、账本
@@ -90,6 +92,7 @@
 - linchpin n.关键(人物或事物)
 - line n.线、路线、排列、纵列
 - lineage [ˈlɪniɪdʒ] n.世系、家系、血统
+- linear 线性的   nonlinear 非线性的
 - lineup n.阵容、列队辨认
 - linger v.逗留、徘徊、继续存留、拖延、留恋、苟延残喘  linger on 徘徊
 - lingual a.语言的
@@ -117,6 +120,7 @@
 - loan [ləʊn] n.贷款、v.借出、贷与、出借  housing loan 房贷
 - lobby [ˈlɒbi] n.大厅、休息室、游说、游说团体、v.游说
 - local a.地方的、当地的、局部的
+- locale [ləʊˈkɑːl] n.场所、现场
 - locate v.定位、找到、使...坐落于
 - location n.位置、地点
 - lock n/v.锁、封锁、锁住、锁定  lockdown to China 对中国的封锁

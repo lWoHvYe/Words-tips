@@ -10,7 +10,7 @@
 - king n.国王
 - kingdom n.王国、领域
 - kinship n.亲属关系
-- kit n.成套工具、工具箱、配套元件、全套衣服、v.装备  paternity testing kit (PTK) 亲子鉴定试剂盒  JDK - Java development kit
+- kit n.成套工具、工具箱、配套元件、全套衣服、v.装备  paternity testing kit (PTK) 亲子鉴定试剂盒  JDK - Java development kit  Java开发工具包
 - kitty n.猫咪、小猫
 - knickers [ˈnɪkəz] n.内裤、衬裤
 - knit [nɪt] v.编织、严密、紧凑、愈合、接合、n.编织的衣服、针织衫

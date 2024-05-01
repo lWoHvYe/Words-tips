@@ -9,6 +9,7 @@
 - walk v.行走
 - wallet n.钱包
 - wander n/v.漫步、徘徊、闲逛
+- wangle v.伪造、欺瞒、粉饰、n.哄骗、虚饰
 - want v.想要、需要、n.缺乏、不足
 - war [wɔː(r)] n.战争  War and Navy Departments 陆军和海军部
 - ward [wɔːd] n.病房、行政区、v.保护、保卫、避开、招架  ward off 防止、避免、防治
@@ -55,7 +56,7 @@
 - wholesome a.卫生的、健康的、有益的
 - wide a.宽的、广泛的
 - widespread a.普遍的、广泛的
-- widget n.窗口组件、窗口小部件
+- widget [ˈwɪdʒɪt] n.窗口组件、窗口小部件
 - widow [ˈwɪdəʊ] n.寡妇
 - wild a.自然生长的、野生的、野蛮的、狂热的、荒凉的、n.自然环境、荒野  
 - wildcard 通配符
@@ -95,6 +96,7 @@
 - worse ad.更坏、更糟、a.更坏的、恶化的、严重的  sb could do worse than doSth 不如、不妨
 - worship [ˈwɜːʃɪp] n/v.崇拜、崇敬、敬奉  blind worship 盲目崇拜
 - worshipper n.礼拜者、参拜者 
+- worst a.最差的、最严重的、最糟糕的
 - worth a.值得的、有...价值、n.价值、财富、财产
 - worthy a.值得的、值得尊敬的、有价值的、n.杰出人物、知名人士
 - wound n.伤口、创伤、v.使受伤、伤害

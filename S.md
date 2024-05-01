@@ -62,7 +62,7 @@
 - scraper n.刮刀
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - screen [skriːn] n.屏幕、v.掩藏、庇护、检查
-- screw n.螺丝、螺丝钉
+- screw n.螺丝、螺丝钉  screw up - make a mistake
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
@@ -100,6 +100,7 @@
 - selenium [səˈliːniəm] n.硒  Selenium Test
 - sell v.卖、出售、转让
 - semantic [sɪˈmæntɪk] a.语义的、语义学的
+- semaphore [ˈseməfɔː(r)] n.旗语、信号灯、v.打旗语、发信号
 - semester n.学期
 - semiannual 每半年的、半年的
 - semicolon [ˌsemiˈkəʊlən] n.分号
@@ -113,6 +114,7 @@
 - sensitive a.敏感的、体贴的、n.敏感的人
 - sentence n.句子、宣判、判刑、v.判决
 - sentiment n.看法、观点、情绪、伤感、哀伤
+- sentinel [ˈsentɪnl] n.哨兵
 - separate v.分开、分离、a.分开的、单独的、不相关的
 - sequel [ˈsiːkwəl] n.续集、后续的事、随之而来的事
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
@@ -233,8 +235,10 @@
 - slam v.砰地关上、猛烈抨击、n.猛烈的抨击、谩骂
 - slant n/v.倾斜、斜线、斜面
 - slash [slæʃ] n.斜线(`\`)、斜杠、劈、砍、v.大幅削减、大大降低
+- slate n.石板、页岩、(行为、事件的)记录、候选人名单、v.批评、抨击、预定、计划、安排、推举、选定
 - slave n.奴隶、完全受(某事物)控制的人、完全依赖(某事物)的人、v.苦干、辛勤地工作
 - slavery n.奴隶制度、奴隶身份
+- sleigh [sleɪ] n.雪橇
 - slender a.纤细的、苗条的、柔弱的
 - sleuth 足迹、警犬、侦探
 - slice v.切成片、切片、切下、划分、n.薄片、一部分、部分、份额、锅铲、曲线球
@@ -285,7 +289,7 @@
 - soldier [ˈsəʊldʒə(r)] n.士兵
 - sole a.唯一的、仅有的、独占的、n.鞋底、脚底
 - solicitation 诱惑、请求、征求
-- solid n.固体、固态、立体图形、a.固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的  solid evidence 确凿的证据
+- solid n.固体、固态、立体图形、a.固体的、实心的、结实的、可靠的、纯质的、纯色的、一致的  solid evidence 确凿的证据  booked solid - having no available place or time
 - solidary n.团结、团结一致、共同一致  social solidarity 社会团结
 - solo n.独奏、独唱、a.独奏的、单独的、独自的、ad.单独地、独自地
 - solution [səˈluːʃn] n.解决办法、溶解、溶液
@@ -312,6 +316,7 @@
 - spacious a.宽广的、宽敞的、广阔的、广博的
 - spaghetti n.意大利面条
 - Spain [speɪn] n.西班牙
+- spam n.垃圾邮件、午餐肉
 - span n.跨度、范围、持续时间、跨越、横跨、贯穿、涵盖  attention span 注意力的持续时间
 - Spanish [ˈspænɪʃ] a.西班牙的、n.西班牙语
 - spar v.辩论、争论
@@ -392,6 +397,7 @@
 - stake n.桩、股份、赌注、重大利益、重大利害关系、v.用桩支撑、以...打赌   stake out 明确表明、清晰界定
 - stakeholder n.利益相关者、股东、参与人、参与方、赌金保管人
 - stale a.陈腐的、不新鲜的、污浊的
+- stalemate n.僵局
 - stalk [stɔːk] n.茎、梗、柄、v.(非法)跟踪、悄悄接近、趾高气昂的走
 - stance n.态度、立场
 - stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
@@ -426,6 +432,7 @@
 - steward [ˈstjuːəd] n.乘务员、管家
 - stick v.粘贴、张贴、插入、刺入、容忍、放置、卡住、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
 - stickness n.黏性
+- stiff a.僵硬的、坚硬的、不易弯曲的、拘谨的、ad.极其、非常、n.死尸、v.诈骗、不给小费
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
 - stimulate [ˈstɪmjuleɪt] v.促进、激发、激励、刺激、使兴奋、促使
 - stimulation n.激励、兴奋
@@ -435,6 +442,7 @@
 - stir v.搅拌、n.搅拌、震动  stirring 激动人心的
 - stitch 缝、缝合
 - stock n.股票、股份、资本、公债、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的  stock options 股票期权
+- stocking n.长袜
 - stockpile n.库存、储备、囤积的物资、v.大量储备
 - stone n.石头
 - stop v.停止、n.车站
@@ -465,6 +473,7 @@
 - strike n/v.罢工、击、打、打击、碰撞  struck 过去式及过去分词  strike price 执行价格、预购价格  asteroid strike 小行星撞击
 - strikethrough (加)删除线
 - striking a.引入注目的、惊人的、显著的
+- stride n.步幅、进展
 - string n.串、绳子、带子、弦、字符串、v.系、扎、用线串、把...连在一起、上弦、调弦 a string of 一连串、一系列  no strings attached 无附加条件
 - strip [strɪp] n.带、狭条、v.剥去、剥光、除去、剥夺、跳闸  strip sb of... 剥夺某人的...
 - stripe [straɪp] n.条纹、线条、种类、类型
@@ -486,6 +495,7 @@
 - submersible n.潜水器、深潜器、潜艇
 - submission n.提交、投降、屈服、服从、建议、看法、意见
 - submit v.提交、顺从、服从
+- subroutine n.子程序、子函数
 - substance n.物质、实质、主旨、要点、基本内容  illegal substance 非法物质  radioactive substance 放射性物质
 - substantial a.大量的、巨大的、牢固的、n.本质
 - substantiate v.证明、证实
@@ -583,6 +593,7 @@
 - sustainable a.可持续的  sustainable development 可持续发展
 - swallow [ˈswɒləʊ] v.吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受、轻信、n.吞、咽、燕子
 - swamp n.沼泽、湿地、v.淹没、使陷入困境、使应接不暇
+- swan [swɒn] n.天鹅
 - swap n/v.交换、互换、掉换、交流、交换物、交换区
 - sweep v.扫除、打扫、清理、掠过、舞动、挥动  a sweeping ruling 全面的裁决
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点

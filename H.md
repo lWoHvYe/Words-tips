@@ -35,7 +35,7 @@
 - haze n.霾、薄雾
 - hazy a.朦胧的、模糊的、困惑的
 - hawk [hɔːk] n.鹰、主站分子、v.沿街叫卖、兜售
-- head n.头、头脑、领导、主管、v.朝着...行进
+- head n.头、头脑、领导、主管、v.朝着...行进  head up 领导、负责、主管
 - headache [ˈhedeɪk] n.头痛
 - headcount/hc 公司HR预计招聘的员工人数 
 - headline n.大字标题、新闻摘要

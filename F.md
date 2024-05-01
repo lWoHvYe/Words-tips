@@ -9,17 +9,21 @@
 - fact n.事实、真相、证据
 - factor n.因素、因子、要素、数量、倍数、系数、v.把...要素包括进去、分解质因数
 - factual a.事实的、真实的
+- facula n.光斑
+- faculty [ˈfæklti] n.能力、才能、院、系、全体教师
 - fade v.褪去、失去光泽、褪色、凋谢、衰老、逐渐消失、n.淡入、淡出、褪色、变暗、a.平淡的、乏味的
 - Fahrenheit [ˈfærənhaɪt] a.华氏的、华氏温度的
-- fail v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
+- fail [feɪl] v.失败、不及格、倒闭、破产、缺乏、衰退   fail to do sth 未能做某事
 - failover 故障转移、故障切换
-- failure n.失败、不及格、失败的人或事、故障、失灵、未做到
+- failure [ˈfeɪljə(r)] n.失败、不及格、失败的人或事、故障、失灵、未做到
 - faint a.微弱的、不积极的、v.昏倒、昏厥  faint praise 轻描淡写的赞扬、明褒实贬
 - fair a.公平的、合理的、晴朗的、美丽的、ad.公平地、直接地、n.集市、商品交易会、展销会、v.顺利接合、衔接协调
 - fairly ad.公平地、适当、相当地、完全、简直、竟然
+- fairy [ˈfeəri] n.仙女、小仙子、小精灵
 - faith n.信任、相信、信念、int.真正
 - fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的  fake news 虚假新闻
-- fall v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
+- falcon [ˈfɔːlkən] n.猎鹰、隼
+- fall [fɔːl] v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
 - fallback 应变计划、退路、倒退
 - fallow [ˈfæləʊ] a.休耕的、休闲的、休眠的
 - false a.错误的、不真实的、伪造的
@@ -51,7 +55,7 @@
 - faulty a.错误的、有缺陷的、不完美的  faulty approach 错误的方法
 - favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
 - favorable a.有利的、赞同的、讨人喜欢的、从优
-- favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于
+- favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于  give me a favour 帮我一个忙
 - fear n/v.害怕、恐惧、担心
 - fearful a.害怕的、可怕的、极坏的
 - fearsome [ˈfɪəsəm] a.可怕的、吓人的
@@ -115,7 +119,7 @@
 - flammable 易燃的、可燃的
 - flash [flæʃ] n/v.闪光、闪现、用光发出信号
 - flat a.平的、扁平的、水平的、单调的、干脆的、断然的、(费率、价格、百分比)固定的、电用完的、n.公寓、单元房、平面布景、ad.平躺地、直截了当地
-- flatten v.压平、变平、把...弄平、摧毁、串行化
+- flatten [ˈflætn] v.压平、变平、把...弄平、摧毁、串行化
 - flatter v.奉承、讨好、使显得更漂亮、使胜过本人
 - flattery n.阿谀、奉承、讨好、恭维
 - flavor 味、香料、给...调味
@@ -138,7 +142,7 @@
 - fluctuate [ˈflʌktʃueɪt] v.波动、起伏不定、动摇不定
 - fluent a.流利的、流畅的
 - flush n/v.冲洗、脸红
-- flux n.通量、流量、不断的变动、不断的变化
+- flux [flʌks] n.通量、流量、不断的变动、不断的变化
 - fly 飞、飞行、苍蝇   will never fly - will not work/will not be approved/not a good idea
 - flyout n.弹出按钮
 - Flyweight n.享元
@@ -186,16 +190,19 @@
 - forward [ˈfɔːwəd] ad.向前、进展、提前、a.前进的、向前的、前部的、未来的、将来的、v.发送、寄、转交、促进、增进  backwards and forwards 来来回回、往复
 - fossil [ˈfɒsl] n.化石、老顽固
 - foster v.培养、促进、助长、抚养、代养
+- foul v.犯规
 - found v.建立、find的过去式及过去分词
-- foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜
+- foundation [faʊnˈdeɪʃn] n.基础、基金会、粉底霜  JFC - Java foundation classes Java基础类
 - foundational 基础的、基本的
+- fount n.来源、根源、源泉
+- fountain n.喷泉、喷水池、喷射、涌流
 - fourfold [ˈfɔːfəʊld] a.四倍的、四重的
 - fractal n.分形、不规则图形
 - fraction [ˈfrækʃn] n.分数、小部分、小数、少量、片段
 - fracture n.骨折、v.断裂、破裂
 - fragile [ˈfrædʒaɪl] a.脆弱的、易碎的、虚弱的、精致的
 - fragment n.碎片、片段、分段、v.破碎、破裂、分裂
-- frame n.框架、边框、体形、体态、帧、v.设计、给...做边框、制定、拟定  a small frame 身材娇小  stack frame 堆栈帧
+- frame n.框架、边框、镜架、体形、体态、帧、v.设计、给...做边框、制定、拟定  a small frame 身材娇小  stack frame 堆栈帧
 - framework n.框架、架构、结构、机构、组织
 - franchise n.特权、赋予特权、选举权、经销权
 - frank [fræŋk] a.坦白的、直率的
@@ -217,11 +224,13 @@
 - fruition n.完成、实现、取得成功
 - frustrate [frʌˈstreɪt] v.挫败、阻挠、使沮丧、使懊恼、a.无效的、无益的
 - frustration n.挫折、挫败、失意、失败
+- fry v.油炸、油煎、油炒、灼伤、晒伤
 - fuel [ˈfjuːəl] n.食物、燃料、刺激物、v.给...提供燃料、加油、增加、加强、刺激
 - fulfil/fulfill v.完成、履行、执行、实现、符合、满足、起...作用
 - full a.完全的、满的
 - fume v.冒烟、烟雾、愤怒、n.烟气、雾气
 - function [ˈfʌŋkʃn] n.作用、功能、职能、机能、函数、子例行程序、v.起作用、运转
+- functional a功能的、函数的、起作用的、运转的
 - fund 资金、储备、基金、现款、拨款给
 - fundamental [ˌfʌndəˈmentl] a.基本的、基础的、根本的、原始的、n.基本规律、根本法则、基本原理、基础
 - funeral [ˈfjuːnərəl] n.葬礼、出殡

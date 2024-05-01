@@ -1,4 +1,5 @@
 - nadir n.最低点
+- naive [naɪˈiːv] a.天真的、幼稚的、单纯的
 - narcissus [nɑːˈsɪsəs] n.水仙、水仙花
 - narrate v.讲、讲述、叙述
 - narrative n.故事、叙述、描述、a.叙述的、叙事体的

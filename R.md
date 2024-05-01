@@ -53,7 +53,7 @@
 - reasonable a.正当的、合理的、公平的、明智的、不太贵的
 - rebel [ˈrebl/rɪˈbel] v.反抗、背叛、造反、n.反叛分子、造反者
 - rebound v.反弹
-- recall v.回忆起、召回、收回
+- recall v.回忆起、召回、收回、撤回
 - recap 概括、扼要重述、简要回顾、翻新
 - recent a.最近的、近来的、新近的
 - receipt [rɪˈsiːt] n.收据、发票、收入、接收、收到、v.开收据
@@ -85,6 +85,7 @@
 - rectangular a.矩形的、长方形的
 - rectify v.矫正、纠正、修正
 - recur v.复发、(尤指不好的事)重现
+- recurrent a.复发的、复现的、经常性的、周期性的、回归的、循环的
 - recursion n.递归、递推
 - recursive a.递归的、循环的
 - recycle v.回收利用、重复利用
@@ -97,6 +98,7 @@
 - reentrant [riːˈɛntrənt] a.可重入的
 - refactor 重构
 - refer [rɪˈfɜː(r)] v.提到、针对、参考、提及、涉及
+- referee [ˌrefəˈriː] n.裁判
 - reference [ˈrefrəns] n.参考、参照、引文、谈到、提及、关系、关联、参考书、推荐信、a.参考的
 - reference data n.参考数据、引用数据、基准数据
 - refinance v.再筹资金、再融资
@@ -130,6 +132,7 @@
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
 - reign [reɪn] n/v.统治、支配
 - rein n.缰绳、控制、主宰、v.控制、驾驭
+- reindeer n.驯鹿
 - reinforce v.增援、加强、巩固
 - reiterate [riˈɪtəreɪt] v.重申、反复说
 - reject [rɪˈdʒekt/ˈriːdʒekt] v.拒绝、驳回、排斥、排异(移植的器官)
@@ -165,9 +168,9 @@
 - remodel v.重塑、改变...的形状或结构
 - remold v.重塑、改造
 - remote a.远程的、遥远的、偏僻的、久远的、n.远程、遥控器  remote education 远程教育  remote control 遥控  remote method invocation - RMI 远程方法调用  remote procedure call - RPC 远程过程调用
-- renaissance [rɪˈneɪsns]/[ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
+- renaissance [rɪˈneɪsns/ˈrenəsɑːns] n.新生、复活、复兴、文艺复兴
 - rend v.撕开、撕裂
-- render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹
+- render v.提供、给予、使成为、使得、递交、表达、粉刷、涂抹、渲染
 - renderer [ˈrɛndərə] n.渲染、渲染器
 - rendezvous [ˈrɒndɪvuː] n/v.约会、会面、会合、集合
 - renege [rɪˈniːɡ] v.违背、食言、拒绝、否认
@@ -198,7 +201,7 @@
 - reputation [ˌrepjuˈteɪʃn] n.名誉、名声
 - request n/v.请求、要求
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
-- requisite 必需品、要素、必需的、必备的、必不可少的
+- requisite [ˈrekwɪzɪt] n.必需品、要素、a.必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
 - resemble [rɪˈzembl] v.像、与...相像、类似于
 - resent v.怨恨、愤恨、厌恶、愤愤不平
@@ -288,6 +291,7 @@
 - rival n.竞争对手、v.与...相匹敌、比得上、a.竞争的、对立的
 - rivalry [ˈraɪvlri] n.竞争、较量
 - river n.河流
+- RMI - Remote Method Invocation 远程方法调用
 - roast v.烤、n.烤肉
 - robot n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
@@ -303,20 +307,22 @@
 - roof n.顶部、屋顶
 - room n.房间、空间、余地、可能性、v.租房、合住
 - root n.根本、v.扎根
+- rope n.绳、索
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替、循环
 - rough a.粗糙的、不平滑的、粗略的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
-- round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、n.阶段、轮次   
+- round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、舍入、n.阶段、轮次   
 - round/around the corner 在附近、即将发生
 - roundabout a.迂回的、拐弯抹角的、n.环形交叉口、环岛
 - rouse [raʊz] v.唤醒、激起、激怒、n.觉醒、奋起
 - route n.路径、路途、途径、渠道
 - router n.路由器
-- routine n.常规、例行程序、a.常规的、例行的、日常的、平淡的
+- routine n.常规、例行程序、程序、a.常规的、例行的、日常的、平淡的
 - row n.一排、一行、划船、争吵、纠纷、v.划(船)、吵架
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
+- RPC - Remote Procedure Call 远程过程调用
 - RTL Resistor Transistor Logic 电路
 - rubble n.瓦砾、碎石
 - rug n.小地毯、垫子
@@ -324,6 +330,7 @@
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
+- runny a.流鼻涕的、软的、太稀的、水分过多的
 - rupture n/v.破裂、断裂
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的
 - rush n/v.冲、急促、仓促  rush through 快速通过
