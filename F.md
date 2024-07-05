@@ -53,7 +53,7 @@
 - fatigue [fəˈtiːɡ] n.疲劳
 - fault [fɔːlt] n.故障、过错、过失、缺陷、弱点、断层、v.发现错误
 - faulty a.错误的、有缺陷的、不完美的  faulty approach 错误的方法
-- favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持
+- favor n/v.恩惠、支持、赞成、喜爱、偏爱  in favour of 支持  do me a favor 帮我一个忙
 - favorable a.有利的、赞同的、讨人喜欢的、从优
 - favour n.恩惠、支持、赞同、v.偏爱、偏袒、有利于、有助于  give me a favour 帮我一个忙
 - fear n/v.害怕、恐惧、担心
@@ -103,7 +103,9 @@
 - finite [ˈfaɪnaɪt] a.有限的、限定的
 - fintech 金融科技（即 financial technology，指突破传统金融服务方式的高新技术）
 - fire n.火、火灾、v.开火、射击
+- firecracker n.鞭炮、爆竹
 - fireside 炉边、毫无拘束的
+- firework n.烟花、烟火
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
 - fist n.拳头、v.紧握
@@ -135,7 +137,7 @@
 - flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
 - float [fləʊt] v.浮动、n.浮点数
 - flock n.群、聚集、群集
-- flood 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
+- flood [flʌd] 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
 - flourish v.茂盛、繁荣、活跃、挥舞
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感  epidemic flu 流感  flu vaccine 流感疫苗

@@ -99,7 +99,7 @@
 - engaged a.正从事的、已订婚的、占线的
 - engagement n.约会、约定、订婚、契约、雇佣、参与、密切关系  engagement in 参与
 - engender v.产生、引起
-- engine [ˈendʒɪn] n.引擎、发动机
+- engine [ˈendʒɪn] n.引擎、发动机  Unreal Engine 虚幻引擎
 - engineer [ˌendʒɪˈnɪr] n.工程师
 - engineering [ˌendʒɪˈnɪərɪŋ] n.工程、工程学、v.设计制造  software engineering 软件工程
 - enhance v.增强、提高、增加
@@ -107,6 +107,7 @@
 - enjoy v.享受、享有
 - enlarge v.扩大、放大、扩充
 - enlighten v.启发、启迪、开导
+- enlist [ɪnˈlɪst] v.征集、征募
 - enormous a.巨大的、庞大的、极大的
 - enrage v.激怒、触怒
 - enrich v.充实、使富足、使变肥沃
@@ -235,6 +236,7 @@
 - execute [ˈeksɪkjuːt] v.执行、完成、履行、处决、处死
 - execution [ˌeksɪˈkjuːʃn] n.实行、执行、演奏、处决、死刑
 - executive [ɪɡˈzekjətɪv] n.总经理、经理、主管、领导层、行政部门、a.经理的、决策的、行政的、执行的
+- execve 系统调用、执行程序
 - exemplary a.模范的、典范的、惩戒性的
 - exempt v.免除、豁免、a.被免除的、被豁免的
 - exercise n.运动、锻炼、练习、习题、手段、v.行使、训练、锻炼
@@ -267,7 +269,8 @@
 - explanation [ˌekspləˈneɪʃn] n.解释、说明、阐述、理由、原因
 - explicit [ɪkˈsplɪsɪt] a.明确的、清晰的、直言的、坦率的、不隐晦的  implicit or explicit reference 隐式或显式引用
 - explode v.爆炸、突然爆发、迸发、突增、激增
-- exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩、n.漏洞
+- exploit [ɪkˈsplɔɪt/ˈeksplɔɪt] v.开发、开拓、开采、利用、压榨、剥削、功劳、功绩、n.漏洞  exploit code 攻击代码
+- exploratory [ɪkˈsplɒrətri] a.探索性的
 - explore [ɪkˈsplɔː(r)] v.勘查、探测、探索、研究、探讨
 - explorer n.探险家、探索者、探针
 - explosion n.爆发、爆炸、炸裂、突增、激增

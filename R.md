@@ -130,6 +130,8 @@
 - regulatory a.监管的、调节的
 - rehab 康复、修复、修缮、恢复名誉、复职
 - rehearsal [rɪˈhɜːsl] n.排练、彩排、演习、练习、复述
+- reification 具现化
+- reify 使具体化
 - reign [reɪn] n/v.统治、支配
 - rein n.缰绳、控制、主宰、v.控制、驾驭
 - reindeer n.驯鹿
@@ -140,6 +142,7 @@
 - relation n.关系、联系、关联
 - relationship n.关系、联系、关联
 - relative [ˈrelətɪv] a.相对的、比较的、比较而言的、相关的、n.亲戚、同类事物
+- relativity [ˌreləˈtɪvəti] n.相对论
 - relax v.放松、休息、放宽、缓和、减轻
 - relaxation [ˌriːlækˈseɪʃn] n.放松、休息、消遣、休闲活动
 - relay [ˈriːleɪ] v.转发、中继、n.中继设备
@@ -293,7 +296,7 @@
 - river n.河流
 - RMI - Remote Method Invocation 远程方法调用
 - roast v.烤、n.烤肉
-- robot n.机器人
+- robot [ˈrəʊbɒt] n.机器人
 - robust a.强健的、强壮的、精力充沛的、结实的、耐用的
 - robustness n.鲁棒性、健壮性
 - rock n.岩石、摇滚乐、v.摇晃、摇动、震动
@@ -311,6 +314,7 @@
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替、循环
+- rouge [ruːʒ] n.胭脂
 - rough a.粗糙的、不平滑的、粗略的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
 - round a.圆形的、弧形的、整数的、ad.旋绕、环绕、prep.围绕、在...附近、v.绕行、使成圆形、四舍五入、舍入、n.阶段、轮次   

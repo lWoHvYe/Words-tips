@@ -1,4 +1,5 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
+- galaxy [ˈɡæləksi] n.星系、银河、银河系、群英
 - gallery 画廊、走廊、长廊
 - gallon n.加仑(容量单位)
 - gamble [ˈɡæmbl] n/v.赌博
@@ -15,7 +16,7 @@
 - gay [ɡeɪ] n.同性恋者、a.同性恋的
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
 - geek n.极客
-- Geez 天啊、哎呀 
+- Geez(e) 天啊、哎呀 
 - gender n.性别、性
 - gene [dʒiːn] n.基因、遗传因子
 - general [ˈdʒenrəl] a.全体的、普遍的、一般的、n.将军、上将
@@ -81,7 +82,7 @@
 - granularity n.粒度
 - grape [ɡreɪp] n.葡萄
 - graph n.图、图表、曲线图
-- graphic 图解的、用图表示的、形象的、生动的、图表、图形  GUI - graphical user interface 图形用户界面
+- graphic [ˈɡræfɪk] a.图解的、用图表示的、形象的、生动的、图表、图形  GUI - graphical user interface 图形用户界面
 - grasp n/v.抓住、抓紧、理解、领会
 - grass [ɡrɑːs] n.草、v.告密、告发
 - grate v.磨碎、压碎、发出刺耳的摩擦声

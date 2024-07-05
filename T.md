@@ -106,7 +106,7 @@
 - thorn [θɔːn] n.刺、荆棘
 - thorny [ˈθɔːni] a.棘手的、麻烦的
 - thorough a.彻底的、完全的、充分的
-- thrash v.抽打、抖动
+- thrash v.抽打、抖动、（缓存）抖动 指高速缓存反复地加载和驱逐相同的高速缓存块的组
 - thread n.线、线索、脉络、螺纹、思路、线程、v.运作、穿过、通行、穿行、使交织
 - threat [θret] n.威胁、恐吓、构成威胁的人或事物
 - threaten v.威胁、恐吓、危及、有...危险、对...构成威胁
@@ -155,7 +155,7 @@
 - tolerance n.容忍、宽容、公差
 - tolerant a.容忍的、宽容的、能耐...的
 - tolerate v.容许、允许、容忍
-- toll n.通行费、伤亡人数、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税  toll on 对...产生严重影响
+- toll n.通行费、伤亡人数、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税  toll on 对...产生严重影响  Electronic Toll Collection - ETC 电子不停车收费系统
 - tomb 坟墓、冢、埋葬
 - tombstone n.墓碑、墓石
 - tone n.语气、语调、(肌肉)张力、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
@@ -182,7 +182,7 @@
 - trace [treɪs] v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测  track team 田径队
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
-- trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade off 权衡
+- trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade-off 权衡、协调、折衷
 - Trade Finance 贸易融资、外汇服务
 - tradition n.传统、惯例
 - traditional a.传统的、惯例的、因袭的、守旧的
@@ -220,7 +220,7 @@
 - traverse [trəˈvɜːs/ˈtrævɜːs] v.穿过、横贯、横切、横过、a.横断的
 - treasure n.国库、金库、财政部、宝藏、宝库、备受宠爱的人、v.珍视、珍爱、珍重  treasure trove 无主财宝
 - treasury n.财政部、宝库、珍藏室
-- treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、请客、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己
+- treat [triːt] v.对待、把...视为、把...看作、招待、款待、治疗、n.款待、请客、乐事、乐趣 treat sb/sth 以...的态度/方式对待 treat sth as sth 把...视为、把...看作  treat yourself 犒劳你自己  my treat 我请客
 - treatment n.治疗、诊治  medical treatment 医疗
 - treaty n.条约、协定
 - trek n.徒步旅行、长途跋涉
@@ -261,7 +261,7 @@
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - tunnel n.隧道、通道
 - turbine [ˈtɜːbaɪn] n.涡轮、汽轮机、涡轮机
-- turbo n.涡轮发动机、涡轮增压器
+- turbo [ˈtɜːbəʊ] n.涡轮发动机、涡轮增压器
 - turbulence n.湍流、涡流、气流、骚乱、动乱
 - turbulent [ˈtɜːrbjələnt] a.骚乱的、动荡的、激流的
 - turmoil [ˈtɜːmɔɪl] n.混乱、焦虑

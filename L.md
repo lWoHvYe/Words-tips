@@ -18,7 +18,7 @@
 - laptop n.手提电脑、笔记本电脑
 - large a.大的、大量的、广泛的  at large 在逃的、大多数、一般、普遍
 - largely ad.主要地、多半
-- laser n.激光、激光器
+- laser [ˈleɪzə(r)] n.激光、激光器
 - last a.最后的、最终的、末尾的、最近的、v.持续、延续、持久、够用   
 - lasting a.持久的、耐久的、v.持续、继续、继续存在、持续起作用
 - latch n.门闩、锁
@@ -30,6 +30,7 @@
 - launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
 - launder [ˈlɔːndə(r)] v.洗、洗(钱)
 - lawsuit n.诉讼、起诉
+- laxity [ˈlæksɪti] n.松弛
 - lay v.放置、铺放、制定计划、a.世俗的、外行的、没有经验的  lay on 提供(食物等) lay off (临时)解雇、停止、休息  lay out 规划、布置、安排、展示、陈设
 - layer 层、层次
 - layoff n.解雇、裁员
@@ -60,7 +61,7 @@
 - lend v.借给、借出、给...增加、增添、给予、提供、n.贷款
 - length n.长、长度 at length 最后、终于、充分地、详尽地
 - lenient a.宽大的、宽容的、仁慈的
-- lens n.透镜、镜片、镜头、(眼球的)晶状体
+- lens [lenz] n.透镜、镜片、镜头、(眼球的)晶状体
 - lesson n.课程、一节课
 - lest conj.免得、以免、唯恐
 - letter n.信、函、字母
@@ -100,7 +101,7 @@
 - lining [ˈlaɪnɪŋ] n.衬里、内衬、膜
 - link v.联系、连接、n.链接、联系、关系、纽带、环节
 - linkage n.联系、连锁、联动
-- linux ['lɪnəks] 
+- linux ['lɪnəks/ˈlinʊks] 一种计算机操作系统 
 - lip n.嘴唇
 - liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
 - liquidate v.清算、清盘、偿还、清偿、变卖、变现
@@ -121,6 +122,7 @@
 - lobby [ˈlɒbi] n.大厅、休息室、游说、游说团体、v.游说
 - local a.地方的、当地的、局部的
 - locale [ləʊˈkɑːl] n.场所、现场
+- locality 局部性  principle of locality 局部性原理
 - locate v.定位、找到、使...坐落于
 - location n.位置、地点
 - lock n/v.锁、封锁、锁住、锁定  lockdown to China 对中国的封锁
@@ -132,6 +134,7 @@
 - look v.看、寻找、注意、留心、n.看、眼神、表情、相貌 look after 照顾、照料、料理、打理 look in 顺便拜访  look into 考察、调查、研究
 - lookup [ˈlʊkəp] v.查找、查表
 - loom n.织布机、纺织机、v.赫然出现、逼近、迫、迫近近  loom large 挥之不去、显得突出
+- loong [lʊŋ] n.(中国)龙
 - loop 环、环形、回路
 - loose a.宽松的、v.松开、释放
 - loosen [ˈluːsn] v.松开、解开

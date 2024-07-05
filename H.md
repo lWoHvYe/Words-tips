@@ -54,6 +54,7 @@
 - heavy a.沉的、重的、繁忙的、ad.大量地
 - hectare n.公顷
 - hedge [hedʒ] n.树篱、保护手段、拐弯抹角、保值措施、v.包围、限制、对冲  hedge fund 对冲基金
+- heedful a.注意的、留心的
 - height [haɪt] n.身高、高度
 - heighten v.提高、加强  heighten the value of 提升...的价值
 - heightened a.不断增加的、升高的、增强的  heightened alert 高度警戒
@@ -69,6 +70,7 @@
 - hesitant a.犹豫的、踌躇的
 - hesitate [ˈhezɪteɪt] v.犹豫、顾虑
 - hetero 异质的、不同的
+- heterogeneity [ˌhɛtərəʊdʒɪˈniːɪti] n.异质性、多相性
 - heuristic [hjuˈrɪstɪk] a.启发式的
 - hide v.躲藏、隐瞒、隐匿、n.皮革、兽皮、隐蔽处、藏身处
 - hierarchy [ˈhaɪərɑːki] 分层、层次、层次体系、等级制度、统治集团

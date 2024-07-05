@@ -161,7 +161,7 @@
 - choice n.选择、挑选、a.优质的、上等的
 - cholera [ˈkɒlərə] n.霍乱
 - chop v.切碎、劈、砍、(大幅度地)削减、取消、终止、n.排骨、肋骨
-- choreography [ˌkɒriˈɒɡrəfi] n.编舞、舞蹈编排、编舞艺术
+- choreography [ˌkɒriˈɒɡrəfi] n.编排、编舞、舞蹈编排、编舞艺术
 - chose v.选择、挑选、决定、情愿
 - chromosome [ˈkrəʊməsəʊm] n.染色体
 - chronic a.慢性的、长期的、习惯性的、难以治愈的、糟透的、拙劣的  chronic illness 慢性病
@@ -222,7 +222,7 @@
 - cluster n.群、丛、簇
 - coach [kəʊtʃ] n.教练、v.训练、辅导
 - coal [kəʊl] n.煤
-- coalition n.联合政府、联盟、同盟
+- coalition [ˌkəʊəˈlɪʃn] n.联合政府、联盟、同盟
 - coarse [kɔːs] a.粗的、粗糙的、大颗粒的
 - coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
@@ -230,6 +230,7 @@
 - coax [kəʊks] v.哄劝、劝诱
 - coaxial [ˈkəʊˈæksɪəl] a.同轴的、共轴的、n.同轴电缆
 - cock n.公鸡
+- cockpit [ˈkɒkpɪt] n.驾驶员
 - cocktail n.鸡尾酒
 - code n.密码、电码、代码、编码、道德准则、行为规范、法典、v.为...编码、编程序  code of conduct 行为准则  QR Code - Quick Response Code 二维码
 - codec 编解码器
@@ -301,7 +302,7 @@
 - compare n/v.比较、对比
 - comparative a.相对的、比较的、比较级的
 - compass n.罗盘、指南针、圆规、范围、界限
-- compatible v.可共用的、兼容的、相容的、和睦相处的
+- compatible [kəmˈpætəbl] v.可共用的、兼容的、相容的、和睦相处的
 - compel v.强迫、迫使  be compelled to 被迫(做某事)  feel compelled to 感到必须(做某事)
 - compensate [ˈkɒmpenseɪt] v.抵消、补偿、赔偿、报酬
 - compensation n.补偿、赔偿、报酬、薪资  compensation design 薪酬设计
@@ -406,12 +407,14 @@
 - consist [kənˈsɪst] v.包括、存在于、由...组成、由...构成   consist of 由...组成  consist in 存在于...之中
 - consistence n.浓度、稠度
 - consistency 一致性、连贯性、平滑度
-- consistent a.一致的、连续的、始终如一的、符合的、相符的、不矛盾的
+- consistent [kənˈsɪstənt] a.一致的、连续的、始终如一的、符合的、相符的、不矛盾的
 - consolidate v.巩固、使加强、合并、统一、联合  be consolidated to 被合并到...
+- consort [ˈkɒnsɔːt/kənˈsɔːt] n.配偶、伙伴
+- consortium [kənˈsɔːtiəm] n.联盟、财团
 - conspicuous [kənˈspɪkjuəs] a.明显的、显而易见的、引入注目的
 - conspiracy [kənˈspɪrəsi] n.阴谋、密谋、共谋
 - conspire [kənˈspaɪə(r)] v.阴谋、密谋、图谋
-- constant n.常数、常量、a.恒定的、不断的、持续的、永恒的
+- constant [ˈkɒnstənt] n.常数、常量、a.恒定的、不断的、持续的、永恒的
 - constituency n.选区
 - constituent [kənˈstɪtjuənt] n.选民、成分、a.组成的、构成的
 - constitute v.组成、构成、制定、设立、成立、指派
@@ -553,9 +556,9 @@
 - credential [krəˈdenʃl] n.资质、文凭、信任状、凭据、v.提供证明书  a digital credential 数字证书
 - credibility n.可信性
 - credible a.可信的、可靠的  incredible a.难以置信的、不可思议的  
-- credit n.信用、贷款、学分 tax credit 免税额度
+- credit n.信用、贷款、学分、v.相信、信任、归功于 tax credit 免税额度
 - creep v.爬行、匍匐、不知不觉地产生  creep me out - make me feel uncomfortable and a bit scared
-- crew [kruː] n.船员、乘务员、全体工作人员
+- crew [kruː] n.船员、乘务员、全体工作人员、宇航员
 - cricket [ˈkrɪkɪt] n.板球、蟋蟀
 - crime [kraɪm] n.罪行、犯罪  commit crime 犯罪  cyber crime 网络犯罪
 - criminal a.犯罪的、刑法的、刑事的、n.罪犯  criminal proceedings 刑事诉讼

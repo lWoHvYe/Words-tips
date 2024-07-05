@@ -33,6 +33,7 @@
 - scalability n.可扩展性、可伸缩性、可量测性
 - scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
 - scale n.规模、级别、天平、刻度、尺度、比例、音阶、鱼鳞、进位制、计数法、v.测量、衡量、攀登、调节、缩减、缩小、剥落、脱落  on a large scale 大规模地
+- scalper [ˈskælpə(r)] n.倒票者、黄牛、票贩子
 - scam n.骗局
 - scan 扫描、浏览、细看、端详
 - scandal [ˈskændl] n.丑闻、诽谤、耻辱
@@ -92,7 +93,7 @@
 - seep v.渗透
 - seethe [siːð] v.沸腾、发怒、强压怒火
 - segment n.部分、片、段、v.分割、划分
-- segregate v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
+- segregate [ˈseɡrɪɡeɪt] v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
 - seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
@@ -129,6 +130,7 @@
 - servant n.仆人、佣人、雇员、职员
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
+- Serviceablity 可维护性
 - servo 伺服系统、继动
 - session [ˈseʃn] n.会议、环节、一场、一节、一段时间
 - set v.设置、放置、树立、矫正、n.套、系列、a.固定不变的、确定的  
@@ -399,6 +401,7 @@
 - stale a.陈腐的、不新鲜的、污浊的
 - stalemate n.僵局
 - stalk [stɔːk] n.茎、梗、柄、v.(非法)跟踪、悄悄接近、趾高气昂的走
+- stall [stɔːl] n.货摊、摊位、v.熄火、停止转动
 - stance n.态度、立场
 - stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
 - standalone 独立的、单独的、脱机
@@ -422,6 +425,7 @@
 - stead [sted] n.代替、用途、好处
 - steadfast a.坚定的、不动摇的  steadfast integrity 踏实、诚实
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
+- steel n.钢
 - steep a.陡峭的、急剧的、大幅度的
 - steer [stɪr] v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
@@ -478,6 +482,7 @@
 - strip [strɪp] n.带、狭条、v.剥去、剥光、除去、剥夺、跳闸  strip sb of... 剥夺某人的...
 - stripe [straɪp] n.条纹、线条、种类、类型
 - strive v.努力、力争、力求
+- strobe n.频闪、脉冲
 - stroke n.一下、一击、击球、v.轻抚、轻触、敲击
 - stroll [strəʊl] n/v.散步、闲逛、轻松获胜
 - structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列  Structured Query Language - SQL/sequel
@@ -595,12 +600,15 @@
 - swamp n.沼泽、湿地、v.淹没、使陷入困境、使应接不暇
 - swan [swɒn] n.天鹅
 - swap n/v.交换、互换、掉换、交流、交换物、交换区
+- swarm n.蜂群、集群
+- swear [sweə(r)] v.发誓、咒骂、诅咒
 - sweep v.扫除、打扫、清理、掠过、舞动、挥动  a sweeping ruling 全面的裁决
 - sweet 甜的、愉快的、快乐的、温柔的、糖果、甜食、甜点
 - swift a.敏捷的、迅速的
 - swim v.游泳、游动、旋转、眩晕、n.游泳
 - swine n.猪、讨厌的人、令人不愉快的事、难处理的东西  swine flu 猪流感  bird flu 禽流感
 - switch n.开关、转换、转换器、交换机、v.转换、转变、交换、对调
+- sworn a.宣过誓的 sworn-in 宣誓就职
 - symbol [ˈsɪmbl] n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
 - symbolize [ˈsɪmbəlaɪz] v.用符号表示、象征

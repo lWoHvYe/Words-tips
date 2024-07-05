@@ -1,3 +1,4 @@
+- oath n.宣誓、誓言
 - obese a.肥胖的、臃肿的
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
 - obey v.服从、听从、遵守  obey the law 遵守法律
@@ -77,7 +78,7 @@
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标
 - organ [ˈɔːɡən] n.器官、风琴  reproductive organ 生殖器官
-- organic a.器官的、有机的、有机体的
+- organic [ɔːˈɡænɪk] a.器官的、有机的、有机体的
 - organism n.生物、有机体  individual organism 生物个体
 - orient [ˈɔːrient] v.朝向、面对、适应、使适应、熟悉、n.东方、亚洲、a.东方的、上升的、新生的
 - oriental [ˌɔːriˈentl] a.东方的、东亚的(尤指中国和日本)
@@ -88,7 +89,7 @@
 - ornament n/v.装饰、点缀
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
-- orthogonal a.正交的、直角的、垂直的、矩形的
+- orthogonal [ɔːˈθɒgənəl] a.正交的、直角的、垂直的、矩形的
 - OTC Over the Counter 柜台交易/场外交易  Exchange Traded 交易所交易/场内交易
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任

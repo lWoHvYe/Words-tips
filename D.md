@@ -64,7 +64,7 @@
 - degrade v.降低、贬低、退化、降解、分解
 - degree n.度、程度、度数、学位、等级  undergraduate degree 本科学位  bachelor's degree 学士学位  master's degree 硕士学位  doctoral degree 博士学位
 - deify [ˈdeɪɪfaɪ] v.神化
-- delay n/v.延迟、推迟、延期、耽搁
+- delay [dɪˈleɪ] n/v.延迟、推迟、延期、耽搁
 - delegate v.代表、把...委派、选派、n.代表
 - delegation n.代表团、委托、委派
 - delete [dɪˈliːt] v.删除、n.删除键、删除指令
@@ -95,7 +95,7 @@
 - demoralize v.使士气低落、使泄气、使意志消沉
 - demote v.使降级、使降职
 - demystify [ˌdiːˈmɪstɪfaɪ] v.使明白易懂、深入浅出的解释
-- denial 拒绝、否定、剥夺、否认
+- denial [dɪˈnaɪəl] 拒绝、否定、剥夺、否认
 - denote v.标志、预示、象征、表示、代表
 - dense a.密集的、稠密的、浓厚的、浓密的
 - density n.密集、稠密、密度、浓度
@@ -347,7 +347,10 @@
 - dull [dʌl] a.迟钝的、呆滞的、无聊的、枯燥无味的、v.使迟钝、减轻、使变麻木
 - duly ad.适当地、适时地、按时地、恰当地
 - dummy n.仿制品、笨蛋、蠢货、傀儡、v.制作样品、做假动作、a.假的
+- dump v.倾倒、转储、倾销、抛售
+- dumpling n.汤圆、水饺
 - durable [ˈdjʊərəbl] a.耐用的、持久的、长期的、n.耐用品、耐久品
+- durability [ˌdjʊərəˈbɪlɪti] n.耐久性、持久性
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间
 - dupe [djuːp] 诈骗、欺骗
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品

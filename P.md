@@ -6,6 +6,7 @@
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - painful [ˈpeɪnfl] a.痛苦的
+- paint n.油漆、v.把...描绘成、用颜料画
 - palace [ˈpæləs] n.王宫、宫殿
 - palette [ˈpælət] n.调色板
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
@@ -19,7 +20,7 @@
 - paper n.纸张、资料、文件、文献、论文、报纸、试卷
 - parachute n.降落伞、保护伞、v.空降、空投
 - parade n.游行、检阅、阅兵、炫耀、一系列、v.游行、展览、接受检阅、冒充、伪装
-- paradigm [ˈpærədaɪm] n.模范、范例、范式
+- paradigm [ˈpærədaɪm] n.模范、范例、范式、范型
 - paradise [ˈpærədaɪs] n.天堂、乐园、伊甸园
 - paradox n.悖论、矛盾的人或事物
 - paragraph [ˈpærəɡrɑːf] n.段落、章节、v.将...分段
@@ -51,6 +52,7 @@
 - passive [ˈpæsɪv] a.消极的、否定的、无源的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、有源的、n.主动语态
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
+- paternity n.父亲的身份（休陪产假）
 - pathetic a.可怜的、可悲的
 - pathogen n.病原体
 - pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
@@ -121,7 +123,7 @@
 - perspective n.态度、看法、观点、透镜、远景、洞察力、a.透视的
 - persuade [pəˈsweɪd] v.说服、劝说、使相信、使信服
 - persuasion n.说服、劝说、信仰
-- pertain v.存在、适用
+- pertain [pəˈteɪn] v.存在、适用
 - pertinent a.有关的、相关的
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
@@ -238,7 +240,8 @@
 - population n.人口
 - pornographic a.淫秽的、色情的
 - port [pɔːt/pɔːrt] 港口、口岸、避风港、端口、移植
-- portable a.便携式的、轻便的、手提的、n.手提电脑
+- Portability 可移植性
+- portable a.便携式的、轻便的、手提的、可移植的、n.手提电脑  Portable Executable - PE
 - portal 门户、入口、桥门、肝门、壮观的大门、门户网站、入口站点
 - portfolio 证券组合、公文包、文件夹、职责、职务
 - portion [ˈpɔːʃn] n.部分、分享的部分、分担的责任、v.分配、把...分成若干份
@@ -339,7 +342,7 @@
 - priest [priːst] n.牧师、神父、僧侣
 - primary a.主要的、最初的、初级的、基本的
 - prime a.主要的、首要的、优质的、典型的、基本的、n.青春、壮年、全盛时期、质数、v.做好准备、事先指点  prime number 质数、素数  Prime Finance 大宗金融
-- primer n.启蒙读本
+- primer n.启蒙读本、入门书
 - primitive [ˈprɪmətɪv] a.原始的、远古的、发展水平低的、简陋的、落后的、原始本能的、n.原始人、早期的艺术家
 - prince n.王子、王孙、亲王、君主
 - principal [ˈprɪnsəpl] a.最重要的、主要的、n.大学校长、本金、资本、主角、当事人

@@ -1,3 +1,4 @@
 - zeal n.热情、激情
 - zephyr [ˈzefə(r)] n.和风、微风
+- zombie n.僵尸、无生气的人、麻木迟钝的人
 - zone n.地区、地带、流域、v.划分区域  zone out 走神、失去意识

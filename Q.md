@@ -21,6 +21,7 @@
 - quick a.快的、迅速的、敏捷的
 - quickness n.机智、机敏、敏捷
 - quiescent a.静止的、静态的、休眠的
+- quiescence n.静止、隔离
 - quiet a.安静的、平静的、寂静的、v.(使)平静、安静
 - quintuple a.五倍的、v.变成五倍、n.五倍
 - quire n.帖

@@ -17,6 +17,7 @@
 - wardrobe [ˈwɔːdrəʊb] n.衣橱
 - ware n.器皿、制品、软件、v.小心、当心、留意、避免、a.谨慎的、小心的、留神的
 - warehouse n.仓库、货栈、v.把...放入/存入仓库
+- warn [wɔːn] n/v.警告
 - warrant n.许可证、授权令、执行令、凭据、v.保证、担保、使正当、使恰当
 - warrior n.战士、勇士、武士
 - wash [wɒʃ] n/v.洗、流动
@@ -70,6 +71,7 @@
 - wipe n.擦去、消除、抹去、n.抹布、纸巾
 - wire n.金属丝、电线、导线、v.用导线给(设备)接通电源、将....连接到(设备)
 - wireframe n.线框图
+- wireless [ˈwaɪələs] a.无线的
 - wisdom n.智慧、才智、知识、学问  conventional wisdom 普遍看法
 - wise a.聪明的、明智的、有智慧的、博学的、v.使知道、使懂得、教导
 - wist wit的过去式和过去分词 v.风趣、心智、才智

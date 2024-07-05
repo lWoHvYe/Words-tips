@@ -101,5 +101,6 @@
 - volunteer n.志愿者、志愿兵、v.自愿做
 - vote n/v.投票、表决
 - voyage [ˈvɔɪɪdʒ] n/v.航海、航行、航天
+- VPN - Virtual Private Network 是利用公共网络建立私有专用网络的技术
 - vulnerable [ˈvʌlnərəbl] a.脆弱的、易受攻击的、易受伤的
 - vulnerability [ˌvʌlnərə'bɪlətɪ] n.脆弱性、弱点、易伤性、致命性

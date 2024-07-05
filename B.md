@@ -120,7 +120,7 @@
 - blunt a.迟钝的、直言的、不锋利的、v.使减弱、使变钝
 - blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、玷污、变模糊
 - blurry a.模糊的
-- board n.板、甲板、委员会、董事会、v.上船、让乘客登机
+- board n.板、甲板、委员会、董事会、v.上船、让乘客登机 on board - to the company 新员工入职
 - boast [bəʊst] n/v.自夸、夸耀
 - boat n.小船、舟
 - boilerplate [ˈbɔɪləpleɪt] n.样板文件、公式化

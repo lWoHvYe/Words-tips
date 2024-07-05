@@ -1,4 +1,5 @@
 - machine [məˈʃiːn] n.机械、机器、v.制造、加工成型  Machine Learning 机器学习  Machine Language 机器语言
+- machinery n.机械、系统、机构、组织  ACM - Association for Computing Machinery
 - macro n.宏、宏指令、a.广大的、宏观的、巨大的、极厚的、特别突出的、大量使用的
 - madam [ˈmædəm] n.夫人、女士、小姐
 - magazine n.杂志、期刊、弹药库
@@ -9,7 +10,9 @@
 - magnificent a.壮丽的、宏伟的、华丽的
 - magnify v.放大、增强、夸大、扩大
 - magnitude n.量级、震级
+- Mahjong [mɑːˈdʒɒŋ] n.麻将
 - maid n.女仆
+- main [meɪn] a.主要的
 - mainframe n.大型机、主机、中央处理机、主计算机
 - maintain [meɪnˈteɪn] v.维持、保持、维修、保养、坚持、固执己见
 - maintenance [ˈmeɪntənəns] n.维护、维修、保养、保持、生活费、抚养费
@@ -22,10 +25,11 @@
 - makeup n.化妆品、性格、组成、构成
 - maladapted a.不适应的、不适合的
 - male a.男性的、雄性的、n.男人、雄性动/植物
-- malicious 恶意的、有敌意的、蓄意的、预谋的
+- malicious [məˈlɪʃəs] 恶意的、有敌意的、蓄意的、预谋的
 - malign [məˈlaɪn] v.诽谤、中伤、a.有害的、恶意的
-- malware n.恶意软件
+- malware [ˈmælweə(r)] n.恶意软件、恶意代码 malicious software
 - mammal [ˈmæml] n.哺乳动物
+- man [mæn] n.人类，男人
 - manage [ˈmænɪdʒ] v.管理、经营、设法(做成某事)、抽出(时间、金钱等) manage to do sth 设法去做某事
 - mandarin [ˈmændərɪn] n.普通话
 - mandate [ˈmændeɪt] n.授权、命令、委任、任期、v.授权、托管、批准、强制执行、委托办理
@@ -35,6 +39,7 @@
 - manifest v.显示、表明、证明、宣言、声明、a.明白的、明显的、n.货单、旅客名单
 - manifesto n.宣言
 - manipulate [məˈnɪpjuleɪt] v.操纵、操作、控制、影响
+- mangle [ˈmæŋɡl] v.撕裂、压碎、重整
 - manner [ˈmænə(r)] n.方法、方式、态度、举止、礼仪、规矩
 - manpower [ˈmænpaʊə(r)] n.人力、人手、劳动力
 - manual a.手动的、手工的、用手操作的、n.手册、指南
@@ -91,7 +96,7 @@
 - mechanize/mechanise [ˈmekənaɪz] v.使机械化
 - medal [ˈmedl] n.奖章、勋章、奖牌
 - meddle [ˈmedl] v.干预、干涉、管闲事
-- mediate v.经调解解决、调停、调解、促成、a.间接的、中间的
+- mediate [ˈmiːdieɪt] v.经调解解决、调停、调解、促成、a.间接的、中间的
 - Mediator 中介者
 - medical a.医学的、医疗的、疾病的、伤病的
 - medicine [ˈmedsn] n.医学、药物
@@ -123,6 +128,7 @@
 - merge v.合并、融合、融入
 - merit [ˈmerɪt] n.优点、美德、价值、功绩、绩效、v.应得、值得
 - meritocratic [ˌmerɪtəˈkrætɪk] a.精英领导的
+- mesh n.网格、网状物
 - meson 介子
 - mess n.混乱、困境、肮脏、v.弄脏、搞砸  mess up 弄乱、把...搞糟
 - message n.信息、要旨、要点
@@ -222,7 +228,7 @@
 - mono [ˈmɒnəʊ] a.单声道的
 - monolayer n.单层
 - monolith n.单块巨石、巨无霸
-- monolithic [ˌmɒnəˈlɪθɪk] a.整体的、庞大的
+- monolithic [ˌmɒnəˈlɪθɪk] a.整体的、庞大的、单片的、单块的、n.单片电路、单块电路
 - monolog n.独白、独角戏
 - monopoly [məˈnɒpəli] n.垄断、独占、专利
 - monotone n.单调、a.单调的

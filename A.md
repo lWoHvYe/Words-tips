@@ -109,9 +109,9 @@
 - adversity n.困境、逆境
 - advertent 注意、引起注意、提到、广告、宣传
 - advertise v.宣扬、做广告、通告、通知、公布、征聘、登广告、做宣传
-- advice n.劝告、忠告、建议、意见
-- advise v.劝告、忠告、建议、通知
-- advisor n.顾问、咨询
+- advice [ədˈvaɪs] n.劝告、忠告、建议、意见
+- advise [ədˈvaɪz] v.劝告、忠告、建议、通知
+- advisor [ədˈvaɪzə] n.顾问、咨询
 - advisory a.顾问的、咨询的
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
 - aerial a.航空的、空中的、地表以上的、n.天线  aerial photograph 航拍
@@ -121,34 +121,34 @@
 - affect v.影响、侵袭、感动、n.情感、偏差
 - affection n.感情、喜爱、爱情、钟爱
 - affectionate a.有感情的、热情的、慈爱的
-- affiliate v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
+- affiliate [əˈfɪlieɪt/əˈfɪliət] v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
 - affinity [əˈfɪnəti] n.密切关系、喜好、喜爱
 - affirm v.公开肯定、断言、证实
-- affluent a.富裕的、n.富人、支流
+- affluent [ˈæfluənt] a.富裕的、n.富人、支流
 - afford v.提供、给予、负担得起、买得起、有能力做
 - afloat [əˈfləʊt] ad.漂浮、能维持下去、有偿债能力
 - afraid a.害怕的、担心的、恐怕的  be afraid of 畏惧、担心
 - afresh ad.重新开始、重新、从头
 - aftermath [ˈɑːftəmæθ] n.后果、创伤
-- afterward ad.后来、之后
+- afterward [ˈɑːftə(r)wə(r)d] ad.后来、之后
 - against prep.反对、针对、对...不利、紧靠、以防、以...为背景、和...相比
 - age 年龄、时代、老年、年龄段、长大、使变老、使苍老
-- agenda n.(复数)议程、议程表、议题、动机
+- agenda [əˈdʒendə] n.(复数)议程、议程表、议题、动机
 - agency n.代理、机构
-- agent n.代理人、代理商、媒介、工具、原动力、动因、v.由...代理、a.代理的
+- agent [ˈeɪdʒənt] n.代理人、代理商、媒介、工具、原动力、动因、v.由...代理、a.代理的
 - agile [ˈædʒaɪl/ˈædʒl] a.敏捷的、灵活的、机敏的、轻快的
 - agility n.敏捷、灵活
-- agitate v.鼓动、煽动、使焦虑、使不安、搅动
+- agitate [ˈædʒɪteɪt] v.鼓动、煽动、使焦虑、使不安、搅动
 - aggravate [ˈæɡrəveɪt] v.使恶化、加剧
-- aggregate a.总数的、合计的、n/v.合计、总数
+- aggregate [ˈæɡrɪɡət/ˈæɡrɪɡeɪt] a.总数的、合计的、n/v.合计、总数
 - aggregation 聚集、集合、聚集体、集合体、聚合作用、聚集作用、凝聚、总量
 - aggress v.攻击、侵略
-- aggression n.侵略
+- aggression [əˈɡreʃn] n.侵略
 - aggressive a.进攻性的、有进取心的
 - aggressor n.侵略者
-- agnostic 不可知论者、不可知论的
-- agree v.同意、赞成、应允、答应
-- agreement n.同意、协定、协议
+- agnostic [æɡˈnɒstɪk] 不可知论者、不可知论的
+- agree [əˈɡriː] v.同意、赞成、应允、答应
+- agreement [əˈɡriːmənt] n.同意、协定、协议
 - agriculture [ˈæɡrɪkʌltʃər] n.农业
 - aid [eɪd] n/v.援助、帮助、救助、辅助  financial aid 财政援助  bandaid 邦迪、创可贴
 - aide [eɪd] n.助手
@@ -163,14 +163,14 @@
 - alcohol [ˈælkəhɒl] n.乙醇、酒精
 - alert a.机警的、警觉的、v.使...警觉、使意识到、n.警戒、警惕、警报
 - algebra [ˈældʒɪbrə] n.代数学、代数
-- algorithm n.算法、计算程序
+- algorithm [ˈælɡərɪðəm] n.算法、计算程序
 - alien [ˈeɪliən] n.外星人、外国人、a.外国的、相异的、异己的、不相容的
 - alienable a.可转让的
-- alienate v.使疏远、离间
+- alienate [ˈeɪliəneɪt] v.使疏远、离间
 - align [əˈlaɪn] v.排列、校准、排整齐、使一致
 - alignment n.对齐、较直、队列、结盟
 - alike a.同样的、相似的、ad.两者都、类似于
-- alizarin n.茜(qian)素、茜草色素、深红
+- alizarin/alizarine n.茜(qian)素、茜草色素、深红
 - all det./a.所有的、全部的、极度的、prep.所有、全部、全体、ad.完全、十分、非常  all day long 整天  after all 毕竟、终究  above all 首先  in all 总共  all the time 总是、一直  all the way 一路、自始至终  all the more 更加、愈加
 - allegation [ˌæləˈɡeɪʃn] n.(无证据的)说法、指控、陈述
 - allege [əˈledʒ] v.宣称、(在未证实的情况下)断言、辩解、声称
@@ -182,18 +182,18 @@
 - allocate v.分配、分派、拨...(给)、划...(归)
 - allot v.分配、分派、配给
 - allow [əˈlaʊ] v.允许、准许、容许、给予、使得、使可能
-- allowance n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
-- allude v.暗指、影射
+- allowance [əˈlaʊəns] n.津贴、补贴、限额、限量、v.给...发津贴、按定量供给
+- allude [əˈluːd] v.暗指、影射
 - allure [əˈlʊə(r)] n/v.诱惑、引诱、吸引力
 - ally n.联盟、同盟国、v.与...结盟
-- almighty a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
-- alone a/ad.单独、独自、孤独、单独的、单独地
+- almighty [ɔːlˈmaɪti] a.万能的、全能的、无所不能的、非常的、n.全能者(指上帝)  Almighty God, have mercy on us.
+- alone [əˈləʊn] a/ad.单独、独自、孤独、单独的、单独地
 - along prep.沿着、顺着、靠着...边、ad.一道、一起  along with A came B 伴随着A而来的是B
 - alphabet [ˈælfəbet] n.字母表
 - alphabetical a.按字母顺序的
 - alphanumeric [ˌælfənjuːˈmerɪk] a.含有字母和数字的、字母和数字并用的
-- alpine a.阿尔卑斯山的
-- alter v.改变、更改、修改
+- alpine [ˈælpaɪn] a.阿尔卑斯山的
+- alter [ˈɔːltə(r)] v.改变、更改、修改
 - alternate n.候补、代理人、v.交替、轮流、a.交替的、轮流的
 - alternative a.替代的、另类的、备选的、其他的、 n.可供选择的事物
 - altitude n.海拔
@@ -206,10 +206,10 @@
 - ambition n.雄心、抱负、夙愿  literature ambitions 文学抱负
 - ambitious [æmˈbɪʃəs] a.有雄心的、有抱负的、费力的、耗资的、耗时的
 - ambulance [ˈæmbjələns] n.救护车
-- amend v.修正、修订、改良、修改
+- amend [əˈmend] v.修正、修订、改良、修改
 - amendment n.修订、修正案
-- amiable a.友善的、亲切的、和蔼的
-- amicable a.友好的、友善的
+- amiable [ˈeɪmiəbl] a.友善的、亲切的、和蔼的
+- amicable [ˈæmɪkəbl] a.友好的、友善的
 - amid prep.在...中间、在...之中
 - amortize [ˈæmərtaɪz] 分期偿还、摊还
 - amount 数量、金额、合计、等同  amount to 总计、等于、相当于、接近、充其量
@@ -219,9 +219,9 @@
 - amplify v.放大、增强、详述、充实(故事、事情、陈述)
 - amplifier n.放大器、扩音器
 - amplitude n.振幅
-- amuse v.娱乐、消遣、逗笑
+- amuse [əˈmjuːz] v.娱乐、消遣、逗笑
 - amusing a.有趣的、好笑的
-- analog n.模拟、类似物、a.(钟表)有长短针的、模拟的  analog signal 模拟信号
+- analog [ˈænəˌlɔg] n.模拟、类似物、a.(钟表)有长短针的、模拟的  analog signal 模拟信号
 - analogous [əˈnæləɡəs] a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
 - analyse/analyze [ˈænəlaɪz] v.分析
@@ -232,11 +232,11 @@
 - anatomy [əˈnætəmi] n.解剖、解剖学、剖析
 - ancestor n.祖宗、祖先、原型
 - ancestry [ˈænsestri] n.祖先、祖宗
-- anchor n.锚、靠山、主播、v.抛锚、停泊、主持
+- anchor [ˈæŋkə(r)] n.锚、靠山、主播、v.抛锚、停泊、主持
 - ancient [ˈeɪnʃənt] a.古代的、古老的、n.古代人
-- ancillary a.辅助的、附属的、补充的、附加的、n.助手、随从
+- ancillary [ænˈsɪləri] a.辅助的、附属的、补充的、附加的、n.助手、随从
 - anecdotal a.逸事的、趣闻的、传闻的
-- anecdote n.轶事、奇闻、逸事
+- anecdote [ˈænɪkdəʊt] n.轶事、奇闻、逸事
 - angel [ˈeɪndʒl] n.天使
 - anger n.愤怒、v.发怒
 - angle [ˈæŋɡləʊ] [ˈæŋɡl] n.角、角度、立场、观点
@@ -254,13 +254,13 @@
 - annual [ˈænjuəl] a.年度的、每年的
 - anode n.阳极
 - anonymity n.匿名
-- anonymous a.匿名的
-- antenna n.天线、触角
+- anonymous [əˈnɒnɪməs] a.匿名的
+- antenna [ænˈtenə] n.天线、触角
 - Antialiasing 抗锯齿
 - anthropology [ˌænθrəˈpɒlədʒi] n.人类学
-- anticipate v.预见、预料、预计、预期、期盼、期望、先于...行动
-- antique a.古时的、古老的、n.古物、古董
-- antitrust a.反垄断的、反托拉斯的
+- anticipate [ænˈtɪsɪpeɪt] v.预见、预料、预计、预期、期盼、期望、先于...行动
+- antique [ænˈtiːk] a.古时的、古老的、n.古物、古董
+- antitrust [ˌæntiˈtrʌst] a.反垄断的、反托拉斯的
 - anxious [ˈæŋkʃəs] a.焦虑的、渴望的
 - anxiety [æŋˈzaɪəti] n.焦虑、忧虑
 - anyway ad.无论如何                                      
@@ -268,41 +268,41 @@
 - apartment n.公寓
 - apologize/apologise [əˈpɒlədʒaɪz] v.道歉、谢罪
 - apology [əˈpɒlədʒi] n.道歉、致歉、辩解  sincere apology 真诚的道歉  make an apology 道歉  in apology for 为...辩解
-- apparent a.显然的、显而易见的、貌似的、表面上的、未必真实的
-- appeal n/v.上诉、申诉、呼吁、恳求、吸引
+- apparent [əˈpærənt] a.显然的、显而易见的、貌似的、表面上的、未必真实的
+- appeal [əˈpiːl] n/v.上诉、申诉、呼吁、恳求、吸引
 - appear v.发表、出现、出场、看来、似乎、起源、首次使用
-- appearance 外貌、外表、起源、首次使用、公开露面、出版  appearance and temperament 外貌和气质
+- appearance n.外貌、外表、起源、首次使用、公开露面、出版  appearance and temperament 外貌和气质
 - appendix 附录
 - appetite [ˈæpɪtaɪt] n.食欲、胃口、欲望、嗜好、爱好
 - applaud [əˈplɔːd] v.鼓掌、称赞
-- applause n.掌声、鼓掌、喝彩
+- applause [əˈplɔːz] n.掌声、鼓掌、喝彩
 - appliance [əˈplaɪəns] n.电器、器具
 - applicability 适用性、相关性、适用范围
-- applicable a.适当的、恰当的、可应用的、适用、合适
-- applicant n.申请人、求职者
+- applicable [əˈplɪkəbl] a.适当的、恰当的、可应用的、适用、合适
+- applicant [ˈæplɪkənt] n.申请人、求职者
 - application n.请求、申请、应用、涂抹、施用、应用程序  API - Application Programming Interface
 - apply v.申请、应用、运用、适用、适合、涂、敷  apply to 适用于、运用  apply for 申请
 - appoint v.任命、委派、安排、约定、确定
 - appointment n.任命、委派、约会、约定、职务、职位
-- apportion v.分配、分摊、分派
-- appraisal n.评价、估价、鉴定
-- appraise v.评价、估价、估量
-- appreciate v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
-- apprehension n.忧虑、担心、理解、领悟、拘捕
-- approach v.接近、靠近、探讨、处理、对待、n.方法、路径、建议、要求
-- appropriate a.适当的、恰当的、v.侵吞、挪用、盗用、占用
-- approval n.批准、同意、认可
+- apportion [əˈpɔːʃn] v.分配、分摊、分派
+- appraisal [əˈpreɪzl] n.评价、估价、鉴定
+- appraise [əˈpreɪz] v.评价、估价、估量
+- appreciate [əˈpriːʃieɪt] v.欣赏、赏识、感激、感谢、欢迎、理解、意识到、领会、增值、涨价
+- apprehension [ˌæprɪˈhenʃn] n.忧虑、担心、理解、领悟、拘捕
+- approach [əˈprəʊtʃ] v.接近、靠近、探讨、处理、对待、n.方法、路径、建议、要求
+- appropriate [əˈprəʊpriət/əˈprəʊprieɪt] a.适当的、恰当的、v.侵吞、挪用、盗用、占用
+- approval [əˈpruːvl] n.批准、同意、认可
 - approve v.批准、赞成、同意、认可
 - approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
 - arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
-- arbitrary a.随意的、任意的、武断的
+- arbitrary [ˈɑːbɪtrəri] a.随意的、任意的、武断的
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
 - architect n.建筑师
-- architecture n.体系结构、建筑学、建筑设计、结构、构架
+- architecture n.体系结构、建筑学、建筑设计、结构、构架  System Architecture Designer 系统架构设计师
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室  JAR - Java archive
 - argue v.争论、争辩、论证、表明、主张、认为
-- argument n.论点、论据、争论、辩论、争吵、主题、情节、(函数或方法的)参数
+- argument n.论点、论据、争论、辩论、争吵、主题、情节、(函数或方法的)参数 args
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生
 - aristocracy n.贵族
 - aristocrat [ˈærɪstəkræt] n.贵族
@@ -322,29 +322,29 @@
 - arrow n.箭头
 - art n.艺术、人文科学、文科
 - arthritic a.关节炎的
-- arthritis n.关节炎
+- arthritis [ɑːˈθraɪtɪs] n.关节炎
 - article n.文章、报道、冠词
 - articulate v.表达、明确表达、用关节连接、a.善于表达的、口齿清楚的
 - artifact 人工制品、手工艺品、加工品、石器
 - artificial a.人工的、人造的、人为的、虚假的
 - artistic a.艺术的、艺术家的、美术的
 - asap (as soon as possible) 尽快
-- ascend v.上升、升高
+- ascend [əˈsend] v.上升、升高
 - Asia ['eɪʒə] n.亚洲
 - aside ad.到一边、向一边、向旁边、(放在名词后)除...之外  set aside 放弃、留出、空出
 - ask v.问、询问、需要、要求、请求、征求 ask sb to do sth 让某人做某事
 - aspect n.方面、层面、外观、外表  Aspect-Oriented Programming AOP
 - aspiration n.渴望、抱负
-- aspire v.渴望、有志
+- aspire [əˈspaɪə(r)] v.渴望、有志
 - assault [əˈsɔːlt] n/v.袭击、攻击、殴打、抨击
 - assemble [əˈsembl] v.集合、组装、装配、收集、聚集、组合
 - assembler n.汇编程序、汇编语言
 - assembly n.装配、集会、议会、会议、立法机构  assembly language (asm)汇编语言
-- assert v.声称、断言、明确肯定、维护、坚持、生效
+- assert [əˈsɜːt] v.声称、断言、明确肯定、维护、坚持、生效
 - assess [əˈses] v.评估、评价、评定、估算
 - assessment 看法、评估、评定、核定、判定、估定、估价
-- asset n.资产、财产、优点、有利条件
-- assiduous a.刻苦的、勤勉的、兢兢业业的
+- asset [ˈæset] n.资产、财产、优点、有利条件
+- assiduous [əˈsɪdjuəs] a.刻苦的、勤勉的、兢兢业业的
 - assign [əˈsaɪn] v.分配、选派、指定、派遣、确定、转让
 - assignment n.分配、布置、工作、任务
 - assimilate [əˈsɪməleɪt] v.同化、消化、吸收
@@ -355,46 +355,48 @@
 - association n.协会、社团、联盟
 - assume [əˈsjuːm] v.假定、假设、承担、担任、呈现
 - assumption n.假定、假设、承担、担任
-- assurance n.保证、担保、保险、确信、把握  quality assurance - QA
+- assurance [əˈʃʊərəns] n.保证、担保、保险、确信、把握  quality assurance - QA
 - assure v.向...保证、使...确信、保证、确保
 - asterisk [ˈæstərɪsk] n.星号 *
 - asteroid [ˈæstərɔɪd] n.小行星
-- astonish v.使惊讶、震惊
-- astray 迷路的、堕落、误入歧途的、迷路
+- astonish [əˈstɒnɪʃ] v.使惊讶、震惊
+- astray [əˈstreɪ] a.迷路的、堕落的、误入歧途的、ad.迷路
 - astrology [əˈstrɒlədʒi] n.占星术、占星学
-- astronaut n.宇航员、航天员
+- astronaut [ˈæstrənɔːt] n.宇航员、航天员
 - astronomy n.天文学
-- asymmetric a.不对称的、不匀称的
-- asynchronous [eɪˈsɪŋkrənəs] 异步的、非共时的
+- asymmetric [ˌeɪsɪˈmetrɪk] a.不对称的、不匀称的
+- asynchronous [eɪˈsɪŋkrənəs] a.异步的、非共时的
 - athlete [ˈæθliːt] n.运动员
-- athletic a.运动的、健壮的
-- Atlantic n.大西洋
+- athletic [æθˈletɪk] a.运动的、健壮的
+- Atlantic [ətˈlæntɪk] n.大西洋
 - atmosphere n.气氛、基调、空气、大气层
 - atoll n.环礁
 - atom [ˈætəm] n.原子
+- atomicity [ˌætəˈmɪsəti] n.原子性
 - attach v.附上、贴上、附带、认为...有(重要性、价值、意义等)  attach importance to 认为...有重要性、重视
 - attachment n.附件、喜爱、依恋
 - attack [əˈtæk] n/v.攻击、抨击(peng)、袭击、侵袭、(疾病的)突然发作
-- attain v.达到、获得、得到
+- attain [əˈteɪn] v.达到、获得、得到
 - attempt n/v.努力、尝试、企图
 - attend v.出席、参加、注意、专心
-- attendant n.服务员、侍者、a.伴随的、随之而来的
+- attendant [əˈtendənt] n.服务员、侍者、a.伴随的、随之而来的
 - attention n.注意、关注、兴趣、关心、照料、int.注意、立正
 - attest v.作证、证明、证实、表明
 - attestation n.证明、证据、证词
-- attorney n.律师、代理人
-- attract v.吸引、诱惑、引人注意
+- attorney [əˈtɜːni] n.律师、代理人
+- attract [əˈtrækt] v.吸引、诱惑、引人注意
 - attractiveness n.吸引力
 - attribute n.属性、特征、性质、v.认为...是、认为...属于、把...归于  be attributed to 归于
-- attrition 损耗、消耗
+- attrition [əˈtrɪʃn] n.损耗、消耗
 - attune v.使协调、使合拍
+- attunement [əˈtjuːnmənt] 调谐、调音
 - attuned [əˈtjuːnd] a.熟悉的、适应的、习惯的、敏感的
 - auction [ˈɔːkʃn] n/v.拍卖  auction house 拍卖行
 - audience n.观众
-- audit n/v.审计、旁听
-- augment [ɔːɡˈment] v.扩大、增加、提高、加强
+- audit [ˈɔːdɪt] n/v.审计、旁听
+- augment [ɔːɡˈment] v.扩大、增加、提高、加强  Augmented Reality - AR 增强现实
 - august [ɔːˈɡʌst] a.威严的、庄严的、n.August 八月
-- aura n.气氛、氛围
+- aura [ˈɔːrə] n.气氛、氛围
 - aural [ˈɔːrəl] a.听的、听觉的
 - authentic [ɔːˈθentɪk] a.真正的、真实的
 - authenticate v.证明...是真实的、证实
@@ -408,19 +410,19 @@
 - automation n.自动化
 - automobile [ˈɔːtəməbiːl] n.汽车
 - automotive [ˌɔːtəˈməʊtɪv] a.汽车的、机动车辆的
-- autonomous a.自主的、自治的、有自治权的、有自主权的
+- autonomous [ɔːˈtɒnəməs] a.自主的、自治的、有自治权的、有自主权的
 - autumn n.秋天、成熟期、渐衰期、a.秋天的、秋季的
 - auxiliary [ɔːɡˈzɪliəri] 辅助的、附加的
-- avail 效用、利益、有帮助、有用
+- avail [əˈveɪl] n.效用、利益、vt.有帮助、有用
 - available [əˈveɪləbl] a.可利用的、可获得的、有空的、能找到的
 - avalanche [ˈævəlɑːnʃ] n.雪崩、山崩  an avalanche of 大量的
-- avenge v.复仇
+- avenge [əˈvendʒ] v.复仇
 - avenue n.大街、大道、途径、渠道、手段
 - average a.平均的、平常的、普通的
-- averse a.讨厌、厌恶、不喜欢、不想做、反对做
+- averse [əˈvɜːs] a.讨厌、厌恶、不喜欢、不想做、反对做
 - avert v.防止、避免、转移、避开
-- avian n.鸟、a.鸟的
-- aviation n.航空
+- avian [ˈeɪviən] n.鸟、a.鸟的
+- aviation [ˌeɪviˈeɪʃn] n.航空
 - aviator n.飞行员
 - await v.等待、期盼、即将发生
 - awake v.唤醒、醒来、唤起、a.醒着的、警觉的
@@ -428,6 +430,7 @@
 - aware a.意识到的、知道的、察觉的
 - awareness n.察觉、意识、认知
 - awesome [ˈɔːsəm] 可怕的、令人敬畏的、令人畏惧的、极好的
-- awful a.糟糕的、可怕的、极大的、ad.很、非常、极
+- awful [ˈɔːfl] a.糟糕的、可怕的、极大的、ad.很、非常、极
 - awkward [ˈɔːkwəd] a.令人尴尬的、笨拙[bèn zhuō]的、难处理的
 - axis [ˈæksɪs] n.轴、坐标轴、对称中心线
+- azure [ˈæʒə(r)] a.天蓝色的、蔚蓝色的
