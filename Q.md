@@ -1,3 +1,4 @@
+- QoS 服务质量
 - quack n.江湖郎中、(鸭子的)呱呱叫、嘎嘎叫
 - quadratic [kwɒˈdrætɪk] a.平方的、二次方的
 - quadruple [kwɒˈdruːpl] a.四倍的、四重的、四方的、v.变为四倍、n.四倍   

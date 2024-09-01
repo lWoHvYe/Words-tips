@@ -53,6 +53,7 @@
 - nod n/v.点头、打瞌睡
 - nomadic 游牧的、流浪的、漂泊的
 - nominate v.提名、推荐、任命、指派、指定
+- nonce a.临时造的、只使用一次的、随机数
 - nonetheless [ˌnʌnðəˈles] ad.尽管如此
 - nonsense n.胡说、废话、谬论、a.荒谬的、无意义的、int.荒唐、胡说、废话
 - nonverbal a.不用言辞表达的

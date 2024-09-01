@@ -157,7 +157,7 @@
 - inhabit v.居住于、栖息于
 - inhale v.吸入、吸气
 - inherent a.固有的、内在的、生来就有的
-- inherit v.继承、继任、经遗传获得
+- inherit [ɪnˈherɪt] v.继承、继任、经遗传获得
 - inheritance n.继承、遗传、遗产
 - initial [ɪˈnɪʃl] a.初始、最初的、开始的、n.首字母
 - initiate [ɪˈnɪʃieɪt/ɪˈnɪʃiət]  v.开始、发起、创始、传授、接纳(新成员)
@@ -233,7 +233,7 @@
 - interest [ˈɪntrəst] n.兴趣、爱好、利息、利益、好处、v.使感兴趣、使关注  place of interest 名胜古迹
 - interface n.接口、接合点、v.接合、连接  UI - user interface 用户界面
 - interfere v.干涉、干预、介入、妨碍
-- interference n.干扰、干涉、干预、介入
+- interference [ˌɪntəˈfɪərəns] n.干扰、干涉、干预、介入
 - intergradation :the act or process of intergrading or the state of being intergraded.
 - intergrade n.中间形式、过度阶段
 - interim [ˈɪntərɪm] a.临时的、过渡的、暂时的、n.间歇、过渡期间
@@ -303,6 +303,7 @@
 - involved a.卷入的、受牵连的、复杂难懂的、棘手的
 - IoT (Internet of Things) 物联网
 - IPO (Initial Public Offerings) 上市
+- ink [ɪŋk] n.墨水、墨汁
 - iron [ˈaɪən] n.铁、熨斗、v.熨、烫平  cast iron 铸铁
 - irony [ˈaɪrəni] n.讽刺、反语
 - irrational a.不合理的、不合逻辑的、n.无理数

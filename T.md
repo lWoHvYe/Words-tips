@@ -151,7 +151,7 @@
 - toddle v.蹒跚行走
 - toggle n.切换键、v.转换、切换
 - toil 辛苦工作、苦干、跋涉
-- token [ˈtəʊkən] n.象征、标志、代币、信物、代金券、a.象征性的  as a token of 作为...的标志  by the same token 同样地
+- token [ˈtəʊkən] n.象征、标志、代币、信物、代金券、GPT中基本处理单元/文本的最小处理单位、a.象征性的  as a token of 作为...的标志  by the same token 同样地
 - tolerance n.容忍、宽容、公差
 - tolerant a.容忍的、宽容的、能耐...的
 - tolerate v.容许、允许、容忍
@@ -232,7 +232,7 @@
 - tribute n.礼物、贡品、颂词、体现、显现
 - trick n.恶作剧、戏法、计谋、诀窍、骗局、把戏、v.欺骗、欺诈
 - tricky a.难办的、狡猾的、诡计多端的
-- Trie n.单词查找树
+- Trie [traɪ] n.单词查找树、前缀树
 - trigger v.触发、引起、发动、n.触发器、扳机、起因、诱因
 - trillion n.万亿、兆
 - trinal a.三元的、三重的

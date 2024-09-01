@@ -51,6 +51,7 @@
 - lecture n/v.演讲、讲课、训诫、告诫
 - ledger n.账簿、账本
 - left 左边
+- leftover a.剩余的、吃剩的、未用完的、n.剩余物、遗留下来的风俗习惯
 - legacy 遗产、遗赠、遗留、后遗症、（特定语境）传统/旧 legacy system 原系统、旧系统
 - legal a.法律的、合法的、法定的、n.法定权利
 - legend n.传奇、传说、图例、说明、铭文

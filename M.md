@@ -281,6 +281,7 @@
 - multicast 多播、多点传送
 - multilateral a.多方面的、多国的、多边的
 - multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的
+- multiplex v.多路复用、多元的、多倍的、复式的
 - multiply v.乘、相乘、ad.复合地、多样地、a.多股的、多层的
 - multiplication [ˌmʌltɪplɪˈkeɪʃn] n.乘法、相乘
 - multiplicity [ˌmʌltɪˈplɪsəti] n.多样性
@@ -293,7 +294,7 @@
 - museum [mjuˈziːəm] n.博物馆
 - mute a.沉默的、无声的、静音的、v.消音
 - mutex (mutual exclusion) 互斥、互斥对象、互斥锁  P操作(acquire)、V操作(release)
-- mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的  mutual trust 相互信任
+- mutual [ˈmjuːtʃuəl] a.相互的、彼此的、共同的、共有的  mutual trust 相互信任  mutual exclusion 互斥
 - MVP - most valuable player 最优秀的选手 /  Minimum Viable Product (meaning in project management) 
 - mysterious [mɪˈstɪəriəs] a.神秘的、诡秘的、难以理解的、不可思议的
 - mystery [ˈmɪstri] n.神秘、奥秘、秘密

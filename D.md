@@ -1,4 +1,4 @@
-- daemon 守护进程
+- daemon [ˈdiːmən] 守护进程
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - daisy [ˈdeɪzi] n.菊花、雏菊
 - damage n/v.破坏、损害
@@ -9,6 +9,7 @@
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
 - datum [ˈdeɪtəm] n.数据、资料  pl.data
 - dawn [dɔːn] n.黎明、拂晓、开端、v.破晓、开始出现
+- day 白天、一天  Let's call it a day 今天到此为止吧，今天就到这里吧
 - dazzle [ˈdæzl] v.耀眼、赞叹、使目眩、使眼花缭乱、n.耀眼的光、令人眼花缭乱的东西
 - dead a.死亡的、无活力的
 - deadline n.截止时间、最后期限
@@ -187,7 +188,7 @@
 - digital a.数字的、数码的、手指的、指状的、n.数字、数位、手指、琴键  digital signal 数字信号
 - digitize 数字化
 - dignity n.庄严、端庄、尊严、高贵
-- dilemma n.窘境、困境
+- dilemma n.窘境、困境  prisoner's dilemma 囚徒困境
 - diligent [ˈdɪlɪdʒənt] a.勤奋的、勤勉的、孜孜不倦的、刻苦的   due diligence 尽职调查
 - dilute [daɪˈluːt] v.稀释、冲淡、a.稀释的、冲淡的
 - dilution n.稀释
@@ -221,7 +222,7 @@
 - discourage v.劝阻、阻挠、使气馁、使沮丧
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
-- discrepancy n.矛盾、差异、不符合、不一致
+- discrepancy [dɪsˈkrepənsi] n.矛盾、差异、不符合、不一致
 - discrete a.离散的、分离的
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discretionary a.任意的、自由决定的

@@ -223,6 +223,7 @@
 - coach [kəʊtʃ] n.教练、v.训练、辅导
 - coal [kəʊl] n.煤
 - coalition [ˌkəʊəˈlɪʃn] n.联合政府、联盟、同盟
+- coalesce [ˌkəʊəˈles] v.合并、结合、联合
 - coarse [kɔːs] a.粗的、粗糙的、大颗粒的
 - coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力

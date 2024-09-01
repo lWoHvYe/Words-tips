@@ -86,6 +86,7 @@
 - origin n.起源、由来、出身、来历、原点
 - original a.原始的、最初的、独创的、新颖的、n.原件、原文、不同寻常的人、怪人
 - originate [əˈrɪdʒɪneɪt] v.起源、发源、创立、创建、发明
+- Orion [əˈraɪən] abbr.猎户座
 - ornament n/v.装饰、点缀
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 

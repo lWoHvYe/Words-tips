@@ -301,6 +301,8 @@
 - architect n.建筑师
 - architecture n.体系结构、建筑学、建筑设计、结构、构架  System Architecture Designer 系统架构设计师
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室  JAR - Java archive
+- arguable [ˈɑːɡjuəbl] a.可论证的、有论据的
+- arguably ad.可论证地、按理
 - argue v.争论、争辩、论证、表明、主张、认为
 - argument n.论点、论据、争论、辩论、争吵、主题、情节、(函数或方法的)参数 args
 - arise [əˈraɪz] v.出现、发生、形成、由...引起、由...产生

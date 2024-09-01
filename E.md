@@ -140,10 +140,10 @@
 - envy [ˈenvi] n/v.羡慕、嫉妒
 - EOD - End of Day 当天结束时
 - EOF - End of Life 
-- ephemeral a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
+- ephemeral [ɪˈfemərəl] a.短暂的、瞬息的、朝生暮死的、n.生命短暂的事物
 - epic [ˈepɪk] n.史诗、叙事诗、史诗般的作品、a.史诗般的、宏大的、壮丽的
 - epidemic n.流行病、泛滥、蔓延、a.流行性的、极为盛行的  epidemic flu 流感
-- epilogue n.后记、尾声
+- epilogue [ˈepɪlɒɡ] n.后记、尾声
 - episode [ˈepɪsəʊd] n.插曲、片段、一集、单集
 - epoch [ˈiːpɒk/ˈepək] n.纪元、时代、时期、(地质)世、纪、期
 - epochal a.划时代的
@@ -255,6 +255,7 @@
 - expand [ɪkˈspænd] v.扩大、扩张、扩展、详述、详细阐明
 - expect v.预料、预期、预计、等待、期待、盼望
 - expectation n.预料、预期、期待、期望值
+- expedite [ˈekspədaɪt] v.加快、加速
 - expedition [ˌekspəˈdɪʃn] n.探险、远征、考察
 - expel v.驱逐、开除、排出
 - expend [ɪkˈspend] v.花费、支出、耗尽、用光

@@ -1,5 +1,6 @@
 - gain v.获得、赢得、增添、增加、走的太快、(经过努力)到达、n.利益、利润、好处
 - galaxy [ˈɡæləksi] n.星系、银河、银河系、群英
+- gale [ɡeɪl] n.大风
 - gallery 画廊、走廊、长廊
 - gallon n.加仑(容量单位)
 - gamble [ˈɡæmbl] n/v.赌博

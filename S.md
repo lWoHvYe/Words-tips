@@ -63,7 +63,7 @@
 - scraper n.刮刀
 - scratch n.划痕、划伤、挠痒、v.划破、擦破、擦伤、a.无让步的
 - screen [skriːn] n.屏幕、v.掩藏、庇护、检查
-- screw n.螺丝、螺丝钉  screw up - make a mistake
+- screw n.螺丝、螺丝钉  screw up - make a mistake 把...搞砸
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
@@ -93,7 +93,7 @@
 - seep v.渗透
 - seethe [siːð] v.沸腾、发怒、强压怒火
 - segment n.部分、片、段、v.分割、划分
-- segregate [ˈseɡrɪɡeɪt] v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物  cost segregation 成本分离/隔离
+- segregate [ˈseɡrɪɡeɪt] v.隔离、分离、a.隔离的、分离的、n.被隔离的人或物 这个单词做分离的含义较多 cost segregation 成本分离/隔离
 - seize v.抓住、夺取、抢占、逮捕、没收
 - seldom ad.难得、很少
 - select [sɪˈlekt] v.选择、选中、挑选、a.精选的、优等的 natural selection 自然选择
@@ -143,6 +143,7 @@
 - several 几个的、专有的、各自的、一些、几个、数个
 - severe [sɪˈvɪə(r)] a.严峻的、严厉的、苛刻的、严重的、剧烈的
 - severity [sɪ'verəti] n.严重、严厉、苛刻
+- sexy a.性感的、富有魅力的
 - shadow n.阴影、影子、v.跟踪、尾随
 - shake v.动摇、摇动、握手、n.摇动、颤抖、奶昔
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
@@ -360,6 +361,7 @@
 - spite n.恶意、怨恨、v.欺负、刁难  in spite of 虽然、尽管
 - split n/v.分裂、划分、裂口
 - spoil v.破坏、变质、掠夺、腐败、溺爱、娇惯、善待、n.赃物、战利品
+- spoiler [ˈspɔɪlə(r)] n.剧透、阻流板、选举中的搅局者
 - sponser n.资助者、赞助商
 - sponsor n.赞助商、发起者、主办者、担保者、倡议者、v.主办、赞助
 - spontaneous [spɒnˈteɪniəs] a.自发的、自然的、非策划安排的
@@ -402,6 +404,7 @@
 - stalemate n.僵局
 - stalk [stɔːk] n.茎、梗、柄、v.(非法)跟踪、悄悄接近、趾高气昂的走
 - stall [stɔːl] n.货摊、摊位、v.熄火、停止转动
+- stamp n.邮票、v.冲压、标记
 - stance n.态度、立场
 - stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
 - standalone 独立的、单独的、脱机

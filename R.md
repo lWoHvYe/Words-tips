@@ -197,9 +197,10 @@
 - repo 回购  Repo Market 回购市场
 - repository [rɪˈpɒzətri/rɪˈpɑːzətɔːri] n.仓库
 - represent v.代表、表示、表述、陈述、展现
-- representation n.表示、表现、描述、代表、陈述
+- representation n.表示、表现、描述、代表、陈述  REST - Representational State Transfer
 - representative n.代表、代理人、议员、a.典型的、有代表性的
 - republican [rɪˈpʌblɪkən] a.共和国的、共和党的
+- repudiation n.否认、拒绝、批判、抵赖
 - repute [rɪˈpjuːt] n.名誉、名声、v.把...称为、认为
 - reputation [ˌrepjuˈteɪʃn] n.名誉、名声
 - request n/v.请求、要求
@@ -332,7 +333,7 @@
 - rug n.小地毯、垫子
 - ruin n/v.破坏、毁灭、(使)堕落、糟蹋、破产、n.废墟、遗迹
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
-- run v.跑、运营、起作用、n.跑、行程
+- run [rʌn] v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
 - runny a.流鼻涕的、软的、太稀的、水分过多的
 - rupture n/v.破裂、断裂
