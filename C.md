@@ -228,6 +228,7 @@
 - coarse-grained a.粗粒的、大粒度的
 - coast [kəʊst] n.海岸、海滨、v.滑行、滑坡、不出力
 - coastal a.沿海的、海岸的
+- coat n.外套、大衣、v.给...涂上一层
 - coax [kəʊks] v.哄劝、劝诱
 - coaxial [ˈkəʊˈæksɪəl] a.同轴的、共轴的、n.同轴电缆
 - cock n.公鸡
@@ -455,7 +456,7 @@
 - contra n.相反、对立面、抵消、prep.反对、与...相反、ad.反对、相反
 - contract n.合同、契约、v.签合同、缩小、感染
 - contraction n.收缩、缩写、痉挛
-- contractor n.承包人、承包商
+- contractor n.承包人、承包商、外包人员
 - contradict v.反驳、驳斥、否认
 - contradiction n.矛盾、不一致、对立
 - contrary [ˈkɒntrəri/kənˈtreəri] a.相反的、相对立的、截然不同的、反对的、违反的、n.反面、对立面、相反的事物/情况 on the contrary 反之、恰恰相反
@@ -591,7 +592,7 @@
 - cryptography [krɪpˈtɒɡrəfi] 密码学、密码术
 - crystal [ˈkrɪstl] n.晶体、结晶、水晶、a.清楚的、显而易见的、晶莹的  Liquid Crystal Displays - LCD 液晶显示器
 - crystallize [ˈkrɪstəlaɪz] v.结晶、使明确
-- cube n.立方体、立方、三次幂
+- cube n.立方体、立方、三次幂、下钻
 - cucumber [ˈkjuːkʌmbə(r)] n.黄瓜
 - cue n/v.暗示、提示
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮

@@ -11,6 +11,7 @@
 - ecommerce n.电子商务
 - economic 经济的、经济学的、合算的
 - ecosystem 生态系统
+- ECS - Elastic Compute Service 云服务器
 - edge [edʒ] n.边、边缘、边界、锋利、v.给...加边、略微增加/减少、渐渐移动  cutting-edge 前沿的、先进的  edge case 边界情况
 - edit [ˈedɪt] v.编辑、校订
 - edition [ɪˈdɪʃn] n.版本、版次、（报刊或杂志）一份、（广播电视节目）一期  paperback edition 平装版  hardback edition 精装版
@@ -23,6 +24,7 @@
 - ego n.自我、自负
 - egregious [ɪˈɡriːdʒiəs] a.极糟的、极坏的
 - egress n.出口、运出、外出
+- either pron.任一的  either or
 - eject v.驱逐、剥夺、喷射、弹射
 - elaborate [ɪˈlæbərət/ɪˈlæbəreɪt] a.复杂的、详尽的、精心制作的、v.详尽阐述、精心制作
 - elaboration n.详细阐述、精心制作、精致
@@ -175,7 +177,7 @@
 - espresso n.浓缩咖啡
 - essay [ˈeseɪ/eˈseɪ] n.散文、随笔、短文、v.企图、尝试
 - essence n.本质、实质、精髓、香精、精华
-- essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、n.必需品、要点、要素、实质
+- essential [ɪˈsenʃl] a.必要的、本质的、基本的、精华的、必不可少的、在设计中也可做 抽象的（Essential User Case抽象用例）、n.必需品、要点、要素、实质
 - establish v.建立、设立、开办、确立
 - established a.已制定的、已确立的、著名的、公认的
 - establishment n.建立、确立、企业、机构、当权派

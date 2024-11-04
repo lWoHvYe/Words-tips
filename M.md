@@ -45,7 +45,7 @@
 - manual a.手动的、手工的、用手操作的、n.手册、指南
 - manufacture v.加工、制造、生成、捏造、虚构、n.批量生产、工业品
 - manuscript n.手稿、底稿、原稿、手抄本、a.手写的、手抄的
-- map n.地图、v.绘制
+- map n.地图、v.绘制、使变换、映射
 - marble n.大理石、理智、常识、v.使...显得斑驳、使...染上大理石花纹、a.大理石的、无情的、纯白的
 - march [mɑːtʃ] n/v.前进、行军、n.March 三月
 - marine [məˈriːn] a.海洋的、海生的、海运的、n.水兵
@@ -115,6 +115,7 @@
 - memorize v.记住、熟记、记忆、存储
 - memory n.记忆、回忆、存储器、内存
 - mend v.修理、修补、弥补、解决、痊愈
+- mendicant n.乞丐、托钵僧
 - mental a.思想的、内心的、心理的、智慧的、n.精神病  mental labor 脑力劳动
 - mentality n.心态、思想
 - mention n/v.提到、提及、说起

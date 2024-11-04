@@ -43,6 +43,7 @@
 - verbiage 用语、措辞、废话、冗余、晦涩
 - verbose a.冗长的、啰嗦的、唠叨的
 - verdict n.裁定、判决
+- verge n.边缘、范围、起始点
 - verify v.证明、证实、核实、查证
 - versa 反之亦然  vice versa ad.反之亦然
 - verse n.诗、韵文

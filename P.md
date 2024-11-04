@@ -45,7 +45,7 @@
 - partition 隔断、分隔、瓜分、使分裂、分区
 - party n.聚会、政党、v.举行聚会
 - partnership 伙伴关系、合作关系、合伙人身份、合伙企业
-- pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传  pass around 传递、传送
+- pass v.经过、传递、超过、通过、及格、n.通行证、护照、隘口、及格、通过  pass down 流传  pass around 传递、传送  pass out 昏倒、昏过去
 - passage n.通过、走廊、管路、通道、段落、乐段、乐章、流逝、旅程、行程
 - passion [ˈpæʃn] n.激情、热恋、酷爱、激怒、大怒、v.表露强烈感情
 - passionate a.热情的、热诚的、狂热的、易怒的
@@ -78,7 +78,7 @@
 - pedal [ˈpedl] n.踏板、v.骑自行车
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
-- peer n.同辈人、同行、v.仔细看、仔细检查、端详  peer review 同级评审
+- peer n.同辈人、同行、v.仔细看、仔细检查、端详  peer review 同级评审  Peer to Peer - P2P
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
@@ -211,7 +211,7 @@
 - poison [ˈpɔɪzn] n.毒物、毒药、毒物、v.下毒、毒害、危害
 - poisonous a.有毒的、恶毒的
 - point n.观点、论点、目的、点、得分、v.指向、指路  point out 指出、指明
-- pojo POJO stands for "Plain Old Java Object." It is a term used in Java development to describe a simple, plain Java object, which is not burdened with complex frameworks or dependencies. The concept of POJO is often associated with the principles of simplicity and reusability in Java programming. consider it as entity/class
+- pojo POJO stands for "Plain Old/Ordinary Java Object." It is a term used in Java development to describe a simple, plain Java object, which is not burdened with complex frameworks or dependencies. The concept of POJO is often associated with the principles of simplicity and reusability in Java programming. consider it as entity/class
 - polar a.极地的、磁极的、两极的、截然相反的、截然对立的
 - polaris n.北极星
 - polarize/polarise [ˈpəʊləraɪz] v.极化、两极化、截然对立、使两极分化、使(光波等)偏振
@@ -455,7 +455,7 @@
 - pulse 脉搏、脉率、脉冲、搏动、跳动、震动、强劲的音乐节拍、豆子
 - punch [pʌntʃ] v.打孔、穿孔、冲孔、按(键)、压(按钮)、n.冲床、打孔机  beat sb to the punch 抢在某人前面
 - punctual [ˈpʌŋktʃuəl] a.准时的、守时的
-- punctuate v.给...加标点符号
+- punctuate v.给...加标点符号、不时打断 punctuated 间断的
 - punish v.处罚、惩罚、责怪、自责
 - punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购

@@ -28,7 +28,9 @@
 - satisfy v.使满意、满足、使确信、符合、达到、消除、履行
 - saturate v.浸湿、浸透、渗透、使充满、使饱和、a.(颜色)深的、浓的、饱和的、浸透的、n.饱和化合物、饱和脂肪酸
 - sauce n.酱汁、调味汁、无礼的话或举动
+- savant n.博学之士、专家、学者
 - save v.保存、保留、节省、免去、储蓄、解救、拯救、prep.除了、除...外
+- saver n.救助者、节约装置
 - scalable a.可扩展的
 - scalability n.可扩展性、可伸缩性、可量测性
 - scalar [ˈskeɪlə(r)] n.数量、标量、a.纯量的、标量的、无向量的、阶梯状的、分等级的
@@ -127,7 +129,7 @@
 - series n.一系列、一连串、连续、接连、串联、级数、系列节目
 - serious a.严肃的、认真的、重要的、严重的、危险的
 - sermon n.布道、讲道
-- servant n.仆人、佣人、雇员、职员
+- servant n.仆人、佣人、雇员、职员、伺服对象
 - serve 提供、服务、端上、招待、履行义务、尽职责、任期为、发球
 - service n.服务、服役、服务业、公共设施、维修、检修、v.维修、支付利息、a.服务性的
 - Serviceablity 可维护性
@@ -184,7 +186,7 @@
 - shower n.淋浴、阵雨、小雨
 - shrink [ʃrɪŋk] v.起皱、收缩、缩小、减少
 - shrug [ʃrʌɡ] n/v.耸肩(表示冷淡、怀疑、无奈、不满、不知道、不在乎)  shrug off 不把...当回事、对...满不在乎、对...不予理睬
-- shuffle n/v.洗牌
+- shuffle [ˈʃʌfl] n/v.洗牌
 - shut n/v.关闭、停业、关门  shut down 关闭、停业  shut out 把...排除在外、克制某种感情 shut up 闭嘴、住口
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
@@ -217,7 +219,7 @@
 - singular a.单数的、奇特的、非凡的、突出的、显著的、异常的
 - singularity n.奇点
 - sinister [ˈsɪnɪstə(r)] a.邪恶的、不详的、有凶兆的
-- sink [sɪŋk] 淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、洗涤池、洗碗槽、贫民窟的
+- sink [sɪŋk] v.淹没、下沉、下陷、使下沉、使下垂、使落败、埋入、砸入地面、在Flink中可表示输出、n.洗涤池、洗碗槽、a.贫民窟的
 - sip v.小口喝、抿、n.一小口的量
 - SIT System Integrate Test
 - site n.地点、位置、网站、站点、v.使坐落在...
@@ -332,7 +334,7 @@
 - speak v.交谈、说(某种语言)、说话、演说
 - speaker n.说话者、扬声器
 - special a.特殊的、特别的、专用的、n.特价商品
-- specialize/specialise v.专攻、专门从事、详细说明、列举  specialize in... 专门从事...
+- specialize/specialise v.专攻、专门从事、详细说明、列举  specialize in... 专门从事...  specialized course 专业课
 - specialist [ˈspeʃəlɪst] n.专家、a.专业的、专家的
 - speciality [ˌspeʃiˈæləti] n.专业、专长、特产
 - species n.物种、种类
@@ -408,7 +410,7 @@
 - stance n.态度、立场
 - stand v.站立、直立、位于、容忍、经受、n.立场、态度、保卫、捍卫、当候选人、观众台、妨碍、阻碍  stand down 下台  stand to do sth 可能做某事
 - standalone 独立的、单独的、脱机
-- standby n.备用品、可信赖的人、a.常备的、备用的
+- standby n.备用品、可信赖的人、备份、a.常备的、备用的
 - standing a.永久性的、长期存在的
 - staple n.主食、主要产品、订书钉、v.装订、a.主要的、基本的、重要的
 - star n.明星、星号、v.主演、标星号
@@ -417,6 +419,7 @@
 - start-up n.新兴公司、刚成立的公司、a.(新企业或工程)开办阶段的、启动时期的
 - starvation n.饥饿、挨饿、饿死、绝食
 - starve v.饿死、挨饿  starve to death 饿死
+- stash v.隐藏、储藏、存放
 - state n.状态、状况、国家、州、v.陈述、说明、a.国家的、国务的
 - statement n.声明、陈述、报告、报表、结算单、清单
 - static a.静止的、静态的、n.静电

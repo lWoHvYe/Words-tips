@@ -115,6 +115,7 @@
 - advisory a.顾问的、咨询的
 - advocate v.提倡、鼓吹、拥护、支持、n.拥护者、支持者、辩护律师、出庭辩护人
 - aerial a.航空的、空中的、地表以上的、n.天线  aerial photograph 航拍
+- aerobic [eəˈrəʊbɪk] a.有氧的、有氧健身的
 - aeronautic [ˌeərəˈnɔːtɪk] a.航空的、导航的
 - aesthetic/esthetic [esˈθetɪk] n.美学、美感、审美观、a.美学的、艺术的、审美的
 - affair n.事务、事件、事情、私人业务、私事、不寻常之物
@@ -147,6 +148,7 @@
 - aggressive a.进攻性的、有进取心的
 - aggressor n.侵略者
 - agnostic [æɡˈnɒstɪk] 不可知论者、不可知论的
+- agony n.极大的痛苦、临死的挣扎
 - agree [əˈɡriː] v.同意、赞成、应允、答应
 - agreement [əˈɡriːmənt] n.同意、协定、协议
 - agriculture [ˈæɡrɪkʌltʃər] n.农业
@@ -221,6 +223,7 @@
 - amplitude n.振幅
 - amuse [əˈmjuːz] v.娱乐、消遣、逗笑
 - amusing a.有趣的、好笑的
+- anaeriobec [ˌænəˈrəʊbɪk] a.厌氧的、无氧的
 - analog [ˈænəˌlɔg] n.模拟、类似物、a.(钟表)有长短针的、模拟的  analog signal 模拟信号
 - analogous [əˈnæləɡəs] a.相似的、类似的
 - analogy [əˈnælədʒi] n.类比、比喻
@@ -298,6 +301,7 @@
 - arbitrary [ˈɑːbɪtrəri] a.随意的、任意的、武断的
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
+- archetype n.原型
 - architect n.建筑师
 - architecture n.体系结构、建筑学、建筑设计、结构、构架  System Architecture Designer 系统架构设计师
 - archive [ˈɑːkaɪv] v.存档、n.档案文件、档案室  JAR - Java archive
@@ -313,6 +317,7 @@
 - arm n.手臂、袖子、武器、装备、v.武装、给...装上引信、打开...的保险
 - armo(u)r n.装甲、v.为...提供防御
 - army n.军队、陆军、野战军
+- aroma [əˈrəʊmə] n.香味、芳香
 - arouse [əˈraʊz] v.引起、唤起、激起、激发、唤醒
 - arrange v.安排、筹备、整理、排列、布置、谱写、改编
 - array n.数组、阵列、大批、大量、v.布置、排列  an array of 一大批
@@ -362,6 +367,7 @@
 - asterisk [ˈæstərɪsk] n.星号 *
 - asteroid [ˈæstərɔɪd] n.小行星
 - astonish [əˈstɒnɪʃ] v.使惊讶、震惊
+- astral a.星际的、星的
 - astray [əˈstreɪ] a.迷路的、堕落的、误入歧途的、ad.迷路
 - astrology [əˈstrɒlədʒi] n.占星术、占星学
 - astronaut [ˈæstrənɔːt] n.宇航员、航天员

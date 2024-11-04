@@ -7,6 +7,7 @@
 - lag v.缓慢移动、滞后、落后、n.滞后、(时间上的)间隔、a.慢的、滞后的  jet lag 时差反应
 - lake n.湖、湖泊
 - lame a.蹩脚的、站不住脚的、无说服力的  lame argument 强词夺理
+- lament [ləˈment] n.哀叹、挽歌、悲鸣、v.痛惜
 - lamp n.灯、发热灯、照射灯
 - LAN - local area network 局域网
 - land n.土地、陆地、v.降落、着陆、成功获得、赢得、谋得(难得的工作/合同等)；landing page 登录页面
@@ -93,7 +94,7 @@
 - lime n.石灰、酸橙、v.加石灰、撒石灰
 - linchpin n.关键(人物或事物)
 - line n.线、路线、排列、纵列
-- lineage [ˈlɪniɪdʒ] n.世系、家系、血统
+- lineage [ˈlɪniɪdʒ] n.世系、家系、血统、血缘关系
 - linear 线性的   nonlinear 非线性的
 - lineup n.阵容、列队辨认
 - linger v.逗留、徘徊、继续存留、拖延、留恋、苟延残喘  linger on 徘徊

@@ -1,4 +1,5 @@
 - kebab n.烤肉串
+- keep v.保持、保留、保守  someone kept this from me 有人瞒着我
 - kernal n.内核、核心
 - keyboard n.键盘、琴键、v.用键盘输入  keyboard commands 键盘命令
 - keystroke [ˈkiːstrəʊk] n.按键、击键

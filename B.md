@@ -29,6 +29,7 @@
 - bar [bɑː(r)] n.酒吧、吧台、条、棒、金属棒、障碍、律师职业、v.禁止、阻止、闩上  bar exam 司法考试
 - bare a.裸露的、赤裸的、光秃秃的、荒芜的、仅够的、最基本的、v.脱掉
 - bargain n.减价品、便宜货、议价、交易、v.讨价还价、商讨条件、谈判  bargain bin 折扣商品、折扣商品区
+- barn n.谷仓、车库
 - barrier n.屏障、障碍、栅栏
 - barter v.以物易物、n.实物交易、交易品、互换品
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
@@ -95,6 +96,7 @@
 - bi-temporal n.双时态、保持数据的多个version
 - bit [bɪt] n.比特
 - bite v.叮、咬
+- bitter a.苦的、味苦的、n.苦啤酒
 - bitwise n.位运算
 - bizarre [bɪˈzɑːr] a.奇怪的、离奇的、极其怪诞的
 - blade n.叶片
@@ -141,6 +143,8 @@
 - bore v.令人厌烦、钻孔、盯着看、n.令人厌烦的人或事、孔、内径、口径
 - born v.出生、形成、a.天生的
 - borrow v.借入、借贷
+- boss n.老板、领导、上司、首领
+- BOSS - Business Operation Support System
 - bother v.打扰、困扰
 - bottle n.瓶子、瓶装、v.用瓶子装
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
@@ -167,6 +171,7 @@
 - breakfast n.早餐、v.吃早餐
 - breast [brest] n.乳房、乳腺、胸脯、胸部、v.升高、攀登、登上...的顶部
 - breathe 呼吸、活着、生存
+- breeze n.微风、和风
 - bribe [braɪb] n/v.贿赂、行贿
 - bribery n.行贿、[法]贿赂
 - brick n.砖、砖块

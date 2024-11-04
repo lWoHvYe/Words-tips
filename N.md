@@ -26,6 +26,7 @@
 - negotiable [nɪˈɡəʊʃiəbl] a.可转让的、可流通的、可兑现的
 - negotiate [nɪˈɡəʊʃieɪt] v.谈判、协商、交涉、谈判达成、成功越过
 - neighborhood n.邻里、街区、城区
+- neither pron.两者都不  neither nor 既不 也不
 - nephew [ˈnefjuː] n.侄子、外甥
 - nerve n.神经、勇气、胆量
 - nervous [ˈnɜːvəs] a.紧张的、焦虑的、神经质的、神经的、神经系统的

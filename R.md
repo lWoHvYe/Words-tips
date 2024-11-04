@@ -91,7 +91,7 @@
 - recycle v.回收利用、重复利用
 - redeem v.兑换、偿还、赎回
 - redirect [ˌriːdəˈrekt/ˈriːdərekt] v.使改变方向、重定向
-- reduce v.减少、缩小、节食
+- reduce v.减少、缩小、节食、聚合
 - reduction n.减少、降低、约简、减价、折扣、缩图、缩版
 - reductor n.复位器、还原剂
 - redundant a.冗余的、多余的、被裁减的、被解雇的
@@ -207,6 +207,7 @@
 - require vt.需要、要求、vi.要求、规定 require sb to do sth 要求某人做某事
 - requisite [ˈrekwɪzɪt] n.必需品、要素、a.必需的、必备的、必不可少的
 - rescue v/n 营救、救援、抢救
+- reseller n.经销商、分销商
 - resemble [rɪˈzembl] v.像、与...相像、类似于
 - resent v.怨恨、愤恨、厌恶、愤愤不平
 - reservation n.预定、预约
@@ -305,6 +306,7 @@
 - role n.角色、作用、地位、职能
 - roll n.卷、卷轴、一卷、v.滚动、卷起、把...轧(ya)平  roll into one 合二为一
 - rollout 首次发行、公开展示  rollout time 推出时间
+- rollup 汇总、上卷
 - roman a.罗马的、n.罗马人、罗马字体
 - romantic a.浪漫的、多情的、风流的、空想的、虚构的
 - Rome [rəʊm] n.罗马

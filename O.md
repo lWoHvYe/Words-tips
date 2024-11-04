@@ -74,6 +74,7 @@
 - oral [ˈɔːrəl] a.口头的、用口的、口腔的、n.口试  oral English 英语口语
 - orchestra n.管弦乐队  orchestral music 管弦乐
 - orchestrate [ˈɔːkɪstreɪt] v.策划、编排、精心安排、把..编成管弦乐
+- ordain v.规定、任命、授予、主宰
 - order n.顺序、次序、订单、命令、法令、v.命令、订购、点(餐)、组织
 - ordinary a.普通的、平常的、n.普通事、法官
 - ordinate n.纵坐标

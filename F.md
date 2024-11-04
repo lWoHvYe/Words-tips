@@ -68,6 +68,7 @@
 - fee n.费用、报酬、v.付报酬、雇佣、聘请
 - feeble a.虚弱的、脆弱的、无效的、无力的
 - feed v.饲养、喂养、满足、向...提供、n.饲料、肥料  feed oneself 养活自己
+- feign v.假装、佯装
 - fellow [ˈfeləʊ] n.家伙、同伴、同事、a.同事的、同伴的、同类的  fellow members 同一组织的成员
 - female [ˈfiːmeɪl] a.女性的、雌性的、n.女人、雌性动/植物
 - fence n.栅栏、屏障、v.围住、隔开、搪塞、回避、击剑

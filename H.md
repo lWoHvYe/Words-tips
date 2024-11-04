@@ -45,7 +45,7 @@
 - heal [hiːl] v.治愈、康复
 - health n.健康、医疗、卫生、兴旺
 - healthcare n.医疗、医疗保健
-- hear [hɪə(r)] v.听见、听到、倾听、(法庭)审理、听取(证词)
+- hear [hɪə(r)] v.听见、听到、倾听、(法庭)审理、听取(证词)  hear me out 听我说完
 - heart [hɑːrt] n.心、心脏、核心、中心、v.鼓励、激励
 - hearted v.振奋、鼓励、激励
 - heat [hiːt] n.热、高温、激烈、v.加热
@@ -113,6 +113,7 @@
 - housing n.住房
 - hub n.轮轴、中心、电线插孔、集线器
 - Hub 集线器
+- huddle n.拥挤、杂乱一团、小型私人会议、v.挤在一起、蜷缩
 - hum 哼唱、忙碌、活跃、(拉丁文)泥土、湿
 - humanity n.人类、人性
 - humble a.谦卑的、卑微的、v.谦逊、低声下气、使卑微  in my humble opinion 依我拙见

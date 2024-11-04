@@ -1,4 +1,5 @@
 - daemon [ˈdiːmən] 守护进程
+- DAG 有向无环图
 - dairy n.牛奶场、乳品场、a.乳品的、牛奶的、奶制的
 - daisy [ˈdeɪzi] n.菊花、雏菊
 - damage n/v.破坏、损害
@@ -33,6 +34,7 @@
 - decline n.下降、衰落、倾斜、v.下降、减少、谢绝、婉拒、下垂、衰落、衰退
 - decode v.解码、破译、译解
 - decommission v.拆解、使退役
+- decor [ˈdeɪkɔː(r)] n.装饰布局、装饰风格
 - decorate [ˈdekəreɪt] v.装饰、点缀、粉刷、授予(某人)勋章、布置
 - decouple v.分离、隔断、解耦
 - decrease n/v.降低、减少、n.减少量
@@ -354,6 +356,7 @@
 - durability [ˌdjʊərəˈbɪlɪti] n.耐久性、持久性
 - duration [djuˈreɪʃn]/[djuˈreɪʃn] n.期间、持续、持续时间
 - dupe [djuːp] 诈骗、欺骗
+- duplex a.全双工的、双向通讯的、双联式的
 - duplicate [ˈdjuːplɪkeɪt , ˈdjuːplɪkət] v.复制、重复、a.复制的、副本的、n.复制品
 - dusk n.黄昏、傍晚、暮色
 - dust [dʌst] n.灰尘、粉尘、v.擦去、掸去  leave sb in the dust 把某人远远抛在后面

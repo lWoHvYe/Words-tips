@@ -130,6 +130,7 @@
 - tickle v.挠痒、愉快、逗乐、使高兴、使满足
 - tickler 棘手的问题
 - tide n.潮汐、潮流、趋势
+- tidy a.整洁的、整齐的、可观的、井然有序的、井井有条的
 - tie n.领带、纽带、关系、束缚、限制、v.系、捆绑、打结、连接
 - tier n.层、级、阶层、等级、v.层层排列、层叠
 - tight a.牢固的、紧的、紧张的、严格的、紧密的、紧身的、亲密的、n.紧身衣
@@ -168,6 +169,7 @@
 - topology n.拓扑结构、拓扑学
 - tornado [tɔːˈneɪdəʊ] n.龙卷风
 - torque [tɔːk] n.扭矩、转矩
+- torrent n.洪流、激流、湍流
 - tort n.侵权行为
 - torture [ˈtɔːtʃə(r)] n.酷刑、痛苦、拷打、v.使痛苦
 - total n.总数、合计、a.总的、总计的、彻底的、完全的、v.总数达、把...加起来  total amount 总额
@@ -256,7 +258,7 @@
 - tube [tjuːb] n.管、管子、电子管
 - tuck [tʌk] v.塞进、卷起、挤进
 - tuition [tjuˈɪʃn] n.学费、教学、讲授
-- tumble [ˈtʌmbl] v.摔倒、跌倒
+- tumble [ˈtʌmbl] v.摔倒、跌倒、翻滚、滚动
 - tumo(u)r n.肿瘤、肿块
 - tune [tjuːn] n.曲子、曲调、v.调音、调节 iTunes
 - tunnel n.隧道、通道
@@ -277,6 +279,7 @@
 - twitter [ˈtwɪtə(r)] v.(鸟)唧啾，吱喳，啁啾、n.(鸟的)唧啾声、兴奋、紧张、激动、推特(Twitter)
 - type n.种类、类型、字体、字形、v.打字
 - typewriter n.打字机
+- typhoon [taɪˈfuːn] n.台风
 - typical a.典型的、有代表性的
 - typify v.作为...的典型、成为...的特征
 - typo n.排版错误、文档小错误
