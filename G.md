@@ -11,7 +11,7 @@
 - gas n.气体
 - gastric [ˈɡæstrɪk] a.胃的、胃部的
 - gastro [ˈgæstroʊ] 胃的
-- gate n.门、大门、阀门、(逻辑中的与或非异或)门
+- gate n.门、大门、阀门、(逻辑中的与或非异或)门、栅极
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
 - gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
 - gay [ɡeɪ] n.同性恋者、a.同性恋的

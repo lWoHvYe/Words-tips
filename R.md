@@ -36,6 +36,7 @@
 - ray n.射线、光束  X-ray X射线、X光
 - reach v.到达、抵达、够到、(用电话)联系、增加到、提升到、n.影响范围
 - react v.反应、回应、起反应
+- reactance 电容的电抗，通常用Xc表示，单位是欧姆
 - reaction n.反应、反对、副作用、不良反应
 - reactor 反应器、反应堆、原子炉、核反应堆
 - readiness n.准备就绪、愿意、乐意
@@ -73,6 +74,7 @@
 - recognize/recognise v.认出、认识、承认、认可
 - reconcile v.调和、调停、使和好、使和解
 - recommend v.推荐、劝告、建议、托付、使显得吸引人、使受欢迎
+- recommendation 推荐  Intelligent Recommendation 智能推荐 
 - reconciliation n.调解、和解、协调、调停
 - record n.唱片、履历、档案、v.记录、声明、标明
 - recoup 补偿、收回、弥补
@@ -191,7 +193,7 @@
 - repel [rɪˈpel] v.击退、排斥、抗拒、使厌恶
 - repertoire [ˈrepətwɑː(r)/ˈrepərtwɑːr] n.全部节目、全部本领、(计算机的)指令表
 - repetition n.重复、反复、背诵、复制品、副本、重做的事、重说的话
-- replicate 复制、复写、重复、复制品、折转的
+- replicate v.复制、复写、重复、再现、n.复制品、ad.折转的
 - replenish [rɪˈplenɪʃ] v.补充、重新装满
 - reply n/v.回答、答复
 - repo 回购  Repo Market 回购市场
@@ -337,6 +339,7 @@
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决
 - run [rʌn] v.跑、运营、起作用、n.跑、行程
 - runaway a.逃跑的、逃走的、失控的、轻易的、物价飞涨的、n.逃跑者、逃避者
+- rune n.神秘的记号
 - runny a.流鼻涕的、软的、太稀的、水分过多的
 - rupture n/v.破裂、断裂
 - rural [ˈrʊərəl] a.乡下的、乡村的、农村的

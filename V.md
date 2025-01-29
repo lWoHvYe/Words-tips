@@ -57,6 +57,7 @@
 - veto [ˈviːtəʊ] n.否决权、v.否决
 - via [ˈvaɪə] prep.通过、经由、经过、凭借
 - viable a.切实可行的、可实施的、能独立生存的
+- vibrate [vaɪˈbreɪt] v.振动
 - vice [vaɪs] n.恶习、不道德行为、缺点、缺陷、瑕疵、a.副的、代理的、代替的、prep.代替、替代
 - vicious a.邪恶的、凶残的、恶意的
 - victim n.受害者、牺牲品、上当的人、祭品、牺牲
@@ -68,6 +69,7 @@
 - violation n.违反、违章、侵犯
 - violence n.暴力、暴行  domestic violence 家庭暴力  physical violence 身体暴力  school violence 校园暴力
 - violent a.暴力的、剧烈的、猛烈的、感情强烈的
+- violet n.紫罗兰、蓝紫色
 - viral [ˈvaɪrəl] a.病毒的、病毒性的  go viral 像病毒一样传播开来  go live 启动、启用
 - virgin [ˈvɜːdʒɪn] n.处女、新手、无经验的人、a.处女的、未经开发的、未经使用的、原始状态的
 - virtual [ˈvɜːtʃuəl] a.实际上的、事实上的、很接近的、(通过计算机)模拟的、(计算机)虚拟的  Virtual Reality 虚拟现实  virtual currency 虚拟货币

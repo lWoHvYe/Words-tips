@@ -250,6 +250,7 @@
 - animate v.使有生气、使具有活力、a.有生命的、有活力的、有生气的
 - animation n.动画、动画片
 - ankle n.脚踝、踝关节
+- annal [ˈænəl] n.年鉴、记录
 - anniversary n.周年纪念日
 - annotate v.注释
 - annotation n.注解、注释

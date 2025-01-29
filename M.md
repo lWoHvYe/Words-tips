@@ -164,6 +164,7 @@
 - mill [mɪl] n.磨坊、工厂、制造厂、v.碾碎
 - millennium [mɪˈleniəm] n.一千年、千年期
 - million n.百万
+- mime [maɪm] n.哑剧、默剧、v.假唱、表演哑剧
 - MIME - multipurpose Internet mail extension 多用Internet邮件扩展
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力  bring to mind (使)记起/回忆起  keep in mind 记住
 - mindedness n.思想、心思

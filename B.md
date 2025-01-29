@@ -120,7 +120,7 @@
 - blueprint n.蓝图
 - blunder n.愚蠢或粗心的错误、v.犯愚蠢或粗心的错误、踉踉跄跄的走  blunder into (因看不见)撞上某物、无意中陷入(困境)、偶然遇到(尴尬事)
 - blunt a.迟钝的、直言的、不锋利的、v.使减弱、使变钝
-- blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、玷污、变模糊
+- blur n.污迹、污斑、模糊不清的事物、v.涂污、弄脏、玷污、变模糊、失去焦点
 - blurry a.模糊的
 - board n.板、甲板、委员会、董事会、v.上船、让乘客登机 on board - to the company 新员工入职
 - boast [bəʊst] n/v.自夸、夸耀

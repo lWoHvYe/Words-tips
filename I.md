@@ -61,6 +61,7 @@
 - impend v.逼近、迫近
 - impending a.逼近的、即将发生的
 - imperative a.迫切的、急迫的、n.必要的事、祈使语气
+- imperfect a.不完美的、有缺点的、有缺陷的
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement v.实施、执行、使生效、实现、落地、n.工具、器具、器械
 - implicate v.暗示、牵涉、涉及、表明、n.包含的东西
@@ -81,6 +82,8 @@
 - improvise v.即兴创作、临时拼凑
 - impulse [ˈɪmpʌls] n.推动、驱使、心血来潮、冲动、脉冲
 - inappropriate a.不合适的、不恰当的、不合时宜的
+- inaugurate [ɪˈnɔːɡjəreɪt] v.开始、开创、举行就职典礼
+- inauguration n.就职典礼、开幕式
 - incarnate a.人体化的、拟人化的、v.将(概念等)具体化、使人格化
 - incarnation n.化身、典型体现
 - incentive n.激励、诱因、刺激、动机、a.激励的、鼓励的

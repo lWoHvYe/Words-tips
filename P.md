@@ -370,6 +370,7 @@
 - proceedings n.行动、事件、诉讼、公报、会议记录
 - process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
 - processor n.处理器、处理机
+- procure [prəˈkjʊə(r)] v.获得、取得、得到
 - PROD production 正式、生产 
 - prod n/v.戳、催促、鼓动、提醒
 - produce n/v.生产、制造

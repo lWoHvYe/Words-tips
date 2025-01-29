@@ -185,6 +185,8 @@
 - esteem n/v.尊重、敬重、v.把...看作、认为  self-esteem 自尊
 - estimate v.估计、估算、估价、n.估计、预测、报价  ETA - estimated time of arrival  ETD - estimated time of departure
 - et cetera [ˌet ˈsetərə] n.等等、以此类推
+- ether [ˈiːθə(r)] n.乙醚、以太
+- Ethereum 以太坊 ETH
 - Ethernet n.以太网
 - ethic [ˈeθɪk] n.伦理、伦理观、道德体系、道德规范、行为准则  work ethic 职业道德
 - ethical a.道德的、伦理的

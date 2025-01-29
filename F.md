@@ -24,6 +24,7 @@
 - fake v.伪造、冒充、假装、仿造、n.假货、赝品、a.假冒的、伪造的  fake news 虚假新闻
 - falcon [ˈfɔːlkən] n.猎鹰、隼
 - fall [fɔːl] v.跌倒、落下、减少、沦陷、降临、出生、n.秋天、落下、瀑布
+- fallacy [ˈfæləsi] n.谬误、谬论
 - fallback 应变计划、退路、倒退
 - fallow [ˈfæləʊ] a.休耕的、休闲的、休眠的
 - false a.错误的、不真实的、伪造的
@@ -95,7 +96,7 @@
 - filer n.文件管理器、文件装订员、文件编档员
 - fill v.填满、充满、担任
 - film n.电影、影片、胶片、v.拍电影、上镜头
-- filter n.过滤器、筛选程序、v.过滤、筛选、慢慢传开
+- filter n.过滤器、筛选程序、v.过滤、筛选、慢慢传开  filter out 滤除
 - finance n.金融、财政、v.从事金融活动、为...提供资金、融资
 - financial a.金融的、财务的  Financial report/statement 财报
 - fine a.好的、可接受的、纤细的、精致的、健康的、晴朗的、n.罚款、罚金、v.罚款
@@ -135,10 +136,11 @@
 - flexibility n.可变性、灵活性
 - flexible a.灵活的、柔韧的、有弹性的
 - flight n.航班、飞行、飞翔、v.使...在空中飞行、射击
-- flip 轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、无理的、轻率的、冒失的
+- flip n/v.轻弹、轻击、快速翻转、空翻、翻转、浏览、草草翻阅、a.无理的、轻率的、冒失的  Flip-Flop 触发器
 - float [fləʊt] v.浮动、n.浮点数
 - flock n.群、聚集、群集
 - flood [flʌd] 洪水、泛滥、充斥、充满、大量涌入、蜂拥而出
+- flop n/v.失败、落下
 - flourish v.茂盛、繁荣、活跃、挥舞
 - flow n/v.流、流动、持续生产、滔滔不绝、连贯、涨潮
 - flu n.流行性感冒、流感  epidemic flu 流感  flu vaccine 流感疫苗

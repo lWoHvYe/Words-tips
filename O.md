@@ -92,6 +92,7 @@
 - ornate a.华丽的、豪华的
 - orphan [ˈɔːfn] n.孤儿、v.成为孤儿、a.孤儿的 orphaned 孤立 
 - orthogonal [ɔːˈθɒgənəl] a.正交的、直角的、垂直的、矩形的
+- oscillate [ˈɒsɪleɪt] v.振荡、振动、波动
 - OTC Over the Counter 柜台交易/场外交易  Exchange Traded 交易所交易/场内交易
 - otherwise 否则、不然
 - ought aux/v.应该、应当、可能会、预料会、n.零、义务、责任

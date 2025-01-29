@@ -8,7 +8,7 @@
 - tailor n.裁缝、做裁缝、v.调整使适应、为...做衣服、剪裁、专门制作、订做
 - taint n.污点、污垢、污染、腐败、v.污染、玷污、败坏
 - take v.拿、采取、接受、n.意见、看法、立场、镜头、场景  take up 占据、占用、花费  take up a post 就职  take off 起飞、脱掉、离开、突然成功
-- takeaway n.外卖
+- takeaway n.外卖、外送
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
 - talk n/v.说话、谈话  talk of 谈论、谈及
@@ -144,7 +144,7 @@
 - tin [tɪn] n.锡、罐、v.镀锡
 - tiny [ˈtaɪni] a.极小的、微小的、微量的  tinier(比较级)  a tiny slice of 一小片
 - tip n.提示、建议、尖端、小费、v.倾斜、轻触、轻碰、给...小费
-- tire n.轮胎、头饰、v.疲劳、疲倦
+- tire n.轮胎、头饰、v.疲劳、疲倦  have a flat tire 轮胎漏气了、爆胎
 - tissue [ˈtɪʃuː] n.(人、动植物的)组织、纸巾、薄纸
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
@@ -184,6 +184,7 @@
 - trace [treɪs] v.追踪、跟踪、查找、描绘、n.痕迹、踪迹、轨迹、微量、少许
 - track n.小路、小道、痕迹、踪迹、v.跟踪、追踪、监看、监测  track team 田径队
 - tract n.大片土地、(连通身体组织或器官的)道/束、短文
+- tractable a.易处理的、易解的  intractable a.棘手的、难解的
 - trade n.贸易、行业、交易、生意、v.做买卖、做生意 trade-off 权衡、协调、折衷
 - Trade Finance 贸易融资、外汇服务
 - tradition n.传统、惯例
@@ -241,7 +242,7 @@
 - trip n/v.旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、三重的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
-- trivial a.不重要的、琐碎的、微不足道的  trivial issues 琐碎的问题
+- trivial a.不重要的、琐碎的、微不足道的、平凡的  trivial issues 琐碎的问题
 - triviality n.琐事
 - troop n.部队、军队、一群、一队
 - troupe [truːp] n.剧团、表演团、v.巡回演出

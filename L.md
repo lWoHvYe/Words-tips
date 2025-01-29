@@ -105,7 +105,7 @@
 - linkage n.联系、连锁、联动
 - linux ['lɪnəks/ˈlinʊks] 一种计算机操作系统 
 - lip n.嘴唇
-- liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的
+- liquid n.液体、a.液体的、清澈的、流畅的、明亮的、清脆的、易变现的  LCD - Liquid Crystal Display 液晶显示屏  OLED - Organic Light Emitting Diode 有机发光二极管显示屏
 - liquidate v.清算、清盘、偿还、清偿、变卖、变现
 - liquidity n.流动性、流动资金、资产流动性、资产变现能力
 - lisp [lɪsp] n/v.咬舌、口齿不清

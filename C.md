@@ -13,6 +13,7 @@
 - calm [kɑːm] a.平静的、镇静的、v.使平静、n.宁静的状态
 - calorie [ˈkæləri] n.卡路里、卡、大卡
 - camel n.骆驼、驼峰
+- camellia [kəˈmiːliə] n.山茶、山茶花
 - camp n.营地、阵营、v.设营、露营
 - campaign n.运动、战役、竞选运动、v.参加运动、领导运动
 - campus [ˈkæmpəs] n.校园、(大学、学院的)校区  on campus 在大学校园里
@@ -34,8 +35,9 @@
 - cap n.帽子、额度、限额、v.覆盖、笼罩、胜过、超过
 - capability n.性能、容量、才能、能力、生产力
 - capable a.有能力的、有才能的、足以胜任的  be capable of sth/doing sth
-- capacity [kəˈpæsəti] n.容量、性能、才能、职位、职责、功率、电容、a.充其量的、最大限度的
 - capacitance n.电容
+- capacitor [kəˈpæsɪtə(r)] n.电容器
+- capacity [kəˈpæsəti] n.容量、性能、才能、职位、职责、功率、电容、a.充其量的、最大限度的
 - capex abbr.资本支出 capital expenditures
 - capital n.首都、资本、财富、大写字母、v.大写的、极好的、死刑的  capital market 资本市场
 - capital n.首都、资本、资金、财富、财产、资方、大写字母、a.首都的、资本的、大写的、极好的、死刑的
@@ -322,7 +324,7 @@
 - compliance [kəmˈplaɪəns] n.顺从、遵从、服从、合规、承诺、柔软度
 - compliant [kəmˈplaɪənt] a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
-- compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维
+- compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维   present one's compliments 致意
 - complimentary a.免费的、赠送的
 - comply vi.顺从、服从、遵守、遵从、应允、同意  comply with 依从、遵从、顺从
 - component n.成分、组成、组成部分、要素、电路元件、a.组成的、合成的、构成的
@@ -426,7 +428,7 @@
 - constraint n.强制、限制、限定、约束
 - construct v.构成、构建、修建、建造、n.结构、结构体、建筑物、观念、概念、构想
 - construction n.建造、建筑物、结构
-- consult v.咨询、请教、商量、查阅
+- consult [kənˈsʌlt] v.咨询、请教、商量、查阅
 - consultant n.会诊医生、顾问
 - consume 消耗、消费、耗尽、毁灭、喝、饮、烧毁  CPI - Consumer Price Index 消费者物价指数，是一个通货膨胀指标，用于评估货币购买力的变化
 - consumption n.消耗、消耗量、消费、肺病
@@ -501,7 +503,7 @@
 - corner 角落、拐角、垄断
 - corona [kəˈrəʊnə] n.日冕、日华
 - coronal n.冠、冕、花冠、a.冠状的
-- coroutine n.协同程序、联立程序
+- coroutine n.协程、协同程序、联立程序
 - cortisol [ˈkɔrtɪˌsɔl] n.皮质醇
 - Corp 公司
 - corpse n.尸体

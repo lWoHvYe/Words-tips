@@ -19,7 +19,7 @@
 - judicial a.法庭的、法官的、司法的 
 - judicious [dʒuˈdɪʃəs] a.明智的、明断的
 - juice n.果汁
-- junction n.连接、接合、接合点
+- junction n.连接、接合、接合点  BJT - Bipolar Junction Transistor 双极型晶体管/晶体三极管 
 - junior [ˈdʒuːniə(r)] a.较年幼的、资历浅的、级别低的、(大学的)三年级的、n.年少者、青少年、职位较低者
 - junk [dʒʌŋk] n.垃圾、v.抛弃、废弃  junk ads 垃圾广告  junk food 垃圾食品
 - jury n.陪审团

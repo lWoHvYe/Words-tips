@@ -107,7 +107,7 @@
 - semester n.学期
 - semiannual 每半年的、半年的
 - semicolon [ˌsemiˈkəʊlən] n.分号
-- semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半
+- semiconductor [ˌsemikənˈdʌktə(r)] n.半导体  semi- 半   MOS - Metal Oxide Semiconductor 金属氧化物半导体/MOS管
 - seminar [ˈsemɪnɑː(r)] n.研讨会、研讨课、(大学的)研究班
 - senate [ˈsenət] n.参议院、元老院、上院
 - senior a.级别高的、资深的
@@ -123,6 +123,7 @@
 - sequence n.顺序、数列、序列、连续、系列、v.按顺序排列、测定序列
 - sequent a.继续的、连续的、接踵而来的、n.后果、结果
 - sequential a.顺序的、按次序的
+- sequoia n.红杉
 - sera [ˈsɪərə] n.血清、血浆
 - serial a.连续的、连载的
 - serialize 连载、连播
@@ -191,6 +192,7 @@
 - sibling n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
+- sigh [saɪ] n/v.叹气、叹息、悲鸣
 - sight n.景象、看见、视力、视野、v.看到、发现
 - sign [saɪn] v.签名、签署、n.迹象、征兆
 - signal n.信号、暗号、标志、信号灯🚥、v.发信号、示意、表明
@@ -396,6 +398,7 @@
 - staff n.员工、v.在...工作、任职于
 - stag n.雄鹿
 - stage n.阶段、步骤、舞台、v.举办、举行、组织、筹划、使发生、使出现
+- stagflation [stæɡˈfleɪʃn] 滞涨（高通胀与低就业率或经济低迷并存）
 - stagger n/v.蹒跚、动摇、犹豫、摇晃
 - stagnate v.停滞、不发展、不进步
 - stagnation n.停滞、萧条  economic stagnation 经济停滞
@@ -604,7 +607,7 @@
 - sustainable a.可持续的  sustainable development 可持续发展
 - swallow [ˈswɒləʊ] v.吞、咽下、吞没、淹没、耗尽、花光、不流露、默默忍受、轻信、n.吞、咽、燕子
 - swamp n.沼泽、湿地、v.淹没、使陷入困境、使应接不暇
-- swan [swɒn] n.天鹅
+- swan [swɒn] n.天鹅  Swan Song 绝唱
 - swap n/v.交换、互换、掉换、交流、交换物、交换区
 - swarm n.蜂群、集群
 - swear [sweə(r)] v.发誓、咒骂、诅咒

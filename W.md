@@ -51,6 +51,7 @@
 - whisk n/v.搅拌
 - whiskey n.威士忌酒
 - whisper n/v.耳语、私语、飒飒响
+- whistle v.吹口哨、鸣笛、n.口哨、哨子、汽笛
 - white n.白色、a.白色的、v.使变白
 - whole [həʊl] n.整体、全部、a.整体的、全部的、所有的
 - wholesale n.批发、a.批发的、ad.大量地
