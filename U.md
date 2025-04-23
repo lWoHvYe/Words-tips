@@ -1,11 +1,11 @@
 - UAT User Acceptance Test 
-- ubiquitous a.无处不在的、十分普遍的
+- ubiquitous [juːˈbɪkwɪtəs] a.无处不在的、十分普遍的
 - ugly [ˈʌɡli] a.丑陋的、难看的、令人不快的
 - ultimate [ˈʌltɪmət] a.最后的、最终的、最好的、基本的、基础的、基础性的、v.极品、精华
 - ultraviolet [ˌʌltrəˈvaɪələt] n.紫外线、紫外光、a.紫外线的  ultra- 超出、以外
 - umbrella n.伞、保护伞
 - unanimous a.全体一致的、一致同意的
-- unary a.一元的
+- unary [ˈjuːnəri] a.一元的
 - uncanny a.不可思议的、难以解释的
 - uncertain a.不确定的、不明确的、无把握、犹豫、拿不准
 - uncertainty n.不确定性、犹豫、迟疑、无把握
@@ -35,6 +35,7 @@
 - uniform n.制服、校服、a.一致的、统一的
 - unify v.统一、使联合、使一致
 - unilateral [ˌjuːnɪˈlætrəl] a.片面的、单方的
+- uninformed a.无知的、信息不足的、知识贫乏的
 - unintentional a.无意的、非故意的
 - union [ˈjuːniən] n.同盟、联盟、联邦、协会、工会
 - unique [juˈniːk] a.独特的、唯一的

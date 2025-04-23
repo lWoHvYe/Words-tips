@@ -1,9 +1,10 @@
 - bachelor [ˈbætʃələ(r)] n.学士、未婚男子、单身汉
-- back n.背部、后背、反面、v.后退、支持、a.后面的、过去的、拖欠的  back up 后退
+- back n.背部、后背、反面、v.后退、支持、a.后面的、过去的、拖欠的  back up 后退  back in the day 回到过去
 - backfire v.回火、逆火、适得其反
 - backlog 积压、储存、积压的工作、积压未办之事、没交付的订货
 - backward a.落后的、向后的、反向的、倒退的、进步缓慢的、v.向后、倒
 - backload v.(签订协议后)增加费用
+- backtrack v.回溯
 - backup n.备份、后援、增援  call for backup
 - bacterial [bækˈtɪəriəl] a.细菌的、细菌引起的
 - bacterium/bacteria(复数) n.细菌
@@ -35,6 +36,7 @@
 - base n.基础、根据、出发点、v.以...为基础、以...为据点 base on 
 - basic a.基本的、初步的、必须的
 - basis n.基础、根据、原因、缘由
+- bastard n.杂种、私生子
 - bat 球棒、球拍、蝙蝠、打击、猛击  as blind as bat - have really poor vision
 - batch [bætʃ] n.批、批量、v.分批处理
 - battery n.电池、蓄电池、一组、一套、一系列、一批、一群
@@ -48,10 +50,12 @@
 - beard [bɪəd] n.胡须
 - bearer [ˈbeərə(r)/ˈberər] 持票人、持有者、送信人、传授者、传播者
 - bearing n.关系、影响、姿态、(用罗盘测量的)方位、轴承
+- bearish 看空
 - beast n.野兽
 - beastliness n.兽性
-- beat [biːt] n.节拍、跳动、v.打、搏动
+- beat [biːt] n.节拍、跳动、v.打、搏动、赢、打败
 - beauty n.美丽
+- beehive n.蜂巢、蜂窝
 - behalf n.利益、代表  on behalf of 代表
 - behave v.表现、举止得体
 - behavio(u)r n.行为、举止、特性、表现方式、活动方式
@@ -146,6 +150,7 @@
 - boss n.老板、领导、上司、首领
 - BOSS - Business Operation Support System
 - bother v.打扰、困扰
+- botnet 僵尸网络
 - bottle n.瓶子、瓶装、v.用瓶子装
 - bottom n.底部、末端、v.给...装上底、降到最低、查明真相、a.底部的、尽头的
 - bound n/v.跳跃、蹦跳、限制、接壤、束缚、约束、a.一定会、很可能会、受约束的、有义务的、开往...的 bind的过去式和过去分词  bound for 驶往 be bound to do sth 一定会做某事 bond fund 债券基金
@@ -211,6 +216,8 @@
 - bulkhead n.舱壁、隔板、资源隔离
 - bull [bʊl] n.公牛、多头  bull run 牛市
 - bullet n.子弹  silver bullet 银弹
+- bullish 看多
+- bully [ˈbʊli] v.恐吓、盛气凌人、以强凌弱、n.暴徒
 - bump v.颠簸、碰撞 bump up 突然增加、提高
 - bumpy a.颠簸的、不平的、坎坷的
 - bundle n.捆、包
@@ -220,6 +227,7 @@
 - burdensome a.累赘的、繁重的
 - bureau [ˈbjʊərəʊ] n.局、办事处、处、科
 - bureaucracy [bjʊəˈrɒkrəsi] n.官僚主义、官僚机构、官僚作风
+- burgeon [ˈbɜːdʒən] v.迅速发展、激增、n.嫩芽、嫩枝
 - burn v.燃烧、烧伤、烧毁、n.烧伤、灼伤、小河、溪流
 - burst [bɜːrst] v.爆裂、胀开、爆满  boom and burst 繁荣与破灭
 - bury [ˈberi] v.埋葬、掩埋、埋藏  be buried in 沉思、专心于

@@ -1,3 +1,4 @@
+- oak [əʊk] n.栎树
 - oath n.宣誓、誓言
 - obese a.肥胖的、臃肿的
 - obesity [əʊˈbiːsɪti/oʊˈbisəti] n.肥胖
@@ -40,6 +41,7 @@
 - official [əˈfɪʃl] a.官方的、正式的、法定的、公职的、n.官员、公务员
 - offset v.抵消、弥补、补偿、n.抵消、补偿、平版印刷、a.胶印的
 - offshore a.海上的、近海的
+- offspring n.后代、子女、孩子
 - olive n.橄榄、橄榄色、橄榄绿、黄褐色
 - omen n.征兆、预兆
 - omit 省略、遗漏、删除、未能做
@@ -53,8 +55,8 @@
 - operand n.操作数
 - operate v.操作、控制、运营、运作、运转
 - operation n.手术、操作、经营、行动、运算、运转、公司、企业
-- opinion n.意见、主张、看法、观点
-- opponent n.对手、竞争者
+- opinion [əˈpɪnjən] n.意见、主张、看法、观点
+- opponent [əˈpəʊnənt] n.对手、竞争者
 - opportune a.恰好的、适时的、适当的、恰当的
 - opportunity [ˌɒpəˈtjuːnəti] 机会、时机
 - oppose v.抵制、反对、阻挠、使相对、使对照  opposing a.对立的、相反的
@@ -63,7 +65,7 @@
 - opt v.选择、挑选
 - optic a.眼的、视觉的
 - optical a.光的、光学的、视觉的
-- optimal a.最佳的、最优的
+- optimal [ˈɒptɪməl] a.最佳的、最优的
 - optimistic [ˌɒptɪˈmɪstɪk] a.乐观的
 - optimization n.优化    ahead of time optimization 提前优化    Ahead-of-time (AOT)
 - optimize [ˈɒptɪmaɪz] v.优化、使最优化、充分利用
@@ -113,6 +115,7 @@
 - outstanding a.杰出的、出色的、未完成的、未解决的、
 - outward a.表面的、外表的、外出的、向外的
 - outweigh v.超过、大于、胜于、比...更有价值
+- oven n.烤箱、烤炉  have a bun in the oven 怀孕
 - overall [ˌəʊvərˈɔːl/ˈəʊvərɔːl] a.全面的、综合的、总体的、ad.全部、总计、大致上、总体上、n.外套、罩衣
 - overblow v.夸张、过分渲染、吹过、吹散
 - overcome v.战胜、克服、解决

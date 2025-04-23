@@ -3,14 +3,17 @@
 - pack n.包裹、一群、一副、v.打包、塞满  be packed with 塞满
 - package n.包裹、包装袋、软件包、a.一揽子的  package deal 一揽子协议
 - packet n.小包裹、信息包、小硬纸板盒  pay packets 工资袋、所得工资
+- paddle n.桨
 - paginate 标页数、标页码、编页码
 - pain [peɪn] n.疼痛、痛苦、v.使痛苦、使苦恼
 - painful [ˈpeɪnfl] a.痛苦的
 - paint n.油漆、v.把...描绘成、用颜料画
 - palace [ˈpæləs] n.王宫、宫殿
 - palette [ˈpælət] n.调色板
+- palindrome [ˈpælɪndrəʊm] n.回文
 - palm [pɑːm] n.手掌、棕榈(zonglv)树
 - pan 平底锅
+- pancake n.薄饼、烙饼、薄煎饼
 - pandemic n.流行病、大流行病、疫情、瘟疫、a.(疾病)大流行的、普遍的、全世界的
 - pane n.窗格、方框
 - panel n.面板、镶板、嵌板、控制板、专家组、v.选定、把...分格、把...上置
@@ -29,6 +32,7 @@
 - parameter [pəˈræmɪtə(r)] n.参数
 - paraphrase [ˈpærəfreɪz] n/v.解释、释义、译意
 - parcel n.小包、包裹、v.打包  parcel out 分配、分享  part and parcel of ...的内容、...的必要部分
+- pardon n/v.原谅、宽恕、int.对不起、请再说一遍、抱歉  pardon me (表示没听清)请再说一遍
 - pare v.削减、削皮、逐步减少
 - parenthesis [pəˈrenθəsɪs] n.插入语
 - parenthood n.家长身份
@@ -50,9 +54,11 @@
 - passion [ˈpæʃn] n.激情、热恋、酷爱、激怒、大怒、v.表露强烈感情
 - passionate a.热情的、热诚的、狂热的、易怒的
 - passive [ˈpæsɪv] a.消极的、否定的、无源的、n.被动语态  active a.积极的、肯定的、活跃的、起作用的、有源的、n.主动语态
+- patch n.补丁、v.修补、拼凑
 - patent a.有专利的、明显的、n.专利、专利权、v.申请专利、获得专利权
 - paternal [pəˈtɜːnl] a.父亲的、父系的
 - paternity n.父亲的身份（休陪产假）
+- path n.路径、路线、道路
 - pathetic a.可怜的、可悲的
 - pathogen n.病原体
 - pathological [ˌpæθəˈlɒdʒɪkl] a.不理智的、病态的
@@ -61,7 +67,7 @@
 - patient [ˈpeɪʃnt] a.有耐心的、能容忍的、n.病人、患者
 - patriot [ˈpætriət] n.爱国者
 - patriotism [ˈpætriətɪzəm] n.爱国主义
-- patrol n/v.巡逻、巡查
+- patrol [pəˈtrəʊl] n/v.巡逻、巡查
 - patronage n.资助、赞助
 - pattern [ˈpætn] n.模式、式样、范例、模型、图案、图样、v.模仿、仿制 Design Pattern 设计模式
 - pause [pɔːz] n/v.暂停、停顿
@@ -79,6 +85,7 @@
 - peek n/v.偷看、窥视
 - peel v.剥皮、剥掉、脱落、起皮、n.果皮、外皮
 - peer n.同辈人、同行、v.仔细看、仔细检查、端详  peer review 同级评审  Peer to Peer - P2P
+- pellet [ˈpelɪt] n.丸、小球
 - penal a.惩罚的、刑事的
 - penalize [ˈpiːnəlaɪz] v.惩罚、处罚
 - penalty [ˈpenəlti] n.刑罚、处罚、害处、不利
@@ -92,8 +99,10 @@
 - perceive [pəˈsiːv] v.感知、认为、察觉、发觉、察觉到、注意到、意识到
 - percent n.百分比、a.百分之...的、ad.以百分之...地
 - percentage 百分比、利润的分成、提成
+- percept n.感觉、感受、印象
 - perception n.知觉、感知、感觉、洞察力、悟性、看法、见解
 - perceptive [pəˈseptɪv] a.感性的、理解力强的、有洞察力的、思维敏捷的
+- perceptron n.感知器
 - perfect a.完美的、正确的、极好的、完善的、v.使完善、使完备、n.(动词的)完成时(态)
 - perfectly ad.完全地、非常、十分、圆满地
 - perform v.履行、执行、表演、演出、工作、表现
@@ -125,6 +134,7 @@
 - persuasion n.说服、劝说、信仰
 - pertain [pəˈteɪn] v.存在、适用
 - pertinent a.有关的、相关的
+- perturb [pəˈtɜːb] v.使不安、使焦虑
 - peruse v.细读、研读
 - pervasive [pəˈveɪsɪv] a.普遍的、遍布的、渗透的、弥漫的
 - pessimistic [ˌpesɪˈmɪstɪk] a.悲观的、悲观主义的  pessimistic view 悲观的看法
@@ -185,6 +195,7 @@
 - platform n.平台、站台、月台、纲领、政纲
 - platinum n.铂、白金
 - plausible [ˈplɔːzəbl] a.看似合理的、貌似有理的、貌似真实的、巧言令色的
+- plausibility 合理性、似然性
 - play v.玩、游戏、演奏、扮演、参加比赛、n.游戏、比赛、戏剧、剧本
 - playhouse n.剧院
 - plead v.恳求、辩护、认罪、陈述案情
@@ -193,13 +204,14 @@
 - pledge n.保证、誓言、抵押品、抵押(证券)、v.保证、使发誓、抵押、典当、质押
 - plentiful a.大量的、丰富的、充足的
 - plenty pron.大量、众多、充足、n.丰富、充足、大量、ad.大量、十分
-- plot n.情节、阴谋、密谋、布局、小块土地、v.暗中策划、密谋、标出、绘制
+- plot [plɒt] n.情节、阴谋、密谋、布局、小块土地、v.暗中策划、密谋、标出、绘制
 - plug n.插头、插座、塞子、螺钉、v.补足、补充、推广、宣传、堵塞
 - pluggable a.可插拔的
 - plunge [plʌndʒ] v.暴跌、骤降、陷入、把...投入、将...推入、猛冲、突然开始、n.暴跌、跳水、降雨、投入、突然陷入、突然开始
 - plural [ˈplʊərəl] n.复数、复数形式、a.复数的、多元的
 - plus prep.加、n.优势、长处、加号、conj.而且、此外、况且
 - plumage [ˈpluːmɪdʒ] n.羽毛、羽衣
+- plummet n/v.暴跌、速降
 - poach [pəʊtʃ] v.偷猎、窃取、挖(人才等)、水煮、炖
 - pocket n.口袋、金钱、财富
 - pocketbook n.皮夹、记事本
@@ -228,6 +240,7 @@
 - pollute v.污染、弄脏
 - polyglot [ˈpɒliɡlɒt] a.通晓多语言的、用多语言写成的、n.通晓多种语言的人 polyglot persistence 混合持久化
 - polygon n.多边形
+- polyhedron [ˌpɒliˈhiːdrən] n.多面体（通常指多于六面体）
 - polymorphism [ˌpɒlɪˈmɔːfɪzm] n.多态性
 - polynomial [ˌpɒli'nəʊmiəl] n.多项式
 - pond n.(人工的)池塘、水塘
@@ -365,7 +378,7 @@
 - probably [ˈprɒbəbli] ad.大概、也许
 - probation 试用期、见习期、缓刑期
 - probe n.探索、探究、探头、探针、探测器、v.探查、探测、探究、盘问、追问
-- procedure n.程序、手续、过程、步骤
+- procedure [prəˈsiːdʒə(r)] n.程序、手续、过程、步骤
 - proceed v.继续、进行、前进、n.收入、获利
 - proceedings n.行动、事件、诉讼、公报、会议记录
 - process n.过程、流程、进程、vt.处理、加工、审批、vi.列队行进、a.经过加工的、处理过的
@@ -440,11 +453,13 @@
 - provocate v.激怒、刺激、挑衅
 - provocative a.挑衅性的、引诱性的、煽动性的、n.刺激物、兴奋剂
 - provoke v.激起、引起、引发、挑衅、激怒、刺激
+- proximity [prɒkˈsɪməti] n.接近、临近、靠近
 - proxy [ˈprɒksi] 代理、代理服务器、代理人、代表权
 - prudent [ˈpruːdnt] a.小心的、谨慎的、慎重的
 - prune [pruːn] v.修剪、消减、精简
 - pry n/v.窥探、探听
 - pseudo [ˈsjuːdəʊ] a.伪、假的、虚伪的、冒充的、n.伪君子
+- pseudocode n.伪代码
 - psychiatry [saɪˈkaɪətri] n.精神病学、精神病治疗
 - psychology [saɪˈkɒlədʒi] n.心理、心理学、心理状态、心理特征、心理影响
 - PTSD Post Traumatic Stress Disorder 创伤后应激障碍
@@ -461,7 +476,7 @@
 - punishment n.惩罚、处罚、刑罚  typical punishment 典型的刑罚  severe punishment 重刑
 - purchase [ˈpɜːtʃəs] n/v.购买、采购
 - pure a.纯净的、纯粹的、纯的、单纯的、纯真的、干净的、清晰的、不含有害物质的
-- purge 肃清、净化、清除、清洗、排除
+- purge [pɜːdʒ] n/v.肃清、净化、清除、清洗、排除
 - purify v.使纯净、净化
 - purple n.紫色、a.紫色的、华丽的
 - purpose n.目标、目的、用途、意图、企图、v.有意、打算、企图

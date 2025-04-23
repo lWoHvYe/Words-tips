@@ -8,6 +8,7 @@
 - valentine 情人
 - valid [ˈvælɪd] a.有效的、合理的、确凿的    
 - validate v.验证、证实、使生效、批准、确认
+- Valkyrie n.女武神
 - valley n.山谷、峡谷
 - valuate v.对...作评估、对...作评价
 - valuation n.估价、估值、评估、评价
@@ -48,7 +49,7 @@
 - versa 反之亦然  vice versa ad.反之亦然
 - verse n.诗、韵文
 - version [ˈvɜːʃn] [ˈvɜːrʒn] n.版本、变种、变体
-- versus [ˈvɜːsəs] prep.对、对抗、与...相对、与...相比  VS
+- versus [ˈvɜːsəs] prep.对、对抗、与...相对、与...相比  VS.
 - vertex [ˈvɜːteks] n.顶点、至高点、(三角形或锥形的)顶 复数：vertexs, vertexes, vertices
 - vertical a.竖的、垂直的、直立的、纵向的、n.垂直线、垂直面
 - very ad.很、非常、a.恰好的、仅仅的、唯独的、特有的

@@ -28,7 +28,7 @@
 - illuminate [ɪˈluːmɪneɪt] v.照亮、阐明、解释
 - illusion [ɪˈluːʒn] n.幻觉、幻想、错觉、错误的观念
 - illusory a.虚幻的、幻觉的
-- illustrate v.解释、说明、表明、给...加插图、举例说明
+- illustrate [ˈɪləstreɪt] v.解释、说明、表明、给...加插图、举例说明
 - illustration n.插图、图示、说明、图解
 - illustrious [ɪˈlʌstriəs] a.杰出的、显赫的、著名的
 - image n.画像、形象、肖像、概念、印象、声誉、v.反映、想象、象征
@@ -45,7 +45,7 @@
 - immerse v.沉浸在、深陷于
 - immersive a.沉浸式虚拟现实的
 - immortal a.不死的、永恒的、n.神
-- immune a.免疫的、有免疫力的、不受影响的  immune system 免疫系统
+- immune [ɪˈmjuːn] a.免疫的、有免疫力的、不受影响的  immune system 免疫系统
 - immutable 不可变的、不可改变的
 - immutability 不变、不变性、永恒性
 - impact n/v.影响、撞击、冲击、挤入、冲击力
@@ -61,6 +61,7 @@
 - impend v.逼近、迫近
 - impending a.逼近的、即将发生的
 - imperative a.迫切的、急迫的、n.必要的事、祈使语气
+- imperator n.统治者
 - imperfect a.不完美的、有缺点的、有缺陷的
 - impersonate 模仿、扮演、冒充、假扮、拟人、人格化、
 - implement v.实施、执行、使生效、实现、落地、n.工具、器具、器械
@@ -105,7 +106,7 @@
 - increment 增量、增长、增额、定期的加薪
 - incubate 孵化、培育、潜伏
 - incumbent 在职者、现任者、在职的、现任的、有责任、必须履行、义不容辞
-- incur v.招致、引起、遭受
+- incur [ɪnˈkɜː(r)] v.招致、引起、遭受
 - indeed ad.甚至、的确、确实、真正地、真的
 - indefinite a.无期限的、不明确的、不确定的、模糊的
 - indemnity 保障、赔偿、补偿、赔款
@@ -121,7 +122,7 @@
 - indispensable a.不可或缺的、必不可少的
 - individual n.个人、个体、a.个人的、单独的、个别的、独特的
 - induce v.引起、归纳、引诱、[电]感应、诱使、劝说、导致  induce resentment 引起怨恨
-- induction 就职、催生、电磁感应
+- induction n.诱发、归纳、就职、催生、电磁感应
 - indulge [ɪnˈdʌldʒ] v.放纵、纵容、沉溺、听任、容许...延期付款
 - industrial a.工业的、产业的、从事工业的、n.工业股票、工业工人、工业公司  industrial revolution 工业革命
 - industrialist n.工业家、实业家
@@ -145,7 +146,7 @@
 - inflate [ɪnˈfleɪt] v.使充气、膨胀、鼓吹、涨价
 - inflation n.通货膨胀、通胀率、膨胀、夸张、自命不凡
 - inflict v.使承受、遭受、给予(打击)
-- inflight a.飞行中的
+- inflight a.飞行中的、进行中的
 - influence 影响、支配力、支配、左右
 - influx n.流入、汇集、涌入
 - inform v.知会、通知、使活跃、使充满、告发、检举
@@ -179,6 +180,7 @@
 - innovation n.创新、革新
 - inquire v.询问、打听
 - inquiry n.探究、调查、审查、询问、质问、追究、打听
+- insane [ɪnˈseɪn] a.疯狂的
 - insect n.昆虫
 - insensitive a.不敏感的、感觉迟钝的、漠不关心的、不在乎的
 - insincere a.不诚恳的、虚伪的
@@ -281,7 +283,7 @@
 - intrude [ɪnˈtruːd] v.闯入、侵入、打扰、侵扰、扰乱
 - intrusion n.入侵、侵入
 - intrusive a.侵入的、侵扰的、插入的
-- intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的
+- intuitive [ɪnˈtjuːɪtɪv] a.直观的、直觉的、易懂的 counter intuitive 反直觉、违反直觉的
 - invade v.入侵、侵略
 - invalid a.无效的、作废的、n.病人、伤残者 
 - invalidate v.使无效、使作废、证明...错误、使站不住脚
@@ -315,6 +317,8 @@
 - isolate [ˈaɪsəleɪt] v.隔离、孤立、使绝缘、a.隔离的、孤立的、局部的
 - issue n.问题、发行物、v.发行、公布
 - item n/ad.项目、条款、一条、一则
-- iterate v.迭代
+- iterate [ˈɪtəreɪt] v.迭代
 - iteration n.迭代
+- iterative [ˈɪtərətɪv] a.迭代的
+- iterator [ɪtə'reɪtə] 迭代器
 - itinerary n.行程、旅行日志

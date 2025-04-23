@@ -4,6 +4,7 @@
 - sad a.悲哀的、难过的
 - safeguard [ˈseɪfɡɑːd] v.保护、维护、捍卫、n.防护装置、保护措施、安全设施
 - sage [seɪdʒ] 圣人、贤者、智者、鼠尾草、睿智的、贤明的
+- sail n.帆
 - saint [seɪnt] n.圣人、圣徒
 - sake n.目的、利益、缘故、缘由  for the sake of 为了、为了...的利益
 - salary n.薪金、薪水
@@ -68,6 +69,7 @@
 - screw n.螺丝、螺丝钉  screw up - make a mistake 把...搞砸
 - script n.脚本、剧本、v.写剧本
 - scroll 纸卷、卷轴、滚屏、滚动
+- scrub n/v.擦洗、刷洗、取消（原有安排）
 - scrum v.扭打、混乱、争夺 Scrum meeting 每日例会
 - scrutinize [ˈskruːtənaɪz] v.仔细检查、认真审查
 - scrutiny [ˈskruːtəni] n.监督、细看、仔细检查、认真彻底的审查
@@ -151,7 +153,7 @@
 - shake v.动摇、摇动、握手、n.摇动、颤抖、奶昔
 - shaky a.动摇的、摇摇欲坠的、虚弱的、不可靠的
 - shall modal.将要、将会、必须、应该、可以
-- shallow a.浅的、肤浅的、表面的、n.浅滩、浅处、v.变浅、变浅薄
+- shallow [ˈʃæləʊ] a.浅的、肤浅的、表面的、n.浅滩、浅处、v.变浅、变浅薄
 - sham n/v.伪装、假装、冒充、a.虚假的、假装的
 - shame 羞耻、羞愧、惭愧、耻辱、使丢脸、使羞愧、真可惜、太遗憾了、好极了、真棒
 - shape n.形状、模型、身材、v.塑造、使符合、体现
@@ -182,6 +184,7 @@
 - shortly ad.立刻、马上
 - shortage n.不足、缺少、短缺
 - shortfall [ˈʃɔːtfɔːl] n.差额、缺口、亏空
+- shoulder n.肩、肩部、山肩、路肩
 - shove [ʃʌv] v.推、猛推、乱放、乱塞
 - show n/v.显示、表示、展示、演示
 - shower n.淋浴、阵雨、小雨
@@ -189,7 +192,7 @@
 - shrug [ʃrʌɡ] n/v.耸肩(表示冷淡、怀疑、无奈、不满、不知道、不在乎)  shrug off 不把...当回事、对...满不在乎、对...不予理睬
 - shuffle [ˈʃʌfl] n/v.洗牌
 - shut n/v.关闭、停业、关门  shut down 关闭、停业  shut out 把...排除在外、克制某种感情 shut up 闭嘴、住口
-- sibling n.兄弟姐妹
+- sibling [ˈsɪblɪŋ] n.兄弟姐妹
 - side n.侧面、方面、旁边、一边、a.侧面的、旁边的、次要的、副的
 - sift v.筛、细查、挑选
 - sigh [saɪ] n/v.叹气、叹息、悲鸣
@@ -225,6 +228,7 @@
 - sip v.小口喝、抿、n.一小口的量
 - SIT System Integrate Test
 - site n.地点、位置、网站、站点、v.使坐落在...
+- situate v.使位于、使联系、将...置于
 - situation n.情况、局面、形势、处境、地理位置、职业、工作岗位
 - skeleton n.骨骼、梗概、a.骨瘦如材的、基本的
 - skeptical a.怀疑的、持怀疑态度的
@@ -331,6 +335,7 @@
 - sparing a.节约的、节俭的
 - spark n.火花、火星、生气、诱因、v.引发、触发、冒火星
 - sparkle v.闪耀、闪烁
+- sparrow n.麻雀
 - sparse [spɑːs] a.稀疏的、稀少的
 - spatial [ˈspeɪʃl] a.空间的
 - speak v.交谈、说(某种语言)、说话、演说
@@ -354,6 +359,7 @@
 - spendthrift a.挥霍的、n.花钱无度的人
 - sperm [spɜːm] n.精子、精液
 - sphere [sfɪə(r)] n.球、球形、领域、范围、v.形成球体、包围、围绕
+- spider n.蜘蛛
 - spike n.尖峰、尖状物、猛增、v.用尖物刺入、在...中偷偷掺入、阻挠、拒绝发表
 - spill n/v.溢出、泄漏、洒出
 - spin v.旋转、纺纱、吐(丝)、作(茧)、急转身、兜风、n.旋转、自转、导向性陈述  spin out 衍生出、派生出
@@ -434,8 +440,9 @@
 - stead [sted] n.代替、用途、好处
 - steadfast a.坚定的、不动摇的  steadfast integrity 踏实、诚实
 - steady a.稳步的、稳定的、平稳的、v.使平静、使冷静、使稳定、ad.稳定地、稳固地、int.当心、小心、n.关系固定的情侣
+- stealth n.隐身、秘密行动
 - steel n.钢
-- steep a.陡峭的、急剧的、大幅度的
+- steep a.陡峭的、急剧的、大幅度的  steepest ascent 最速上升法、最陡爬坡实验
 - steer [stɪr] v.驾驶、指引
 - stem n.茎、柄、v.基于、起源于、由...造成、阻止、遏制
 - stenographer [stəˈnɒɡrəfə(r)] n.速记员
@@ -443,7 +450,7 @@
 - steroid n.类固醇
 - stereotype [ˈsteriətaɪp] n.刻板印象、陈规、模式化观念、构造型、v.对...产生成见、把...浇筑成铅版
 - steward [ˈstjuːəd] n.乘务员、管家
-- stick v.粘贴、张贴、插入、刺入、容忍、放置、卡住、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟
+- stick v.粘贴、张贴、插入、刺入、容忍、放置、卡住、动不了、n.棍、条状物、操作杆 stick it out 坚持到底 stick to 坚持、信守 stick with 紧跟 stuck 过去式、过去分词
 - stickness n.黏性
 - stiff a.僵硬的、坚硬的、不易弯曲的、拘谨的、ad.极其、非常、n.死尸、v.诈骗、不给小费
 - still ad.还、仍然、依旧、静止地、a.静止的、平静的、n.剧照、平静、v.(使)平静、(使)平静、conj.然而、但是
@@ -454,6 +461,7 @@
 - sting v.叮、刺痛
 - stir v.搅拌、n.搅拌、震动  stirring 激动人心的
 - stitch 缝、缝合
+- stochastic [stə'kæstɪk] a.随机的、机会的、有可能性的
 - stock n.股票、股份、资本、公债、存货、库存、家畜、紫罗兰、v.存货、贮(zhu)备、贮存、a.常备的、存货的、陈旧的  stock options 股票期权
 - stocking n.长袜
 - stockpile n.库存、储备、囤积的物资、v.大量储备
@@ -492,12 +500,12 @@
 - stripe [straɪp] n.条纹、线条、种类、类型
 - strive v.努力、力争、力求
 - strobe n.频闪、脉冲
-- stroke n.一下、一击、击球、v.轻抚、轻触、敲击
+- stroke n.一下、一击、击球、v.轻抚、轻触、敲击  breast stroke 蛙泳  back stroke 仰泳
 - stroll [strəʊl] n/v.散步、闲逛、轻松获胜
 - structure n.结构、构造、建筑物、体系、构成、v.建筑、建造、安排、排列  Structured Query Language - SQL/sequel
 - struggle v.努力、奋斗、争取、抗争、挣扎、n.努力、斗争、打斗、难事
 - stub n.存根、票根
-- stuff n.材料、原料、东西、素材、填充物、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
+- stuff n.材料、原料、东西、素材、填充物、活、v.填满、装满、把...塞进  hot stuff 性感的人、技艺很高的人
 - stun [stʌn] v.使昏迷、打晕、使震惊
 - stupid a.愚蠢的、迟钝的、n.笨蛋
 - stylish a.时尚的、时髦的、新潮的
@@ -526,7 +534,7 @@
 - substantial a.物质的、实质的、大量的、价值巨大的、重大的、结实的、n.本质
 - substitute v.代替、替代、n.替代物、替补、a.代替的、代用的、替补的
 - substraction n.减法、减去、相减
-- substrate n.底层
+- substrate n.底层、基底
 - subsume v.将...归入/纳入
 - subtitle n.小标题、副标题、字幕
 - subtle [ˈsʌtl] a.不易察觉的、微妙的、细微的、敏感的、奥妙的
@@ -539,6 +547,7 @@
 - successful a.成功的
 - successive a.连续的、接连的、相继的  successive governments 历届政府
 - succession n.一连串、一系列、继承、继任、继承人、继承权
+- successor n.继承人、继任者、接替者
 - succinct [səkˈsɪŋkt] a.简明的、简洁的、简练的
 - suck [sʌk] v.吸、吮吸 [shǔn xī]、吸引
 - sudden a.突然的、忽然的
@@ -546,7 +555,7 @@
 - suffer [ˈsʌfə(r)] v.受苦、受难、遭受、忍受
 - suffice [səˈfaɪs] 足够、有能力、满足...的需求、是满足
 - sufficient [səˈfɪʃnt] a.足够的、充足的、充分的、n.足量、充足  sufficient labor force 劳动力充足  sufficient condition 充分条件
-- suffix n.后缀
+- suffix [ˈsʌfɪks] n.后缀
 - sugar [ˈʃʊɡə(r)] n.糖、v.加糖
 - suggest v.建议、暗示、表明、启示
 - suicide [ˈsuːɪsaɪd] n/v.自杀、自取灭亡  physicianassisted suicide 安乐死
@@ -586,6 +595,7 @@
 - surface n.表面、台面、外表、v.露面、浮出水面
 - surge n/v.汹涌、奔腾、起伏、激增、蜂拥
 - surgery [ˈsɜːdʒəri] n.外科、外科学、外科手术
+- surgical [ˈsɜːdʒɪkl] a.外科的、外科手术的
 - surpass v.超过、胜过、超越、优于
 - surplus [ˈsɜːpləs] n.盈余、顺差、剩余、过剩、a.剩余的、过剩的、多余的
 - surprise [səˈpraɪz] n.惊喜、惊奇、意外的事、v.吃惊、诧异、感到意外、撞见、a.出乎意料的、感到惊奇的
@@ -621,12 +631,13 @@
 - symbol [ˈsɪmbl] n.象征、符号、代号、记号、v.用符号代表
 - symbolic a.象征的、象征性的
 - symbolize [ˈsɪmbəlaɪz] v.用符号表示、象征
-- symmetric a.对称的、均衡的
+- symmetric [sɪ'metrɪk] a.对称的、均衡的
 - sympathetic [ˌsɪmpəˈθetɪk] a.同情的、赞同的
 - sympathy [ˈsɪmpəθi] n.同情、慰问、赞同
 - symphony n.交响乐、交响曲
 - symposium [sɪmˈpəʊziəm] n.专题讨论会、研讨会
 - symptom n.症状、征兆
+- synapse [ˈsaɪnæps] n.(神经元的)突触
 - synchronize v.同步、使同步、在时间上一致
 - synchronous [ˈsɪŋkrənəs] a.同步的、共时的
 - syndicate 企业联合组织、财团、私人联合会
@@ -634,5 +645,5 @@
 - synergistic [ˌsɪnərˈdʒɪstɪk] a.协同作用的、协作的、增效的
 - synonym [ˈsɪnənɪm] n.同义词
 - syntax n.语法、句法、句法规则、语构
-- synthesis n.综合、结合体、合成
+- synthesis [ˈsɪnθəsɪs] n.综合、结合体、合成
 - synthetic [sɪnˈθetɪk] a.综合的、合成的、人造的、n.合成物  synthetic construction 合成结构  synthetic lifelike robot 逼真的合成机器人

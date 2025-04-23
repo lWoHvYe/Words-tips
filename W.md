@@ -42,7 +42,7 @@
 - wheat n.小麦
 - wheel n.车轮、v.旋转、转动
 - whelm v.淹没、压倒、覆盖
-- whereas n.鉴于、conj.然而、但是、尽管
+- whereas [ˌweərˈæz] n.鉴于、conj.然而、但是、尽管
 - whereby ad.凭此、借以
 - while conj.当...时候，而(表对比)、n.一段时间、vt.消磨、打发(时间)、prep.直至
 - whilst conj/ad.同时、直到、虽然、尽管
@@ -84,6 +84,7 @@
 - withhold v.阻止、拒绝给予、扣留
 - withstand v.经受、承受、顶住
 - witness [ˈwɪtnəs] n.目击者、证人、证据、证言、v.见证、目击、是发生...的地方/时间、为...作证
+- wive [waɪv] v.娶妻、嫁、与...结婚
 - wizard [ˈæsɪd] n.向导、行家、能手、术士
 - woman [ˈwʊmən] n.妇女、女人
 - women [ˈwɪmɪn] n. woman的复数
@@ -105,6 +106,7 @@
 - wound n.伤口、创伤、v.使受伤、伤害
 - wrap 包、缠绕、掩护、换行、用...包裹、披肩、围巾、墨西哥卷
 - wrapper [ˈræpə(r)] n.封装
+- wreck [rek] v.破坏、毁坏、毁灭、n.沉船、遭严重损坏的汽车、飞机、船
 - wrest [rest] v.拧、扭、抢夺
 - wrestle [ˈresl] v.搏斗、摔跤
 - wrinkle n.皱纹、褶皱

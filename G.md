@@ -13,7 +13,7 @@
 - gastro [ˈgæstroʊ] 胃的
 - gate n.门、大门、阀门、(逻辑中的与或非异或)门、栅极
 - gather v.收集、采集、聚集、收紧、收缩、逐渐增加、n.聚集、衣褶  gather all the data 搜集所有数据
-- gauge v.测量、估计、估算、n.评估、事实、依据、尺度、标准
+- gauge [ɡeɪdʒ] v.测量、估计、估算、n.评估、事实、依据、尺度、标准
 - gay [ɡeɪ] n.同性恋者、a.同性恋的
 - gear [ɡɪə(r)] n.齿轮、传动装置、v.用齿轮连接、使与...适应、换挡、搭配
 - geek n.极客
@@ -35,6 +35,7 @@
 - geometry [dʒiˈɒmətri] n.几何学、几何形状、几何图形、几何
 - Germany [ˈdʒɜːməni] n.德国
 - gesture [ˈdʒestʃə(r)] n.姿势、手势、v.做手势、用动作示意
+- ghost [ɡəʊst] n.鬼魂、幽灵
 - giant n.巨头、巨人、巨物、a.巨大的、特大的、伟大的
 - gift n.礼物、赠品、天赋、v.白送、白给
 - gigantic [dʒaɪˈɡæntɪk] a.巨大的、庞大的
@@ -59,6 +60,7 @@
 - glow v.发光、发红、n.微光
 - glue n.胶、胶水、v.粘合、胶合、紧附于
 - go 走、离开、进行   go short 做空、卖空  go long 做多、多头、买进
+- Go 围棋
 - goal n.目标、得分、进球
 - gold n.金、黄金、金色、a.金色的
 - golf [ɡɒlf] n.高尔夫球、v.打高尔夫球
@@ -71,6 +73,7 @@
 - grace n.优美、优雅、欣然、体面、v.使优美、为增色、为锦上添花
 - graceful a.优美的、优雅的、得体的、有风度的
 - grade n.等级、职级、年级、分数、v.评分、分级
+- gradient n.梯度、坡度、斜率  gradient descent 梯度下降
 - gradual a.逐渐的、逐步的、平缓的
 - graduate [ˈɡrædʒuət/ˈɡrædʒueɪt] v.(中学)毕业、大学毕业、获得(学士)学位、授予学位、逐渐变化、进展、n.大学毕业生、学位获得者
 - graffiti [ɡrəˈfiːti] n.涂鸦
@@ -122,6 +125,7 @@
 - guilty a.有罪的、内疚的
 - gulf [ɡʌlf] n.海湾
 - gull [ɡʌl] n.海鸥
+- gullible [ˈɡʌləbl] a.轻信的、易受骗的、易上当的
 - gum n.口香糖、牙龈、黏胶、牙龈  chewing gum 口香糖
 - gutter n.槽沟、排水沟、v.忽明忽暗、摇曳不定
 - guy [ɡaɪ] n.家伙、伙计  average guy 普通人

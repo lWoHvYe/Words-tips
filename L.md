@@ -15,6 +15,7 @@
 - landlord n.房东、地主、店主
 - landmark n.地标、里程碑
 - landscape n.风景、景观、地形、地貌、政治或社会形势
+- lantern n.灯笼、提灯  the Lantern Festival 元宵节
 - lapse 失效、衰退、衰弱、结束、背弃、失足、过失、疏忽
 - laptop n.手提电脑、笔记本电脑
 - large a.大的、大量的、广泛的  at large 在逃的、大多数、一般、普遍
@@ -26,6 +27,7 @@
 - latent a.潜在的、潜伏的、隐藏的、休眠的
 - latency n.延迟、潜伏、潜在因素
 - lateral [ˈlætərəl] a.侧面的、横向的
+- lattice n.格子框架、格栅  semi-lattice 半晶格
 - laugh n/v.笑、发笑、嘲笑
 - laughter n.笑、笑声
 - launch v.发射、发动、开始、开展、发行、上市、n.发射、下水
@@ -70,9 +72,11 @@
 - level n.数量、水平、水准、等级、程度、电平、v.使平整、使平等、使相等、使相似、a.水平的、同高度的
 - lever n.操纵杆、杠杆、v.撬动
 - leverage n.影响力、杠杆作用、优势、v.举债经营、借贷收购  leverage...to... 利用...来...  Leverage Buyout (LBO)杠杆收购
+- leviathan [ləˈvaɪəθən] n.利维坦
 - levitation n.悬浮、漂浮
 - levitate [ˈlevɪteɪt] v.漂浮、悬浮、升空
 - levy n.税额、税款、征兵、v.征收、收取(税项或费用)  impose a levy on 对...征收税款
+- lexeme [ˈleksiːm] n.词位、词素
 - lexical [ˈleksɪkl] a.词汇的
 - liability n.责任、债务、负债、债务
 - liable a.有责任的、有义务的、有...倾向的

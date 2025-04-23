@@ -1,6 +1,7 @@
 - habit n.习惯、习性
 - habitat n.产地、栖息地
 - hack v.乱劈、砍、开垦、非法侵入(他人计算机系统)、n.劈、砍、干咳、乘用马、a.出租的  phone hacking 电话窃听
+- hackintosh n.黑苹果  macintosh n.白苹果
 - hail n.冰雹、生于、来自、v.下冰雹、致敬、招手、打招呼、来自
 - haircut n.折价(在抵押物的市值中减去的百分比)
 - hall 过道、走廊、大厅、礼堂、前厅、娱乐中心、会所
@@ -90,6 +91,8 @@
 - holistic [həˈlɪstɪk] a.全面的、整体的
 - holy a.神圣的、圣洁的
 - homo 高、同、人属、人类、佃户、侍从
+- hone v.磨练、训练、n.磨刀石  hone in 珩磨（对磨加工过的表面进一步进行抛光、磨光处理）
+- honesty [ˈɒnəsti] n.诚实、正直
 - hono(u)r n.尊重、荣誉、荣耀、v.尊敬、[金融]承兑、兑现
 - hood n.兜帽、篷、罩、v.罩上、覆盖
 - hook 钩、挂钩、吸引人的东西、钩住、挂住
@@ -121,6 +124,7 @@
 - humiliation n.羞辱、耻辱、蒙羞
 - humo(u)r n.幽默、滑稽、情绪、心情、体液、v.迎合、迁就
 - hunch [hʌntʃ] n.预感、直觉
+- hunt n/v.打猎、追捕、搜寻
 - hurl v.投掷
 - hurricane [ˈhʌrɪkən] n.飓风
 - hurry n/v.匆忙、急忙
@@ -130,5 +134,7 @@
 - hydrochloride n.盐酸、盐酸盐、氯化氢
 - hydrogen [ˈhaɪdrədʒən] n.氢、氢气
 - hype v.炒作、n.促销广告
+- hyper a.精力过旺的、n.宣传人员
+- HyperLog 用于近似计算和基数估计的算法，适合于大数据场景，数据流处理
 - hypocritical [ˌhɪpəˈkrɪtɪkl] a.伪善的、虚伪的
 - hypothesis [haɪˈpɒθəsɪs] n.假定、假设、假象、假说

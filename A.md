@@ -82,6 +82,7 @@
 - adequate [ˈædɪkwət] a.充足的、足够的、合格的、合乎需要的
 - adhere v.坚持、遵守、附着、黏附    adhere to sth 坚持/遵守 ...
 - adhocracy n.临时委员会、特别委员会
+- adjacent [əˈdʒeɪsnt] a.相邻、邻近的、毗邻的
 - adjective n.形容词、a.形容词的、附属的、不独立的、有关程序的
 - adjoin v.邻近、毗连、紧挨
 - adjust v.适应、调整、调节、校正、校准、改变(行为或观点)以适应
@@ -91,6 +92,7 @@
 - administration n.管理、行政部门、(美国)政府
 - administrator n.管理人员、行政人员
 - admire v.倾佩、欣赏、赞赏、仰慕
+- admissible a.可容许的、可接受的、可采纳的
 - admission n.承认、准许进入、加入权、进入权、招生、录取  admission ticket 门票  admission of sth 承认某事  university-admissions process 大学录取流程
 - admit v.承认、允许、确认、许可进入、准许...加入、接纳  admit to/into 准许加入(俱乐部、组织)、接收(入学)
 - adolescent [ˌædəˈlesnt] n.青少年、少女、a.青春期的
@@ -123,6 +125,7 @@
 - affection n.感情、喜爱、爱情、钟爱
 - affectionate a.有感情的、热情的、慈爱的
 - affiliate [əˈfɪlieɪt/əˈfɪliət] v.使附属、使隶属、使并入、加入、为...工作、n.附属机构、分支机构、分公司
+- affine a.仿射的、拟拟的、亲和的
 - affinity [əˈfɪnəti] n.密切关系、喜好、喜爱
 - affirm v.公开肯定、断言、证实
 - affluent [ˈæfluənt] a.富裕的、n.富人、支流
@@ -158,6 +161,7 @@
 - airline n.航线、航空公司
 - airport n.机场、航空站、航空港
 - aisle [aɪl] n.过道、走道
+- akin [əˈkɪn] a.类似的、相似的
 - alarm n.警报、闹钟、v.使惊恐、向...报警、使警觉、警告
 - alarmist a.危言耸听的、n.杞人忧天者
 - albeit [ˌɔːlˈbiːɪt] conj.虽然、即使、尽管
@@ -251,6 +255,7 @@
 - animation n.动画、动画片
 - ankle n.脚踝、踝关节
 - annal [ˈænəl] n.年鉴、记录
+- anneal [əˈniːl] v.退火
 - anniversary n.周年纪念日
 - annotate v.注释
 - annotation n.注解、注释
@@ -300,6 +305,7 @@
 - approximate a.近似的、大约的、接近的、v.近似、接近、近似计算、概略估算
 - arbiter [ˈɑːbɪtə(r)] n.仲裁人、公断人、裁决者 be arbiter of .... 成为...的仲裁者 (注意是名词)
 - arbitrary [ˈɑːbɪtrəri] a.随意的、任意的、武断的
+- arc [ɑːk] n.弧、电弧、弧形
 - archaeological [ˌɑːkɪəˈlɒdʒɪkəl] a.考古的、考古学的
 - archaeology [ˌɑːkiˈɒlədʒi] n.考古学
 - archetype n.原型

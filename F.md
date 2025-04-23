@@ -85,6 +85,7 @@
 - feudalism [ˈfjuːdəlɪzəm] n.封建主义
 - fever [ˈfiːvə(r)] n.发烧、发热、激动不安、兴奋紧张、v.使发高烧、引起发热、使狂人、煽动
 - few 很少、几乎没有
+- fiasco [fiˈæskəʊ] n.惨败、可耻的失败、尴尬的结局
 - fibre/fiber [faɪbə] n.光纤、纤维  Fiber Optic 光纤
 - fictile a.陶土制的、n.陶制品
 - fiction [ˈfɪkʃn] n.小说、虚构之事、假想之物
@@ -110,6 +111,7 @@
 - firework n.烟花、烟火
 - firm n.公司、商行、a.坚固的、坚定的、v.使坚固、稳步上涨
 - fiscal [ˈfɪskl] n.财政、a.财政的、国库的、税收的
+- fission [ˈfɪʃn] n.裂变、分裂
 - fist n.拳头、v.紧握
 - fit n/v.安装、合身、适合、a.合适的、恰当的、健康的、突发、冲动
 - fitness n.健康、健身、适合、合情理
@@ -222,9 +224,11 @@
 - fret v.烦躁、苦恼、n.雾气
 - fright n.惊吓、恐怖、恐惧
 - frighten v.吓唬、使惊吓、使惊恐
+- fringe [frɪndʒ] n.边缘、外围、刘海儿
 - frog n.青蛙
 - front n.前面、正面、a.前面的、正面的、v.面向、朝向、领导、代表  home front 后方
 - frontend 前端、前台、前端模块、编辑器前端
+- frontier n.边境、边界、边缘
 - frown v.不赞成、反对、皱眉
 - fruition n.完成、实现、取得成功
 - frustrate [frʌˈstreɪt] v.挫败、阻挠、使沮丧、使懊恼、a.无效的、无益的
@@ -244,7 +248,7 @@
 - furniture [ˈfɜːnɪtʃə(r)] n.家具
 - further [ˈfɜːðə(r)] a.进一步的、更多的、附加的、ad.进一步地、v.促进、增进 far的比较级
 - furthermore ad.此外、而且、再者
-- fuse v.融合、熔化、n.保险丝、导火索
+- fuse [fjuːz] v.融合、熔化、n.保险丝、导火索
 - fusion [ˈfjuːʒn] n.融合、熔解、熔化、融合物、核聚变
 - future n.将来、未来、前景、前途、期货、a.将来的、未来的
 - fuzzy [ˈfʌzi] a.模糊的、含糊不清的、毛绒绒的

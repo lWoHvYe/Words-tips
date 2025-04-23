@@ -22,6 +22,7 @@
 - ransom 赎金、赎回、赎罪
 - rapid [ˈræpɪd] a.快速的、迅速的、快捷的、n.激流、湍流  rapid eye movement 快速眼部运动
 - rare [reə(r)] a.罕见的、稀少的、稀有的、难得的、稀薄的、半生的、半熟的
+- rarely ad.很少地、不常
 - rarity n.罕见、稀有、珍品
 - rasp 锉刀、刺耳的声音
 - raspberry n.覆盆子、树莓  Raspberry Pi 树莓派
@@ -89,7 +90,7 @@
 - recur v.复发、(尤指不好的事)重现
 - recurrent a.复发的、复现的、经常性的、周期性的、回归的、循环的
 - recursion n.递归、递推
-- recursive a.递归的、循环的
+- recursive [rɪˈkɜːsɪv] a.递归的、循环的
 - recycle v.回收利用、重复利用
 - redeem v.兑换、偿还、赎回
 - redirect [ˌriːdəˈrekt/ˈriːdərekt] v.使改变方向、重定向
@@ -107,6 +108,7 @@
 - refine v.精炼、提炼、改进、改善
 - reflect v.反射、反映、考虑、仔细思考
 - reflection n.反映、反射、显示、表达、体现
+- reflex n.反射动作、本能反应、a.反射的、反射性的、反作用的（效果、音响等）
 - reflexion n.反射、反射光、反射作用
 - reform v.改革、改良、改善、重组、n.改革、革除、修订、a.改革的
 - refrain v.抑制、避免、克制、节制、n.反复说的话、迭句
@@ -247,6 +249,7 @@
 - restore v.修复、归还、恢复
 - restrain v.制止、阻止、管制、约束、克制、抑制
 - restrict v.限定、限制、约定、制约、束缚、妨碍
+- resurence [rɪˈsɜːdʒəns] n.复苏、复兴
 - resurrect [ˌrezəˈrekt] v.使复兴、使复活、起死回生、恢复使用、重新应用
 - result [rɪˈzʌlt] n.结果、成果、v.发生、产生、归结为
 - resume n.简历、摘要、概述、v.重新开始、继续、恢复
@@ -319,6 +322,7 @@
 - rose n.玫瑰、a.玫瑰花的、玫瑰色的
 - rotate v.旋转、转动、轮换、轮值、交替、a.辐状的
 - rotation n.旋转、轮换、交替、循环
+- rotten a.腐烂的、糟透的
 - rouge [ruːʒ] n.胭脂
 - rough a.粗糙的、不平滑的、粗略的、粗鲁的、粗暴的、n.草稿、草图、v.草拟、ad.粗鲁地
 - roughly ad.粗略地、大致、大约
@@ -333,7 +337,10 @@
 - royal [ˈrɔɪəl] a.王室的、皇家的、高贵的、盛大的、n.王室成员
 - RPC - Remote Procedure Call 远程过程调用
 - RTL Resistor Transistor Logic 电路
+- rumor [ˈruːmə] n.谣言、v.谣传
 - rubble n.瓦砾、碎石
+- rudiment 雏形
+- rudimentary a.基本的、初级的、基础的、原始的
 - rug n.小地毯、垫子
 - ruin n/v.破坏、毁灭、(使)堕落、糟蹋、破产、n.废墟、遗迹
 - rule n.规则、规定、章程、统治、支配、习惯、常规、v.控制、统治、支配、裁定、判决

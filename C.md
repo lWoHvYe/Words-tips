@@ -45,6 +45,7 @@
 - capsule [ˈkæpsjuːl] n.胶囊、太空舱、小塑料容器、封装体
 - captain n.船长、机长、上校、上尉、首领、队长
 - caption n.字幕、说明文字、v.加字幕
+- captivate v.迷住、使着迷
 - capture v.捕获、引起(注意力、兴起)、攻占、赢得、表达、刻画、描述、拍摄、把...输入计算机、n.捕获、俘获、占领
 - carbon [ˈkɑːbən] n.碳、复写纸、碳精电极、a.碳的
 - carbonate n.碳酸盐
@@ -148,6 +149,7 @@
 - cheer n/v.欢呼、加油、鼓舞
 - cheerleader n.(强有力的)支持者
 - cheese n.干酪、奶酪
+- chess n.国际象棋
 - chef [ʃef] n.厨师
 - chemical [ˈkemɪkl] a.化学的、n.化学药品  harmful chemicals 有害的化学物质
 - chemistry [ˈkemɪstri] n.化学
@@ -241,10 +243,12 @@
 - codify v.编撰、把...编成法典
 - coefficient [ˌkəʊɪˈfɪʃnt] n.系数
 - coerce [kəʊˈɜːs] v.强迫、胁迫、迫使、控制、限制
+- coercion [kəʊˈɜːʃn] n.自动类型转换、强制类型转换
+- coercive a.强制的、胁迫的、用武力的
 - coexistence n.共存、共处 co existence(存在、生存)
 - coffin [ˈkɒfɪn] n.棺材、棺木、v.收殓
 - cognition n.认知、感知
-- cognitive a.认知的、认识的、感知的
+- cognitive [ˈkɒɡnətɪv] a.认知的、认识的、感知的
 - cognize v.认识、认知
 - coherence n.连贯性、条理性
 - coherent a.连贯的、有条理的、有黏性的
@@ -282,7 +286,7 @@
 - comfort v.安慰、抚慰、n.舒适、安逸、安慰
 - comma n.逗号
 - commemorate [kəˈmeməreɪt] v.纪念、庆祝
-- commence 开始、着手、发源、获得学位
+- commence [kəˈmens] v.开始、着手、发源、获得学位
 - commend v.赞扬、称赞、受到赞同/认可
 - commensurate a.相等的、相称的、相当的
 - comment n.议论、评论、注释、意见、说明、v.表达意见
@@ -299,6 +303,7 @@
 - communicate v.沟通、交流、通讯、传达、传递
 - communist [ˈkɒmjənɪst] a.共产党的、共产主义的、n.共产主义者
 - community [kəˈmjuːnəti] n.社区、群落
+- commutative [kəˈmjuːtətɪv] a.交换的（排列次序不影响结果）
 - commute v.通勤、减刑、代偿、上下班往返、经常往返、n.上下班路程
 - compact n.契约、协定、协议、a.紧凑的、紧密的、袖珍的、v.压缩、压紧、压实
 - companion n.同伴、伴侣、旅伴、伙伴
@@ -321,9 +326,11 @@
 - complementary a.互补的、补充的
 - complete [kəmˈpliːt] v.完成、结束、使完整、使完美、填写、a.完全的、彻底的、完整的、完成了的
 - complex a.复杂的、难懂的、n.综合体、综合大楼、相关联的一组事物、不正常的精神状态、不正常的忧虑
+- complexity n.复杂性、难题、难懂
 - compliance [kəmˈplaɪəns] n.顺从、遵从、服从、合规、承诺、柔软度
 - compliant [kəmˈplaɪənt] a.顺从的、遵从的、符合的、一致的
 - complicate v.使复杂化、使恶化
+- complication n.并发症、困难、难题
 - compliment [ˈkɒmplɪmənt/ˈkɒmplɪment] n/v.称赞、赞扬、祝贺、恭维   present one's compliments 致意
 - complimentary a.免费的、赠送的
 - comply vi.顺从、服从、遵守、遵从、应允、同意  comply with 依从、遵从、顺从
@@ -370,6 +377,7 @@
 - conduit n.管道、导管
 - confer [kənˈfɜː(r)] v.参考、协商、授予、赋予
 - conference [ˈkɒnfərəns] n.会议、讨论、研讨会
+- confess v.坦白、承认、悔过
 - confidant [ˈkɒnfɪdænt] n.知己、密友
 - confide [kənˈfaɪd] v.倾诉、吐露
 - confidence n.信任、信赖、信心、私下、秘密、机密
@@ -454,7 +462,7 @@
 - continue v.持续、继续、连续、延伸
 - continuity [ˌkɒntɪˈnjuːəti] n.连续性、持续性、一致性  Continuity of Business - COB 灾备节点
 - continuous a.连续的、延绵的、反复的、频繁的    Continuous Integration/Continous Deployment CI/CD
-- contour n.外形、轮廓、等高线 
+- contour [ˈkɒntʊə(r)] n.外形、轮廓、等高线 
 - contra n.相反、对立面、抵消、prep.反对、与...相反、ad.反对、相反
 - contract n.合同、契约、v.签合同、缩小、感染
 - contraction n.收缩、缩写、痉挛
@@ -482,6 +490,7 @@
 - converse v.谈话、交谈、a.相反的、颠倒的
 - conversion [kənˈvɜːʃn] n.转换、兑换、皈依、附加得分
 - convert v.转变、转换、兑换
+- convex a.凸面的、凸出的
 - convey [kənˈveɪ] v.传送、输送、表达、传达
 - convict [kənˈvɪkt/ˈkɒnvɪkt] n.罪犯、v.定罪、宣判...有罪
 - conviction n.判罪、定罪、信念、确信、说服
@@ -533,6 +542,7 @@
 - counteract v.抵消、对抗
 - counterbalance n/v.(使)平衡、抵消
 - counterfeit [ˈkaʊntəfɪt] n.仿制品、伪造物、v.仿制、伪造、a.仿造的、假冒的 counterfeit coin 假币(硬币)
+- counterintuitive a.反直觉、违反直觉的
 - counterpart n.对应方、职位相当的人
 - counterparty n.对手方、合同的一方、合约对方、交易对方
 - couple n.对、一对、几个人、几件事物、夫妻、情侣、v.连接、结合、性交、交配   coupled耦合的 decoupled解耦合  a couple of 一些、几个、一对  the next couple of days 接下来的几天
@@ -544,6 +554,7 @@
 - covenant [ˈkʌvənənt] n.盟约、合约、契约、合同、v.立约、订立契约、订协定
 - cover v.掩蔽、遮盖、覆盖、涉及、(+cost) 支付(费用)、报道、给...上保险、n.封面、掩护、覆盖物、避难所
 - coverage n.覆盖、（所包含的）范围、规模、新闻报道
+- covet v.垂涎、觊觎ji yu
 - crack v.破裂、开裂、崩溃、瓦解、阻止、打击、n.裂纹、裂缝、爆裂声、噼啪声、重击
 - craft n.工艺、手艺、技巧、技能、v.精心制作
 - cramp [kræmp] n.抽筋、痉挛、a.受约束的、狭窄的
@@ -575,12 +586,14 @@
 - criticism [ˈkrɪtɪsɪzəm] n.批评、批判、评论文章、评论
 - criticize [ˈkrɪtɪsaɪz] v.批评、评论、指责、非难
 - cron n.时间单位，等于百万年
-- crop n.庄稼、作物、(谷类等的)一熟、一季收获(量)、v.有收成、种地  crop up 出现、发生
+- crop n.庄稼、作物、(谷类等的)一熟、一季收获(量)、v.裁剪、裁切（照片）、有收成、种地  crop up 出现、发生
 - crore [krɔː(r)] n.一千万
 - cross v.交叉、穿过、越过、横过、相交、使杂交、反驳、否定、n.叉字型记号、十字形记号、混合物、a.交叉的、易怒的、生气的
 - cross-cutting 跨部门、跨领域
+- crossover n.改变、转型、变化
 - crow n.乌鸦、v.啼叫、打鸣、欢呼
 - crowd n.人群、v.挤满、塞满、涌入
+- crown [kraʊn] n.王冠、花冠、v.为...加冕
 - crucial [ˈkruːʃl] a.关键的、至关重要的、关键性的
 - crude n.原油、石油、a.天然的、粗糙的、粗略的
 - cruel [ˈkruːəl] a.残忍的、残酷的、残暴的、冷酷的
@@ -597,6 +610,7 @@
 - cube n.立方体、立方、三次幂、下钻
 - cucumber [ˈkjuːkʌmbə(r)] n.黄瓜
 - cue n/v.暗示、提示
+- cuisine [kwɪˈziːn] n.烹饪、风味、饭菜、菜肴
 - culminate [ˈkʌlmɪneɪt] v.达到顶点、达到高潮
 - culmination n.高潮、巅峰、顶点、终点
 - culprit n.罪魁祸首、罪犯、肇事者

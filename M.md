@@ -64,6 +64,7 @@
 - massacre n/v.残杀、屠杀、惨败
 - massive a.大量的、大规模的、严重的、十分危急的、结实的
 - master n.主人、雇主、大师、硕士、v.精通、掌握、控制、a.熟练的、有技能的、最重要的
+- mastermind n/v.策划、谋划
 - masterpiece n.杰作、名著
 - match v.比赛、匹配、n.火柴
 - mate n.伙伴、朋友
@@ -141,6 +142,7 @@
 - metaphysics [ˌmetəˈfɪzɪks] n.形而上学、玄学
 - mete v.分配、给予
 - meter/metre 米、计、表、计量器、计量表、用仪表计量
+- meticulous [məˈtɪkjələs] a.一丝不苟的、细心的、小心翼翼的
 - metric [ˈmetrɪk] a.度量的、米制的、公制的、十进制的、n.度量标准、诗体、韵文、诗韵
 - metro n.地铁、大城市、大都市
 - metrology n.计量学、度量衡学
@@ -166,6 +168,7 @@
 - million n.百万
 - mime [maɪm] n.哑剧、默剧、v.假唱、表演哑剧
 - MIME - multipurpose Internet mail extension 多用Internet邮件扩展
+- mimic [ˈmɪmɪk] v.模仿  mimicking
 - mind v.介意、听从、关心、照看、n.头脑、大脑、思维方式、心思、记忆力  bring to mind (使)记起/回忆起  keep in mind 记住
 - mindedness n.思想、心思
 - mine pron.我的、n.矿、矿井、v.开矿、采矿
@@ -175,7 +178,7 @@
 - minister n.部长、大臣、公使、v.辅助、服侍、照顾
 - minor a.较小的、少数的、轻微的、次要的、未成年的、v.辅修、n.辅修课程、未成年人
 - minority n.少数、少数派、少数民族
-- minus [ˈmaɪnəs] n.减、减号、负号
+- minus [ˈmaɪnəs] n.减、减号、负号、负值
 - minute [ˈmɪnɪt/maɪˈnjuːt] n.分钟、一会儿、会议记录、摘要、v.将...记录在案、将...写入会议记录、a.极小的、微小的、细微的、详细的
 - mirror n.镜子、写照、v.反映、映照、反射
 - miscellaneous [ˌmɪsəˈleɪniəs] a.混杂的
@@ -225,6 +228,7 @@
 - Mondo (Italian 意大利语)蒙多、世界、问答
 - monetary a.货币的、金融的、财政的、钱的
 - monetize 赚钱、货币化
+- monger n.贩子、小贩
 - monitor n.监视器、显示屏、班长、监督员、v.监听、监控
 - monk n.和尚
 - mono [ˈmɒnəʊ] a.单声道的
@@ -254,7 +258,7 @@
 - mother n.母亲
 - motherboard n.主板
 - moth n.蛾、飞蛾
-- motion n.运动、行动、意图、动机、v.示意
+- motion [ˈməʊʃn] n.运动、行动、意图、动机、v.示意
 - motivate v.激励、刺激、促动、激发、诱导、成为...的动机
 - motivation n.动机、诱因
 - motive n.动机、原因、目的、促使、a.动机的、发动的、运动的
@@ -279,7 +283,7 @@
 - musician n.音乐家
 - mutable [ˈmjuːtəbl] a.可变的、会变的
 - mutate [mjuːˈteɪt] v.变异、突变、转变、转换
-- mutator [mju(ː)ˈteɪtə] n.变换器、整流器
+- mutator [mju(ː)ˈteɪtə] n.变换器、整流器、增变基因、突变子
 - multicast 多播、多点传送
 - multilateral a.多方面的、多国的、多边的
 - multiple [ˈmʌltɪpl] n.倍数、a.数量多的、多种多样的

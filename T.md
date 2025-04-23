@@ -12,6 +12,7 @@
 - takeout n.外卖店、外卖餐馆  take out拿出、取出 Takeout & Distribution 外卖与配送
 - talent n.才能、人才、天赋、天才
 - talk n/v.说话、谈话  talk of 谈论、谈及
+- tamper v.篡改
 - tangent [ˈtændʒənt] n.切线、正切
 - tangle n.混乱、纠纷、v.使缠结、乱作一团
 - tangible [ˈtændʒəbl] a.有形的、真实的、实际的、可感知的、n.有形资产
@@ -20,6 +21,7 @@
 - tape n.带子、磁带、胶带、卷尺、v.录音、用胶带粘住
 - tar n.尼古丁、焦油
 - target n.目标、目标对象、v.以...为目标、把...选做目标
+- tariff [ˈtærɪf] n.关税、v.征收关税
 - taste n.味道、滋味、味觉、体验、感受、风味、鉴赏力、审美力、兴趣、爱好、v.尝、品尝、体验、领略、经历
 - tasty a.美味的、可口的
 - tax n.税收、负担、v.对...征税、使纳税、使负重担、使受压力
@@ -39,7 +41,7 @@
 - telegram n.电报
 - telegraph n.电报、v.打电报、用电报发送
 - telegraphy n.电报通讯技术
-- telemetry n.遥测、遥感勘测
+- telemetry [təˈlemətri] n.遥测、遥感勘测
 - teleology n.目的论
 - telescope n.望远镜
 - teletype n.电传打字机  tty 终端
@@ -92,7 +94,7 @@
 - theatre n.剧院、剧场、露天剧场、演出、上演
 - theft 盗窃、偷窃、赃物
 - theme n.题目、主题、题材、议题、主旋律、a.主题...
-- then n.那时、a.当时的、那时的、ad.然后、当时、那时、既然如此
+- then [ðen] n.那时、a.当时的、那时的、ad.然后、当时、那时、既然如此
 - theorem n.(数学)定理、公理、定律、法则
 - theoretical a.理论的、理论上的
 - theory n.理论、原理、学说、推测
@@ -135,7 +137,7 @@
 - tier n.层、级、阶层、等级、v.层层排列、层叠
 - tight a.牢固的、紧的、紧张的、严格的、紧密的、紧身的、亲密的、n.紧身衣
 - tighten v.收紧
-- tile n.瓷砖
+- tile n.瓷砖、瓦片、v.铺砖、平铺显示
 - till prep./conj.直到...为止
 - tilt v.倾斜、倾向  pan tilt 云台
 - timber n.木材、树木
@@ -147,6 +149,7 @@
 - tire n.轮胎、头饰、v.疲劳、疲倦  have a flat tire 轮胎漏气了、爆胎
 - tissue [ˈtɪʃuː] n.(人、动植物的)组织、纸巾、薄纸
 - title n.标题、头衔、职称、称号、(书刊的)一本、(土地或财产的)所有权、v.加标题、赋予头衔
+- titanium [tɪˈteɪniəm] n.钛
 - toast 干杯、吐司、敬酒、祝酒、广受赞誉的人、为...干杯、把...烤的焦黄、烤火、取暖
 - tobacco [təˈbækəʊ] n.烟草
 - toddle v.蹒跚行走
@@ -157,6 +160,7 @@
 - tolerant a.容忍的、宽容的、能耐...的
 - tolerate v.容许、允许、容忍
 - toll n.通行费、伤亡人数、毁坏、钟声、长途电话费、v.敲(钟)、鸣(钟)、向...征收捐税  toll on 对...产生严重影响  Electronic Toll Collection - ETC 电子不停车收费系统
+- etc. [ˌet ˈsetərə] addr.等等
 - tomb 坟墓、冢、埋葬
 - tombstone n.墓碑、墓石
 - tone n.语气、语调、(肌肉)张力、[画]色调、色泽、[乐]乐音、全音程、v.与...协调、与...相配
@@ -201,7 +205,7 @@
 - transcendence n.卓越、杰出、极其伟大
 - transcribe v.转录、抄写、改编
 - transcript 成绩单、抄本、誉本、打印本、剧本
-- transducer 传感器、变频器
+- transducer [trænzˈdjuːsə(r)] 传感器、变频器
 - transfer v.使转移、转让、调动、改变、换乘、转存、转录、n.变换、转移
 - transform v.变换、转换、改变、改观
 - transient [ˈtrænziənt] a.短暂的、暂时的、临时的、过往的、n.过往旅客、临时工
@@ -209,6 +213,7 @@
 - transit n.运输、中转、过境、交通运输系统、v.经过、穿过
 - transition [trænˈzɪʃn] n.过渡、转变、变革、变迁
 - transitive 过渡的、转变的、及物的、及物动词
+- transitory [ˈtrænzətri] a.短暂的、片刻的、暂时的
 - translate v.翻译、转化、解释、转变、变为
 - translator n.翻译、翻译家、译员
 - transmit [trænzˈmɪt] v.传输、传送、传播、传导、传染、发射
@@ -242,12 +247,14 @@
 - trip n/v.旅行、摔倒、绊倒、错误、过失
 - triple a.三倍的、三方的、三重的、v.增至三倍、n.三元组
 - triumph [ˈtraɪʌmf] n/v.胜利、得胜
-- trivial a.不重要的、琐碎的、微不足道的、平凡的  trivial issues 琐碎的问题
+- trivial [ˈtrɪviəl] a.不重要的、琐碎的、微不足道的、平凡的  trivial issues 琐碎的问题
 - triviality n.琐事
+- troll n.山精、恶意挑衅的帖子、发挑衅帖子的人
 - troop n.部队、军队、一群、一队
 - troupe [truːp] n.剧团、表演团、v.巡回演出
 - trove n.发掘出来的财宝
 - truck [trʌk] n.卡车
+- true [truː] 真的
 - truffle n.松露、块菌
 - trump n.王牌、v.胜过、打败
 - trumpet [ˈtrʌmpɪt] n.喇叭、小号、v.吹嘘、鼓吹

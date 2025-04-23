@@ -110,7 +110,7 @@
 - enlarge v.扩大、放大、扩充
 - enlighten v.启发、启迪、开导
 - enlist [ɪnˈlɪst] v.征集、征募
-- enormous a.巨大的、庞大的、极大的
+- enormous [ɪˈnɔːməs] a.巨大的、庞大的、极大的
 - enrage v.激怒、触怒
 - enrich v.充实、使富足、使变肥沃
 - enrichment 丰富、充实、改进、肥沃
@@ -193,6 +193,8 @@
 - ethically ad.道德上、伦理上
 - ethnic a.民族的、种族的、n.少数民族的人
 - etiquette [ˈetɪkət] n.礼仪、礼节
+- Euclidean 欧几里得
+- Euler 欧拉
 - euro [ˈjʊərəʊ] € 欧元
 - evacuation 疏散、撤离、撤退、搬空
 - evade v.规避、躲避、逃避、避开
@@ -288,6 +290,7 @@
 - express v.表达、表示、a.特快的、快速的、明确的、n.特快列车、快递服务
 - expression n.表达、表示、脸色、表情、态度、措辞、表达方式、符号、词句、语句、表达式
 - expressive a.有表现力的、富于表情的
+- expunge v.除去、删去、擦掉、消除
 - exquisite [ɪkˈskwɪzɪt] a.精美的、精致的
 - extend v.扩展、延伸、延长、使延期、适用于、涉及、提供  extend the deadline 延长最后期限
 - extent n.程度、限度、大小、面积、范围  to a great extent 在很大程度上
@@ -297,7 +300,7 @@
 - external [ɪkˈstɜːnl] a.外面的、外部的、n.外面、外部、外观  external impact 外在影响  external sources 外部来源
 - externalize 外化、表达
 - extinct [ɪkˈstɪŋkt] a.灭绝的、绝种的
-- extra a.额外的、附加的、ad.额外、另外
+- extra [ˈekstrə] a.额外的、附加的、ad.额外、另外
 - extract [ˈekstrækt/ɪkˈstrækt] v.摘录、提取、选取、拔出、n.提炼物、浓缩物、摘录
 - extraction n.取出、提炼、血统、家世
 - extranet n.外联网、外部网络

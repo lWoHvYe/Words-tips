@@ -78,6 +78,7 @@
 - novelist n.小说家
 - novice [ˈnɒvɪs] n.新手、初学者
 - noxious a.有毒的、有害的
+- NP - Non-deterministic Polynomial 非确定性多项式时间问题
 - nuclear [ˈnjuːkliə(r)] a.原子能的、核能的、核心的、中心的、n.核武器、有核国  nuclear power 核能  nuclear station 核电站  nuclear power plant 核电站
 - nudge [nʌdʒ] n/v.轻推、推动、鼓励
 - nuisance n.讨厌的人或东西、麻烦事、妨害行为

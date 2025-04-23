@@ -6,6 +6,7 @@
 - dammit [dæmɪt] int.该死的、真他妈的
 - damn [dæm] v.该死、谴责、a.完全的、十足的、可恶的、ad.非常、及其
 - damp a.潮湿的、湿气重的、n.潮湿、湿气
+- dangle [ˈdæŋɡl] n/v.悬挂、悬空
 - data n.数据
 - date n.日期、年代、约会、v.注明日期、确定年代、与某人约会  out of date 过时的  up to date 最新的、时髦的、新式的  date back to 追溯到...年代
 - datum [ˈdeɪtəm] n.数据、资料  pl.data
@@ -40,11 +41,13 @@
 - decrease n/v.降低、减少、n.减少量
 - dedicate vt.奉献、献身、为...举行落成典礼
 - dedicated (过去式及过去分词)献身的、专用的、专注的、把...奉献给、题献词
-- deduce v.推论、推断、演绎  deduce a numerical sequence 推导一个数列
+- deduce v.推论、推断、演绎、推演  deduce a numerical sequence 推导一个数列
 - deduct v.扣除、扣减、减去
 - deduction n.演绎、推论、扣除(额)、减去(数)
 - deed n.行为、行动、契约、证书
 - deem v.认为、视为、相信
+- deep a.深的
+- deepen v.加深、加浓、变浓
 - default n/v.默认、违约、不履行义务
 - defeat n/v.战胜、击败、挫败
 - defect n.缺点、缺陷、瑕疵
@@ -82,6 +85,7 @@
 - delinquent a.有违法倾向的、拖欠债务的、n.少年罪犯、流氓
 - deliver v.传送、交付、发表、宣布、履行、兑现
 - delivery n.传送、交付、投递、分娩
+- deluxe a.豪华的、高级的
 - demand n/v.需要、要求、请求、需求
 - demarcate [ˈdiːmɑːkeɪt] v.标定、界定、划界
 - demilitarize [ˌdiːˈmɪlɪtəraɪz] v.使非军事化、从...撤军  
@@ -120,11 +124,12 @@
 - deprive v.剥夺、使丧失、使不能享有
 - depute v.委托、将...交给某人、委派...为代表
 - deputy n.代表、副手、代理人、a.副的、代理的  deputy chiefs 副主管
-- derivation n.引导、导出、衍生、起源、派生
+- derivation [ˌderɪˈveɪʃn] n.引导、导出、衍生、起源、派生
 - derivative n.派生词、衍生物、衍生品、导数、微商、a.衍生的、导出的
 - derive v.得到、获得、起源于、产生、提取、派生
 - descend [dɪˈsend] v.下降、降临、沦落
 - descendant n.后裔、后代、派生物
+- descent n.下降、倾斜
 - describe v.叙述、描写、形容、描绘
 - descriptor n.描述符
 - desert n.沙漠、v.抛弃、遗弃
@@ -141,7 +146,7 @@
 - despite prep.即使、尽管
 - destination n.目的地、终点
 - destiny [ˈdestəni] n.命运、天数、天命
-- destroy v.破坏、毁坏、摧毁、消灭
+- destroy [dɪˈstrɔɪ] v.破坏、毁坏、摧毁、消灭
 - destruct v.破坏、毁坏、a.破坏的
 - destruction n.摧毁、毁灭、破坏
 - destructive a.破坏(性)的、毁灭(性)的
@@ -182,7 +187,7 @@
 - die [daɪ] v.死亡、凋零、消灭、灭亡、n.模具、冲模、压模  die out 灭绝、逐渐消失  die down 减弱、逐渐平息
 - diet 日常饮食、规定饮食、节制饮食
 - difference n.差别、差异、差数、差额
-- difficult a.困难的、艰难的、麻烦的
+- difficult a.困难的、艰难的、麻烦的  due to my difficulty walking 因为走路有一些困难
 - diffuse a.弥漫的、扩散的、难解的、冗长的、v.传播、普及、弥漫、扩散、宣泄、舒缓
 - dig v.挖掘、n.轻碰、嘲讽、挖苦
 - digest v.消化、领会、领悟、理解、n.摘要、文摘、汇编
@@ -225,7 +230,7 @@
 - discourse n.论文、演讲、v.演讲、讲述、叙述、讨论
 - discover v.发现、发觉、撞见、碰见、了解到、认识到
 - discrepancy [dɪsˈkrepənsi] n.矛盾、差异、不符合、不一致
-- discrete a.离散的、分离的
+- discrete [dɪˈskriːt] a.离散的、分离的
 - discretion 慎重、考虑周到、判断力、自行决定的自由
 - discretionary a.任意的、自由决定的
 - discriminate v.歧视、区别、辨别、a.有区别的  discriminate against 区别对待、歧视  
@@ -302,6 +307,7 @@
 - dome [dəʊm] n.穹顶、圆屋顶、圆顶状物、v.加圆屋顶于...上
 - domestic a.本国的、国内的、家用的、家庭的、驯养的、n.佣人、家庭纠纷、家庭矛盾  Gross Dometic Product GDP 国内生产总值
 - domicile [ˈdɑːmɪsaɪl] 住所、定居地、所在地
+- dominance n.支配、控制、支配地位
 - dominant [ˈdɒmɪnənt] a.占优势的、主导的、支配的、统治的
 - dominate [ˈdɒmɪneɪt] v.支配、控制、影响、占优势、占主动
 - donate v.捐赠、捐献
@@ -327,7 +333,7 @@
 - drama [ˈdrɑːmə] n.戏剧、剧本、戏剧效果
 - dramatic [drəˈmætɪk] a.戏剧性的、引人注目的、巨大的、突然的
 - dramatize v.使戏剧化、将...改编成剧本、使引人注目
-- drastic a.激烈的、猛烈的、极端的、严厉的、彻底的  drastic change 剧变
+- drastic [ˈdræstɪk] a.激烈的、猛烈的、极端的、严厉的、彻底的  drastic change 剧变
 - draw v.绘画、拖、拉、吸引、提取、抽出、抽签、n.抽奖、抽签、平局
 - drawback 缺点、劣势、不利条件、退税
 - drawn a.憔悴的、苍白的
